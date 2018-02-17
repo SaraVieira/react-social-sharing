@@ -8,7 +8,7 @@ import {
 import links from './consts';
 
 
-const Facebook = SharingButton.extend`
+const Google = SharingButton.extend`
   background-color: #dd4b39;
   border-color: #dd4b39;
 
@@ -21,7 +21,7 @@ const Facebook = SharingButton.extend`
 
 export default ({ small, solid, link, medium, big, circle, solidcircle }) => (
   <Link href={links.google(link)} target="_blank" aria-label="">
-    <Facebook small={small} solidcircle={solidcircle}>
+    <Google small={small} solidcircle={solidcircle}>
       <Icon solid={solid} solidcircle={solidcircle} aria-hidden="true">
         {solid && small ? <GoogleIconFill /> : null}
         {solid && medium ? <Fragment>
@@ -34,6 +34,6 @@ export default ({ small, solid, link, medium, big, circle, solidcircle }) => (
         {(solidcircle || circle) && big ? <Fragment>
           <GoogleIconCircle /> Share on Google+ </Fragment> : null}
       </Icon>
-    </Facebook>
+    </Google>
   </Link>
 )

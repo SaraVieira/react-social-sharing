@@ -33,6 +33,12 @@ const pages = [
     path: '/google',
     title: 'Google Plus',
     content: pageLoader(() => import('./google.md'))
+  },
+  {
+    imports: { Tumblr: require('../src/index').Tumblr },
+    path: '/tumblr',
+    title: 'Tumblr',
+    content: pageLoader(() => import('./tumblr.md'))
   }
 ]
 
