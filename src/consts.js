@@ -16,6 +16,10 @@ export default {
     `whatsapp://send?text=${encodeURIComponent(message)}%20${encodeURIComponent(
       link
     )}`,
+  vk: (message, link) =>
+    `http://vk.com/share.php?title=${encodeURIComponent(
+      message
+    )}&amp;url=${encodeURIComponent(link)}`,
   hacker: (message, link) =>
     `https://news.ycombinator.com/submitlink?u=${encodeURIComponent(
       link

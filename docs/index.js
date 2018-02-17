@@ -79,6 +79,12 @@ const pages = [
     path: '/hacker',
     title: 'Hacker News',
     content: pageLoader(() => import('./hacker.md'))
+  },
+  {
+    imports: { VK: require('../src/index').VK },
+    path: '/vk',
+    title: 'VK',
+    content: pageLoader(() => import('./vk.md'))
   }
 ]
 

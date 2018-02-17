@@ -10,5 +10,6 @@ module.exports = {
   Reddit: require('./reddit').default,
   Xing: require('./xing').default,
   Whatsapp: require('./whatsapp').default,
-  HackerNews: require('./hacker').default
+  HackerNews: require('./hacker').default,
+  VK: require('./vk').default
 }
