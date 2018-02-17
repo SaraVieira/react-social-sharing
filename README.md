@@ -3,6 +3,7 @@
 # React Sharing Buttons
 
 React Implementation of @mxstbr [sharingbuttons.io](http://sharingbuttons.io/)
+No Extra Javascript Imports. No Tracking. Just Links, SVG and CSS
 
 ## Basic Usage
 

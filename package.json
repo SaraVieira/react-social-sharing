@@ -15,7 +15,6 @@
     "dist:modules": "del-cli ./dist-modules && cross-env BABEL_ENV=modules babel ./src --out-dir ./dist-modules",
     "preversion": "npm run test",
     "prepublishOnly": "npm run dist:es6 && npm run dist:modules",
-    "postpublish": "npm run gh-pages && npm run gh-pages:deploy",
     "postinstall": "node lib/post_install.js",
     "format": "prettier --write '**/*.{js,css,md}'",
     "precommit": "lint-staged"
