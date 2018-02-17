@@ -12,6 +12,10 @@ export default {
       link
     )}`,
   reddit: link => `https://reddit.com/submit/?url=${encodeURIComponent(link)}`,
+  whatsapp: (message, link) =>
+    `whatsapp://send?text=${encodeURIComponent(message)}%20${encodeURIComponent(
+      link
+    )}`,
   xing: (message, link) =>
     `https://www.xing.com/app/user?op=share;url=${encodeURIComponent(
       link

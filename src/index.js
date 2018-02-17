@@ -8,5 +8,6 @@ module.exports = {
   Pinterest: require('./pinterest').default,
   Linkedin: require('./linkedin').default,
   Reddit: require('./reddit').default,
-  Xing: require('./xing').default
+  Xing: require('./xing').default,
+  Whatsapp: require('./whatsapp').default
 }

@@ -67,6 +67,12 @@ const pages = [
     path: '/xing',
     title: 'Xing',
     content: pageLoader(() => import('./xing.md'))
+  },
+  {
+    imports: { Whatsapp: require('../src/index').Whatsapp },
+    path: '/whatsapp',
+    title: 'Whatsapp',
+    content: pageLoader(() => import('./whatsapp.md'))
   }
 ]
 
