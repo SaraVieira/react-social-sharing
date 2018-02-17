@@ -1,4 +1,4 @@
-[![build status](https://secure.travis-ci.org/survivejs/react-component-boilerplate.svg)](http://travis-ci.org/survivejs/react-component-boilerplate) [![bitHound Score](https://www.bithound.io/github/survivejs/react-component-boilerplate/badges/score.svg)](https://www.bithound.io/github/survivejs/react-component-boilerplate) [![Dependency Status](https://david-dm.org/survivejs/react-component-boilerplate.svg)](https://david-dm.org/survivejs/react-component-boilerplate)
+[![build status](https://secure.travis-ci.org/SaraVieira/react-social-sharing.svg)](http://travis-ci.org/SaraVieira/react-social-sharing) [![bitHound Score](https://www.bithound.io/github/SaraVieira/react-social-sharing/badges/score.svg)](https://www.bithound.io/github/SaraVieira/react-social-sharing) [![Dependency Status](https://david-dm.org/SaraVieira/react-social-sharing.svg)](https://david-dm.org/SaraVieira/react-social-sharing)
 
 # react-component-boilerplate - Boilerplate for React.js components
 
@@ -8,7 +8,7 @@ This is a simple boilerplate that has been developed to make it easier to develo
 
 ## Basic Usage
 
-Clone the repo : `git clone https://github.com/survivejs/react-component-boilerplate my-component`.
+Clone the repo : `git clone https://github.com/SaraVieira/react-social-sharing my-component`.
 
 To get started with fresh history, do this:
 
