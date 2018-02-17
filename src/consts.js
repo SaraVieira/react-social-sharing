@@ -16,6 +16,10 @@ export default {
     `whatsapp://send?text=${encodeURIComponent(message)}%20${encodeURIComponent(
       link
     )}`,
+  telegram: (link, message) =>
+    `https://telegram.me/share/url?text=${encodeURIComponent(
+      message
+    )}&amp;url=${encodeURIComponent(link)}`,
   vk: (message, link) =>
     `http://vk.com/share.php?title=${encodeURIComponent(
       message

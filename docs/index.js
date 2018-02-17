@@ -85,6 +85,12 @@ const pages = [
     path: '/vk',
     title: 'VK',
     content: pageLoader(() => import('./vk.md'))
+  },
+  {
+    imports: { Telegram: require('../src/index').Telegram },
+    path: '/telegram',
+    title: 'Telegram',
+    content: pageLoader(() => import('./telegram.md'))
   }
 ]
 

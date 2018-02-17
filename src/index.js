@@ -11,5 +11,6 @@ module.exports = {
   Xing: require('./xing').default,
   Whatsapp: require('./whatsapp').default,
   HackerNews: require('./hacker').default,
-  VK: require('./vk').default
+  VK: require('./vk').default,
+  Telegram: require('./telegram').default
 }
