@@ -20,5 +20,13 @@ export default {
       link
     )}&amp;media=${encodeURIComponent(
       link
-    )}&amp;description=${encodeURIComponent(message)}`
+    )}&amp;description=${encodeURIComponent(message)}`,
+  linkedin: (message, link) =>
+    `https://www.linkedin.com/shareArticle?mini=true&amp;url=${encodeURIComponent(
+      link
+    )}&amp;title=${encodeURIComponent(
+      message
+    )}.&amp;summary=${encodeURIComponent(
+      message
+    )}.&amp;source=${encodeURIComponent(link)}`
 }

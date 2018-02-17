@@ -7,8 +7,6 @@ import { Catalog, CodeSpecimen, ReactSpecimen, pageLoader } from 'catalog'
 import 'purecss/build/pure.css'
 import './main.css'
 
-// Add your documentation imports here. These are available to
-// React specimen. Do NOT pass React here as Catalog does that.
 const documentationImports = {}
 const pages = [
   {
@@ -51,10 +49,15 @@ const pages = [
     path: '/pinterest',
     title: 'Pinterest',
     content: pageLoader(() => import('./pinterest.md'))
+  },
+  {
+    imports: { Linkedin: require('../src/index').Linkedin },
+    path: '/linkedin',
+    title: 'Linkedin',
+    content: pageLoader(() => import('./linkedin.md'))
   }
 ]
 
-// Catalog - logoSrc="../images/logo.png"
 ReactDOM.render(
   <div>
     <GithubCorner
@@ -73,7 +76,7 @@ ReactDOM.render(
         js: props => <CodeSpecimen {...props} lang="javascript" />,
         jsx: props => <ReactSpecimen {...props} />
       }}
-      title="React Social Sharing Icons"
+      title="React Social Sharing Buttons"
     />
   </div>,
   document.getElementById('catalog')
