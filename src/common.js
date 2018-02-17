@@ -1,12 +1,11 @@
-import styled, { css } from 'styled-components';
-import is, { isOr } from 'styled-is';
-
+import styled, { css } from 'styled-components'
+import is, { isOr } from 'styled-is'
 
 export const SharingButton = styled.div`
   border-radius: 5px;
   transition: 25ms ease-out;
   padding: 0.5em 0.75em;
-  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 
   & svg {
     width: 1em;
@@ -20,7 +19,7 @@ export const SharingButton = styled.div`
       margin: 0;
       vertical-align: middle;
     }
-  `}
+  `};
 `
 
 export const Link = styled.a`
@@ -34,8 +33,8 @@ export const Icon = styled.div`
   stroke: #fff;
   fill: none;
 
-  ${isOr('solid', 'solidcircle') `
+  ${isOr('solid', 'solidcircle')`
     fill: #fff;
     stroke: none
-  `}
+  `};
 `
