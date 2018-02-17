@@ -1,7 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Reddit 1 1`] = `
-<Component
+<Button
   big={true}
   link="http://sharingbuttons.io"
   solidcircle={true}
@@ -63,11 +63,11 @@ exports[`Reddit 1 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Reddit 2 1`] = `
-<Component
+<Button
   link="http://sharingbuttons.io"
   medium={true}
   solidcircle={true}
@@ -129,11 +129,11 @@ exports[`Reddit 2 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Reddit 3 1`] = `
-<Component
+<Button
   link="http://sharingbuttons.io"
   small={true}
   solidcircle={true}
@@ -195,11 +195,11 @@ exports[`Reddit 3 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Reddit 4 1`] = `
-<Component
+<Button
   big={true}
   circle={true}
   link="http://sharingbuttons.io"
@@ -276,11 +276,11 @@ exports[`Reddit 4 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Reddit 5 1`] = `
-<Component
+<Button
   circle={true}
   link="http://sharingbuttons.io"
   medium={true}
@@ -357,11 +357,11 @@ exports[`Reddit 5 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Reddit 6 1`] = `
-<Component
+<Button
   circle={true}
   link="http://sharingbuttons.io"
   small={true}
@@ -438,11 +438,11 @@ exports[`Reddit 6 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Reddit 7 1`] = `
-<Component
+<Button
   big={true}
   link="http://sharingbuttons.io"
   solid={true}
@@ -488,11 +488,11 @@ exports[`Reddit 7 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Reddit 8 1`] = `
-<Component
+<Button
   link="http://sharingbuttons.io"
   medium={true}
   solid={true}
@@ -538,11 +538,11 @@ exports[`Reddit 8 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Reddit 9 1`] = `
-<Component
+<Button
   link="http://sharingbuttons.io"
   small={true}
   solid={true}
@@ -588,5 +588,5 @@ exports[`Reddit 9 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;

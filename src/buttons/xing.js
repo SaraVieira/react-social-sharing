@@ -5,9 +5,9 @@ import {
   XingIconFill,
   XingIconCircle,
   XingIconCircleSolid
-} from './svg/xing.js'
-import { SharingButton, Link, Icon } from './common'
-import links from './consts'
+} from '../svg/xing.js'
+import { SharingButton, Link, Icon } from '../common'
+import links from '../consts'
 
 const Xing = SharingButton.extend`
   background-color: #1a7576;
@@ -20,7 +20,7 @@ const Xing = SharingButton.extend`
   }
 `
 
-export default ({
+const Button = ({
   small,
   solid,
   link,
@@ -32,7 +32,11 @@ export default ({
 }) => (
   <Link href={links.xing(message, link)} target="_blank" aria-label="">
     <Xing small={small}>
-      <Icon solid={solid} solidcircle={solidcircle} aria-hidden="true">
+      <Icon
+        solid={(!solid && !circle && !solidcircle) || solid}
+        solidcircle={solidcircle}
+        aria-hidden="true"
+      >
         {solid && small ? <XingIconFill /> : null}
         {solid && medium ? (
           <Fragment>
@@ -66,7 +70,12 @@ export default ({
             <XingIconCircleSolid /> Share on Xing{' '}
           </Fragment>
         ) : null}
+        {!solid && !circle && !solidcircle ? <XingIconFill /> : null}
+
+        {!big && !small && !medium ? <Fragment> Xing </Fragment> : null}
       </Icon>
     </Xing>
   </Link>
 )
+
+export default Button

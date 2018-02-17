@@ -1,7 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Facebook 1 1`] = `
-<Component
+<Button
   big={true}
   link="http://sharingbuttons.io"
   message="I am so cool"
@@ -55,11 +55,11 @@ exports[`Facebook 1 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Facebook 2 1`] = `
-<Component
+<Button
   link="http://sharingbuttons.io"
   medium={true}
   message="I am so cool"
@@ -113,11 +113,11 @@ exports[`Facebook 2 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Facebook 3 1`] = `
-<Component
+<Button
   link="http://sharingbuttons.io"
   message="I am so cool"
   small={true}
@@ -170,11 +170,11 @@ exports[`Facebook 3 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Facebook 4 1`] = `
-<Component
+<Button
   big={true}
   circle={true}
   link="http://sharingbuttons.io"
@@ -225,11 +225,11 @@ exports[`Facebook 4 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Facebook 5 1`] = `
-<Component
+<Button
   circle={true}
   link="http://sharingbuttons.io"
   medium={true}
@@ -280,11 +280,11 @@ exports[`Facebook 5 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Facebook 6 1`] = `
-<Component
+<Button
   circle={true}
   link="http://sharingbuttons.io"
   message="I am so cool"
@@ -335,11 +335,11 @@ exports[`Facebook 6 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Facebook 7 1`] = `
-<Component
+<Button
   big={true}
   link="http://sharingbuttons.io"
   message="I am so cool"
@@ -386,11 +386,11 @@ exports[`Facebook 7 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Facebook 8 1`] = `
-<Component
+<Button
   link="http://sharingbuttons.io"
   medium={true}
   message="I am so cool"
@@ -437,11 +437,11 @@ exports[`Facebook 8 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Facebook 9 1`] = `
-<Component
+<Button
   link="http://sharingbuttons.io"
   message="I am so cool"
   small={true}
@@ -488,5 +488,5 @@ exports[`Facebook 9 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;

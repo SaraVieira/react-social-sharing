@@ -1,3 +1,15 @@
+# Import
+
+```
+import { Reddit } from 'react-social-sharing'
+```
+
+# Use
+
+```react
+<Reddit link="http://sharingbuttons.io"/>
+```
+
 ```react
 <Reddit solidcircle big link="http://sharingbuttons.io"/>
 ```

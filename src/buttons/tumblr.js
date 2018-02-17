@@ -1,9 +1,9 @@
 import React, { Fragment } from 'react'
 import styled from 'styled-components'
 import is from 'styled-is'
-import { TumblrIconFill, TumblrIconCircle } from './svg/tumblr.js'
-import { SharingButton, Link, Icon } from './common'
-import links from './consts'
+import { TumblrIconFill, TumblrIconCircle } from '../svg/tumblr.js'
+import { SharingButton, Link, Icon } from '../common'
+import links from '../consts'
 
 const Tumblr = SharingButton.extend`
   background-color: #35465c;
@@ -16,10 +16,14 @@ const Tumblr = SharingButton.extend`
   }
 `
 
-export default ({ small, solid, link, medium, big, circle, solidcircle }) => (
+const Button = ({ small, solid, link, medium, big, circle, solidcircle }) => (
   <Link href={links.tumblr(link)} target="_blank" aria-label="">
     <Tumblr small={small}>
-      <Icon solid={solid} solidcircle={solidcircle} aria-hidden="true">
+      <Icon
+        solid={(!solid && !circle && !solidcircle) || solid}
+        solidcircle={solidcircle}
+        aria-hidden="true"
+      >
         {solid && small ? <TumblrIconFill /> : null}
         {solid && medium ? (
           <Fragment>
@@ -42,7 +46,12 @@ export default ({ small, solid, link, medium, big, circle, solidcircle }) => (
             <TumblrIconCircle /> Share on Tumblr{' '}
           </Fragment>
         ) : null}
+        {!solid && !circle && !solidcircle ? <TumblrIconFill /> : null}
+
+        {!big && !small && !medium ? <Fragment> Tumblr </Fragment> : null}
       </Icon>
     </Tumblr>
   </Link>
 )
+
+export default Button

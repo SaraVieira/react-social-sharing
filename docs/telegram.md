@@ -1,3 +1,15 @@
+# Import
+
+```
+import { Telegram } from 'react-social-sharing'
+```
+
+# Use
+
+```react
+<Telegram link="http://sharingbuttons.io"/>
+```
+
 ```react
 <Telegram solidcircle big message="share on Telegram" link="http://sharingbuttons.io"/>
 ```

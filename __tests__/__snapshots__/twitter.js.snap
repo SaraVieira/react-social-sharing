@@ -1,7 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Twitter 1 1`] = `
-<Component
+<Button
   big={true}
   link="http://sharingbuttons.io"
   message="I am so cool"
@@ -48,11 +48,11 @@ exports[`Twitter 1 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Twitter 2 1`] = `
-<Component
+<Button
   link="http://sharingbuttons.io"
   medium={true}
   message="I am so cool"
@@ -99,11 +99,11 @@ exports[`Twitter 2 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Twitter 3 1`] = `
-<Component
+<Button
   link="http://sharingbuttons.io"
   message="I am so cool"
   small={true}
@@ -150,11 +150,11 @@ exports[`Twitter 3 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Twitter 4 1`] = `
-<Component
+<Button
   big={true}
   circle={true}
   link="http://sharingbuttons.io"
@@ -200,11 +200,11 @@ exports[`Twitter 4 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Twitter 5 1`] = `
-<Component
+<Button
   circle={true}
   link="http://sharingbuttons.io"
   medium={true}
@@ -250,11 +250,11 @@ exports[`Twitter 5 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Twitter 6 1`] = `
-<Component
+<Button
   circle={true}
   link="http://sharingbuttons.io"
   message="I am so cool"
@@ -300,11 +300,11 @@ exports[`Twitter 6 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Twitter 7 1`] = `
-<Component
+<Button
   big={true}
   link="http://sharingbuttons.io"
   message="I am so cool"
@@ -351,11 +351,11 @@ exports[`Twitter 7 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Twitter 8 1`] = `
-<Component
+<Button
   link="http://sharingbuttons.io"
   medium={true}
   message="I am so cool"
@@ -402,11 +402,11 @@ exports[`Twitter 8 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Twitter 9 1`] = `
-<Component
+<Button
   link="http://sharingbuttons.io"
   message="I am so cool"
   small={true}
@@ -453,5 +453,5 @@ exports[`Twitter 9 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;

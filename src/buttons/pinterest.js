@@ -5,9 +5,9 @@ import {
   PinterestIconFill,
   PinterestIconCircle,
   PinterestIconCircleSolid
-} from './svg/pinterest.js'
-import { SharingButton, Link, Icon } from './common'
-import links from './consts'
+} from '../svg/pinterest.js'
+import { SharingButton, Link, Icon } from '../common'
+import links from '../consts'
 
 const Pinterest = SharingButton.extend`
   background-color: #bd081c;
@@ -20,7 +20,7 @@ const Pinterest = SharingButton.extend`
   }
 `
 
-export default ({
+const Button = ({
   small,
   solid,
   message,
@@ -32,7 +32,11 @@ export default ({
 }) => (
   <Link href={links.pinterest(message, link)} target="_blank" aria-label="">
     <Pinterest small={small}>
-      <Icon solid={solid} solidcircle={solidcircle} aria-hidden="true">
+      <Icon
+        solid={(!solid && !circle && !solidcircle) || solid}
+        solidcircle={solidcircle}
+        aria-hidden="true"
+      >
         {solid && small ? <PinterestIconFill /> : null}
         {solid && medium ? (
           <Fragment>
@@ -66,7 +70,12 @@ export default ({
             <PinterestIconCircleSolid /> Share on Pinterest{' '}
           </Fragment>
         ) : null}
+        {!solid && !circle && !solidcircle ? <PinterestIconFill /> : null}
+
+        {!big && !small && !medium ? <Fragment> Pinterest </Fragment> : null}
       </Icon>
     </Pinterest>
   </Link>
 )
+
+export default Button

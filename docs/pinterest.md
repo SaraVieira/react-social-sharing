@@ -1,3 +1,15 @@
+# Import
+
+```
+import { Pinterest } from 'react-social-sharing'
+```
+
+# Use
+
+```react
+<Pinterest link="http://sharingbuttons.io"/>
+```
+
 ```react
 <Pinterest solidcircle big message="I am so cool" link="http://sharingbuttons.io"/>
 ```

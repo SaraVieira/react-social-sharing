@@ -1,7 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Whatsapp 1 1`] = `
-<Component
+<Button
   big={true}
   link="http://sharingbuttons.io"
   message="I am so cool"
@@ -50,11 +50,11 @@ exports[`Whatsapp 1 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Whatsapp 2 1`] = `
-<Component
+<Button
   link="http://sharingbuttons.io"
   medium={true}
   message="I am so cool"
@@ -103,11 +103,11 @@ exports[`Whatsapp 2 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Whatsapp 3 1`] = `
-<Component
+<Button
   link="http://sharingbuttons.io"
   message="I am so cool"
   small={true}
@@ -156,11 +156,11 @@ exports[`Whatsapp 3 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Whatsapp 4 1`] = `
-<Component
+<Button
   big={true}
   circle={true}
   link="http://sharingbuttons.io"
@@ -213,11 +213,11 @@ exports[`Whatsapp 4 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Whatsapp 5 1`] = `
-<Component
+<Button
   circle={true}
   link="http://sharingbuttons.io"
   medium={true}
@@ -270,11 +270,11 @@ exports[`Whatsapp 5 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Whatsapp 6 1`] = `
-<Component
+<Button
   circle={true}
   link="http://sharingbuttons.io"
   message="I am so cool"
@@ -327,11 +327,11 @@ exports[`Whatsapp 6 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Whatsapp 7 1`] = `
-<Component
+<Button
   big={true}
   link="http://sharingbuttons.io"
   message="I am so cool"
@@ -378,11 +378,11 @@ exports[`Whatsapp 7 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Whatsapp 8 1`] = `
-<Component
+<Button
   link="http://sharingbuttons.io"
   medium={true}
   message="I am so cool"
@@ -429,11 +429,11 @@ exports[`Whatsapp 8 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;
 
 exports[`Whatsapp 9 1`] = `
-<Component
+<Button
   link="http://sharingbuttons.io"
   message="I am so cool"
   small={true}
@@ -480,5 +480,5 @@ exports[`Whatsapp 9 1`] = `
       </styled.div>
     </a>
   </styled.a>
-</Component>
+</Button>
 `;

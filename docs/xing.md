@@ -1,3 +1,15 @@
+# Import
+
+```
+import { Xing } from 'react-social-sharing'
+```
+
+# Use
+
+```react
+<Xing link="http://sharingbuttons.io"/>
+```
+
 ```react
 <Xing solidcircle big message="share on xing" link="http://sharingbuttons.io"/>
 ```

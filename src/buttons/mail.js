@@ -5,9 +5,9 @@ import {
   EmailIconFill,
   EmailIconCircle,
   EmailIconCircleFill
-} from './svg/mail.js'
-import { SharingButton, Link, Icon } from './common'
-import links from './consts'
+} from '../svg/mail.js'
+import { SharingButton, Link, Icon } from '../common'
+import links from '../consts'
 
 const Email = SharingButton.extend`
   background-color: #777777;
@@ -20,7 +20,7 @@ const Email = SharingButton.extend`
   }
 `
 
-export default ({
+const Button = ({
   small,
   solid,
   message,
@@ -32,7 +32,11 @@ export default ({
 }) => (
   <Link href={links.mail(message, link)} target="_blank" aria-label="">
     <Email small={small}>
-      <Icon solid={solid} solidcircle={solidcircle} aria-hidden="true">
+      <Icon
+        solid={(!solid && !circle && !solidcircle) || solid}
+        solidcircle={solidcircle}
+        aria-hidden="true"
+      >
         {solid && small ? <EmailIconFill /> : null}
         {solid && medium ? (
           <Fragment>
@@ -66,7 +70,12 @@ export default ({
             <EmailIconCircleFill /> Share by E-Mail{' '}
           </Fragment>
         ) : null}
+        {!solid && !circle && !solidcircle ? <MailIconFill /> : null}
+
+        {!big && !small && !medium ? <Fragment> E-Mail </Fragment> : null}
       </Icon>
     </Email>
   </Link>
 )
+
+export default Button

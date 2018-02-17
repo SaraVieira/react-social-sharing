@@ -1,3 +1,15 @@
+# Import
+
+```
+import { VK } from 'react-social-sharing'
+```
+
+# Use
+
+```react
+<VK link="http://sharingbuttons.io"/>
+```
+
 ```react
 <VK solidcircle big message="share on VK" link="http://sharingbuttons.io"/>
 ```

@@ -1,16 +1,16 @@
 // this should be the entry point to your library
 module.exports = {
-  Twitter: require('./twitter').default,
-  Facebook: require('./facebook').default,
-  Google: require('./google').default,
-  Tumblr: require('./tumblr').default,
-  Mail: require('./mail').default,
-  Pinterest: require('./pinterest').default,
-  Linkedin: require('./linkedin').default,
-  Reddit: require('./reddit').default,
-  Xing: require('./xing').default,
-  Whatsapp: require('./whatsapp').default,
-  HackerNews: require('./hacker').default,
-  VK: require('./vk').default,
-  Telegram: require('./telegram').default
+  Twitter: require('./buttons/twitter').default,
+  Facebook: require('./buttons/facebook').default,
+  Google: require('./buttons/google').default,
+  Tumblr: require('./buttons/tumblr').default,
+  Mail: require('./buttons/mail').default,
+  Pinterest: require('./buttons/pinterest').default,
+  Linkedin: require('./buttons/linkedin').default,
+  Reddit: require('./buttons/reddit').default,
+  Xing: require('./buttons/xing').default,
+  Whatsapp: require('./buttons/whatsapp').default,
+  HackerNews: require('./buttons/hacker').default,
+  VK: require('./buttons/vk').default,
+  Telegram: require('./buttons/telegram').default
 }

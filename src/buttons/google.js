@@ -1,9 +1,9 @@
 import React, { Fragment } from 'react'
 import styled from 'styled-components'
 import is from 'styled-is'
-import { GoogleIconFill, GoogleIconCircle } from './svg/google.js'
-import { SharingButton, Link, Icon } from './common'
-import links from './consts'
+import { GoogleIconFill, GoogleIconCircle } from '../svg/google.js'
+import { SharingButton, Link, Icon } from '../common'
+import links from '../consts'
 
 const Google = SharingButton.extend`
   background-color: #dd4b39;
@@ -16,10 +16,14 @@ const Google = SharingButton.extend`
   }
 `
 
-export default ({ small, solid, link, medium, big, circle, solidcircle }) => (
+const Button = ({ small, solid, link, medium, big, circle, solidcircle }) => (
   <Link href={links.google(link)} target="_blank" aria-label="">
     <Google small={small} solidcircle={solidcircle}>
-      <Icon solid={solid} solidcircle={solidcircle} aria-hidden="true">
+      <Icon
+        solid={(!solid && !circle && !solidcircle) || solid}
+        solidcircle={solidcircle}
+        aria-hidden="true"
+      >
         {solid && small ? <GoogleIconFill /> : null}
         {solid && medium ? (
           <Fragment>
@@ -42,7 +46,12 @@ export default ({ small, solid, link, medium, big, circle, solidcircle }) => (
             <GoogleIconCircle /> Share on Google+{' '}
           </Fragment>
         ) : null}
+        {!solid && !circle && !solidcircle ? <GoogleIconFill /> : null}
+
+        {!big && !small && !medium ? <Fragment> Google Plus </Fragment> : null}
       </Icon>
     </Google>
   </Link>
 )
+
+export default Button

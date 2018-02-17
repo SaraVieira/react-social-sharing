@@ -1,9 +1,9 @@
 import React, { Fragment } from 'react'
 import styled from 'styled-components'
 import is from 'styled-is'
-import { VKIconFill, VKIconCircle, VKIconCircleSolid } from './svg/vk.js'
-import { SharingButton, Link, Icon } from './common'
-import links from './consts'
+import { VKIconFill, VKIconCircle, VKIconCircleSolid } from '../svg/vk.js'
+import { SharingButton, Link, Icon } from '../common'
+import links from '../consts'
 
 const VK = SharingButton.extend`
   background-color: #507299;
@@ -16,7 +16,7 @@ const VK = SharingButton.extend`
   }
 `
 
-export default ({
+const Button = ({
   small,
   solid,
   link,
@@ -28,7 +28,11 @@ export default ({
 }) => (
   <Link href={links.vk(message, link)} target="_blank" aria-label="">
     <VK small={small}>
-      <Icon solid={solid} solidcircle={solidcircle} aria-hidden="true">
+      <Icon
+        solid={(!solid && !circle && !solidcircle) || solid}
+        solidcircle={solidcircle}
+        aria-hidden="true"
+      >
         {solid && small ? <VKIconFill /> : null}
         {solid && medium ? (
           <Fragment>
@@ -62,7 +66,12 @@ export default ({
             <VKIconCircleSolid /> Share on VK{' '}
           </Fragment>
         ) : null}
+        {!solid && !circle && !solidcircle ? <VKIconFill /> : null}
+
+        {!big && !small && !medium ? <Fragment> VK </Fragment> : null}
       </Icon>
     </VK>
   </Link>
 )
+
+export default Button

@@ -5,9 +5,9 @@ import {
   LinkedinIconFill,
   LinkedinIconCircle,
   LinkedinIconCircleSolid
-} from './svg/linkedin.js'
-import { SharingButton, Link, Icon } from './common'
-import links from './consts'
+} from '../svg/linkedin.js'
+import { SharingButton, Link, Icon } from '../common'
+import links from '../consts'
 
 const Linkedin = SharingButton.extend`
   background-color: #0077b5;
@@ -20,7 +20,7 @@ const Linkedin = SharingButton.extend`
   }
 `
 
-export default ({
+const Button = ({
   small,
   solid,
   message,
@@ -32,7 +32,11 @@ export default ({
 }) => (
   <Link href={links.linkedin(message, link)} target="_blank" aria-label="">
     <Linkedin small={small}>
-      <Icon solid={solid} solidcircle={solidcircle} aria-hidden="true">
+      <Icon
+        solid={(!solid && !circle && !solidcircle) || solid}
+        solidcircle={solidcircle}
+        aria-hidden="true"
+      >
         {solid && small ? <LinkedinIconFill /> : null}
         {solid && medium ? (
           <Fragment>
@@ -66,7 +70,12 @@ export default ({
             <LinkedinIconCircleSolid /> Share on LinkedIn{' '}
           </Fragment>
         ) : null}
+        {!solid && !circle && !solidcircle ? <LinkedinIconFill /> : null}
+
+        {!big && !small && !medium ? <Fragment> LinkedIn </Fragment> : null}
       </Icon>
     </Linkedin>
   </Link>
 )
+
+export default Button

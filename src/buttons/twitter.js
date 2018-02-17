@@ -1,9 +1,9 @@
 import React, { Fragment } from 'react'
 import styled from 'styled-components'
 import is from 'styled-is'
-import { TwitterIconFill, TwitterIconCircle } from './svg/twitter.js'
-import { SharingButton, Link, Icon } from './common'
-import links from './consts'
+import { TwitterIconFill, TwitterIconCircle } from '../svg/twitter.js'
+import { SharingButton, Link, Icon } from '../common'
+import links from '../consts'
 
 const Twitter = SharingButton.extend`
   background-color: #55acee;
@@ -16,7 +16,7 @@ const Twitter = SharingButton.extend`
   }
 `
 
-export default ({
+const Button = ({
   small,
   solid,
   message,
@@ -28,7 +28,11 @@ export default ({
 }) => (
   <Link href={links.twitter(message, link)} target="_blank" aria-label="">
     <Twitter small={small}>
-      <Icon solid={solid} solidcircle={solidcircle} aria-hidden="true">
+      <Icon
+        solid={(!solid && !circle && !solidcircle) || solid}
+        solidcircle={solidcircle}
+        aria-hidden="true"
+      >
         {solid && small ? <TwitterIconFill /> : null}
         {solid && medium ? (
           <Fragment>
@@ -51,7 +55,12 @@ export default ({
             <TwitterIconCircle /> Share on Twitter{' '}
           </Fragment>
         ) : null}
+        {!solid && !circle && !solidcircle ? <TwitterIconFill /> : null}
+
+        {!big && !small && !medium ? <Fragment> Twitter </Fragment> : null}
       </Icon>
     </Twitter>
   </Link>
 )
+
+export default Button

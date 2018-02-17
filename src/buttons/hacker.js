@@ -5,9 +5,9 @@ import {
   HackerIconFill,
   HackerIconCircle,
   HackerIconCircleSolid
-} from './svg/hacker.js'
-import { SharingButton, Link, Icon } from './common'
-import links from './consts'
+} from '../svg/hacker.js'
+import { SharingButton, Link, Icon } from '../common'
+import links from '../consts'
 
 const Hacker = SharingButton.extend`
   background-color: #ff6600;
@@ -20,7 +20,7 @@ const Hacker = SharingButton.extend`
   }
 `
 
-export default ({
+const Button = ({
   small,
   solid,
   link,
@@ -32,7 +32,11 @@ export default ({
 }) => (
   <Link href={links.hacker(message, link)} target="_blank" aria-label="">
     <Hacker small={small}>
-      <Icon solid={solid} solidcircle={solidcircle} aria-hidden="true">
+      <Icon
+        solid={(!solid && !circle && !solidcircle) || solid}
+        solidcircle={solidcircle}
+        aria-hidden="true"
+      >
         {solid && small ? <HackerIconFill /> : null}
         {solid && medium ? (
           <Fragment>
@@ -66,7 +70,12 @@ export default ({
             <HackerIconCircleSolid /> Share on HackerNews{' '}
           </Fragment>
         ) : null}
+        {!solid && !circle && !solidcircle ? <HackerIconFill /> : null}
+
+        {!big && !small && !medium ? <Fragment> HackerNews </Fragment> : null}
       </Icon>
     </Hacker>
   </Link>
 )
+
+export default Button

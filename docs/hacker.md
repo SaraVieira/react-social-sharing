@@ -1,3 +1,15 @@
+# Import
+
+```
+import { HackerNews } from 'react-social-sharing'
+```
+
+# Use
+
+```react
+<HackerNews link="http://sharingbuttons.io"/>
+```
+
 ```react
 <HackerNews solidcircle big message="share on HackerNews" link="http://sharingbuttons.io"/>
 ```

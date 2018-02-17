@@ -5,9 +5,9 @@ import {
   TelegramIconFill,
   TelegramIconCircle,
   TelegramIconCircleSolid
-} from './svg/telegram.js'
-import { SharingButton, Link, Icon } from './common'
-import links from './consts'
+} from '../svg/telegram.js'
+import { SharingButton, Link, Icon } from '../common'
+import links from '../consts'
 
 const Telegram = SharingButton.extend`
   background-color: #1a7576;
@@ -20,7 +20,7 @@ const Telegram = SharingButton.extend`
   }
 `
 
-export default ({
+const Button = ({
   small,
   solid,
   link,
@@ -32,7 +32,11 @@ export default ({
 }) => (
   <Link href={links.telegram(message, link)} target="_blank" aria-label="">
     <Telegram small={small}>
-      <Icon solid={solid} solidcircle={solidcircle} aria-hidden="true">
+      <Icon
+        solid={(!solid && !circle && !solidcircle) || solid}
+        solidcircle={solidcircle}
+        aria-hidden="true"
+      >
         {solid && small ? <TelegramIconFill /> : null}
         {solid && medium ? (
           <Fragment>
@@ -66,7 +70,12 @@ export default ({
             <TelegramIconCircleSolid /> Share on Telegram{' '}
           </Fragment>
         ) : null}
+        {!solid && !circle && !solidcircle ? <TelegramIconFill /> : null}
+
+        {!big && !small && !medium ? <Fragment> Telegram </Fragment> : null}
       </Icon>
     </Telegram>
   </Link>
 )
+
+export default Button

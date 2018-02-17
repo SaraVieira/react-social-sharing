@@ -1,3 +1,15 @@
+# Import
+
+```
+import { Mail } from 'react-social-sharing'
+```
+
+# Use
+
+```react
+<Mail solidcircle link="http://sharingbuttons.io"/>
+```
+
 ```react
 <Mail solidcircle big message="I am so cool" link="http://sharingbuttons.io"/>
 ```

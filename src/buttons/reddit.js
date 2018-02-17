@@ -5,9 +5,9 @@ import {
   RedditIconFill,
   RedditIconCircle,
   RedditIconCircleSolid
-} from './svg/reddit.js'
-import { SharingButton, Link, Icon } from './common'
-import links from './consts'
+} from '../svg/reddit.js'
+import { SharingButton, Link, Icon } from '../common'
+import links from '../consts'
 
 const Reddit = SharingButton.extend`
   background-color: #5f99cf;
@@ -20,10 +20,14 @@ const Reddit = SharingButton.extend`
   }
 `
 
-export default ({ small, solid, link, medium, big, circle, solidcircle }) => (
+const Button = ({ small, solid, link, medium, big, circle, solidcircle }) => (
   <Link href={links.reddit(link)} target="_blank" aria-label="">
     <Reddit small={small}>
-      <Icon solid={solid} solidcircle={solidcircle} aria-hidden="true">
+      <Icon
+        solid={(!solid && !circle && !solidcircle) || solid}
+        solidcircle={solidcircle}
+        aria-hidden="true"
+      >
         {solid && small ? <RedditIconFill /> : null}
         {solid && medium ? (
           <Fragment>
@@ -57,7 +61,13 @@ export default ({ small, solid, link, medium, big, circle, solidcircle }) => (
             <RedditIconCircleSolid /> Share on Reddit{' '}
           </Fragment>
         ) : null}
+
+        {!solid && !circle && !solidcircle ? <RedditIconFill /> : null}
+
+        {!big && !small && !medium ? <Fragment> Reddit </Fragment> : null}
       </Icon>
     </Reddit>
   </Link>
 )
+
+export default Button

@@ -1,3 +1,15 @@
+# Import
+
+```
+import { Google } from 'react-social-sharing'
+```
+
+# Use
+
+```react
+<Google link="http://sharingbuttons.io"/>
+```
+
 ```react
 <Google solidcircle big link="http://sharingbuttons.io"/>
 ```

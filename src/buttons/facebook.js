@@ -1,9 +1,9 @@
 import React, { Fragment } from 'react'
 import styled from 'styled-components'
 import is from 'styled-is'
-import { FacebookIconFill, FacebookIconCircle } from './svg/facebook.js'
-import { SharingButton, Link, Icon } from './common'
-import links from './consts'
+import { FacebookIconFill, FacebookIconCircle } from '../svg/facebook.js'
+import { SharingButton, Link, Icon } from '../common'
+import links from '../consts'
 
 const Facebook = SharingButton.extend`
   background-color: #3b5998;
@@ -19,10 +19,14 @@ const Facebook = SharingButton.extend`
   }
 `
 
-export default ({ small, solid, link, medium, big, circle, solidcircle }) => (
+const Button = ({ small, solid, link, medium, big, circle, solidcircle }) => (
   <Link href={links.facebook(link)} target="_blank" aria-label="">
     <Facebook small={small} solidcircle={solidcircle}>
-      <Icon solid={solid} solidcircle={solidcircle} aria-hidden="true">
+      <Icon
+        solid={(!solid && !circle && !solidcircle) || solid}
+        solidcircle={solidcircle}
+        aria-hidden="true"
+      >
         {solid && small ? <FacebookIconFill /> : null}
         {solid && medium ? (
           <Fragment>
@@ -45,7 +49,13 @@ export default ({ small, solid, link, medium, big, circle, solidcircle }) => (
             <FacebookIconCircle /> Share on Facebook{' '}
           </Fragment>
         ) : null}
+
+        {!solid && !circle && !solidcircle ? <FacebookIconFill /> : null}
+
+        {!big && !small && !medium ? <Fragment> Facebook </Fragment> : null}
       </Icon>
     </Facebook>
   </Link>
 )
+
+export default Button

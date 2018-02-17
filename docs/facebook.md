@@ -1,3 +1,15 @@
+# Import
+
+```
+import { Facebook } from 'react-social-sharing'
+```
+
+# Use
+
+```react
+<Facebook link="http://sharingbuttons.io"/>
+```
+
 ```react
 <Facebook solidcircle big link="http://sharingbuttons.io"/>
 ```
