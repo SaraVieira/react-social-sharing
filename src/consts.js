@@ -16,6 +16,10 @@ export default {
     `whatsapp://send?text=${encodeURIComponent(message)}%20${encodeURIComponent(
       link
     )}`,
+  hacker: (message, link) =>
+    `https://news.ycombinator.com/submitlink?u=${encodeURIComponent(
+      link
+    )}&amp;t=${encodeURIComponent(message)}`,
   xing: (message, link) =>
     `https://www.xing.com/app/user?op=share;url=${encodeURIComponent(
       link

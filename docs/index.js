@@ -73,6 +73,12 @@ const pages = [
     path: '/whatsapp',
     title: 'Whatsapp',
     content: pageLoader(() => import('./whatsapp.md'))
+  },
+  {
+    imports: { HackerNews: require('../src/index').HackerNews },
+    path: '/hacker',
+    title: 'Hacker News',
+    content: pageLoader(() => import('./hacker.md'))
   }
 ]
 

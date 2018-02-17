@@ -1,0 +1,484 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HackerNews 1 1`] = `
+<Component
+  big={true}
+  link="http://sharingbuttons.io"
+  message="I am so cool"
+  solidcircle={true}
+>
+  <styled.a
+    aria-label=""
+    href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+    target="_blank"
+  >
+    <a
+      aria-label=""
+      className="sc-bwzfXH eNnkUm"
+      href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+      target="_blank"
+    >
+      <styled.div>
+        <div
+          className="sc-VigVT yjssb"
+        >
+          <styled.div
+            aria-hidden="true"
+            solidcircle={true}
+          >
+            <div
+              aria-hidden="true"
+              className="sc-htpNat gylFwk"
+            >
+              <HackerIconCircleSolid>
+                <svg
+                  viewBox="0 0 256 256"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M128 256c70.692 0 128-57.308 128-128C256 57.308 198.692 0 128 0 57.308 0 0 57.308 0 128c0 70.692 57.308 128 128 128zm-9.06-113.686L75 60h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L161.49 60h18.69l-44.34 83.308v53.087h-16.9v-54.08z"
+                    fillRule="evenodd"
+                  />
+                </svg>
+              </HackerIconCircleSolid>
+               Share on HackerNews
+               
+            </div>
+          </styled.div>
+        </div>
+      </styled.div>
+    </a>
+  </styled.a>
+</Component>
+`;
+
+exports[`HackerNews 2 1`] = `
+<Component
+  link="http://sharingbuttons.io"
+  medium={true}
+  message="I am so cool"
+  solidcircle={true}
+>
+  <styled.a
+    aria-label=""
+    href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+    target="_blank"
+  >
+    <a
+      aria-label=""
+      className="sc-bwzfXH eNnkUm"
+      href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+      target="_blank"
+    >
+      <styled.div>
+        <div
+          className="sc-VigVT yjssb"
+        >
+          <styled.div
+            aria-hidden="true"
+            solidcircle={true}
+          >
+            <div
+              aria-hidden="true"
+              className="sc-htpNat gylFwk"
+            >
+              <HackerIconCircleSolid>
+                <svg
+                  viewBox="0 0 256 256"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M128 256c70.692 0 128-57.308 128-128C256 57.308 198.692 0 128 0 57.308 0 0 57.308 0 128c0 70.692 57.308 128 128 128zm-9.06-113.686L75 60h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L161.49 60h18.69l-44.34 83.308v53.087h-16.9v-54.08z"
+                    fillRule="evenodd"
+                  />
+                </svg>
+              </HackerIconCircleSolid>
+               HackerNews
+               
+            </div>
+          </styled.div>
+        </div>
+      </styled.div>
+    </a>
+  </styled.a>
+</Component>
+`;
+
+exports[`HackerNews 3 1`] = `
+<Component
+  link="http://sharingbuttons.io"
+  message="I am so cool"
+  small={true}
+  solidcircle={true}
+>
+  <styled.a
+    aria-label=""
+    href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+    target="_blank"
+  >
+    <a
+      aria-label=""
+      className="sc-bwzfXH eNnkUm"
+      href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+      target="_blank"
+    >
+      <styled.div
+        small={true}
+      >
+        <div
+          className="sc-VigVT jWkBMt"
+        >
+          <styled.div
+            aria-hidden="true"
+            solidcircle={true}
+          >
+            <div
+              aria-hidden="true"
+              className="sc-htpNat gylFwk"
+            >
+              <HackerIconCircleSolid>
+                <svg
+                  viewBox="0 0 256 256"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M128 256c70.692 0 128-57.308 128-128C256 57.308 198.692 0 128 0 57.308 0 0 57.308 0 128c0 70.692 57.308 128 128 128zm-9.06-113.686L75 60h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L161.49 60h18.69l-44.34 83.308v53.087h-16.9v-54.08z"
+                    fillRule="evenodd"
+                  />
+                </svg>
+              </HackerIconCircleSolid>
+            </div>
+          </styled.div>
+        </div>
+      </styled.div>
+    </a>
+  </styled.a>
+</Component>
+`;
+
+exports[`HackerNews 4 1`] = `
+<Component
+  big={true}
+  circle={true}
+  link="http://sharingbuttons.io"
+  message="I am so cool"
+>
+  <styled.a
+    aria-label=""
+    href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+    target="_blank"
+  >
+    <a
+      aria-label=""
+      className="sc-bwzfXH eNnkUm"
+      href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+      target="_blank"
+    >
+      <styled.div>
+        <div
+          className="sc-VigVT yjssb"
+        >
+          <styled.div
+            aria-hidden="true"
+          >
+            <div
+              aria-hidden="true"
+              className="sc-htpNat dZQCuR"
+            >
+              <HackerIconCircle>
+                <svg
+                  viewBox="0 0 256 256"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <circle
+                    cx="128"
+                    cy="128"
+                    r="122.5"
+                  />
+                  <path
+                    d="M128 256c70.692 0 128-57.308 128-128C256 57.308 198.692 0 128 0 57.308 0 0 57.308 0 128c0 70.692 57.308 128 128 128zm-9.06-113.686L75 60h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L161.49 60h18.69l-44.34 83.308v53.087h-16.9v-54.08z"
+                    fillRule="evenodd"
+                    strokeWidth="10px"
+                  />
+                </svg>
+              </HackerIconCircle>
+               Share on HackerNews
+               
+            </div>
+          </styled.div>
+        </div>
+      </styled.div>
+    </a>
+  </styled.a>
+</Component>
+`;
+
+exports[`HackerNews 5 1`] = `
+<Component
+  circle={true}
+  link="http://sharingbuttons.io"
+  medium={true}
+  message="I am so cool"
+>
+  <styled.a
+    aria-label=""
+    href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+    target="_blank"
+  >
+    <a
+      aria-label=""
+      className="sc-bwzfXH eNnkUm"
+      href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+      target="_blank"
+    >
+      <styled.div>
+        <div
+          className="sc-VigVT yjssb"
+        >
+          <styled.div
+            aria-hidden="true"
+          >
+            <div
+              aria-hidden="true"
+              className="sc-htpNat dZQCuR"
+            >
+              <HackerIconCircle>
+                <svg
+                  viewBox="0 0 256 256"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <circle
+                    cx="128"
+                    cy="128"
+                    r="122.5"
+                  />
+                  <path
+                    d="M128 256c70.692 0 128-57.308 128-128C256 57.308 198.692 0 128 0 57.308 0 0 57.308 0 128c0 70.692 57.308 128 128 128zm-9.06-113.686L75 60h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L161.49 60h18.69l-44.34 83.308v53.087h-16.9v-54.08z"
+                    fillRule="evenodd"
+                    strokeWidth="10px"
+                  />
+                </svg>
+              </HackerIconCircle>
+               HackerNews
+               
+            </div>
+          </styled.div>
+        </div>
+      </styled.div>
+    </a>
+  </styled.a>
+</Component>
+`;
+
+exports[`HackerNews 6 1`] = `
+<Component
+  circle={true}
+  link="http://sharingbuttons.io"
+  message="I am so cool"
+  small={true}
+>
+  <styled.a
+    aria-label=""
+    href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+    target="_blank"
+  >
+    <a
+      aria-label=""
+      className="sc-bwzfXH eNnkUm"
+      href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+      target="_blank"
+    >
+      <styled.div
+        small={true}
+      >
+        <div
+          className="sc-VigVT jWkBMt"
+        >
+          <styled.div
+            aria-hidden="true"
+          >
+            <div
+              aria-hidden="true"
+              className="sc-htpNat dZQCuR"
+            >
+              <HackerIconCircle>
+                <svg
+                  viewBox="0 0 256 256"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <circle
+                    cx="128"
+                    cy="128"
+                    r="122.5"
+                  />
+                  <path
+                    d="M128 256c70.692 0 128-57.308 128-128C256 57.308 198.692 0 128 0 57.308 0 0 57.308 0 128c0 70.692 57.308 128 128 128zm-9.06-113.686L75 60h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L161.49 60h18.69l-44.34 83.308v53.087h-16.9v-54.08z"
+                    fillRule="evenodd"
+                    strokeWidth="10px"
+                  />
+                </svg>
+              </HackerIconCircle>
+            </div>
+          </styled.div>
+        </div>
+      </styled.div>
+    </a>
+  </styled.a>
+</Component>
+`;
+
+exports[`HackerNews 7 1`] = `
+<Component
+  big={true}
+  link="http://sharingbuttons.io"
+  message="I am so cool"
+  solid={true}
+>
+  <styled.a
+    aria-label=""
+    href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+    target="_blank"
+  >
+    <a
+      aria-label=""
+      className="sc-bwzfXH eNnkUm"
+      href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+      target="_blank"
+    >
+      <styled.div>
+        <div
+          className="sc-VigVT yjssb"
+        >
+          <styled.div
+            aria-hidden="true"
+            solid={true}
+          >
+            <div
+              aria-hidden="true"
+              className="sc-htpNat gylFwk"
+            >
+              <HackerIconFill>
+                <svg
+                  viewBox="0 0 140 140"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M60.94 82.314L17 0h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L103.49 0h18.69L77.84 83.308v53.087h-16.9v-54.08z"
+                    fillRule="evenodd"
+                  />
+                </svg>
+              </HackerIconFill>
+               Share on HackerNews
+               
+            </div>
+          </styled.div>
+        </div>
+      </styled.div>
+    </a>
+  </styled.a>
+</Component>
+`;
+
+exports[`HackerNews 8 1`] = `
+<Component
+  link="http://sharingbuttons.io"
+  medium={true}
+  message="I am so cool"
+  solid={true}
+>
+  <styled.a
+    aria-label=""
+    href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+    target="_blank"
+  >
+    <a
+      aria-label=""
+      className="sc-bwzfXH eNnkUm"
+      href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+      target="_blank"
+    >
+      <styled.div>
+        <div
+          className="sc-VigVT yjssb"
+        >
+          <styled.div
+            aria-hidden="true"
+            solid={true}
+          >
+            <div
+              aria-hidden="true"
+              className="sc-htpNat gylFwk"
+            >
+              <HackerIconFill>
+                <svg
+                  viewBox="0 0 140 140"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M60.94 82.314L17 0h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L103.49 0h18.69L77.84 83.308v53.087h-16.9v-54.08z"
+                    fillRule="evenodd"
+                  />
+                </svg>
+              </HackerIconFill>
+               HackerNews
+               
+            </div>
+          </styled.div>
+        </div>
+      </styled.div>
+    </a>
+  </styled.a>
+</Component>
+`;
+
+exports[`HackerNews 9 1`] = `
+<Component
+  link="http://sharingbuttons.io"
+  message="I am so cool"
+  small={true}
+  solid={true}
+>
+  <styled.a
+    aria-label=""
+    href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+    target="_blank"
+  >
+    <a
+      aria-label=""
+      className="sc-bwzfXH eNnkUm"
+      href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+      target="_blank"
+    >
+      <styled.div
+        small={true}
+      >
+        <div
+          className="sc-VigVT jWkBMt"
+        >
+          <styled.div
+            aria-hidden="true"
+            solid={true}
+          >
+            <div
+              aria-hidden="true"
+              className="sc-htpNat gylFwk"
+            >
+              <HackerIconFill>
+                <svg
+                  viewBox="0 0 140 140"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M60.94 82.314L17 0h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L103.49 0h18.69L77.84 83.308v53.087h-16.9v-54.08z"
+                    fillRule="evenodd"
+                  />
+                </svg>
+              </HackerIconFill>
+            </div>
+          </styled.div>
+        </div>
+      </styled.div>
+    </a>
+  </styled.a>
+</Component>
+`;
