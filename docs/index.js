@@ -27,6 +27,12 @@ const pages = [
     path: '/facebook',
     title: 'Facebook',
     content: pageLoader(() => import('./facebook.md'))
+  },
+  {
+    imports: { Google: require('../src/index').Google },
+    path: '/google',
+    title: 'Google Plus',
+    content: pageLoader(() => import('./google.md'))
   }
 ]
 
