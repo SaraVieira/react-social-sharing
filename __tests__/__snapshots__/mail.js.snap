@@ -1,0 +1,481 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Mail 1 1`] = `
+<Component
+  big={true}
+  link="http://sharingbuttons.io"
+  message="I am so cool"
+  solidcircle={true}
+>
+  <styled.a
+    aria-label=""
+    href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+    target="_blank"
+  >
+    <a
+      aria-label=""
+      className="sc-bwzfXH eNnkUm"
+      href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+      target="_blank"
+    >
+      <styled.div>
+        <div
+          className="sc-gzVnrw iQAXWi"
+        >
+          <styled.div
+            aria-hidden="true"
+            solidcircle={true}
+          >
+            <div
+              aria-hidden="true"
+              className="sc-htpNat gylFwk"
+            >
+              <EmailIconCircleFill>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 0C5.38 0 0 5.38 0 12s5.38 12 12 12 12-5.38 12-12S18.62 0 12 0zm8 16c0 1.1-.9 2-2 2H6c-1.1 0-2-.9-2-2V8c0-1.1.9-2 2-2h12c1.1 0 2 .9 2 2v8z"
+                  />
+                  <path
+                    d="M17.9 8.18c-.2-.2-.5-.24-.72-.07L12 12.38 6.82 8.1c-.22-.16-.53-.13-.7.08s-.15.53.06.7l3.62 2.97-3.57 2.23c-.23.14-.3.45-.15.7.1.14.25.22.42.22.1 0 .18-.02.27-.08l3.85-2.4 1.06.87c.1.04.2.1.32.1s.23-.06.32-.1l1.06-.9 3.86 2.4c.08.06.17.1.26.1.17 0 .33-.1.42-.25.15-.24.08-.55-.15-.7l-3.57-2.22 3.62-2.96c.2-.2.24-.5.07-.72z"
+                  />
+                </svg>
+              </EmailIconCircleFill>
+               Share by E-Mail
+               
+            </div>
+          </styled.div>
+        </div>
+      </styled.div>
+    </a>
+  </styled.a>
+</Component>
+`;
+
+exports[`Mail 2 1`] = `
+<Component
+  link="http://sharingbuttons.io"
+  medium={true}
+  message="I am so cool"
+  solidcircle={true}
+>
+  <styled.a
+    aria-label=""
+    href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+    target="_blank"
+  >
+    <a
+      aria-label=""
+      className="sc-bwzfXH eNnkUm"
+      href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+      target="_blank"
+    >
+      <styled.div>
+        <div
+          className="sc-gzVnrw iQAXWi"
+        >
+          <styled.div
+            aria-hidden="true"
+            solidcircle={true}
+          >
+            <div
+              aria-hidden="true"
+              className="sc-htpNat gylFwk"
+            >
+              <EmailIconCircleFill>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 0C5.38 0 0 5.38 0 12s5.38 12 12 12 12-5.38 12-12S18.62 0 12 0zm8 16c0 1.1-.9 2-2 2H6c-1.1 0-2-.9-2-2V8c0-1.1.9-2 2-2h12c1.1 0 2 .9 2 2v8z"
+                  />
+                  <path
+                    d="M17.9 8.18c-.2-.2-.5-.24-.72-.07L12 12.38 6.82 8.1c-.22-.16-.53-.13-.7.08s-.15.53.06.7l3.62 2.97-3.57 2.23c-.23.14-.3.45-.15.7.1.14.25.22.42.22.1 0 .18-.02.27-.08l3.85-2.4 1.06.87c.1.04.2.1.32.1s.23-.06.32-.1l1.06-.9 3.86 2.4c.08.06.17.1.26.1.17 0 .33-.1.42-.25.15-.24.08-.55-.15-.7l-3.57-2.22 3.62-2.96c.2-.2.24-.5.07-.72z"
+                  />
+                </svg>
+              </EmailIconCircleFill>
+               E-Mail
+               
+            </div>
+          </styled.div>
+        </div>
+      </styled.div>
+    </a>
+  </styled.a>
+</Component>
+`;
+
+exports[`Mail 3 1`] = `
+<Component
+  link="http://sharingbuttons.io"
+  message="I am so cool"
+  small={true}
+  solidcircle={true}
+>
+  <styled.a
+    aria-label=""
+    href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+    target="_blank"
+  >
+    <a
+      aria-label=""
+      className="sc-bwzfXH eNnkUm"
+      href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+      target="_blank"
+    >
+      <styled.div
+        small={true}
+      >
+        <div
+          className="sc-gzVnrw bFJaVu"
+        >
+          <styled.div
+            aria-hidden="true"
+            solidcircle={true}
+          >
+            <div
+              aria-hidden="true"
+              className="sc-htpNat gylFwk"
+            >
+              <EmailIconCircleFill>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 0C5.38 0 0 5.38 0 12s5.38 12 12 12 12-5.38 12-12S18.62 0 12 0zm8 16c0 1.1-.9 2-2 2H6c-1.1 0-2-.9-2-2V8c0-1.1.9-2 2-2h12c1.1 0 2 .9 2 2v8z"
+                  />
+                  <path
+                    d="M17.9 8.18c-.2-.2-.5-.24-.72-.07L12 12.38 6.82 8.1c-.22-.16-.53-.13-.7.08s-.15.53.06.7l3.62 2.97-3.57 2.23c-.23.14-.3.45-.15.7.1.14.25.22.42.22.1 0 .18-.02.27-.08l3.85-2.4 1.06.87c.1.04.2.1.32.1s.23-.06.32-.1l1.06-.9 3.86 2.4c.08.06.17.1.26.1.17 0 .33-.1.42-.25.15-.24.08-.55-.15-.7l-3.57-2.22 3.62-2.96c.2-.2.24-.5.07-.72z"
+                  />
+                </svg>
+              </EmailIconCircleFill>
+            </div>
+          </styled.div>
+        </div>
+      </styled.div>
+    </a>
+  </styled.a>
+</Component>
+`;
+
+exports[`Mail 4 1`] = `
+<Component
+  big={true}
+  circle={true}
+  link="http://sharingbuttons.io"
+  message="I am so cool"
+>
+  <styled.a
+    aria-label=""
+    href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+    target="_blank"
+  >
+    <a
+      aria-label=""
+      className="sc-bwzfXH eNnkUm"
+      href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+      target="_blank"
+    >
+      <styled.div>
+        <div
+          className="sc-gzVnrw iQAXWi"
+        >
+          <styled.div
+            aria-hidden="true"
+          >
+            <div
+              aria-hidden="true"
+              className="sc-htpNat dZQCuR"
+            >
+              <EmailIconCircle>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="11.5"
+                  />
+                  <path
+                    d="M19.5 16c0 .8-.7 1.5-1.5 1.5H6c-.8 0-1.5-.7-1.5-1.5V8c0-.8.7-1.5 1.5-1.5h12c.8 0 1.5.7 1.5 1.5v8zm-2-7.5L12 13 6.5 8.5m11 6l-4-2.5m-7 2.5l4-2.5"
+                  />
+                </svg>
+              </EmailIconCircle>
+               Share by E-Mail
+               
+            </div>
+          </styled.div>
+        </div>
+      </styled.div>
+    </a>
+  </styled.a>
+</Component>
+`;
+
+exports[`Mail 5 1`] = `
+<Component
+  circle={true}
+  link="http://sharingbuttons.io"
+  medium={true}
+  message="I am so cool"
+>
+  <styled.a
+    aria-label=""
+    href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+    target="_blank"
+  >
+    <a
+      aria-label=""
+      className="sc-bwzfXH eNnkUm"
+      href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+      target="_blank"
+    >
+      <styled.div>
+        <div
+          className="sc-gzVnrw iQAXWi"
+        >
+          <styled.div
+            aria-hidden="true"
+          >
+            <div
+              aria-hidden="true"
+              className="sc-htpNat dZQCuR"
+            >
+              <EmailIconCircle>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="11.5"
+                  />
+                  <path
+                    d="M19.5 16c0 .8-.7 1.5-1.5 1.5H6c-.8 0-1.5-.7-1.5-1.5V8c0-.8.7-1.5 1.5-1.5h12c.8 0 1.5.7 1.5 1.5v8zm-2-7.5L12 13 6.5 8.5m11 6l-4-2.5m-7 2.5l4-2.5"
+                  />
+                </svg>
+              </EmailIconCircle>
+               E-Mail
+               
+            </div>
+          </styled.div>
+        </div>
+      </styled.div>
+    </a>
+  </styled.a>
+</Component>
+`;
+
+exports[`Mail 6 1`] = `
+<Component
+  circle={true}
+  link="http://sharingbuttons.io"
+  message="I am so cool"
+  small={true}
+>
+  <styled.a
+    aria-label=""
+    href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+    target="_blank"
+  >
+    <a
+      aria-label=""
+      className="sc-bwzfXH eNnkUm"
+      href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+      target="_blank"
+    >
+      <styled.div
+        small={true}
+      >
+        <div
+          className="sc-gzVnrw bFJaVu"
+        >
+          <styled.div
+            aria-hidden="true"
+          >
+            <div
+              aria-hidden="true"
+              className="sc-htpNat dZQCuR"
+            >
+              <EmailIconCircle>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="11.5"
+                  />
+                  <path
+                    d="M19.5 16c0 .8-.7 1.5-1.5 1.5H6c-.8 0-1.5-.7-1.5-1.5V8c0-.8.7-1.5 1.5-1.5h12c.8 0 1.5.7 1.5 1.5v8zm-2-7.5L12 13 6.5 8.5m11 6l-4-2.5m-7 2.5l4-2.5"
+                  />
+                </svg>
+              </EmailIconCircle>
+            </div>
+          </styled.div>
+        </div>
+      </styled.div>
+    </a>
+  </styled.a>
+</Component>
+`;
+
+exports[`Mail 7 1`] = `
+<Component
+  big={true}
+  link="http://sharingbuttons.io"
+  message="I am so cool"
+  solid={true}
+>
+  <styled.a
+    aria-label=""
+    href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+    target="_blank"
+  >
+    <a
+      aria-label=""
+      className="sc-bwzfXH eNnkUm"
+      href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+      target="_blank"
+    >
+      <styled.div>
+        <div
+          className="sc-gzVnrw iQAXWi"
+        >
+          <styled.div
+            aria-hidden="true"
+            solid={true}
+          >
+            <div
+              aria-hidden="true"
+              className="sc-htpNat gylFwk"
+            >
+              <EmailIconFill>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M22 4H2C.9 4 0 4.9 0 6v12c0 1.1.9 2 2 2h20c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zM7.25 14.43l-3.5 2c-.08.05-.17.07-.25.07-.17 0-.34-.1-.43-.25-.14-.24-.06-.55.18-.68l3.5-2c.24-.14.55-.06.68.18.14.24.06.55-.18.68zm4.75.07c-.1 0-.2-.03-.27-.08l-8.5-5.5c-.23-.15-.3-.46-.15-.7.15-.22.46-.3.7-.14L12 13.4l8.23-5.32c.23-.15.54-.08.7.15.14.23.07.54-.16.7l-8.5 5.5c-.08.04-.17.07-.27.07zm8.93 1.75c-.1.16-.26.25-.43.25-.08 0-.17-.02-.25-.07l-3.5-2c-.24-.13-.32-.44-.18-.68s.44-.32.68-.18l3.5 2c.24.13.32.44.18.68z"
+                  />
+                </svg>
+              </EmailIconFill>
+               Share by E-Mail
+               
+            </div>
+          </styled.div>
+        </div>
+      </styled.div>
+    </a>
+  </styled.a>
+</Component>
+`;
+
+exports[`Mail 8 1`] = `
+<Component
+  link="http://sharingbuttons.io"
+  medium={true}
+  message="I am so cool"
+  solid={true}
+>
+  <styled.a
+    aria-label=""
+    href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+    target="_blank"
+  >
+    <a
+      aria-label=""
+      className="sc-bwzfXH eNnkUm"
+      href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+      target="_blank"
+    >
+      <styled.div>
+        <div
+          className="sc-gzVnrw iQAXWi"
+        >
+          <styled.div
+            aria-hidden="true"
+            solid={true}
+          >
+            <div
+              aria-hidden="true"
+              className="sc-htpNat gylFwk"
+            >
+              <EmailIconFill>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M22 4H2C.9 4 0 4.9 0 6v12c0 1.1.9 2 2 2h20c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zM7.25 14.43l-3.5 2c-.08.05-.17.07-.25.07-.17 0-.34-.1-.43-.25-.14-.24-.06-.55.18-.68l3.5-2c.24-.14.55-.06.68.18.14.24.06.55-.18.68zm4.75.07c-.1 0-.2-.03-.27-.08l-8.5-5.5c-.23-.15-.3-.46-.15-.7.15-.22.46-.3.7-.14L12 13.4l8.23-5.32c.23-.15.54-.08.7.15.14.23.07.54-.16.7l-8.5 5.5c-.08.04-.17.07-.27.07zm8.93 1.75c-.1.16-.26.25-.43.25-.08 0-.17-.02-.25-.07l-3.5-2c-.24-.13-.32-.44-.18-.68s.44-.32.68-.18l3.5 2c.24.13.32.44.18.68z"
+                  />
+                </svg>
+              </EmailIconFill>
+               E-Mail
+               
+            </div>
+          </styled.div>
+        </div>
+      </styled.div>
+    </a>
+  </styled.a>
+</Component>
+`;
+
+exports[`Mail 9 1`] = `
+<Component
+  link="http://sharingbuttons.io"
+  message="I am so cool"
+  small={true}
+  solid={true}
+>
+  <styled.a
+    aria-label=""
+    href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+    target="_blank"
+  >
+    <a
+      aria-label=""
+      className="sc-bwzfXH eNnkUm"
+      href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+      target="_blank"
+    >
+      <styled.div
+        small={true}
+      >
+        <div
+          className="sc-gzVnrw bFJaVu"
+        >
+          <styled.div
+            aria-hidden="true"
+            solid={true}
+          >
+            <div
+              aria-hidden="true"
+              className="sc-htpNat gylFwk"
+            >
+              <EmailIconFill>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M22 4H2C.9 4 0 4.9 0 6v12c0 1.1.9 2 2 2h20c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zM7.25 14.43l-3.5 2c-.08.05-.17.07-.25.07-.17 0-.34-.1-.43-.25-.14-.24-.06-.55.18-.68l3.5-2c.24-.14.55-.06.68.18.14.24.06.55-.18.68zm4.75.07c-.1 0-.2-.03-.27-.08l-8.5-5.5c-.23-.15-.3-.46-.15-.7.15-.22.46-.3.7-.14L12 13.4l8.23-5.32c.23-.15.54-.08.7.15.14.23.07.54-.16.7l-8.5 5.5c-.08.04-.17.07-.27.07zm8.93 1.75c-.1.16-.26.25-.43.25-.08 0-.17-.02-.25-.07l-3.5-2c-.24-.13-.32-.44-.18-.68s.44-.32.68-.18l3.5 2c.24.13.32.44.18.68z"
+                  />
+                </svg>
+              </EmailIconFill>
+            </div>
+          </styled.div>
+        </div>
+      </styled.div>
+    </a>
+  </styled.a>
+</Component>
+`;

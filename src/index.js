@@ -3,5 +3,6 @@ module.exports = {
   Twitter: require('./twitter').default,
   Facebook: require('./facebook').default,
   Google: require('./google').default,
-  Tumblr: require('./tumblr').default
+  Tumblr: require('./tumblr').default,
+  Mail: require('./mail').default
 }

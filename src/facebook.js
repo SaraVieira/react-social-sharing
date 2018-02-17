@@ -11,7 +11,9 @@ const Facebook = SharingButton.extend`
 
   ${is('solidcircle')`
     svg path { fill: #3b5998 };
-  `} &:hover, &:active {
+  `};
+  &:hover,
+  &:active {
     background-color: #2d4373;
     border-color: #2d4373;
   }

@@ -1,26 +1,14 @@
 [![build status](https://secure.travis-ci.org/SaraVieira/react-social-sharing.svg)](http://travis-ci.org/SaraVieira/react-social-sharing) [![bitHound Score](https://www.bithound.io/github/SaraVieira/react-social-sharing/badges/score.svg)](https://www.bithound.io/github/SaraVieira/react-social-sharing) [![Dependency Status](https://david-dm.org/SaraVieira/react-social-sharing.svg)](https://david-dm.org/SaraVieira/react-social-sharing)
 
-# react-component-boilerplate - Boilerplate for React.js components
+# React Sharing Buttons
 
-This is a simple boilerplate that has been developed to make it easier to develop React components and small projects.
-
-> Check out [SurviveJS - Webpack and React](http://survivejs.com/) to dig deeper into the topic.
+React Implementation of @mxstbr [sharingbuttons.io](http://sharingbuttons.io/)
 
 ## Basic Usage
 
-Clone the repo : `git clone https://github.com/SaraVieira/react-social-sharing my-component`.
-
-To get started with fresh history, do this:
-
-1. `cd my-component`
-2. `rm -rf .git` (or in Windows `rmdir .git /S /Q`) - Remove Git database
-3. `git init` - Initialize a new Git repository
-4. `git add .` - Add all files to staging
-5. `git commit -am "Initial commit"` - Commit the files
-
-After this you should push the project to some remote.
-
-If you want to replace project meta information (author etc.), consider using a tool like [replace-project-meta](https://www.npmjs.com/package/replace-project-meta).
+```
+yarn add react-social-sharing
+```
 
 ### Common Tasks
 

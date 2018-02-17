@@ -39,6 +39,12 @@ const pages = [
     path: '/tumblr',
     title: 'Tumblr',
     content: pageLoader(() => import('./tumblr.md'))
+  },
+  {
+    imports: { Mail: require('../src/index').Mail },
+    path: '/mail',
+    title: 'Mail',
+    content: pageLoader(() => import('./mail.md'))
   }
 ]
 

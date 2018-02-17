@@ -1,9 +1,13 @@
 export default {
   twitter: (message, link) =>
-    `https://twitter.com/intent/tweet/?text=${encodeURI(
+    `https://twitter.com/intent/tweet/?text=${encodeURIComponent(
       message
-    )}.&amp;url=${link}`,
+    )}.&amp;url=${encodeURIComponent(link)}`,
   facebook: link => `https://facebook.com/sharer/sharer.php?u=${link}`,
   google: link => `https://plus.google.com/share?url=${link}`,
-  tumblr: link => `http://tumblr.com/widgets/share/tool?canonicalUrl=${link}`
+  tumblr: link => `http://tumblr.com/widgets/share/tool?canonicalUrl=${link}`,
+  mail: (message, link) =>
+    `mailto:?subject=${encodeURIComponent(
+      message
+    )}.&amp;body=${encodeURIComponent(link)}`
 }
