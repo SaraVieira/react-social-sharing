@@ -9,13 +9,13 @@ exports[`Facebook 1 1`] = `
 >
   <styled.a
     aria-label=""
-    href="https://facebook.com/sharer/sharer.php?u=http://sharingbuttons.io"
+    href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
       aria-label=""
       className="sc-bwzfXH eNnkUm"
-      href="https://facebook.com/sharer/sharer.php?u=http://sharingbuttons.io"
+      href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div
@@ -67,13 +67,13 @@ exports[`Facebook 2 1`] = `
 >
   <styled.a
     aria-label=""
-    href="https://facebook.com/sharer/sharer.php?u=http://sharingbuttons.io"
+    href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
       aria-label=""
       className="sc-bwzfXH eNnkUm"
-      href="https://facebook.com/sharer/sharer.php?u=http://sharingbuttons.io"
+      href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div
@@ -125,13 +125,13 @@ exports[`Facebook 3 1`] = `
 >
   <styled.a
     aria-label=""
-    href="https://facebook.com/sharer/sharer.php?u=http://sharingbuttons.io"
+    href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
       aria-label=""
       className="sc-bwzfXH eNnkUm"
-      href="https://facebook.com/sharer/sharer.php?u=http://sharingbuttons.io"
+      href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div
@@ -182,13 +182,13 @@ exports[`Facebook 4 1`] = `
 >
   <styled.a
     aria-label=""
-    href="https://facebook.com/sharer/sharer.php?u=http://sharingbuttons.io"
+    href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
       aria-label=""
       className="sc-bwzfXH eNnkUm"
-      href="https://facebook.com/sharer/sharer.php?u=http://sharingbuttons.io"
+      href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div>
@@ -237,13 +237,13 @@ exports[`Facebook 5 1`] = `
 >
   <styled.a
     aria-label=""
-    href="https://facebook.com/sharer/sharer.php?u=http://sharingbuttons.io"
+    href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
       aria-label=""
       className="sc-bwzfXH eNnkUm"
-      href="https://facebook.com/sharer/sharer.php?u=http://sharingbuttons.io"
+      href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div>
@@ -292,13 +292,13 @@ exports[`Facebook 6 1`] = `
 >
   <styled.a
     aria-label=""
-    href="https://facebook.com/sharer/sharer.php?u=http://sharingbuttons.io"
+    href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
       aria-label=""
       className="sc-bwzfXH eNnkUm"
-      href="https://facebook.com/sharer/sharer.php?u=http://sharingbuttons.io"
+      href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div
@@ -347,13 +347,13 @@ exports[`Facebook 7 1`] = `
 >
   <styled.a
     aria-label=""
-    href="https://facebook.com/sharer/sharer.php?u=http://sharingbuttons.io"
+    href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
       aria-label=""
       className="sc-bwzfXH eNnkUm"
-      href="https://facebook.com/sharer/sharer.php?u=http://sharingbuttons.io"
+      href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div>
@@ -398,13 +398,13 @@ exports[`Facebook 8 1`] = `
 >
   <styled.a
     aria-label=""
-    href="https://facebook.com/sharer/sharer.php?u=http://sharingbuttons.io"
+    href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
       aria-label=""
       className="sc-bwzfXH eNnkUm"
-      href="https://facebook.com/sharer/sharer.php?u=http://sharingbuttons.io"
+      href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div>
@@ -449,13 +449,13 @@ exports[`Facebook 9 1`] = `
 >
   <styled.a
     aria-label=""
-    href="https://facebook.com/sharer/sharer.php?u=http://sharingbuttons.io"
+    href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
       aria-label=""
       className="sc-bwzfXH eNnkUm"
-      href="https://facebook.com/sharer/sharer.php?u=http://sharingbuttons.io"
+      href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div

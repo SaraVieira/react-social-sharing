@@ -45,6 +45,12 @@ const pages = [
     path: '/mail',
     title: 'Mail',
     content: pageLoader(() => import('./mail.md'))
+  },
+  {
+    imports: { Pinterest: require('../src/index').Pinterest },
+    path: '/pinterest',
+    title: 'Pinterest',
+    content: pageLoader(() => import('./pinterest.md'))
   }
 ]
 

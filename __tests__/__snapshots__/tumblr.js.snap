@@ -9,13 +9,13 @@ exports[`Tumblr 1 1`] = `
 >
   <styled.a
     aria-label=""
-    href="http://tumblr.com/widgets/share/tool?canonicalUrl=http://sharingbuttons.io"
+    href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
       aria-label=""
       className="sc-bwzfXH eNnkUm"
-      href="http://tumblr.com/widgets/share/tool?canonicalUrl=http://sharingbuttons.io"
+      href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div>
@@ -66,13 +66,13 @@ exports[`Tumblr 2 1`] = `
 >
   <styled.a
     aria-label=""
-    href="http://tumblr.com/widgets/share/tool?canonicalUrl=http://sharingbuttons.io"
+    href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
       aria-label=""
       className="sc-bwzfXH eNnkUm"
-      href="http://tumblr.com/widgets/share/tool?canonicalUrl=http://sharingbuttons.io"
+      href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div>
@@ -123,13 +123,13 @@ exports[`Tumblr 3 1`] = `
 >
   <styled.a
     aria-label=""
-    href="http://tumblr.com/widgets/share/tool?canonicalUrl=http://sharingbuttons.io"
+    href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
       aria-label=""
       className="sc-bwzfXH eNnkUm"
-      href="http://tumblr.com/widgets/share/tool?canonicalUrl=http://sharingbuttons.io"
+      href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div
@@ -180,13 +180,13 @@ exports[`Tumblr 4 1`] = `
 >
   <styled.a
     aria-label=""
-    href="http://tumblr.com/widgets/share/tool?canonicalUrl=http://sharingbuttons.io"
+    href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
       aria-label=""
       className="sc-bwzfXH eNnkUm"
-      href="http://tumblr.com/widgets/share/tool?canonicalUrl=http://sharingbuttons.io"
+      href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div>
@@ -236,13 +236,13 @@ exports[`Tumblr 5 1`] = `
 >
   <styled.a
     aria-label=""
-    href="http://tumblr.com/widgets/share/tool?canonicalUrl=http://sharingbuttons.io"
+    href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
       aria-label=""
       className="sc-bwzfXH eNnkUm"
-      href="http://tumblr.com/widgets/share/tool?canonicalUrl=http://sharingbuttons.io"
+      href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div>
@@ -292,13 +292,13 @@ exports[`Tumblr 6 1`] = `
 >
   <styled.a
     aria-label=""
-    href="http://tumblr.com/widgets/share/tool?canonicalUrl=http://sharingbuttons.io"
+    href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
       aria-label=""
       className="sc-bwzfXH eNnkUm"
-      href="http://tumblr.com/widgets/share/tool?canonicalUrl=http://sharingbuttons.io"
+      href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div
@@ -348,13 +348,13 @@ exports[`Tumblr 7 1`] = `
 >
   <styled.a
     aria-label=""
-    href="http://tumblr.com/widgets/share/tool?canonicalUrl=http://sharingbuttons.io"
+    href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
       aria-label=""
       className="sc-bwzfXH eNnkUm"
-      href="http://tumblr.com/widgets/share/tool?canonicalUrl=http://sharingbuttons.io"
+      href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div>
@@ -399,13 +399,13 @@ exports[`Tumblr 8 1`] = `
 >
   <styled.a
     aria-label=""
-    href="http://tumblr.com/widgets/share/tool?canonicalUrl=http://sharingbuttons.io"
+    href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
       aria-label=""
       className="sc-bwzfXH eNnkUm"
-      href="http://tumblr.com/widgets/share/tool?canonicalUrl=http://sharingbuttons.io"
+      href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div>
@@ -450,13 +450,13 @@ exports[`Tumblr 9 1`] = `
 >
   <styled.a
     aria-label=""
-    href="http://tumblr.com/widgets/share/tool?canonicalUrl=http://sharingbuttons.io"
+    href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
       aria-label=""
       className="sc-bwzfXH eNnkUm"
-      href="http://tumblr.com/widgets/share/tool?canonicalUrl=http://sharingbuttons.io"
+      href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div

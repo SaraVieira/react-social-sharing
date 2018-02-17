@@ -9,13 +9,13 @@ exports[`Google 1 1`] = `
 >
   <styled.a
     aria-label=""
-    href="https://plus.google.com/share?url=http://sharingbuttons.io"
+    href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
       aria-label=""
       className="sc-bwzfXH eNnkUm"
-      href="https://plus.google.com/share?url=http://sharingbuttons.io"
+      href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div
@@ -65,13 +65,13 @@ exports[`Google 2 1`] = `
 >
   <styled.a
     aria-label=""
-    href="https://plus.google.com/share?url=http://sharingbuttons.io"
+    href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
       aria-label=""
       className="sc-bwzfXH eNnkUm"
-      href="https://plus.google.com/share?url=http://sharingbuttons.io"
+      href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div
@@ -121,13 +121,13 @@ exports[`Google 3 1`] = `
 >
   <styled.a
     aria-label=""
-    href="https://plus.google.com/share?url=http://sharingbuttons.io"
+    href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
       aria-label=""
       className="sc-bwzfXH eNnkUm"
-      href="https://plus.google.com/share?url=http://sharingbuttons.io"
+      href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div
@@ -176,13 +176,13 @@ exports[`Google 4 1`] = `
 >
   <styled.a
     aria-label=""
-    href="https://plus.google.com/share?url=http://sharingbuttons.io"
+    href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
       aria-label=""
       className="sc-bwzfXH eNnkUm"
-      href="https://plus.google.com/share?url=http://sharingbuttons.io"
+      href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div>
@@ -229,13 +229,13 @@ exports[`Google 5 1`] = `
 >
   <styled.a
     aria-label=""
-    href="https://plus.google.com/share?url=http://sharingbuttons.io"
+    href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
       aria-label=""
       className="sc-bwzfXH eNnkUm"
-      href="https://plus.google.com/share?url=http://sharingbuttons.io"
+      href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div>
@@ -282,13 +282,13 @@ exports[`Google 6 1`] = `
 >
   <styled.a
     aria-label=""
-    href="https://plus.google.com/share?url=http://sharingbuttons.io"
+    href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
       aria-label=""
       className="sc-bwzfXH eNnkUm"
-      href="https://plus.google.com/share?url=http://sharingbuttons.io"
+      href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div
@@ -335,13 +335,13 @@ exports[`Google 7 1`] = `
 >
   <styled.a
     aria-label=""
-    href="https://plus.google.com/share?url=http://sharingbuttons.io"
+    href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
       aria-label=""
       className="sc-bwzfXH eNnkUm"
-      href="https://plus.google.com/share?url=http://sharingbuttons.io"
+      href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div>
@@ -386,13 +386,13 @@ exports[`Google 8 1`] = `
 >
   <styled.a
     aria-label=""
-    href="https://plus.google.com/share?url=http://sharingbuttons.io"
+    href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
       aria-label=""
       className="sc-bwzfXH eNnkUm"
-      href="https://plus.google.com/share?url=http://sharingbuttons.io"
+      href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div>
@@ -437,13 +437,13 @@ exports[`Google 9 1`] = `
 >
   <styled.a
     aria-label=""
-    href="https://plus.google.com/share?url=http://sharingbuttons.io"
+    href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
       aria-label=""
       className="sc-bwzfXH eNnkUm"
-      href="https://plus.google.com/share?url=http://sharingbuttons.io"
+      href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div
