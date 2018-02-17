@@ -18,7 +18,8 @@
     "prepublishOnly": "npm run dist:es6 && npm run dist:modules",
     "postpublish": "npm run gh-pages && npm run gh-pages:deploy",
     "postinstall": "node lib/post_install.js",
-    "format": "prettier --write '**/*.{js,css,md}'"
+    "format": "prettier --write '**/*.{js,css,md}'",
+    "precommit": "lint-staged"
   },
   "main": "dist-modules",
   "module": "dist-es6",
@@ -45,7 +46,9 @@
     "eslint-plugin-react": "^7.5.1",
     "gh-pages": "^1.1.0",
     "git-prepush-hook": "^1.0.2",
+    "husky": "^0.14.3",
     "jest": "^21.2.1",
+    "lint-staged": "^6.1.1",
     "prettier": "^1.10.2",
     "purecss": "^1.0.0",
     "react": "^16.2.0",
@@ -87,5 +90,11 @@
   "dependencies": {
     "styled-components": "^3.1.6",
     "styled-is": "^1.1.2"
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix",
+      "git add"
+    ]
   }
 }
