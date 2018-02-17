@@ -12,6 +12,10 @@ export default {
       link
     )}`,
   reddit: link => `https://reddit.com/submit/?url=${encodeURIComponent(link)}`,
+  xing: (message, link) =>
+    `https://www.xing.com/app/user?op=share;url=${encodeURIComponent(
+      link
+    )};title=${encodeURIComponent(message)}.`,
   mail: (message, link) =>
     `mailto:?subject=${encodeURIComponent(
       message

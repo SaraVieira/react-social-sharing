@@ -61,6 +61,12 @@ const pages = [
     path: '/reddit',
     title: 'Reddit',
     content: pageLoader(() => import('./reddit.md'))
+  },
+  {
+    imports: { Xing: require('../src/index').Xing },
+    path: '/xing',
+    title: 'Xing',
+    content: pageLoader(() => import('./xing.md'))
   }
 ]
 

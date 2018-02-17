@@ -7,5 +7,6 @@ module.exports = {
   Mail: require('./mail').default,
   Pinterest: require('./pinterest').default,
   Linkedin: require('./linkedin').default,
-  Reddit: require('./reddit').default
+  Reddit: require('./reddit').default,
+  Xing: require('./xing').default
 }
