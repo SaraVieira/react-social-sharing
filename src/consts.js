@@ -11,6 +11,7 @@ export default {
     `http://tumblr.com/widgets/share/tool?canonicalUrl=${encodeURIComponent(
       link
     )}`,
+  reddit: link => `https://reddit.com/submit/?url=${encodeURIComponent(link)}`,
   mail: (message, link) =>
     `mailto:?subject=${encodeURIComponent(
       message

@@ -55,6 +55,12 @@ const pages = [
     path: '/linkedin',
     title: 'Linkedin',
     content: pageLoader(() => import('./linkedin.md'))
+  },
+  {
+    imports: { Reddit: require('../src/index').Reddit },
+    path: '/reddit',
+    title: 'Reddit',
+    content: pageLoader(() => import('./reddit.md'))
   }
 ]
 

@@ -6,5 +6,6 @@ module.exports = {
   Tumblr: require('./tumblr').default,
   Mail: require('./mail').default,
   Pinterest: require('./pinterest').default,
-  Linkedin: require('./linkedin').default
+  Linkedin: require('./linkedin').default,
+  Reddit: require('./reddit').default
 }
