@@ -1,4 +1,5 @@
 // this should be the entry point to your library
 module.exports = {
-  Twitter: require('./twitter').default
+  Twitter: require('./twitter').default,
+  Facebook: require('./facebook').default
 }

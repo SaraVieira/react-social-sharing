@@ -21,6 +21,12 @@ const pages = [
     path: '/twitter',
     title: 'Twitter',
     content: pageLoader(() => import('./twitter.md'))
+  },
+  {
+    imports: { Facebook: require('../src/index').Facebook },
+    path: '/facebook',
+    title: 'Facebook',
+    content: pageLoader(() => import('./facebook.md'))
   }
 ]
 
