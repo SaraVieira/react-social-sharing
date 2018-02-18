@@ -1,5 +1,5 @@
 [![build status](https://secure.travis-ci.org/SaraVieira/react-social-sharing.svg)](http://travis-ci.org/SaraVieira/react-social-sharing) [![bitHound Score](https://www.bithound.io/github/SaraVieira/react-social-sharing/badges/score.svg)](https://www.bithound.io/github/SaraVieira/react-social-sharing) [![Dependency Status](https://david-dm.org/SaraVieira/react-social-sharing.svg)](https://david-dm.org/SaraVieira/react-social-sharing)
-[![Codecov](https://codecov.io/gh/SaraVieira/react-social-sharing/branch/master/graph/badge.svg)](https://codecov.io/gh/SaraVieira/react-social-sharing/settings/badge)
+[![codecov](https://codecov.io/gh/SaraVieira/react-social-sharing/branch/master/graph/badge.svg)](https://codecov.io/gh/SaraVieira/react-social-sharing)
 
 # React Sharing Buttons
 
