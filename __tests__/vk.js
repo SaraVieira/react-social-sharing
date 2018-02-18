@@ -81,4 +81,16 @@ describe('VK', function() {
     )
     expect(wrapper).toMatchSnapshot()
   })
+  test('11', () => {
+    const wrapper = mount(<VK circle />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('11', () => {
+    const wrapper = mount(<VK solidcircle />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('12', () => {
+    const wrapper = mount(<VK />)
+    expect(wrapper).toMatchSnapshot()
+  })
 })

@@ -106,4 +106,21 @@ describe('Facebook', function() {
     )
     expect(wrapper).toMatchSnapshot()
   })
+
+  test('10', () => {
+    const wrapper = mount(<Facebook solid />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('11', () => {
+    const wrapper = mount(<Facebook circle />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('11', () => {
+    const wrapper = mount(<Facebook solidcircle />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('12', () => {
+    const wrapper = mount(<Facebook />)
+    expect(wrapper).toMatchSnapshot()
+  })
 })

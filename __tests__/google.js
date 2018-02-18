@@ -106,4 +106,16 @@ describe('Google', function() {
     )
     expect(wrapper).toMatchSnapshot()
   })
+  test('11', () => {
+    const wrapper = mount(<Google circle />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('11', () => {
+    const wrapper = mount(<Google solidcircle />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('12', () => {
+    const wrapper = mount(<Google />)
+    expect(wrapper).toMatchSnapshot()
+  })
 })

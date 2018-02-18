@@ -57,4 +57,16 @@ describe('Reddit', function() {
     )
     expect(wrapper).toMatchSnapshot()
   })
+  test('11', () => {
+    const wrapper = mount(<Reddit circle />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('11', () => {
+    const wrapper = mount(<Reddit solidcircle />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('12', () => {
+    const wrapper = mount(<Reddit />)
+    expect(wrapper).toMatchSnapshot()
+  })
 })

@@ -106,4 +106,16 @@ describe('Telegram', function() {
     )
     expect(wrapper).toMatchSnapshot()
   })
+  test('11', () => {
+    const wrapper = mount(<Telegram circle />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('11', () => {
+    const wrapper = mount(<Telegram solidcircle />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('12', () => {
+    const wrapper = mount(<Telegram />)
+    expect(wrapper).toMatchSnapshot()
+  })
 })

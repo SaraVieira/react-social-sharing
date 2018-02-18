@@ -96,4 +96,16 @@ describe('Xing', function() {
     )
     expect(wrapper).toMatchSnapshot()
   })
+  test('11', () => {
+    const wrapper = mount(<Xing circle />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('11', () => {
+    const wrapper = mount(<Xing solidcircle />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('12', () => {
+    const wrapper = mount(<Xing />)
+    expect(wrapper).toMatchSnapshot()
+  })
 })

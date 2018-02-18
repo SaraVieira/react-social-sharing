@@ -106,4 +106,16 @@ describe('HackerNews', function() {
     )
     expect(wrapper).toMatchSnapshot()
   })
+  test('11', () => {
+    const wrapper = mount(<HackerNews circle />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('11', () => {
+    const wrapper = mount(<HackerNews solidcircle />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('12', () => {
+    const wrapper = mount(<HackerNews />)
+    expect(wrapper).toMatchSnapshot()
+  })
 })

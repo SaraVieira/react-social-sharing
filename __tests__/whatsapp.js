@@ -106,4 +106,16 @@ describe('Whatsapp', function() {
     )
     expect(wrapper).toMatchSnapshot()
   })
+  test('11', () => {
+    const wrapper = mount(<Whatsapp circle />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('11', () => {
+    const wrapper = mount(<Whatsapp solidcircle />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('12', () => {
+    const wrapper = mount(<Whatsapp />)
+    expect(wrapper).toMatchSnapshot()
+  })
 })
