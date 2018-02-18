@@ -4,6 +4,7 @@ import is from 'styled-is'
 import { TwitterIconFill, TwitterIconCircle } from '../svg/twitter.js'
 import { SharingButton, Link, Icon } from '../common'
 import links from '../consts'
+import wrapper from './wrapper'
 
 const Twitter = SharingButton.extend`
   background-color: #55acee;
@@ -33,31 +34,18 @@ const Button = ({
         solidcircle={solidcircle}
         aria-hidden="true"
       >
-        {solid && small ? <TwitterIconFill /> : null}
-        {solid && medium ? (
-          <Fragment>
-            <TwitterIconFill /> Twitter{' '}
-          </Fragment>
-        ) : null}
-        {solid && big ? (
-          <Fragment>
-            <TwitterIconFill /> Share on Twitter{' '}
-          </Fragment>
-        ) : null}
-        {(solidcircle || circle) && small ? <TwitterIconCircle /> : null}
-        {(solidcircle || circle) && medium ? (
-          <Fragment>
-            <TwitterIconCircle /> Twitter{' '}
-          </Fragment>
-        ) : null}
-        {(solidcircle || circle) && big ? (
-          <Fragment>
-            <TwitterIconCircle /> Share on Twitter{' '}
-          </Fragment>
-        ) : null}
-        {!solid && !circle && !solidcircle ? <TwitterIconFill /> : null}
-
-        {!big && !small && !medium ? <Fragment> Twitter </Fragment> : null}
+        {wrapper(
+          small,
+          solid,
+          medium,
+          big,
+          circle,
+          solidcircle,
+          TwitterIconFill,
+          TwitterIconCircle,
+          TwitterIconCircle,
+          'Twitter'
+        )}
       </Icon>
     </Twitter>
   </Link>

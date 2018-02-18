@@ -4,10 +4,11 @@ import is from 'styled-is'
 import {
   EmailIconFill,
   EmailIconCircle,
-  EmailIconCircleFill
+  EmailIconCircleSolid
 } from '../svg/mail.js'
 import { SharingButton, Link, Icon } from '../common'
 import links from '../consts'
+import wrapper from './wrapper'
 
 const Email = SharingButton.extend`
   background-color: #777777;
@@ -37,42 +38,18 @@ const Button = ({
         solidcircle={solidcircle}
         aria-hidden="true"
       >
-        {solid && small ? <EmailIconFill /> : null}
-        {solid && medium ? (
-          <Fragment>
-            <EmailIconFill /> E-Mail{' '}
-          </Fragment>
-        ) : null}
-        {solid && big ? (
-          <Fragment>
-            <EmailIconFill /> Share by E-Mail{' '}
-          </Fragment>
-        ) : null}
-        {circle && small ? <EmailIconCircle /> : null}
-        {circle && medium ? (
-          <Fragment>
-            <EmailIconCircle /> E-Mail{' '}
-          </Fragment>
-        ) : null}
-        {circle && big ? (
-          <Fragment>
-            <EmailIconCircle /> Share by E-Mail{' '}
-          </Fragment>
-        ) : null}
-        {solidcircle && small ? <EmailIconCircleFill /> : null}
-        {solidcircle && medium ? (
-          <Fragment>
-            <EmailIconCircleFill /> E-Mail{' '}
-          </Fragment>
-        ) : null}
-        {solidcircle && big ? (
-          <Fragment>
-            <EmailIconCircleFill /> Share by E-Mail{' '}
-          </Fragment>
-        ) : null}
-        {!solid && !circle && !solidcircle ? <MailIconFill /> : null}
-
-        {!big && !small && !medium ? <Fragment> E-Mail </Fragment> : null}
+        {wrapper(
+          small,
+          solid,
+          medium,
+          big,
+          circle,
+          solidcircle,
+          EmailIconFill,
+          EmailIconCircle,
+          EmailIconCircleSolid,
+          'E-Mail'
+        )}
       </Icon>
     </Email>
   </Link>

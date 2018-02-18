@@ -4,6 +4,7 @@ import is from 'styled-is'
 import { GoogleIconFill, GoogleIconCircle } from '../svg/google.js'
 import { SharingButton, Link, Icon } from '../common'
 import links from '../consts'
+import wrapper from './wrapper'
 
 const Google = SharingButton.extend`
   background-color: #dd4b39;
@@ -24,31 +25,18 @@ const Button = ({ small, solid, link, medium, big, circle, solidcircle }) => (
         solidcircle={solidcircle}
         aria-hidden="true"
       >
-        {solid && small ? <GoogleIconFill /> : null}
-        {solid && medium ? (
-          <Fragment>
-            <GoogleIconFill /> Google+{' '}
-          </Fragment>
-        ) : null}
-        {solid && big ? (
-          <Fragment>
-            <GoogleIconFill /> Share on Google+{' '}
-          </Fragment>
-        ) : null}
-        {(solidcircle || circle) && small ? <GoogleIconCircle /> : null}
-        {(solidcircle || circle) && medium ? (
-          <Fragment>
-            <GoogleIconCircle /> Google+{' '}
-          </Fragment>
-        ) : null}
-        {(solidcircle || circle) && big ? (
-          <Fragment>
-            <GoogleIconCircle /> Share on Google+{' '}
-          </Fragment>
-        ) : null}
-        {!solid && !circle && !solidcircle ? <GoogleIconFill /> : null}
-
-        {!big && !small && !medium ? <Fragment> Google Plus </Fragment> : null}
+        {wrapper(
+          small,
+          solid,
+          medium,
+          big,
+          circle,
+          solidcircle,
+          GoogleIconFill,
+          GoogleIconCircle,
+          GoogleIconCircle,
+          'Google +'
+        )}
       </Icon>
     </Google>
   </Link>

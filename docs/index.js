@@ -7,13 +7,7 @@ import { Catalog, CodeSpecimen, ReactSpecimen, pageLoader } from 'catalog'
 import 'purecss/build/pure.css'
 import './main.css'
 
-const documentationImports = {}
-const pages = [
-  {
-    path: '/',
-    title: 'Introduction',
-    content: pageLoader(() => import('../README.md'))
-  },
+const documentationImports = [
   {
     imports: { Twitter: require('../src/index').Twitter },
     path: '/twitter',
@@ -93,6 +87,17 @@ const pages = [
     content: pageLoader(() => import('./telegram.md'))
   }
 ]
+
+const pages = [
+  {
+    path: '/',
+    title: 'Introduction',
+    content: pageLoader(() => import('../README.md'))
+  },
+  ...documentationImports.sort((a, b) => b.title - a.title)
+]
+
+console.log(...documentationImports.sort((a, b) => b.title - a.title))
 
 ReactDOM.render(
   <div>

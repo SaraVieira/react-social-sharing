@@ -8,6 +8,7 @@ import {
 } from '../svg/whatsapp.js'
 import { SharingButton, Link, Icon } from '../common'
 import links from '../consts'
+import wrapper from './wrapper'
 
 const Whatsapp = SharingButton.extend`
   background-color: #25d366;
@@ -37,42 +38,18 @@ const Button = ({
         solidcircle={solidcircle}
         aria-hidden="true"
       >
-        {solid && small ? <WhatsappIconFill /> : null}
-        {solid && medium ? (
-          <Fragment>
-            <WhatsappIconFill /> Whatsapp{' '}
-          </Fragment>
-        ) : null}
-        {solid && big ? (
-          <Fragment>
-            <WhatsappIconFill /> Share on Whatsapp{' '}
-          </Fragment>
-        ) : null}
-        {circle && small ? <WhatsappIconCircle /> : null}
-        {circle && medium ? (
-          <Fragment>
-            <WhatsappIconCircle /> Whatsapp{' '}
-          </Fragment>
-        ) : null}
-        {circle && big ? (
-          <Fragment>
-            <WhatsappIconCircle /> Share on Whatsapp{' '}
-          </Fragment>
-        ) : null}
-        {solidcircle && small ? <WhatsappIconCircleSolid /> : null}
-        {solidcircle && medium ? (
-          <Fragment>
-            <WhatsappIconCircleSolid /> Whatsapp{' '}
-          </Fragment>
-        ) : null}
-        {solidcircle && big ? (
-          <Fragment>
-            <WhatsappIconCircleSolid /> Share on Whatsapp{' '}
-          </Fragment>
-        ) : null}
-        {!solid && !circle && !solidcircle ? <WhatsappIconFill /> : null}
-
-        {!big && !small && !medium ? <Fragment> Whatsapp </Fragment> : null}
+        {wrapper(
+          small,
+          solid,
+          medium,
+          big,
+          circle,
+          solidcircle,
+          WhatsappIconFill,
+          WhatsappIconCircle,
+          WhatsappIconCircleSolid,
+          'WhatsApp'
+        )}
       </Icon>
     </Whatsapp>
   </Link>

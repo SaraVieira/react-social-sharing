@@ -4,6 +4,7 @@ import is from 'styled-is'
 import { TumblrIconFill, TumblrIconCircle } from '../svg/tumblr.js'
 import { SharingButton, Link, Icon } from '../common'
 import links from '../consts'
+import wrapper from './wrapper'
 
 const Tumblr = SharingButton.extend`
   background-color: #35465c;
@@ -24,31 +25,18 @@ const Button = ({ small, solid, link, medium, big, circle, solidcircle }) => (
         solidcircle={solidcircle}
         aria-hidden="true"
       >
-        {solid && small ? <TumblrIconFill /> : null}
-        {solid && medium ? (
-          <Fragment>
-            <TumblrIconFill /> Tumblr{' '}
-          </Fragment>
-        ) : null}
-        {solid && big ? (
-          <Fragment>
-            <TumblrIconFill /> Share on Tumblr{' '}
-          </Fragment>
-        ) : null}
-        {(solidcircle || circle) && small ? <TumblrIconCircle /> : null}
-        {(solidcircle || circle) && medium ? (
-          <Fragment>
-            <TumblrIconCircle /> Tumblr{' '}
-          </Fragment>
-        ) : null}
-        {(solidcircle || circle) && big ? (
-          <Fragment>
-            <TumblrIconCircle /> Share on Tumblr{' '}
-          </Fragment>
-        ) : null}
-        {!solid && !circle && !solidcircle ? <TumblrIconFill /> : null}
-
-        {!big && !small && !medium ? <Fragment> Tumblr </Fragment> : null}
+        {wrapper(
+          small,
+          solid,
+          medium,
+          big,
+          circle,
+          solidcircle,
+          TumblrIconFill,
+          TumblrIconCircle,
+          TumblrIconCircle,
+          'Tumblr'
+        )}
       </Icon>
     </Tumblr>
   </Link>

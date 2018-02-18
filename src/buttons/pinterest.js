@@ -8,6 +8,7 @@ import {
 } from '../svg/pinterest.js'
 import { SharingButton, Link, Icon } from '../common'
 import links from '../consts'
+import wrapper from './wrapper'
 
 const Pinterest = SharingButton.extend`
   background-color: #bd081c;
@@ -37,42 +38,18 @@ const Button = ({
         solidcircle={solidcircle}
         aria-hidden="true"
       >
-        {solid && small ? <PinterestIconFill /> : null}
-        {solid && medium ? (
-          <Fragment>
-            <PinterestIconFill /> Pinterest{' '}
-          </Fragment>
-        ) : null}
-        {solid && big ? (
-          <Fragment>
-            <PinterestIconFill /> Share on Pinterest{' '}
-          </Fragment>
-        ) : null}
-        {circle && small ? <PinterestIconCircle /> : null}
-        {circle && medium ? (
-          <Fragment>
-            <PinterestIconCircle /> Pinterest{' '}
-          </Fragment>
-        ) : null}
-        {circle && big ? (
-          <Fragment>
-            <PinterestIconCircle /> Share on Pinterest{' '}
-          </Fragment>
-        ) : null}
-        {solidcircle && small ? <PinterestIconCircleSolid /> : null}
-        {solidcircle && medium ? (
-          <Fragment>
-            <PinterestIconCircleSolid /> Pinterest{' '}
-          </Fragment>
-        ) : null}
-        {solidcircle && big ? (
-          <Fragment>
-            <PinterestIconCircleSolid /> Share on Pinterest{' '}
-          </Fragment>
-        ) : null}
-        {!solid && !circle && !solidcircle ? <PinterestIconFill /> : null}
-
-        {!big && !small && !medium ? <Fragment> Pinterest </Fragment> : null}
+        {wrapper(
+          small,
+          solid,
+          medium,
+          big,
+          circle,
+          solidcircle,
+          PinterestIconFill,
+          PinterestIconCircle,
+          PinterestIconCircleSolid,
+          'Pinterest'
+        )}
       </Icon>
     </Pinterest>
   </Link>

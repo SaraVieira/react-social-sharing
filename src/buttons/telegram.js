@@ -8,6 +8,7 @@ import {
 } from '../svg/telegram.js'
 import { SharingButton, Link, Icon } from '../common'
 import links from '../consts'
+import wrapper from './wrapper'
 
 const Telegram = SharingButton.extend`
   background-color: #1a7576;
@@ -37,42 +38,18 @@ const Button = ({
         solidcircle={solidcircle}
         aria-hidden="true"
       >
-        {solid && small ? <TelegramIconFill /> : null}
-        {solid && medium ? (
-          <Fragment>
-            <TelegramIconFill /> Telegram{' '}
-          </Fragment>
-        ) : null}
-        {solid && big ? (
-          <Fragment>
-            <TelegramIconFill /> Share on Telegram{' '}
-          </Fragment>
-        ) : null}
-        {circle && small ? <TelegramIconCircle /> : null}
-        {circle && medium ? (
-          <Fragment>
-            <TelegramIconCircle /> Telegram{' '}
-          </Fragment>
-        ) : null}
-        {circle && big ? (
-          <Fragment>
-            <TelegramIconCircle /> Share on Telegram{' '}
-          </Fragment>
-        ) : null}
-        {solidcircle && small ? <TelegramIconCircleSolid /> : null}
-        {solidcircle && medium ? (
-          <Fragment>
-            <TelegramIconCircleSolid /> Telegram{' '}
-          </Fragment>
-        ) : null}
-        {solidcircle && big ? (
-          <Fragment>
-            <TelegramIconCircleSolid /> Share on Telegram{' '}
-          </Fragment>
-        ) : null}
-        {!solid && !circle && !solidcircle ? <TelegramIconFill /> : null}
-
-        {!big && !small && !medium ? <Fragment> Telegram </Fragment> : null}
+        {wrapper(
+          small,
+          solid,
+          medium,
+          big,
+          circle,
+          solidcircle,
+          TelegramIconFill,
+          TelegramIconCircle,
+          TelegramIconCircleSolid,
+          'Telegram'
+        )}
       </Icon>
     </Telegram>
   </Link>

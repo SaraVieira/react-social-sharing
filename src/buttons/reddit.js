@@ -8,6 +8,7 @@ import {
 } from '../svg/reddit.js'
 import { SharingButton, Link, Icon } from '../common'
 import links from '../consts'
+import wrapper from './wrapper'
 
 const Reddit = SharingButton.extend`
   background-color: #5f99cf;
@@ -28,43 +29,18 @@ const Button = ({ small, solid, link, medium, big, circle, solidcircle }) => (
         solidcircle={solidcircle}
         aria-hidden="true"
       >
-        {solid && small ? <RedditIconFill /> : null}
-        {solid && medium ? (
-          <Fragment>
-            <RedditIconFill /> Reddit{' '}
-          </Fragment>
-        ) : null}
-        {solid && big ? (
-          <Fragment>
-            <RedditIconFill /> Share on Reddit{' '}
-          </Fragment>
-        ) : null}
-        {circle && small ? <RedditIconCircle /> : null}
-        {circle && medium ? (
-          <Fragment>
-            <RedditIconCircle /> Reddit{' '}
-          </Fragment>
-        ) : null}
-        {circle && big ? (
-          <Fragment>
-            <RedditIconCircle /> Share on Reddit{' '}
-          </Fragment>
-        ) : null}
-        {solidcircle && small ? <RedditIconCircleSolid /> : null}
-        {solidcircle && medium ? (
-          <Fragment>
-            <RedditIconCircleSolid /> Reddit{' '}
-          </Fragment>
-        ) : null}
-        {solidcircle && big ? (
-          <Fragment>
-            <RedditIconCircleSolid /> Share on Reddit{' '}
-          </Fragment>
-        ) : null}
-
-        {!solid && !circle && !solidcircle ? <RedditIconFill /> : null}
-
-        {!big && !small && !medium ? <Fragment> Reddit </Fragment> : null}
+        {wrapper(
+          small,
+          solid,
+          medium,
+          big,
+          circle,
+          solidcircle,
+          RedditIconFill,
+          RedditIconCircle,
+          RedditIconCircleSolid,
+          'Reddit'
+        )}
       </Icon>
     </Reddit>
   </Link>

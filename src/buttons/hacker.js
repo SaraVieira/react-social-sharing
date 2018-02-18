@@ -8,6 +8,7 @@ import {
 } from '../svg/hacker.js'
 import { SharingButton, Link, Icon } from '../common'
 import links from '../consts'
+import wrapper from './wrapper'
 
 const Hacker = SharingButton.extend`
   background-color: #ff6600;
@@ -37,42 +38,18 @@ const Button = ({
         solidcircle={solidcircle}
         aria-hidden="true"
       >
-        {solid && small ? <HackerIconFill /> : null}
-        {solid && medium ? (
-          <Fragment>
-            <HackerIconFill /> HackerNews{' '}
-          </Fragment>
-        ) : null}
-        {solid && big ? (
-          <Fragment>
-            <HackerIconFill /> Share on HackerNews{' '}
-          </Fragment>
-        ) : null}
-        {circle && small ? <HackerIconCircle /> : null}
-        {circle && medium ? (
-          <Fragment>
-            <HackerIconCircle /> HackerNews{' '}
-          </Fragment>
-        ) : null}
-        {circle && big ? (
-          <Fragment>
-            <HackerIconCircle /> Share on HackerNews{' '}
-          </Fragment>
-        ) : null}
-        {solidcircle && small ? <HackerIconCircleSolid /> : null}
-        {solidcircle && medium ? (
-          <Fragment>
-            <HackerIconCircleSolid /> HackerNews{' '}
-          </Fragment>
-        ) : null}
-        {solidcircle && big ? (
-          <Fragment>
-            <HackerIconCircleSolid /> Share on HackerNews{' '}
-          </Fragment>
-        ) : null}
-        {!solid && !circle && !solidcircle ? <HackerIconFill /> : null}
-
-        {!big && !small && !medium ? <Fragment> HackerNews </Fragment> : null}
+        {wrapper(
+          small,
+          solid,
+          medium,
+          big,
+          circle,
+          solidcircle,
+          HackerIconFill,
+          HackerIconCircle,
+          HackerIconCircleSolid,
+          'HackerNews'
+        )}
       </Icon>
     </Hacker>
   </Link>

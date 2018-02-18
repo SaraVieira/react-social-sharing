@@ -8,6 +8,7 @@ import {
 } from '../svg/xing.js'
 import { SharingButton, Link, Icon } from '../common'
 import links from '../consts'
+import wrapper from './wrapper'
 
 const Xing = SharingButton.extend`
   background-color: #1a7576;
@@ -37,42 +38,18 @@ const Button = ({
         solidcircle={solidcircle}
         aria-hidden="true"
       >
-        {solid && small ? <XingIconFill /> : null}
-        {solid && medium ? (
-          <Fragment>
-            <XingIconFill /> Xing{' '}
-          </Fragment>
-        ) : null}
-        {solid && big ? (
-          <Fragment>
-            <XingIconFill /> Share on Xing{' '}
-          </Fragment>
-        ) : null}
-        {circle && small ? <XingIconCircle /> : null}
-        {circle && medium ? (
-          <Fragment>
-            <XingIconCircle /> Xing{' '}
-          </Fragment>
-        ) : null}
-        {circle && big ? (
-          <Fragment>
-            <XingIconCircle /> Share on Xing{' '}
-          </Fragment>
-        ) : null}
-        {solidcircle && small ? <XingIconCircleSolid /> : null}
-        {solidcircle && medium ? (
-          <Fragment>
-            <XingIconCircleSolid /> Xing{' '}
-          </Fragment>
-        ) : null}
-        {solidcircle && big ? (
-          <Fragment>
-            <XingIconCircleSolid /> Share on Xing{' '}
-          </Fragment>
-        ) : null}
-        {!solid && !circle && !solidcircle ? <XingIconFill /> : null}
-
-        {!big && !small && !medium ? <Fragment> Xing </Fragment> : null}
+        {wrapper(
+          small,
+          solid,
+          medium,
+          big,
+          circle,
+          solidcircle,
+          XingIconFill,
+          XingIconCircle,
+          XingIconCircleSolid,
+          'Xing'
+        )}
       </Icon>
     </Xing>
   </Link>

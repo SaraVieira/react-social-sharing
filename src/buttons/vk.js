@@ -4,6 +4,7 @@ import is from 'styled-is'
 import { VKIconFill, VKIconCircle, VKIconCircleSolid } from '../svg/vk.js'
 import { SharingButton, Link, Icon } from '../common'
 import links from '../consts'
+import wrapper from './wrapper'
 
 const VK = SharingButton.extend`
   background-color: #507299;
@@ -33,42 +34,18 @@ const Button = ({
         solidcircle={solidcircle}
         aria-hidden="true"
       >
-        {solid && small ? <VKIconFill /> : null}
-        {solid && medium ? (
-          <Fragment>
-            <VKIconFill /> VK{' '}
-          </Fragment>
-        ) : null}
-        {solid && big ? (
-          <Fragment>
-            <VKIconFill /> Share on VK{' '}
-          </Fragment>
-        ) : null}
-        {circle && small ? <VKIconCircle /> : null}
-        {circle && medium ? (
-          <Fragment>
-            <VKIconCircle /> VK{' '}
-          </Fragment>
-        ) : null}
-        {circle && big ? (
-          <Fragment>
-            <VKIconCircle /> Share on VK{' '}
-          </Fragment>
-        ) : null}
-        {solidcircle && small ? <VKIconCircleSolid /> : null}
-        {solidcircle && medium ? (
-          <Fragment>
-            <VKIconCircleSolid /> VK{' '}
-          </Fragment>
-        ) : null}
-        {solidcircle && big ? (
-          <Fragment>
-            <VKIconCircleSolid /> Share on VK{' '}
-          </Fragment>
-        ) : null}
-        {!solid && !circle && !solidcircle ? <VKIconFill /> : null}
-
-        {!big && !small && !medium ? <Fragment> VK </Fragment> : null}
+        {wrapper(
+          small,
+          solid,
+          medium,
+          big,
+          circle,
+          solidcircle,
+          VKIconFill,
+          VKIconCircle,
+          VKIconCircleSolid,
+          'VK'
+        )}
       </Icon>
     </VK>
   </Link>

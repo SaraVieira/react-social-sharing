@@ -4,6 +4,7 @@ import is from 'styled-is'
 import { FacebookIconFill, FacebookIconCircle } from '../svg/facebook.js'
 import { SharingButton, Link, Icon } from '../common'
 import links from '../consts'
+import wrapper from './wrapper'
 
 const Facebook = SharingButton.extend`
   background-color: #3b5998;
@@ -27,32 +28,18 @@ const Button = ({ small, solid, link, medium, big, circle, solidcircle }) => (
         solidcircle={solidcircle}
         aria-hidden="true"
       >
-        {solid && small ? <FacebookIconFill /> : null}
-        {solid && medium ? (
-          <Fragment>
-            <FacebookIconFill /> Facebook{' '}
-          </Fragment>
-        ) : null}
-        {solid && big ? (
-          <Fragment>
-            <FacebookIconFill /> Share on Facebook{' '}
-          </Fragment>
-        ) : null}
-        {(solidcircle || circle) && small ? <FacebookIconCircle /> : null}
-        {(solidcircle || circle) && medium ? (
-          <Fragment>
-            <FacebookIconCircle /> Facebook{' '}
-          </Fragment>
-        ) : null}
-        {(solidcircle || circle) && big ? (
-          <Fragment>
-            <FacebookIconCircle /> Share on Facebook{' '}
-          </Fragment>
-        ) : null}
-
-        {!solid && !circle && !solidcircle ? <FacebookIconFill /> : null}
-
-        {!big && !small && !medium ? <Fragment> Facebook </Fragment> : null}
+        {wrapper(
+          small,
+          solid,
+          medium,
+          big,
+          circle,
+          solidcircle,
+          FacebookIconFill,
+          FacebookIconCircle,
+          FacebookIconCircle,
+          'Facebook'
+        )}
       </Icon>
     </Facebook>
   </Link>

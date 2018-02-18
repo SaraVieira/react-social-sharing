@@ -8,6 +8,7 @@ import {
 } from '../svg/linkedin.js'
 import { SharingButton, Link, Icon } from '../common'
 import links from '../consts'
+import wrapper from './wrapper'
 
 const Linkedin = SharingButton.extend`
   background-color: #0077b5;
@@ -37,42 +38,18 @@ const Button = ({
         solidcircle={solidcircle}
         aria-hidden="true"
       >
-        {solid && small ? <LinkedinIconFill /> : null}
-        {solid && medium ? (
-          <Fragment>
-            <LinkedinIconFill /> LinkedIn{' '}
-          </Fragment>
-        ) : null}
-        {solid && big ? (
-          <Fragment>
-            <LinkedinIconFill /> Share on LinkedIn{' '}
-          </Fragment>
-        ) : null}
-        {circle && small ? <LinkedinIconCircle /> : null}
-        {circle && medium ? (
-          <Fragment>
-            <LinkedinIconCircle /> LinkedIn{' '}
-          </Fragment>
-        ) : null}
-        {circle && big ? (
-          <Fragment>
-            <LinkedinIconCircle /> Share on LinkedIn{' '}
-          </Fragment>
-        ) : null}
-        {solidcircle && small ? <LinkedinIconCircleSolid /> : null}
-        {solidcircle && medium ? (
-          <Fragment>
-            <LinkedinIconCircleSolid /> LinkedIn{' '}
-          </Fragment>
-        ) : null}
-        {solidcircle && big ? (
-          <Fragment>
-            <LinkedinIconCircleSolid /> Share on LinkedIn{' '}
-          </Fragment>
-        ) : null}
-        {!solid && !circle && !solidcircle ? <LinkedinIconFill /> : null}
-
-        {!big && !small && !medium ? <Fragment> LinkedIn </Fragment> : null}
+        {wrapper(
+          small,
+          solid,
+          medium,
+          big,
+          circle,
+          solidcircle,
+          LinkedinIconFill,
+          LinkedinIconCircle,
+          LinkedinIconCircleSolid,
+          'LinkedIn'
+        )}
       </Icon>
     </Linkedin>
   </Link>
