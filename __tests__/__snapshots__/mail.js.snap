@@ -8,14 +8,16 @@ exports[`Mail 1 1`] = `
   solidcircle={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on E-Mail"
     href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on E-Mail"
       className="sc-bwzfXH eNnkUm"
       href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -61,14 +63,16 @@ exports[`Mail 2 1`] = `
   solidcircle={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on E-Mail"
     href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on E-Mail"
       className="sc-bwzfXH eNnkUm"
       href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -114,14 +118,16 @@ exports[`Mail 3 1`] = `
   solidcircle={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on E-Mail"
     href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on E-Mail"
       className="sc-bwzfXH eNnkUm"
       href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div
@@ -166,14 +172,16 @@ exports[`Mail 4 1`] = `
   message="I am so cool"
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on E-Mail"
     href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on E-Mail"
       className="sc-bwzfXH eNnkUm"
       href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -220,14 +228,16 @@ exports[`Mail 5 1`] = `
   message="I am so cool"
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on E-Mail"
     href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on E-Mail"
       className="sc-bwzfXH eNnkUm"
       href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -274,14 +284,16 @@ exports[`Mail 6 1`] = `
   small={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on E-Mail"
     href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on E-Mail"
       className="sc-bwzfXH eNnkUm"
       href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div
@@ -327,14 +339,16 @@ exports[`Mail 7 1`] = `
   solid={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on E-Mail"
     href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on E-Mail"
       className="sc-bwzfXH eNnkUm"
       href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -377,14 +391,16 @@ exports[`Mail 8 1`] = `
   solid={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on E-Mail"
     href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on E-Mail"
       className="sc-bwzfXH eNnkUm"
       href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -427,14 +443,16 @@ exports[`Mail 9 1`] = `
   solid={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on E-Mail"
     href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on E-Mail"
       className="sc-bwzfXH eNnkUm"
       href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div

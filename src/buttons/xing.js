@@ -31,7 +31,12 @@ const Button = ({
   circle,
   solidcircle
 }) => (
-  <Link href={links.xing(message, link)} target="_blank" aria-label="">
+  <Link
+    href={links.xing(message, link)}
+    target="_blank"
+    aria-label="Share on Xing"
+    rel="noreferrer noopener"
+  >
     <Xing small={small}>
       <Icon
         solid={(!solid && !circle && !solidcircle) || solid}

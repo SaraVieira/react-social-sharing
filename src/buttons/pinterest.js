@@ -31,7 +31,12 @@ const Button = ({
   circle,
   solidcircle
 }) => (
-  <Link href={links.pinterest(message, link)} target="_blank" aria-label="">
+  <Link
+    href={links.pinterest(message, link)}
+    target="_blank"
+    rel="noreferrer noopener"
+    aria-label="Share on Pinterest"
+  >
     <Pinterest small={small}>
       <Icon
         solid={(!solid && !circle && !solidcircle) || solid}

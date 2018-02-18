@@ -8,14 +8,16 @@ exports[`Google 1 1`] = `
   solidcircle={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Google Plus"
     href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Google Plus"
       className="sc-bwzfXH eNnkUm"
       href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div
@@ -63,14 +65,16 @@ exports[`Google 2 1`] = `
   solidcircle={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Google Plus"
     href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Google Plus"
       className="sc-bwzfXH eNnkUm"
       href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div
@@ -118,14 +122,16 @@ exports[`Google 3 1`] = `
   solidcircle={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Google Plus"
     href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Google Plus"
       className="sc-bwzfXH eNnkUm"
       href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div
@@ -171,14 +177,16 @@ exports[`Google 4 1`] = `
   message="I am so cool"
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Google Plus"
     href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Google Plus"
       className="sc-bwzfXH eNnkUm"
       href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -223,14 +231,16 @@ exports[`Google 5 1`] = `
   message="I am so cool"
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Google Plus"
     href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Google Plus"
       className="sc-bwzfXH eNnkUm"
       href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -275,14 +285,16 @@ exports[`Google 6 1`] = `
   small={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Google Plus"
     href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Google Plus"
       className="sc-bwzfXH eNnkUm"
       href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div
@@ -326,14 +338,16 @@ exports[`Google 7 1`] = `
   solid={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Google Plus"
     href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Google Plus"
       className="sc-bwzfXH eNnkUm"
       href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -376,14 +390,16 @@ exports[`Google 8 1`] = `
   solid={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Google Plus"
     href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Google Plus"
       className="sc-bwzfXH eNnkUm"
       href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -426,14 +442,16 @@ exports[`Google 9 1`] = `
   solid={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Google Plus"
     href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Google Plus"
       className="sc-bwzfXH eNnkUm"
       href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div

@@ -31,7 +31,12 @@ const Button = ({
   circle,
   solidcircle
 }) => (
-  <Link href={links.telegram(message, link)} target="_blank" aria-label="">
+  <Link
+    href={links.telegram(message, link)}
+    target="_blank"
+    aria-label="Share on Telegram"
+    rel="noreferrer noopener"
+  >
     <Telegram small={small}>
       <Icon
         solid={(!solid && !circle && !solidcircle) || solid}

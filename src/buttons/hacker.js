@@ -31,7 +31,12 @@ const Button = ({
   circle,
   solidcircle
 }) => (
-  <Link href={links.hacker(message, link)} target="_blank" aria-label="">
+  <Link
+    href={links.hacker(message, link)}
+    target="_blank"
+    rel="noreferrer noopener"
+    aria-label="Share on HackerNews"
+  >
     <Hacker small={small}>
       <Icon
         solid={(!solid && !circle && !solidcircle) || solid}

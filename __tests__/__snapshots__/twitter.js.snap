@@ -8,12 +8,12 @@ exports[`Twitter 1 1`] = `
   solidcircle={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Twitter"
     href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Twitter"
       className="sc-bwzfXH eNnkUm"
       href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
@@ -24,11 +24,13 @@ exports[`Twitter 1 1`] = `
         >
           <styled.div
             aria-hidden="true"
+            rel="noreferrer noopener"
             solidcircle={true}
           >
             <div
               aria-hidden="true"
               className="sc-htpNat gylFwk"
+              rel="noreferrer noopener"
             >
               <svg
                 viewBox="0 0 24 24"
@@ -58,12 +60,12 @@ exports[`Twitter 2 1`] = `
   solidcircle={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Twitter"
     href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Twitter"
       className="sc-bwzfXH eNnkUm"
       href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
@@ -74,11 +76,13 @@ exports[`Twitter 2 1`] = `
         >
           <styled.div
             aria-hidden="true"
+            rel="noreferrer noopener"
             solidcircle={true}
           >
             <div
               aria-hidden="true"
               className="sc-htpNat gylFwk"
+              rel="noreferrer noopener"
             >
               <svg
                 viewBox="0 0 24 24"
@@ -108,12 +112,12 @@ exports[`Twitter 3 1`] = `
   solidcircle={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Twitter"
     href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Twitter"
       className="sc-bwzfXH eNnkUm"
       href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
@@ -126,11 +130,13 @@ exports[`Twitter 3 1`] = `
         >
           <styled.div
             aria-hidden="true"
+            rel="noreferrer noopener"
             solidcircle={true}
           >
             <div
               aria-hidden="true"
               className="sc-htpNat gylFwk"
+              rel="noreferrer noopener"
             >
               <svg
                 viewBox="0 0 24 24"
@@ -157,12 +163,12 @@ exports[`Twitter 4 1`] = `
   message="I am so cool"
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Twitter"
     href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Twitter"
       className="sc-bwzfXH eNnkUm"
       href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
@@ -173,10 +179,12 @@ exports[`Twitter 4 1`] = `
         >
           <styled.div
             aria-hidden="true"
+            rel="noreferrer noopener"
           >
             <div
               aria-hidden="true"
               className="sc-htpNat dZQCuR"
+              rel="noreferrer noopener"
             >
               <svg
                 viewBox="0 0 24 24"
@@ -206,12 +214,12 @@ exports[`Twitter 5 1`] = `
   message="I am so cool"
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Twitter"
     href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Twitter"
       className="sc-bwzfXH eNnkUm"
       href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
@@ -222,10 +230,12 @@ exports[`Twitter 5 1`] = `
         >
           <styled.div
             aria-hidden="true"
+            rel="noreferrer noopener"
           >
             <div
               aria-hidden="true"
               className="sc-htpNat dZQCuR"
+              rel="noreferrer noopener"
             >
               <svg
                 viewBox="0 0 24 24"
@@ -255,12 +265,12 @@ exports[`Twitter 6 1`] = `
   small={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Twitter"
     href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Twitter"
       className="sc-bwzfXH eNnkUm"
       href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
@@ -273,10 +283,12 @@ exports[`Twitter 6 1`] = `
         >
           <styled.div
             aria-hidden="true"
+            rel="noreferrer noopener"
           >
             <div
               aria-hidden="true"
               className="sc-htpNat dZQCuR"
+              rel="noreferrer noopener"
             >
               <svg
                 viewBox="0 0 24 24"
@@ -303,12 +315,12 @@ exports[`Twitter 7 1`] = `
   solid={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Twitter"
     href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Twitter"
       className="sc-bwzfXH eNnkUm"
       href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
@@ -319,11 +331,13 @@ exports[`Twitter 7 1`] = `
         >
           <styled.div
             aria-hidden="true"
+            rel="noreferrer noopener"
             solid={true}
           >
             <div
               aria-hidden="true"
               className="sc-htpNat gylFwk"
+              rel="noreferrer noopener"
             >
               <svg
                 viewBox="0 0 24 24"
@@ -353,12 +367,12 @@ exports[`Twitter 8 1`] = `
   solid={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Twitter"
     href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Twitter"
       className="sc-bwzfXH eNnkUm"
       href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
@@ -369,11 +383,13 @@ exports[`Twitter 8 1`] = `
         >
           <styled.div
             aria-hidden="true"
+            rel="noreferrer noopener"
             solid={true}
           >
             <div
               aria-hidden="true"
               className="sc-htpNat gylFwk"
+              rel="noreferrer noopener"
             >
               <svg
                 viewBox="0 0 24 24"
@@ -403,12 +419,12 @@ exports[`Twitter 9 1`] = `
   solid={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Twitter"
     href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Twitter"
       className="sc-bwzfXH eNnkUm"
       href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
@@ -421,11 +437,13 @@ exports[`Twitter 9 1`] = `
         >
           <styled.div
             aria-hidden="true"
+            rel="noreferrer noopener"
             solid={true}
           >
             <div
               aria-hidden="true"
               className="sc-htpNat gylFwk"
+              rel="noreferrer noopener"
             >
               <svg
                 viewBox="0 0 24 24"

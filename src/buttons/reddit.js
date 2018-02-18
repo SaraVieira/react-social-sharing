@@ -22,7 +22,12 @@ const Reddit = SharingButton.extend`
 `
 
 const Button = ({ small, solid, link, medium, big, circle, solidcircle }) => (
-  <Link href={links.reddit(link)} target="_blank" aria-label="">
+  <Link
+    href={links.reddit(link)}
+    target="_blank"
+    aria-label="Share on Reddit"
+    rel="noreferrer noopener"
+  >
     <Reddit small={small}>
       <Icon
         solid={(!solid && !circle && !solidcircle) || solid}

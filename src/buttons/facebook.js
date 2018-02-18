@@ -21,7 +21,12 @@ const Facebook = SharingButton.extend`
 `
 
 const Button = ({ small, solid, link, medium, big, circle, solidcircle }) => (
-  <Link href={links.facebook(link)} target="_blank" aria-label="">
+  <Link
+    href={links.facebook(link)}
+    target="_blank"
+    rel="noreferrer noopener"
+    aria-label="Share on Facebook"
+  >
     <Facebook small={small} solidcircle={solidcircle}>
       <Icon
         solid={(!solid && !circle && !solidcircle) || solid}

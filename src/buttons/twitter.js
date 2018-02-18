@@ -27,12 +27,17 @@ const Button = ({
   circle,
   solidcircle
 }) => (
-  <Link href={links.twitter(message, link)} target="_blank" aria-label="">
+  <Link
+    href={links.twitter(message, link)}
+    target="_blank"
+    aria-label="Share on Twitter"
+  >
     <Twitter small={small}>
       <Icon
         solid={(!solid && !circle && !solidcircle) || solid}
         solidcircle={solidcircle}
         aria-hidden="true"
+        rel="noreferrer noopener"
       >
         {wrapper(
           small,

@@ -8,12 +8,12 @@ exports[`VK 1 1`] = `
   solidcircle={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on VK"
     href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on VK"
       className="sc-bwzfXH eNnkUm"
       href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
@@ -24,11 +24,13 @@ exports[`VK 1 1`] = `
         >
           <styled.div
             aria-hidden="true"
+            rel="noreferrer noopener"
             solidcircle={true}
           >
             <div
               aria-hidden="true"
               className="sc-htpNat gylFwk"
+              rel="noreferrer noopener"
             >
               <svg
                 viewBox="0 0 24 24"
@@ -58,12 +60,12 @@ exports[`VK 2 1`] = `
   solidcircle={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on VK"
     href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on VK"
       className="sc-bwzfXH eNnkUm"
       href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
@@ -74,11 +76,13 @@ exports[`VK 2 1`] = `
         >
           <styled.div
             aria-hidden="true"
+            rel="noreferrer noopener"
             solidcircle={true}
           >
             <div
               aria-hidden="true"
               className="sc-htpNat gylFwk"
+              rel="noreferrer noopener"
             >
               <svg
                 viewBox="0 0 24 24"
@@ -108,12 +112,12 @@ exports[`VK 3 1`] = `
   solidcircle={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on VK"
     href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on VK"
       className="sc-bwzfXH eNnkUm"
       href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
@@ -126,11 +130,13 @@ exports[`VK 3 1`] = `
         >
           <styled.div
             aria-hidden="true"
+            rel="noreferrer noopener"
             solidcircle={true}
           >
             <div
               aria-hidden="true"
               className="sc-htpNat gylFwk"
+              rel="noreferrer noopener"
             >
               <svg
                 viewBox="0 0 24 24"
@@ -157,12 +163,12 @@ exports[`VK 4 1`] = `
   message="I am so cool"
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on VK"
     href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on VK"
       className="sc-bwzfXH eNnkUm"
       href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
@@ -173,10 +179,12 @@ exports[`VK 4 1`] = `
         >
           <styled.div
             aria-hidden="true"
+            rel="noreferrer noopener"
           >
             <div
               aria-hidden="true"
               className="sc-htpNat dZQCuR"
+              rel="noreferrer noopener"
             >
               <svg
                 viewBox="0 0 24 24"
@@ -212,12 +220,12 @@ exports[`VK 5 1`] = `
   message="I am so cool"
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on VK"
     href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on VK"
       className="sc-bwzfXH eNnkUm"
       href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
@@ -228,10 +236,12 @@ exports[`VK 5 1`] = `
         >
           <styled.div
             aria-hidden="true"
+            rel="noreferrer noopener"
           >
             <div
               aria-hidden="true"
               className="sc-htpNat dZQCuR"
+              rel="noreferrer noopener"
             >
               <svg
                 viewBox="0 0 24 24"
@@ -267,12 +277,12 @@ exports[`VK 6 1`] = `
   small={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on VK"
     href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on VK"
       className="sc-bwzfXH eNnkUm"
       href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
@@ -285,10 +295,12 @@ exports[`VK 6 1`] = `
         >
           <styled.div
             aria-hidden="true"
+            rel="noreferrer noopener"
           >
             <div
               aria-hidden="true"
               className="sc-htpNat dZQCuR"
+              rel="noreferrer noopener"
             >
               <svg
                 viewBox="0 0 24 24"
@@ -321,12 +333,12 @@ exports[`VK 7 1`] = `
   solid={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on VK"
     href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on VK"
       className="sc-bwzfXH eNnkUm"
       href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
@@ -337,11 +349,13 @@ exports[`VK 7 1`] = `
         >
           <styled.div
             aria-hidden="true"
+            rel="noreferrer noopener"
             solid={true}
           >
             <div
               aria-hidden="true"
               className="sc-htpNat gylFwk"
+              rel="noreferrer noopener"
             >
               <svg
                 viewBox="0 0 24 24"
@@ -371,12 +385,12 @@ exports[`VK 8 1`] = `
   solid={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on VK"
     href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on VK"
       className="sc-bwzfXH eNnkUm"
       href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
@@ -387,11 +401,13 @@ exports[`VK 8 1`] = `
         >
           <styled.div
             aria-hidden="true"
+            rel="noreferrer noopener"
             solid={true}
           >
             <div
               aria-hidden="true"
               className="sc-htpNat gylFwk"
+              rel="noreferrer noopener"
             >
               <svg
                 viewBox="0 0 24 24"
@@ -421,12 +437,12 @@ exports[`VK 9 1`] = `
   solid={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on VK"
     href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on VK"
       className="sc-bwzfXH eNnkUm"
       href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
@@ -439,11 +455,13 @@ exports[`VK 9 1`] = `
         >
           <styled.div
             aria-hidden="true"
+            rel="noreferrer noopener"
             solid={true}
           >
             <div
               aria-hidden="true"
               className="sc-htpNat gylFwk"
+              rel="noreferrer noopener"
             >
               <svg
                 viewBox="0 0 24 24"

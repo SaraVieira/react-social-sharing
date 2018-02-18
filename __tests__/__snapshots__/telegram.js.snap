@@ -8,14 +8,16 @@ exports[`Telegram 1 1`] = `
   solidcircle={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Telegram"
     href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Telegram"
       className="sc-bwzfXH eNnkUm"
       href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -59,14 +61,16 @@ exports[`Telegram 2 1`] = `
   solidcircle={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Telegram"
     href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Telegram"
       className="sc-bwzfXH eNnkUm"
       href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -110,14 +114,16 @@ exports[`Telegram 3 1`] = `
   solidcircle={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Telegram"
     href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Telegram"
       className="sc-bwzfXH eNnkUm"
       href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div
@@ -160,14 +166,16 @@ exports[`Telegram 4 1`] = `
   message="I am so cool"
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Telegram"
     href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Telegram"
       className="sc-bwzfXH eNnkUm"
       href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -214,14 +222,16 @@ exports[`Telegram 5 1`] = `
   message="I am so cool"
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Telegram"
     href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Telegram"
       className="sc-bwzfXH eNnkUm"
       href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -268,14 +278,16 @@ exports[`Telegram 6 1`] = `
   small={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Telegram"
     href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Telegram"
       className="sc-bwzfXH eNnkUm"
       href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div
@@ -321,14 +333,16 @@ exports[`Telegram 7 1`] = `
   solid={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Telegram"
     href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Telegram"
       className="sc-bwzfXH eNnkUm"
       href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -371,14 +385,16 @@ exports[`Telegram 8 1`] = `
   solid={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Telegram"
     href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Telegram"
       className="sc-bwzfXH eNnkUm"
       href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -421,14 +437,16 @@ exports[`Telegram 9 1`] = `
   solid={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Telegram"
     href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Telegram"
       className="sc-bwzfXH eNnkUm"
       href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div

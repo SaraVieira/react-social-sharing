@@ -7,14 +7,16 @@ exports[`Reddit 1 1`] = `
   solidcircle={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Reddit"
     href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Reddit"
       className="sc-bwzfXH eNnkUm"
       href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -72,14 +74,16 @@ exports[`Reddit 2 1`] = `
   solidcircle={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Reddit"
     href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Reddit"
       className="sc-bwzfXH eNnkUm"
       href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -137,14 +141,16 @@ exports[`Reddit 3 1`] = `
   solidcircle={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Reddit"
     href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Reddit"
       className="sc-bwzfXH eNnkUm"
       href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div
@@ -201,14 +207,16 @@ exports[`Reddit 4 1`] = `
   link="http://sharingbuttons.io"
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Reddit"
     href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Reddit"
       className="sc-bwzfXH eNnkUm"
       href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -281,14 +289,16 @@ exports[`Reddit 5 1`] = `
   medium={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Reddit"
     href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Reddit"
       className="sc-bwzfXH eNnkUm"
       href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -361,14 +371,16 @@ exports[`Reddit 6 1`] = `
   small={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Reddit"
     href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Reddit"
       className="sc-bwzfXH eNnkUm"
       href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div
@@ -440,14 +452,16 @@ exports[`Reddit 7 1`] = `
   solid={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Reddit"
     href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Reddit"
       className="sc-bwzfXH eNnkUm"
       href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -489,14 +503,16 @@ exports[`Reddit 8 1`] = `
   solid={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Reddit"
     href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Reddit"
       className="sc-bwzfXH eNnkUm"
       href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -538,14 +554,16 @@ exports[`Reddit 9 1`] = `
   solid={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Reddit"
     href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Reddit"
       className="sc-bwzfXH eNnkUm"
       href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div

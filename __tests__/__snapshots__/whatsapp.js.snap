@@ -8,14 +8,16 @@ exports[`Whatsapp 1 1`] = `
   solidcircle={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on WhatsApp"
     href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on WhatsApp"
       className="sc-bwzfXH eNnkUm"
       href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -60,14 +62,16 @@ exports[`Whatsapp 2 1`] = `
   solidcircle={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on WhatsApp"
     href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on WhatsApp"
       className="sc-bwzfXH eNnkUm"
       href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -112,14 +116,16 @@ exports[`Whatsapp 3 1`] = `
   solidcircle={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on WhatsApp"
     href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on WhatsApp"
       className="sc-bwzfXH eNnkUm"
       href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div
@@ -163,14 +169,16 @@ exports[`Whatsapp 4 1`] = `
   message="I am so cool"
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on WhatsApp"
     href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on WhatsApp"
       className="sc-bwzfXH eNnkUm"
       href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -219,14 +227,16 @@ exports[`Whatsapp 5 1`] = `
   message="I am so cool"
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on WhatsApp"
     href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on WhatsApp"
       className="sc-bwzfXH eNnkUm"
       href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -275,14 +285,16 @@ exports[`Whatsapp 6 1`] = `
   small={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on WhatsApp"
     href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on WhatsApp"
       className="sc-bwzfXH eNnkUm"
       href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div
@@ -330,14 +342,16 @@ exports[`Whatsapp 7 1`] = `
   solid={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on WhatsApp"
     href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on WhatsApp"
       className="sc-bwzfXH eNnkUm"
       href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -380,14 +394,16 @@ exports[`Whatsapp 8 1`] = `
   solid={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on WhatsApp"
     href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on WhatsApp"
       className="sc-bwzfXH eNnkUm"
       href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -430,14 +446,16 @@ exports[`Whatsapp 9 1`] = `
   solid={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on WhatsApp"
     href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on WhatsApp"
       className="sc-bwzfXH eNnkUm"
       href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div

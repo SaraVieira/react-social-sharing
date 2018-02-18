@@ -27,12 +27,13 @@ const Button = ({
   circle,
   solidcircle
 }) => (
-  <Link href={links.vk(message, link)} target="_blank" aria-label="">
+  <Link href={links.vk(message, link)} target="_blank" aria-label="Share on VK">
     <VK small={small}>
       <Icon
         solid={(!solid && !circle && !solidcircle) || solid}
         solidcircle={solidcircle}
         aria-hidden="true"
+        rel="noreferrer noopener"
       >
         {wrapper(
           small,

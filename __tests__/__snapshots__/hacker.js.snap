@@ -8,14 +8,16 @@ exports[`HackerNews 1 1`] = `
   solidcircle={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on HackerNews"
     href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on HackerNews"
       className="sc-bwzfXH eNnkUm"
       href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -59,14 +61,16 @@ exports[`HackerNews 2 1`] = `
   solidcircle={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on HackerNews"
     href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on HackerNews"
       className="sc-bwzfXH eNnkUm"
       href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -110,14 +114,16 @@ exports[`HackerNews 3 1`] = `
   solidcircle={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on HackerNews"
     href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on HackerNews"
       className="sc-bwzfXH eNnkUm"
       href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div
@@ -160,14 +166,16 @@ exports[`HackerNews 4 1`] = `
   message="I am so cool"
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on HackerNews"
     href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on HackerNews"
       className="sc-bwzfXH eNnkUm"
       href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -216,14 +224,16 @@ exports[`HackerNews 5 1`] = `
   message="I am so cool"
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on HackerNews"
     href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on HackerNews"
       className="sc-bwzfXH eNnkUm"
       href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -272,14 +282,16 @@ exports[`HackerNews 6 1`] = `
   small={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on HackerNews"
     href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on HackerNews"
       className="sc-bwzfXH eNnkUm"
       href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div
@@ -327,14 +339,16 @@ exports[`HackerNews 7 1`] = `
   solid={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on HackerNews"
     href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on HackerNews"
       className="sc-bwzfXH eNnkUm"
       href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -378,14 +392,16 @@ exports[`HackerNews 8 1`] = `
   solid={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on HackerNews"
     href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on HackerNews"
       className="sc-bwzfXH eNnkUm"
       href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -429,14 +445,16 @@ exports[`HackerNews 9 1`] = `
   solid={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on HackerNews"
     href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on HackerNews"
       className="sc-bwzfXH eNnkUm"
       href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div

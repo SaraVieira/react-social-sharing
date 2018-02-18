@@ -31,7 +31,12 @@ const Button = ({
   circle,
   solidcircle
 }) => (
-  <Link href={links.whatsapp(message, link)} target="_blank" aria-label="">
+  <Link
+    href={links.whatsapp(message, link)}
+    target="_blank"
+    aria-label="Share on WhatsApp"
+    rel="noreferrer noopener"
+  >
     <Whatsapp small={small}>
       <Icon
         solid={(!solid && !circle && !solidcircle) || solid}

@@ -18,7 +18,12 @@ const Tumblr = SharingButton.extend`
 `
 
 const Button = ({ small, solid, link, medium, big, circle, solidcircle }) => (
-  <Link href={links.tumblr(link)} target="_blank" aria-label="">
+  <Link
+    href={links.tumblr(link)}
+    target="_blank"
+    aria-label="Share on Tumblr"
+    rel="noreferrer noopener"
+  >
     <Tumblr small={small}>
       <Icon
         solid={(!solid && !circle && !solidcircle) || solid}

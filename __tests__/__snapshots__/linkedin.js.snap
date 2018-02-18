@@ -8,14 +8,16 @@ exports[`Linkedin 1 1`] = `
   solidcircle={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Linkedin"
     href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Linkedin"
       className="sc-bwzfXH eNnkUm"
       href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -64,14 +66,16 @@ exports[`Linkedin 2 1`] = `
   solidcircle={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Linkedin"
     href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Linkedin"
       className="sc-bwzfXH eNnkUm"
       href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -120,14 +124,16 @@ exports[`Linkedin 3 1`] = `
   solidcircle={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Linkedin"
     href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Linkedin"
       className="sc-bwzfXH eNnkUm"
       href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div
@@ -175,14 +181,16 @@ exports[`Linkedin 4 1`] = `
   message="I am so cool"
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Linkedin"
     href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Linkedin"
       className="sc-bwzfXH eNnkUm"
       href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -234,14 +242,16 @@ exports[`Linkedin 5 1`] = `
   message="I am so cool"
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Linkedin"
     href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Linkedin"
       className="sc-bwzfXH eNnkUm"
       href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -293,14 +303,16 @@ exports[`Linkedin 6 1`] = `
   small={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Linkedin"
     href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Linkedin"
       className="sc-bwzfXH eNnkUm"
       href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div
@@ -351,14 +363,16 @@ exports[`Linkedin 7 1`] = `
   solid={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Linkedin"
     href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Linkedin"
       className="sc-bwzfXH eNnkUm"
       href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -401,14 +415,16 @@ exports[`Linkedin 8 1`] = `
   solid={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Linkedin"
     href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Linkedin"
       className="sc-bwzfXH eNnkUm"
       href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
@@ -451,14 +467,16 @@ exports[`Linkedin 9 1`] = `
   solid={true}
 >
   <styled.a
-    aria-label=""
+    aria-label="Share on Linkedin"
     href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
+    rel="noreferrer noopener"
     target="_blank"
   >
     <a
-      aria-label=""
+      aria-label="Share on Linkedin"
       className="sc-bwzfXH eNnkUm"
       href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
+      rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div

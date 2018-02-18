@@ -18,7 +18,12 @@ const Google = SharingButton.extend`
 `
 
 const Button = ({ small, solid, link, medium, big, circle, solidcircle }) => (
-  <Link href={links.google(link)} target="_blank" aria-label="">
+  <Link
+    href={links.google(link)}
+    target="_blank"
+    rel="noreferrer noopener"
+    aria-label="Share on Google Plus"
+  >
     <Google small={small} solidcircle={solidcircle}>
       <Icon
         solid={(!solid && !circle && !solidcircle) || solid}
