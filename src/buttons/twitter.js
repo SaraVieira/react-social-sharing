@@ -25,34 +25,42 @@ const Button = ({
   medium,
   big,
   circle,
-  solidcircle
+  solidcircle,
+  simple,
+  simpleReverse
 }) => (
   <Link
     href={links.twitter(message, link)}
     target="_blank"
     aria-label="Share on Twitter"
+    simple={simple}
+    simpleReverse={simpleReverse}
   >
-    <Twitter small={small}>
-      <Icon
-        solid={(!solid && !circle && !solidcircle) || solid}
-        solidcircle={solidcircle}
-        aria-hidden="true"
-        rel="noreferrer noopener"
-      >
-        {wrapper(
-          small,
-          solid,
-          medium,
-          big,
-          circle,
-          solidcircle,
-          TwitterIconFill,
-          TwitterIconCircle,
-          TwitterIconCircle,
-          'Twitter'
-        )}
-      </Icon>
-    </Twitter>
+    {simple || simpleReverse ? (
+      <TwitterIconFill />
+    ) : (
+      <Twitter small={small}>
+        <Icon
+          solid={(!solid && !circle && !solidcircle) || solid}
+          solidcircle={solidcircle}
+          aria-hidden="true"
+          rel="noreferrer noopener"
+        >
+          {wrapper(
+            small,
+            solid,
+            medium,
+            big,
+            circle,
+            solidcircle,
+            TwitterIconFill,
+            TwitterIconCircle,
+            TwitterIconCircle,
+            'Twitter'
+          )}
+        </Icon>
+      </Twitter>
+    )}
   </Link>
 )
 

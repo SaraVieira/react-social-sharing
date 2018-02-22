@@ -21,33 +21,49 @@ const Reddit = SharingButton.extend`
   }
 `
 
-const Button = ({ small, solid, link, medium, big, circle, solidcircle }) => (
+const Button = ({
+  small,
+  solid,
+  link,
+  medium,
+  big,
+  circle,
+  solidcircle,
+  simple,
+  simpleReverse
+}) => (
   <Link
     href={links.reddit(link)}
     target="_blank"
     aria-label="Share on Reddit"
     rel="noreferrer noopener"
+    simple={simple}
+    simpleReverse={simpleReverse}
   >
-    <Reddit small={small}>
-      <Icon
-        solid={(!solid && !circle && !solidcircle) || solid}
-        solidcircle={solidcircle}
-        aria-hidden="true"
-      >
-        {wrapper(
-          small,
-          solid,
-          medium,
-          big,
-          circle,
-          solidcircle,
-          RedditIconFill,
-          RedditIconCircle,
-          RedditIconCircleSolid,
-          'Reddit'
-        )}
-      </Icon>
-    </Reddit>
+    {simple || simpleReverse ? (
+      <RedditIconFill />
+    ) : (
+      <Reddit small={small}>
+        <Icon
+          solid={(!solid && !circle && !solidcircle) || solid}
+          solidcircle={solidcircle}
+          aria-hidden="true"
+        >
+          {wrapper(
+            small,
+            solid,
+            medium,
+            big,
+            circle,
+            solidcircle,
+            RedditIconFill,
+            RedditIconCircle,
+            RedditIconCircleSolid,
+            'Reddit'
+          )}
+        </Icon>
+      </Reddit>
+    )}
   </Link>
 )
 

@@ -17,33 +17,49 @@ const Tumblr = SharingButton.extend`
   }
 `
 
-const Button = ({ small, solid, link, medium, big, circle, solidcircle }) => (
+const Button = ({
+  small,
+  solid,
+  link,
+  medium,
+  big,
+  circle,
+  solidcircle,
+  simple,
+  simpleReverse
+}) => (
   <Link
     href={links.tumblr(link)}
     target="_blank"
     aria-label="Share on Tumblr"
     rel="noreferrer noopener"
+    simple={simple}
+    simpleReverse={simpleReverse}
   >
-    <Tumblr small={small}>
-      <Icon
-        solid={(!solid && !circle && !solidcircle) || solid}
-        solidcircle={solidcircle}
-        aria-hidden="true"
-      >
-        {wrapper(
-          small,
-          solid,
-          medium,
-          big,
-          circle,
-          solidcircle,
-          TumblrIconFill,
-          TumblrIconCircle,
-          TumblrIconCircle,
-          'Tumblr'
-        )}
-      </Icon>
-    </Tumblr>
+    {simple || simpleReverse ? (
+      <TumblrIconFill />
+    ) : (
+      <Tumblr small={small}>
+        <Icon
+          solid={(!solid && !circle && !solidcircle) || solid}
+          solidcircle={solidcircle}
+          aria-hidden="true"
+        >
+          {wrapper(
+            small,
+            solid,
+            medium,
+            big,
+            circle,
+            solidcircle,
+            TumblrIconFill,
+            TumblrIconCircle,
+            TumblrIconCircle,
+            'Tumblr'
+          )}
+        </Icon>
+      </Tumblr>
+    )}
   </Link>
 )
 

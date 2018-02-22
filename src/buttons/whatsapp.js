@@ -29,34 +29,42 @@ const Button = ({
   medium,
   big,
   circle,
-  solidcircle
+  solidcircle,
+  simple,
+  simpleReverse
 }) => (
   <Link
     href={links.whatsapp(message, link)}
     target="_blank"
     aria-label="Share on WhatsApp"
     rel="noreferrer noopener"
+    simple={simple}
+    simpleReverse={simpleReverse}
   >
-    <Whatsapp small={small}>
-      <Icon
-        solid={(!solid && !circle && !solidcircle) || solid}
-        solidcircle={solidcircle}
-        aria-hidden="true"
-      >
-        {wrapper(
-          small,
-          solid,
-          medium,
-          big,
-          circle,
-          solidcircle,
-          WhatsappIconFill,
-          WhatsappIconCircle,
-          WhatsappIconCircleSolid,
-          'WhatsApp'
-        )}
-      </Icon>
-    </Whatsapp>
+    {simple || simpleReverse ? (
+      <WhatsappIconFill />
+    ) : (
+      <Whatsapp small={small}>
+        <Icon
+          solid={(!solid && !circle && !solidcircle) || solid}
+          solidcircle={solidcircle}
+          aria-hidden="true"
+        >
+          {wrapper(
+            small,
+            solid,
+            medium,
+            big,
+            circle,
+            solidcircle,
+            WhatsappIconFill,
+            WhatsappIconCircle,
+            WhatsappIconCircleSolid,
+            'WhatsApp'
+          )}
+        </Icon>
+      </Whatsapp>
+    )}
   </Link>
 )
 

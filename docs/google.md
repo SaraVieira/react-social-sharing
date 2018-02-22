@@ -11,6 +11,14 @@ import { Google } from 'react-social-sharing'
 ```
 
 ```react
+<Google simple link="http://sharingbuttons.io"/>
+```
+
+```react
+<Google simpleReverse link="http://sharingbuttons.io"/>
+```
+
+```react
 <Google solidcircle big link="http://sharingbuttons.io"/>
 ```
 

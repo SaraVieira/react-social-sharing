@@ -11,6 +11,15 @@ import { Pinterest } from 'react-social-sharing'
 ```
 
 ```react
+<Pinterest simple link="http://sharingbuttons.io"/>
+```
+
+
+```react
+<Pinterest simpleReverse link="http://sharingbuttons.io"/>
+```
+
+```react
 <Pinterest solidcircle big message="I am so cool" link="http://sharingbuttons.io"/>
 ```
 

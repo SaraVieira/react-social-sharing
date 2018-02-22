@@ -29,34 +29,42 @@ const Button = ({
   medium,
   big,
   circle,
-  solidcircle
+  solidcircle,
+  simple,
+  simpleReverse
 }) => (
   <Link
     href={links.linkedin(message, link)}
     target="_blank"
     rel="noreferrer noopener"
+    simple={simple}
+    simpleReverse={simpleReverse}
     aria-label="Share on Linkedin"
   >
-    <Linkedin small={small}>
-      <Icon
-        solid={(!solid && !circle && !solidcircle) || solid}
-        solidcircle={solidcircle}
-        aria-hidden="true"
-      >
-        {wrapper(
-          small,
-          solid,
-          medium,
-          big,
-          circle,
-          solidcircle,
-          LinkedinIconFill,
-          LinkedinIconCircle,
-          LinkedinIconCircleSolid,
-          'LinkedIn'
-        )}
-      </Icon>
-    </Linkedin>
+    {simple || simpleReverse ? (
+      <LinkedinIconFill />
+    ) : (
+      <Linkedin small={small}>
+        <Icon
+          solid={(!solid && !circle && !solidcircle) || solid}
+          solidcircle={solidcircle}
+          aria-hidden="true"
+        >
+          {wrapper(
+            small,
+            solid,
+            medium,
+            big,
+            circle,
+            solidcircle,
+            LinkedinIconFill,
+            LinkedinIconCircle,
+            LinkedinIconCircleSolid,
+            'LinkedIn'
+          )}
+        </Icon>
+      </Linkedin>
+    )}
   </Link>
 )
 

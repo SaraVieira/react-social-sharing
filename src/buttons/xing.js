@@ -29,34 +29,42 @@ const Button = ({
   medium,
   big,
   circle,
-  solidcircle
+  solidcircle,
+  simple,
+  simpleReverse
 }) => (
   <Link
     href={links.xing(message, link)}
     target="_blank"
     aria-label="Share on Xing"
     rel="noreferrer noopener"
+    simpleReverse={simpleReverse}
+    simple={simple}
   >
-    <Xing small={small}>
-      <Icon
-        solid={(!solid && !circle && !solidcircle) || solid}
-        solidcircle={solidcircle}
-        aria-hidden="true"
-      >
-        {wrapper(
-          small,
-          solid,
-          medium,
-          big,
-          circle,
-          solidcircle,
-          XingIconFill,
-          XingIconCircle,
-          XingIconCircleSolid,
-          'Xing'
-        )}
-      </Icon>
-    </Xing>
+    {simple || simpleReverse ? (
+      <XingIconFill />
+    ) : (
+      <Xing small={small}>
+        <Icon
+          solid={(!solid && !circle && !solidcircle) || solid}
+          solidcircle={solidcircle}
+          aria-hidden="true"
+        >
+          {wrapper(
+            small,
+            solid,
+            medium,
+            big,
+            circle,
+            solidcircle,
+            XingIconFill,
+            XingIconCircle,
+            XingIconCircleSolid,
+            'Xing'
+          )}
+        </Icon>
+      </Xing>
+    )}
   </Link>
 )
 

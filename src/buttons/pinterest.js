@@ -29,34 +29,42 @@ const Button = ({
   medium,
   big,
   circle,
-  solidcircle
+  solidcircle,
+  simple,
+  simpleReverse
 }) => (
   <Link
     href={links.pinterest(message, link)}
     target="_blank"
     rel="noreferrer noopener"
     aria-label="Share on Pinterest"
+    simple={simple}
+    simpleReverse={simpleReverse}
   >
-    <Pinterest small={small}>
-      <Icon
-        solid={(!solid && !circle && !solidcircle) || solid}
-        solidcircle={solidcircle}
-        aria-hidden="true"
-      >
-        {wrapper(
-          small,
-          solid,
-          medium,
-          big,
-          circle,
-          solidcircle,
-          PinterestIconFill,
-          PinterestIconCircle,
-          PinterestIconCircleSolid,
-          'Pinterest'
-        )}
-      </Icon>
-    </Pinterest>
+    {simple || simpleReverse ? (
+      <PinterestIconFill />
+    ) : (
+      <Pinterest small={small}>
+        <Icon
+          solid={(!solid && !circle && !solidcircle) || solid}
+          solidcircle={solidcircle}
+          aria-hidden="true"
+        >
+          {wrapper(
+            small,
+            solid,
+            medium,
+            big,
+            circle,
+            solidcircle,
+            PinterestIconFill,
+            PinterestIconCircle,
+            PinterestIconCircleSolid,
+            'Pinterest'
+          )}
+        </Icon>
+      </Pinterest>
+    )}
   </Link>
 )
 

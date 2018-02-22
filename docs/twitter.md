@@ -11,6 +11,15 @@ import { Twitter } from 'react-social-sharing'
 ```
 
 ```react
+<Twitter simple link="http://sharingbuttons.io"/>
+```
+
+
+```react
+<Twitter simpleReverse link="http://sharingbuttons.io"/>
+```
+
+```react
 <Twitter solidcircle big message="I am so cool" link="http://sharingbuttons.io"/>
 ```
 

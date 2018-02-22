@@ -11,6 +11,14 @@ import { Reddit } from 'react-social-sharing'
 ```
 
 ```react
+<Reddit simple link="http://sharingbuttons.io"/>
+```
+
+```react
+<Reddit simpleReverse link="http://sharingbuttons.io"/>
+```
+
+```react
 <Reddit solidcircle big link="http://sharingbuttons.io"/>
 ```
 

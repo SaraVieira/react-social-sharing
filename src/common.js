@@ -6,6 +6,13 @@ export const SharingButton = styled.div`
   transition: 25ms ease-out;
   padding: 0.5em 0.75em;
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+`
+
+export const Link = styled.a`
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
 
   & svg {
     width: 1em;
@@ -20,13 +27,20 @@ export const SharingButton = styled.div`
       vertical-align: middle;
     }
   `};
-`
 
-export const Link = styled.a`
-  text-decoration: none;
-  color: #fff;
-  margin: 0.5em;
-  display: inline-block;
+  ${is('simple')`
+    & svg {
+      stroke: #232323;
+      fill: none;
+    }
+  `};
+
+  ${is('simpleReverse')`
+    & svg {
+      stroke: #fff;
+      fill: none;
+    }
+  `};
 `
 
 export const Icon = styled.div`

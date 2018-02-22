@@ -11,6 +11,15 @@ import { Tumblr } from 'react-social-sharing'
 ```
 
 ```react
+<Tumblr simple link="http://sharingbuttons.io"/>
+```
+
+
+```react
+<Tumblr simpleReverse link="http://sharingbuttons.io"/>
+```
+
+```react
 <Tumblr solidcircle big link="http://sharingbuttons.io"/>
 ```
 

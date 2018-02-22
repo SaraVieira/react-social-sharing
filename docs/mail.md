@@ -11,6 +11,14 @@ import { Mail } from 'react-social-sharing'
 ```
 
 ```react
+<Mail simple solidcircle link="http://sharingbuttons.io"/>
+```
+
+```react
+<Mail simpleReverse solidcircle link="http://sharingbuttons.io"/>
+```
+
+```react
 <Mail solidcircle big message="I am so cool" link="http://sharingbuttons.io"/>
 ```
 

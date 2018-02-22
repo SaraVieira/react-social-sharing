@@ -11,6 +11,14 @@ import { Xing } from 'react-social-sharing'
 ```
 
 ```react
+<Xing simple link="http://sharingbuttons.io"/>
+```
+
+```react
+<Xing simpleReverse link="http://sharingbuttons.io"/>
+```
+
+```react
 <Xing solidcircle big message="share on xing" link="http://sharingbuttons.io"/>
 ```
 

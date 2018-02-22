@@ -10,6 +10,16 @@ import { HackerNews } from 'react-social-sharing'
 <HackerNews link="http://sharingbuttons.io"/>
 ```
 
+
+```react
+<HackerNews simple link="http://sharingbuttons.io"/>
+```
+
+```react
+<HackerNews simpleReverse link="http://sharingbuttons.io"/>
+```
+
+
 ```react
 <HackerNews solidcircle big message="share on HackerNews" link="http://sharingbuttons.io"/>
 ```

@@ -17,33 +17,49 @@ const Google = SharingButton.extend`
   }
 `
 
-const Button = ({ small, solid, link, medium, big, circle, solidcircle }) => (
+const Button = ({
+  small,
+  solid,
+  link,
+  medium,
+  big,
+  circle,
+  solidcircle,
+  simple,
+  simpleReverse
+}) => (
   <Link
     href={links.google(link)}
     target="_blank"
     rel="noreferrer noopener"
     aria-label="Share on Google Plus"
+    simple={simple}
+    simpleReverse={simpleReverse}
   >
-    <Google small={small} solidcircle={solidcircle}>
-      <Icon
-        solid={(!solid && !circle && !solidcircle) || solid}
-        solidcircle={solidcircle}
-        aria-hidden="true"
-      >
-        {wrapper(
-          small,
-          solid,
-          medium,
-          big,
-          circle,
-          solidcircle,
-          GoogleIconFill,
-          GoogleIconCircle,
-          GoogleIconCircle,
-          'Google +'
-        )}
-      </Icon>
-    </Google>
+    {simple || simpleReverse ? (
+      <GoogleIconFill />
+    ) : (
+      <Google small={small} solidcircle={solidcircle}>
+        <Icon
+          solid={(!solid && !circle && !solidcircle) || solid}
+          solidcircle={solidcircle}
+          aria-hidden="true"
+        >
+          {wrapper(
+            small,
+            solid,
+            medium,
+            big,
+            circle,
+            solidcircle,
+            GoogleIconFill,
+            GoogleIconCircle,
+            GoogleIconCircle,
+            'Google +'
+          )}
+        </Icon>
+      </Google>
+    )}
   </Link>
 )
 

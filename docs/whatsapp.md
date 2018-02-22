@@ -11,6 +11,14 @@ import { Whatsapp } from 'react-social-sharing'
 ```
 
 ```react
+<Whatsapp simple link="http://sharingbuttons.io"/>
+```
+
+```react
+<Whatsapp simpleReverse link="http://sharingbuttons.io"/>
+```
+
+```react
 <Whatsapp solidcircle big message="share on Whatsapp" link="http://sharingbuttons.io"/>
 ```
 

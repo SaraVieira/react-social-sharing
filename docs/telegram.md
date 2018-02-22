@@ -11,6 +11,14 @@ import { Telegram } from 'react-social-sharing'
 ```
 
 ```react
+<Telegram simple link="http://sharingbuttons.io"/>
+```
+
+```react
+<Telegram simpleReverse link="http://sharingbuttons.io"/>
+```
+
+```react
 <Telegram solidcircle big message="share on Telegram" link="http://sharingbuttons.io"/>
 ```
 

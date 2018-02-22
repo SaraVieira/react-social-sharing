@@ -29,34 +29,42 @@ const Button = ({
   medium,
   big,
   circle,
-  solidcircle
+  solidcircle,
+  simple,
+  simpleReverse
 }) => (
   <Link
+    simple={simple}
+    simpleReverse={simpleReverse}
     href={links.hacker(message, link)}
     target="_blank"
     rel="noreferrer noopener"
     aria-label="Share on HackerNews"
   >
-    <Hacker small={small}>
-      <Icon
-        solid={(!solid && !circle && !solidcircle) || solid}
-        solidcircle={solidcircle}
-        aria-hidden="true"
-      >
-        {wrapper(
-          small,
-          solid,
-          medium,
-          big,
-          circle,
-          solidcircle,
-          HackerIconFill,
-          HackerIconCircle,
-          HackerIconCircleSolid,
-          'HackerNews'
-        )}
-      </Icon>
-    </Hacker>
+    {simple || simpleReverse ? (
+      <HackerIconFill />
+    ) : (
+      <Hacker small={small}>
+        <Icon
+          solid={(!solid && !circle && !solidcircle) || solid}
+          solidcircle={solidcircle}
+          aria-hidden="true"
+        >
+          {wrapper(
+            small,
+            solid,
+            medium,
+            big,
+            circle,
+            solidcircle,
+            HackerIconFill,
+            HackerIconCircle,
+            HackerIconCircleSolid,
+            'HackerNews'
+          )}
+        </Icon>
+      </Hacker>
+    )}
   </Link>
 )
 

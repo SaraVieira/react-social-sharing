@@ -29,34 +29,42 @@ const Button = ({
   medium,
   big,
   circle,
-  solidcircle
+  solidcircle,
+  simple,
+  simpleReverse
 }) => (
   <Link
     href={links.telegram(message, link)}
     target="_blank"
     aria-label="Share on Telegram"
     rel="noreferrer noopener"
+    simple={simple}
+    simpleReverse={simpleReverse}
   >
-    <Telegram small={small}>
-      <Icon
-        solid={(!solid && !circle && !solidcircle) || solid}
-        solidcircle={solidcircle}
-        aria-hidden="true"
-      >
-        {wrapper(
-          small,
-          solid,
-          medium,
-          big,
-          circle,
-          solidcircle,
-          TelegramIconFill,
-          TelegramIconCircle,
-          TelegramIconCircleSolid,
-          'Telegram'
-        )}
-      </Icon>
-    </Telegram>
+    {simple || simpleReverse ? (
+      <TelegramIconFill />
+    ) : (
+      <Telegram small={small}>
+        <Icon
+          solid={(!solid && !circle && !solidcircle) || solid}
+          solidcircle={solidcircle}
+          aria-hidden="true"
+        >
+          {wrapper(
+            small,
+            solid,
+            medium,
+            big,
+            circle,
+            solidcircle,
+            TelegramIconFill,
+            TelegramIconCircle,
+            TelegramIconCircleSolid,
+            'Telegram'
+          )}
+        </Icon>
+      </Telegram>
+    )}
   </Link>
 )
 

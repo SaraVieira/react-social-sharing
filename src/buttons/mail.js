@@ -29,34 +29,42 @@ const Button = ({
   medium,
   big,
   circle,
-  solidcircle
+  solidcircle,
+  simple,
+  simpleReverse
 }) => (
   <Link
     href={links.mail(message, link)}
     target="_blank"
     rel="noreferrer noopener"
     aria-label="Share on E-Mail"
+    simple={simple}
+    simpleReverse={simpleReverse}
   >
-    <Email small={small}>
-      <Icon
-        solid={(!solid && !circle && !solidcircle) || solid}
-        solidcircle={solidcircle}
-        aria-hidden="true"
-      >
-        {wrapper(
-          small,
-          solid,
-          medium,
-          big,
-          circle,
-          solidcircle,
-          EmailIconFill,
-          EmailIconCircle,
-          EmailIconCircleSolid,
-          'E-Mail'
-        )}
-      </Icon>
-    </Email>
+    {simple || simpleReverse ? (
+      <EmailIconFill />
+    ) : (
+      <Email small={small}>
+        <Icon
+          solid={(!solid && !circle && !solidcircle) || solid}
+          solidcircle={solidcircle}
+          aria-hidden="true"
+        >
+          {wrapper(
+            small,
+            solid,
+            medium,
+            big,
+            circle,
+            solidcircle,
+            EmailIconFill,
+            EmailIconCircle,
+            EmailIconCircleSolid,
+            'E-Mail'
+          )}
+        </Icon>
+      </Email>
+    )}
   </Link>
 )
 

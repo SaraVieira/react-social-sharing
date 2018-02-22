@@ -13,6 +13,7 @@ const Facebook = SharingButton.extend`
   ${is('solidcircle')`
     svg path { fill: #3b5998 };
   `};
+
   &:hover,
   &:active {
     background-color: #2d4373;
@@ -20,33 +21,49 @@ const Facebook = SharingButton.extend`
   }
 `
 
-const Button = ({ small, solid, link, medium, big, circle, solidcircle }) => (
+const Button = ({
+  small,
+  solid,
+  link,
+  medium,
+  big,
+  circle,
+  solidcircle,
+  simple,
+  simpleReverse
+}) => (
   <Link
     href={links.facebook(link)}
+    simple={simple}
+    simpleReverse={simpleReverse}
     target="_blank"
     rel="noreferrer noopener"
     aria-label="Share on Facebook"
   >
-    <Facebook small={small} solidcircle={solidcircle}>
-      <Icon
-        solid={(!solid && !circle && !solidcircle) || solid}
-        solidcircle={solidcircle}
-        aria-hidden="true"
-      >
-        {wrapper(
-          small,
-          solid,
-          medium,
-          big,
-          circle,
-          solidcircle,
-          FacebookIconFill,
-          FacebookIconCircle,
-          FacebookIconCircle,
-          'Facebook'
-        )}
-      </Icon>
-    </Facebook>
+    {simple || simpleReverse ? (
+      <FacebookIconFill />
+    ) : (
+      <Facebook small={small} solidcircle={solidcircle}>
+        <Icon
+          solid={(!solid && !circle && !solidcircle) || solid}
+          solidcircle={solidcircle}
+          aria-hidden="true"
+        >
+          {wrapper(
+            small,
+            solid,
+            medium,
+            big,
+            circle,
+            solidcircle,
+            FacebookIconFill,
+            FacebookIconCircle,
+            FacebookIconCircle,
+            'Facebook'
+          )}
+        </Icon>
+      </Facebook>
+    )}
   </Link>
 )
 

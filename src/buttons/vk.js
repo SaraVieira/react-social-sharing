@@ -25,30 +25,42 @@ const Button = ({
   medium,
   big,
   circle,
-  solidcircle
+  solidcircle,
+  simple,
+  simpleReverse
 }) => (
-  <Link href={links.vk(message, link)} target="_blank" aria-label="Share on VK">
-    <VK small={small}>
-      <Icon
-        solid={(!solid && !circle && !solidcircle) || solid}
-        solidcircle={solidcircle}
-        aria-hidden="true"
-        rel="noreferrer noopener"
-      >
-        {wrapper(
-          small,
-          solid,
-          medium,
-          big,
-          circle,
-          solidcircle,
-          VKIconFill,
-          VKIconCircle,
-          VKIconCircleSolid,
-          'VK'
-        )}
-      </Icon>
-    </VK>
+  <Link
+    href={links.vk(message, link)}
+    target="_blank"
+    aria-label="Share on VK"
+    simple={simple}
+    simpleReverse={simpleReverse}
+  >
+    {simple || simpleReverse ? (
+      <VKIconFill />
+    ) : (
+      <VK small={small}>
+        <Icon
+          solid={(!solid && !circle && !solidcircle) || solid}
+          solidcircle={solidcircle}
+          aria-hidden="true"
+          rel="noreferrer noopener"
+        >
+          {wrapper(
+            small,
+            solid,
+            medium,
+            big,
+            circle,
+            solidcircle,
+            VKIconFill,
+            VKIconCircle,
+            VKIconCircleSolid,
+            'VK'
+          )}
+        </Icon>
+      </VK>
+    )}
   </Link>
 )
 
