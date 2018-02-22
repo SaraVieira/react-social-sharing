@@ -14,13 +14,13 @@ exports[`Twitter 1 1`] = `
   >
     <a
       aria-label="Share on Twitter"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-bxivhb eRCsLB"
+          className="sc-bxivhb fWYWWZ"
         >
           <styled.div
             aria-hidden="true"
@@ -66,13 +66,13 @@ exports[`Twitter 2 1`] = `
   >
     <a
       aria-label="Share on Twitter"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-bxivhb eRCsLB"
+          className="sc-bxivhb fWYWWZ"
         >
           <styled.div
             aria-hidden="true"
@@ -118,7 +118,7 @@ exports[`Twitter 3 1`] = `
   >
     <a
       aria-label="Share on Twitter"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
@@ -126,7 +126,7 @@ exports[`Twitter 3 1`] = `
         small={true}
       >
         <div
-          className="sc-bxivhb iQaert"
+          className="sc-bxivhb fWYWWZ"
         >
           <styled.div
             aria-hidden="true"
@@ -169,13 +169,13 @@ exports[`Twitter 4 1`] = `
   >
     <a
       aria-label="Share on Twitter"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-bxivhb eRCsLB"
+          className="sc-bxivhb fWYWWZ"
         >
           <styled.div
             aria-hidden="true"
@@ -220,13 +220,13 @@ exports[`Twitter 5 1`] = `
   >
     <a
       aria-label="Share on Twitter"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-bxivhb eRCsLB"
+          className="sc-bxivhb fWYWWZ"
         >
           <styled.div
             aria-hidden="true"
@@ -271,7 +271,7 @@ exports[`Twitter 6 1`] = `
   >
     <a
       aria-label="Share on Twitter"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
@@ -279,7 +279,7 @@ exports[`Twitter 6 1`] = `
         small={true}
       >
         <div
-          className="sc-bxivhb iQaert"
+          className="sc-bxivhb fWYWWZ"
         >
           <styled.div
             aria-hidden="true"
@@ -321,13 +321,13 @@ exports[`Twitter 7 1`] = `
   >
     <a
       aria-label="Share on Twitter"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-bxivhb eRCsLB"
+          className="sc-bxivhb fWYWWZ"
         >
           <styled.div
             aria-hidden="true"
@@ -373,13 +373,13 @@ exports[`Twitter 8 1`] = `
   >
     <a
       aria-label="Share on Twitter"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-bxivhb eRCsLB"
+          className="sc-bxivhb fWYWWZ"
         >
           <styled.div
             aria-hidden="true"
@@ -425,7 +425,7 @@ exports[`Twitter 9 1`] = `
   >
     <a
       aria-label="Share on Twitter"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
@@ -433,7 +433,7 @@ exports[`Twitter 9 1`] = `
         small={true}
       >
         <div
-          className="sc-bxivhb iQaert"
+          className="sc-bxivhb fWYWWZ"
         >
           <styled.div
             aria-hidden="true"
@@ -473,13 +473,13 @@ exports[`Twitter 11 1`] = `
   >
     <a
       aria-label="Share on Twitter"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://twitter.com/intent/tweet/?text=.&amp;url="
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-bxivhb eRCsLB"
+          className="sc-bxivhb fWYWWZ"
         >
           <styled.div
             aria-hidden="true"
@@ -521,13 +521,13 @@ exports[`Twitter 11 2`] = `
   >
     <a
       aria-label="Share on Twitter"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://twitter.com/intent/tweet/?text=.&amp;url="
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-bxivhb eRCsLB"
+          className="sc-bxivhb fWYWWZ"
         >
           <styled.div
             aria-hidden="true"
@@ -568,13 +568,13 @@ exports[`Twitter 12 1`] = `
   >
     <a
       aria-label="Share on Twitter"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://twitter.com/intent/tweet/?text=.&amp;url="
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-bxivhb eRCsLB"
+          className="sc-bxivhb fWYWWZ"
         >
           <styled.div
             aria-hidden="true"

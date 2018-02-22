@@ -14,7 +14,6 @@ import { Pinterest } from 'react-social-sharing'
 <Pinterest simple link="http://sharingbuttons.io"/>
 ```
 
-
 ```react
 <Pinterest simpleReverse link="http://sharingbuttons.io"/>
 ```

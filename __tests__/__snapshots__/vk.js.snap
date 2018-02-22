@@ -14,13 +14,13 @@ exports[`VK 1 1`] = `
   >
     <a
       aria-label="Share on VK"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-jTzLTM hwWGTI"
+          className="sc-jTzLTM oVorJ"
         >
           <styled.div
             aria-hidden="true"
@@ -66,13 +66,13 @@ exports[`VK 2 1`] = `
   >
     <a
       aria-label="Share on VK"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-jTzLTM hwWGTI"
+          className="sc-jTzLTM oVorJ"
         >
           <styled.div
             aria-hidden="true"
@@ -118,7 +118,7 @@ exports[`VK 3 1`] = `
   >
     <a
       aria-label="Share on VK"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
@@ -126,7 +126,7 @@ exports[`VK 3 1`] = `
         small={true}
       >
         <div
-          className="sc-jTzLTM jlZyEn"
+          className="sc-jTzLTM oVorJ"
         >
           <styled.div
             aria-hidden="true"
@@ -169,13 +169,13 @@ exports[`VK 4 1`] = `
   >
     <a
       aria-label="Share on VK"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-jTzLTM hwWGTI"
+          className="sc-jTzLTM oVorJ"
         >
           <styled.div
             aria-hidden="true"
@@ -226,13 +226,13 @@ exports[`VK 5 1`] = `
   >
     <a
       aria-label="Share on VK"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-jTzLTM hwWGTI"
+          className="sc-jTzLTM oVorJ"
         >
           <styled.div
             aria-hidden="true"
@@ -283,7 +283,7 @@ exports[`VK 6 1`] = `
   >
     <a
       aria-label="Share on VK"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
@@ -291,7 +291,7 @@ exports[`VK 6 1`] = `
         small={true}
       >
         <div
-          className="sc-jTzLTM jlZyEn"
+          className="sc-jTzLTM oVorJ"
         >
           <styled.div
             aria-hidden="true"
@@ -339,13 +339,13 @@ exports[`VK 7 1`] = `
   >
     <a
       aria-label="Share on VK"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-jTzLTM hwWGTI"
+          className="sc-jTzLTM oVorJ"
         >
           <styled.div
             aria-hidden="true"
@@ -391,13 +391,13 @@ exports[`VK 8 1`] = `
   >
     <a
       aria-label="Share on VK"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-jTzLTM hwWGTI"
+          className="sc-jTzLTM oVorJ"
         >
           <styled.div
             aria-hidden="true"
@@ -443,7 +443,7 @@ exports[`VK 9 1`] = `
   >
     <a
       aria-label="Share on VK"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
       target="_blank"
     >
@@ -451,7 +451,7 @@ exports[`VK 9 1`] = `
         small={true}
       >
         <div
-          className="sc-jTzLTM jlZyEn"
+          className="sc-jTzLTM oVorJ"
         >
           <styled.div
             aria-hidden="true"
@@ -491,13 +491,13 @@ exports[`VK 11 1`] = `
   >
     <a
       aria-label="Share on VK"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="http://vk.com/share.php?title=&amp;url="
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-jTzLTM hwWGTI"
+          className="sc-jTzLTM oVorJ"
         >
           <styled.div
             aria-hidden="true"
@@ -545,13 +545,13 @@ exports[`VK 11 2`] = `
   >
     <a
       aria-label="Share on VK"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="http://vk.com/share.php?title=&amp;url="
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-jTzLTM hwWGTI"
+          className="sc-jTzLTM oVorJ"
         >
           <styled.div
             aria-hidden="true"
@@ -592,13 +592,13 @@ exports[`VK 12 1`] = `
   >
     <a
       aria-label="Share on VK"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="http://vk.com/share.php?title=&amp;url="
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-jTzLTM hwWGTI"
+          className="sc-jTzLTM oVorJ"
         >
           <styled.div
             aria-hidden="true"

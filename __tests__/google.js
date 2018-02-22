@@ -118,4 +118,12 @@ describe('Google', function() {
     const wrapper = mount(<Google />)
     expect(wrapper).toMatchSnapshot()
   })
+  test('13', () => {
+    const wrapper = mount(<Google simple />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('14', () => {
+    const wrapper = mount(<Google simpleReverse />)
+    expect(wrapper).toMatchSnapshot()
+  })
 })

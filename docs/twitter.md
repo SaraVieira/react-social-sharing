@@ -14,7 +14,6 @@ import { Twitter } from 'react-social-sharing'
 <Twitter simple link="http://sharingbuttons.io"/>
 ```
 
-
 ```react
 <Twitter simpleReverse link="http://sharingbuttons.io"/>
 ```

@@ -15,14 +15,14 @@ exports[`Mail 1 1`] = `
   >
     <a
       aria-label="Share on E-Mail"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-gzVnrw iQAXWi"
+          className="sc-gzVnrw lgCdjb"
         >
           <styled.div
             aria-hidden="true"
@@ -70,14 +70,14 @@ exports[`Mail 2 1`] = `
   >
     <a
       aria-label="Share on E-Mail"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-gzVnrw iQAXWi"
+          className="sc-gzVnrw lgCdjb"
         >
           <styled.div
             aria-hidden="true"
@@ -125,7 +125,7 @@ exports[`Mail 3 1`] = `
   >
     <a
       aria-label="Share on E-Mail"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
@@ -134,7 +134,7 @@ exports[`Mail 3 1`] = `
         small={true}
       >
         <div
-          className="sc-gzVnrw bFJaVu"
+          className="sc-gzVnrw lgCdjb"
         >
           <styled.div
             aria-hidden="true"
@@ -179,14 +179,14 @@ exports[`Mail 4 1`] = `
   >
     <a
       aria-label="Share on E-Mail"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-gzVnrw iQAXWi"
+          className="sc-gzVnrw lgCdjb"
         >
           <styled.div
             aria-hidden="true"
@@ -235,14 +235,14 @@ exports[`Mail 5 1`] = `
   >
     <a
       aria-label="Share on E-Mail"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-gzVnrw iQAXWi"
+          className="sc-gzVnrw lgCdjb"
         >
           <styled.div
             aria-hidden="true"
@@ -291,7 +291,7 @@ exports[`Mail 6 1`] = `
   >
     <a
       aria-label="Share on E-Mail"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
@@ -300,7 +300,7 @@ exports[`Mail 6 1`] = `
         small={true}
       >
         <div
-          className="sc-gzVnrw bFJaVu"
+          className="sc-gzVnrw lgCdjb"
         >
           <styled.div
             aria-hidden="true"
@@ -346,14 +346,14 @@ exports[`Mail 7 1`] = `
   >
     <a
       aria-label="Share on E-Mail"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-gzVnrw iQAXWi"
+          className="sc-gzVnrw lgCdjb"
         >
           <styled.div
             aria-hidden="true"
@@ -398,14 +398,14 @@ exports[`Mail 8 1`] = `
   >
     <a
       aria-label="Share on E-Mail"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-gzVnrw iQAXWi"
+          className="sc-gzVnrw lgCdjb"
         >
           <styled.div
             aria-hidden="true"
@@ -450,7 +450,7 @@ exports[`Mail 9 1`] = `
   >
     <a
       aria-label="Share on E-Mail"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
@@ -459,7 +459,7 @@ exports[`Mail 9 1`] = `
         small={true}
       >
         <div
-          className="sc-gzVnrw bFJaVu"
+          className="sc-gzVnrw lgCdjb"
         >
           <styled.div
             aria-hidden="true"
@@ -498,14 +498,14 @@ exports[`Mail 11 1`] = `
   >
     <a
       aria-label="Share on E-Mail"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="mailto:?subject=.&amp;body="
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-gzVnrw iQAXWi"
+          className="sc-gzVnrw lgCdjb"
         >
           <styled.div
             aria-hidden="true"
@@ -551,14 +551,14 @@ exports[`Mail 11 2`] = `
   >
     <a
       aria-label="Share on E-Mail"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="mailto:?subject=.&amp;body="
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-gzVnrw iQAXWi"
+          className="sc-gzVnrw lgCdjb"
         >
           <styled.div
             aria-hidden="true"
@@ -601,14 +601,14 @@ exports[`Mail 12 1`] = `
   >
     <a
       aria-label="Share on E-Mail"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="mailto:?subject=.&amp;body="
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-gzVnrw iQAXWi"
+          className="sc-gzVnrw lgCdjb"
         >
           <styled.div
             aria-hidden="true"

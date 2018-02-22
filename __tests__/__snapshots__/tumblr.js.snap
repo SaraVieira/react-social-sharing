@@ -15,14 +15,14 @@ exports[`Tumblr 1 1`] = `
   >
     <a
       aria-label="Share on Tumblr"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-bZQynM jPHYDh"
+          className="sc-bZQynM dkGtst"
         >
           <styled.div
             aria-hidden="true"
@@ -73,14 +73,14 @@ exports[`Tumblr 2 1`] = `
   >
     <a
       aria-label="Share on Tumblr"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-bZQynM jPHYDh"
+          className="sc-bZQynM dkGtst"
         >
           <styled.div
             aria-hidden="true"
@@ -131,7 +131,7 @@ exports[`Tumblr 3 1`] = `
   >
     <a
       aria-label="Share on Tumblr"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
@@ -140,7 +140,7 @@ exports[`Tumblr 3 1`] = `
         small={true}
       >
         <div
-          className="sc-bZQynM cpXUgj"
+          className="sc-bZQynM dkGtst"
         >
           <styled.div
             aria-hidden="true"
@@ -188,14 +188,14 @@ exports[`Tumblr 4 1`] = `
   >
     <a
       aria-label="Share on Tumblr"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-bZQynM jPHYDh"
+          className="sc-bZQynM dkGtst"
         >
           <styled.div
             aria-hidden="true"
@@ -245,14 +245,14 @@ exports[`Tumblr 5 1`] = `
   >
     <a
       aria-label="Share on Tumblr"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-bZQynM jPHYDh"
+          className="sc-bZQynM dkGtst"
         >
           <styled.div
             aria-hidden="true"
@@ -302,7 +302,7 @@ exports[`Tumblr 6 1`] = `
   >
     <a
       aria-label="Share on Tumblr"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
@@ -311,7 +311,7 @@ exports[`Tumblr 6 1`] = `
         small={true}
       >
         <div
-          className="sc-bZQynM cpXUgj"
+          className="sc-bZQynM dkGtst"
         >
           <styled.div
             aria-hidden="true"
@@ -358,14 +358,14 @@ exports[`Tumblr 7 1`] = `
   >
     <a
       aria-label="Share on Tumblr"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-bZQynM jPHYDh"
+          className="sc-bZQynM dkGtst"
         >
           <styled.div
             aria-hidden="true"
@@ -410,14 +410,14 @@ exports[`Tumblr 8 1`] = `
   >
     <a
       aria-label="Share on Tumblr"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-bZQynM jPHYDh"
+          className="sc-bZQynM dkGtst"
         >
           <styled.div
             aria-hidden="true"
@@ -462,7 +462,7 @@ exports[`Tumblr 9 1`] = `
   >
     <a
       aria-label="Share on Tumblr"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
@@ -471,7 +471,7 @@ exports[`Tumblr 9 1`] = `
         small={true}
       >
         <div
-          className="sc-bZQynM cpXUgj"
+          className="sc-bZQynM dkGtst"
         >
           <styled.div
             aria-hidden="true"
@@ -510,14 +510,14 @@ exports[`Tumblr 11 1`] = `
   >
     <a
       aria-label="Share on Tumblr"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl="
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-bZQynM jPHYDh"
+          className="sc-bZQynM dkGtst"
         >
           <styled.div
             aria-hidden="true"
@@ -564,14 +564,14 @@ exports[`Tumblr 11 2`] = `
   >
     <a
       aria-label="Share on Tumblr"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl="
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-bZQynM jPHYDh"
+          className="sc-bZQynM dkGtst"
         >
           <styled.div
             aria-hidden="true"
@@ -617,14 +617,14 @@ exports[`Tumblr 12 1`] = `
   >
     <a
       aria-label="Share on Tumblr"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl="
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-bZQynM jPHYDh"
+          className="sc-bZQynM dkGtst"
         >
           <styled.div
             aria-hidden="true"

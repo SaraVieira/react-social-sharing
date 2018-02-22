@@ -6,7 +6,6 @@ import { Facebook } from 'react-social-sharing'
 
 # Use
 
-
 ```react
 <Facebook link="http://sharingbuttons.io"/>
 ```
@@ -14,7 +13,6 @@ import { Facebook } from 'react-social-sharing'
 ```react
 <Facebook simple link="http://sharingbuttons.io"/>
 ```
-
 
 ```react
 <Facebook simpleReverse link="http://sharingbuttons.io"/>

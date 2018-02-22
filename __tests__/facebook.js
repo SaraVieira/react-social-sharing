@@ -123,4 +123,12 @@ describe('Facebook', function() {
     const wrapper = mount(<Facebook />)
     expect(wrapper).toMatchSnapshot()
   })
+  test('13', () => {
+    const wrapper = mount(<Facebook simple />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('14', () => {
+    const wrapper = mount(<Facebook simpleReverse />)
+    expect(wrapper).toMatchSnapshot()
+  })
 })

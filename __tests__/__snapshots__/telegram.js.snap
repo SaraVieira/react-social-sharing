@@ -15,14 +15,14 @@ exports[`Telegram 1 1`] = `
   >
     <a
       aria-label="Share on Telegram"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-fjdhpX hRjWkg"
+          className="sc-fjdhpX gErvTJ"
         >
           <styled.div
             aria-hidden="true"
@@ -68,14 +68,14 @@ exports[`Telegram 2 1`] = `
   >
     <a
       aria-label="Share on Telegram"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-fjdhpX hRjWkg"
+          className="sc-fjdhpX gErvTJ"
         >
           <styled.div
             aria-hidden="true"
@@ -121,7 +121,7 @@ exports[`Telegram 3 1`] = `
   >
     <a
       aria-label="Share on Telegram"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
@@ -130,7 +130,7 @@ exports[`Telegram 3 1`] = `
         small={true}
       >
         <div
-          className="sc-fjdhpX edKNja"
+          className="sc-fjdhpX gErvTJ"
         >
           <styled.div
             aria-hidden="true"
@@ -173,14 +173,14 @@ exports[`Telegram 4 1`] = `
   >
     <a
       aria-label="Share on Telegram"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-fjdhpX hRjWkg"
+          className="sc-fjdhpX gErvTJ"
         >
           <styled.div
             aria-hidden="true"
@@ -229,14 +229,14 @@ exports[`Telegram 5 1`] = `
   >
     <a
       aria-label="Share on Telegram"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-fjdhpX hRjWkg"
+          className="sc-fjdhpX gErvTJ"
         >
           <styled.div
             aria-hidden="true"
@@ -285,7 +285,7 @@ exports[`Telegram 6 1`] = `
   >
     <a
       aria-label="Share on Telegram"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
@@ -294,7 +294,7 @@ exports[`Telegram 6 1`] = `
         small={true}
       >
         <div
-          className="sc-fjdhpX edKNja"
+          className="sc-fjdhpX gErvTJ"
         >
           <styled.div
             aria-hidden="true"
@@ -340,14 +340,14 @@ exports[`Telegram 7 1`] = `
   >
     <a
       aria-label="Share on Telegram"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-fjdhpX hRjWkg"
+          className="sc-fjdhpX gErvTJ"
         >
           <styled.div
             aria-hidden="true"
@@ -392,14 +392,14 @@ exports[`Telegram 8 1`] = `
   >
     <a
       aria-label="Share on Telegram"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-fjdhpX hRjWkg"
+          className="sc-fjdhpX gErvTJ"
         >
           <styled.div
             aria-hidden="true"
@@ -444,7 +444,7 @@ exports[`Telegram 9 1`] = `
   >
     <a
       aria-label="Share on Telegram"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
@@ -453,7 +453,7 @@ exports[`Telegram 9 1`] = `
         small={true}
       >
         <div
-          className="sc-fjdhpX edKNja"
+          className="sc-fjdhpX gErvTJ"
         >
           <styled.div
             aria-hidden="true"
@@ -492,14 +492,14 @@ exports[`Telegram 11 1`] = `
   >
     <a
       aria-label="Share on Telegram"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://telegram.me/share/url?text=&amp;url="
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-fjdhpX hRjWkg"
+          className="sc-fjdhpX gErvTJ"
         >
           <styled.div
             aria-hidden="true"
@@ -545,14 +545,14 @@ exports[`Telegram 11 2`] = `
   >
     <a
       aria-label="Share on Telegram"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://telegram.me/share/url?text=&amp;url="
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-fjdhpX hRjWkg"
+          className="sc-fjdhpX gErvTJ"
         >
           <styled.div
             aria-hidden="true"
@@ -593,14 +593,14 @@ exports[`Telegram 12 1`] = `
   >
     <a
       aria-label="Share on Telegram"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://telegram.me/share/url?text=&amp;url="
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-fjdhpX hRjWkg"
+          className="sc-fjdhpX gErvTJ"
         >
           <styled.div
             aria-hidden="true"

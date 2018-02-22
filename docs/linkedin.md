@@ -22,7 +22,6 @@ import { Linkedin } from 'react-social-sharing'
 <Linkedin solidcircle big message="I am so cool" link="http://sharingbuttons.io"/>
 ```
 
-
 ```react
 <Linkedin solidcircle big message="I am so cool" link="http://sharingbuttons.io"/>
 ```

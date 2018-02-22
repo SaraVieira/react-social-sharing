@@ -14,14 +14,14 @@ exports[`Reddit 1 1`] = `
   >
     <a
       aria-label="Share on Reddit"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-iwsKbI cZThQq"
+          className="sc-iwsKbI buVPmO"
         >
           <styled.div
             aria-hidden="true"
@@ -81,14 +81,14 @@ exports[`Reddit 2 1`] = `
   >
     <a
       aria-label="Share on Reddit"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-iwsKbI cZThQq"
+          className="sc-iwsKbI buVPmO"
         >
           <styled.div
             aria-hidden="true"
@@ -148,7 +148,7 @@ exports[`Reddit 3 1`] = `
   >
     <a
       aria-label="Share on Reddit"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
@@ -157,7 +157,7 @@ exports[`Reddit 3 1`] = `
         small={true}
       >
         <div
-          className="sc-iwsKbI llvNYg"
+          className="sc-iwsKbI buVPmO"
         >
           <styled.div
             aria-hidden="true"
@@ -214,14 +214,14 @@ exports[`Reddit 4 1`] = `
   >
     <a
       aria-label="Share on Reddit"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-iwsKbI cZThQq"
+          className="sc-iwsKbI buVPmO"
         >
           <styled.div
             aria-hidden="true"
@@ -296,14 +296,14 @@ exports[`Reddit 5 1`] = `
   >
     <a
       aria-label="Share on Reddit"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-iwsKbI cZThQq"
+          className="sc-iwsKbI buVPmO"
         >
           <styled.div
             aria-hidden="true"
@@ -378,7 +378,7 @@ exports[`Reddit 6 1`] = `
   >
     <a
       aria-label="Share on Reddit"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
@@ -387,7 +387,7 @@ exports[`Reddit 6 1`] = `
         small={true}
       >
         <div
-          className="sc-iwsKbI llvNYg"
+          className="sc-iwsKbI buVPmO"
         >
           <styled.div
             aria-hidden="true"
@@ -459,14 +459,14 @@ exports[`Reddit 7 1`] = `
   >
     <a
       aria-label="Share on Reddit"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-iwsKbI cZThQq"
+          className="sc-iwsKbI buVPmO"
         >
           <styled.div
             aria-hidden="true"
@@ -510,14 +510,14 @@ exports[`Reddit 8 1`] = `
   >
     <a
       aria-label="Share on Reddit"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-iwsKbI cZThQq"
+          className="sc-iwsKbI buVPmO"
         >
           <styled.div
             aria-hidden="true"
@@ -561,7 +561,7 @@ exports[`Reddit 9 1`] = `
   >
     <a
       aria-label="Share on Reddit"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
@@ -570,7 +570,7 @@ exports[`Reddit 9 1`] = `
         small={true}
       >
         <div
-          className="sc-iwsKbI llvNYg"
+          className="sc-iwsKbI buVPmO"
         >
           <styled.div
             aria-hidden="true"
@@ -609,14 +609,14 @@ exports[`Reddit 11 1`] = `
   >
     <a
       aria-label="Share on Reddit"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://reddit.com/submit/?url="
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-iwsKbI cZThQq"
+          className="sc-iwsKbI buVPmO"
         >
           <styled.div
             aria-hidden="true"
@@ -689,14 +689,14 @@ exports[`Reddit 11 2`] = `
   >
     <a
       aria-label="Share on Reddit"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://reddit.com/submit/?url="
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-iwsKbI cZThQq"
+          className="sc-iwsKbI buVPmO"
         >
           <styled.div
             aria-hidden="true"
@@ -752,14 +752,14 @@ exports[`Reddit 12 1`] = `
   >
     <a
       aria-label="Share on Reddit"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://reddit.com/submit/?url="
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-iwsKbI cZThQq"
+          className="sc-iwsKbI buVPmO"
         >
           <styled.div
             aria-hidden="true"

@@ -15,14 +15,14 @@ exports[`Whatsapp 1 1`] = `
   >
     <a
       aria-label="Share on WhatsApp"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-gqjmRU jyWaiO"
+          className="sc-gqjmRU eqeAgc"
         >
           <styled.div
             aria-hidden="true"
@@ -69,14 +69,14 @@ exports[`Whatsapp 2 1`] = `
   >
     <a
       aria-label="Share on WhatsApp"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-gqjmRU jyWaiO"
+          className="sc-gqjmRU eqeAgc"
         >
           <styled.div
             aria-hidden="true"
@@ -123,7 +123,7 @@ exports[`Whatsapp 3 1`] = `
   >
     <a
       aria-label="Share on WhatsApp"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
@@ -132,7 +132,7 @@ exports[`Whatsapp 3 1`] = `
         small={true}
       >
         <div
-          className="sc-gqjmRU ePEVaZ"
+          className="sc-gqjmRU eqeAgc"
         >
           <styled.div
             aria-hidden="true"
@@ -176,14 +176,14 @@ exports[`Whatsapp 4 1`] = `
   >
     <a
       aria-label="Share on WhatsApp"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-gqjmRU jyWaiO"
+          className="sc-gqjmRU eqeAgc"
         >
           <styled.div
             aria-hidden="true"
@@ -234,14 +234,14 @@ exports[`Whatsapp 5 1`] = `
   >
     <a
       aria-label="Share on WhatsApp"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-gqjmRU jyWaiO"
+          className="sc-gqjmRU eqeAgc"
         >
           <styled.div
             aria-hidden="true"
@@ -292,7 +292,7 @@ exports[`Whatsapp 6 1`] = `
   >
     <a
       aria-label="Share on WhatsApp"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
@@ -301,7 +301,7 @@ exports[`Whatsapp 6 1`] = `
         small={true}
       >
         <div
-          className="sc-gqjmRU ePEVaZ"
+          className="sc-gqjmRU eqeAgc"
         >
           <styled.div
             aria-hidden="true"
@@ -349,14 +349,14 @@ exports[`Whatsapp 7 1`] = `
   >
     <a
       aria-label="Share on WhatsApp"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-gqjmRU jyWaiO"
+          className="sc-gqjmRU eqeAgc"
         >
           <styled.div
             aria-hidden="true"
@@ -401,14 +401,14 @@ exports[`Whatsapp 8 1`] = `
   >
     <a
       aria-label="Share on WhatsApp"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-gqjmRU jyWaiO"
+          className="sc-gqjmRU eqeAgc"
         >
           <styled.div
             aria-hidden="true"
@@ -453,7 +453,7 @@ exports[`Whatsapp 9 1`] = `
   >
     <a
       aria-label="Share on WhatsApp"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
@@ -462,7 +462,7 @@ exports[`Whatsapp 9 1`] = `
         small={true}
       >
         <div
-          className="sc-gqjmRU ePEVaZ"
+          className="sc-gqjmRU eqeAgc"
         >
           <styled.div
             aria-hidden="true"
@@ -501,14 +501,14 @@ exports[`Whatsapp 11 1`] = `
   >
     <a
       aria-label="Share on WhatsApp"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="whatsapp://send?text=undefined%20"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-gqjmRU jyWaiO"
+          className="sc-gqjmRU eqeAgc"
         >
           <styled.div
             aria-hidden="true"
@@ -556,14 +556,14 @@ exports[`Whatsapp 11 2`] = `
   >
     <a
       aria-label="Share on WhatsApp"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="whatsapp://send?text=undefined%20"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-gqjmRU jyWaiO"
+          className="sc-gqjmRU eqeAgc"
         >
           <styled.div
             aria-hidden="true"
@@ -605,14 +605,14 @@ exports[`Whatsapp 12 1`] = `
   >
     <a
       aria-label="Share on WhatsApp"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="whatsapp://send?text=undefined%20"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-gqjmRU jyWaiO"
+          className="sc-gqjmRU eqeAgc"
         >
           <styled.div
             aria-hidden="true"

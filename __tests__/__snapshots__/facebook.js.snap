@@ -15,7 +15,7 @@ exports[`Facebook 1 1`] = `
   >
     <a
       aria-label="Share on Facebook"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
@@ -24,7 +24,7 @@ exports[`Facebook 1 1`] = `
         solidcircle={true}
       >
         <div
-          className="sc-ifAKCX jcBtjo"
+          className="sc-ifAKCX jzuEBQ"
         >
           <styled.div
             aria-hidden="true"
@@ -74,7 +74,7 @@ exports[`Facebook 2 1`] = `
   >
     <a
       aria-label="Share on Facebook"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
@@ -83,7 +83,7 @@ exports[`Facebook 2 1`] = `
         solidcircle={true}
       >
         <div
-          className="sc-ifAKCX jcBtjo"
+          className="sc-ifAKCX jzuEBQ"
         >
           <styled.div
             aria-hidden="true"
@@ -133,7 +133,7 @@ exports[`Facebook 3 1`] = `
   >
     <a
       aria-label="Share on Facebook"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
@@ -143,7 +143,7 @@ exports[`Facebook 3 1`] = `
         solidcircle={true}
       >
         <div
-          className="sc-ifAKCX gmIwQj"
+          className="sc-ifAKCX jzuEBQ"
         >
           <styled.div
             aria-hidden="true"
@@ -190,14 +190,14 @@ exports[`Facebook 4 1`] = `
   >
     <a
       aria-label="Share on Facebook"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-ifAKCX biTiHE"
+          className="sc-ifAKCX ksIwnZ"
         >
           <styled.div
             aria-hidden="true"
@@ -246,14 +246,14 @@ exports[`Facebook 5 1`] = `
   >
     <a
       aria-label="Share on Facebook"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-ifAKCX biTiHE"
+          className="sc-ifAKCX ksIwnZ"
         >
           <styled.div
             aria-hidden="true"
@@ -302,7 +302,7 @@ exports[`Facebook 6 1`] = `
   >
     <a
       aria-label="Share on Facebook"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
@@ -311,7 +311,7 @@ exports[`Facebook 6 1`] = `
         small={true}
       >
         <div
-          className="sc-ifAKCX fJrfMu"
+          className="sc-ifAKCX ksIwnZ"
         >
           <styled.div
             aria-hidden="true"
@@ -357,14 +357,14 @@ exports[`Facebook 7 1`] = `
   >
     <a
       aria-label="Share on Facebook"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-ifAKCX biTiHE"
+          className="sc-ifAKCX ksIwnZ"
         >
           <styled.div
             aria-hidden="true"
@@ -409,14 +409,14 @@ exports[`Facebook 8 1`] = `
   >
     <a
       aria-label="Share on Facebook"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-ifAKCX biTiHE"
+          className="sc-ifAKCX ksIwnZ"
         >
           <styled.div
             aria-hidden="true"
@@ -461,7 +461,7 @@ exports[`Facebook 9 1`] = `
   >
     <a
       aria-label="Share on Facebook"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
@@ -470,7 +470,7 @@ exports[`Facebook 9 1`] = `
         small={true}
       >
         <div
-          className="sc-ifAKCX fJrfMu"
+          className="sc-ifAKCX ksIwnZ"
         >
           <styled.div
             aria-hidden="true"
@@ -509,14 +509,14 @@ exports[`Facebook 10 1`] = `
   >
     <a
       aria-label="Share on Facebook"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://facebook.com/sharer/sharer.php?u="
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-ifAKCX biTiHE"
+          className="sc-ifAKCX ksIwnZ"
         >
           <styled.div
             aria-hidden="true"
@@ -558,14 +558,14 @@ exports[`Facebook 11 1`] = `
   >
     <a
       aria-label="Share on Facebook"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://facebook.com/sharer/sharer.php?u="
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-ifAKCX biTiHE"
+          className="sc-ifAKCX ksIwnZ"
         >
           <styled.div
             aria-hidden="true"
@@ -611,7 +611,7 @@ exports[`Facebook 11 2`] = `
   >
     <a
       aria-label="Share on Facebook"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://facebook.com/sharer/sharer.php?u="
       rel="noreferrer noopener"
       target="_blank"
@@ -620,7 +620,7 @@ exports[`Facebook 11 2`] = `
         solidcircle={true}
       >
         <div
-          className="sc-ifAKCX jcBtjo"
+          className="sc-ifAKCX jzuEBQ"
         >
           <styled.div
             aria-hidden="true"
@@ -665,14 +665,14 @@ exports[`Facebook 12 1`] = `
   >
     <a
       aria-label="Share on Facebook"
-      className="sc-bwzfXH eNnkUm"
+      className="sc-bwzfXH bSlLDy"
       href="https://facebook.com/sharer/sharer.php?u="
       rel="noreferrer noopener"
       target="_blank"
     >
       <styled.div>
         <div
-          className="sc-ifAKCX biTiHE"
+          className="sc-ifAKCX ksIwnZ"
         >
           <styled.div
             aria-hidden="true"
@@ -697,6 +697,72 @@ exports[`Facebook 12 1`] = `
           </styled.div>
         </div>
       </styled.div>
+    </a>
+  </styled.a>
+</Button>
+`;
+
+exports[`Facebook 13 1`] = `
+<Button
+  simple={true}
+>
+  <styled.a
+    aria-label="Share on Facebook"
+    href="https://facebook.com/sharer/sharer.php?u="
+    rel="noreferrer noopener"
+    simple={true}
+    target="_blank"
+  >
+    <a
+      aria-label="Share on Facebook"
+      className="sc-bwzfXH bGIzAI"
+      href="https://facebook.com/sharer/sharer.php?u="
+      rel="noreferrer noopener"
+      target="_blank"
+    >
+      <FacebookIconFill>
+        <svg
+          viewBox="0 0 24 24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M18.77 7.46H14.5v-1.9c0-.9.6-1.1 1-1.1h3V.5h-4.33C10.24.5 9.5 3.44 9.5 5.32v2.15h-3v4h3v12h5v-12h3.85l.42-4z"
+          />
+        </svg>
+      </FacebookIconFill>
+    </a>
+  </styled.a>
+</Button>
+`;
+
+exports[`Facebook 14 1`] = `
+<Button
+  simpleReverse={true}
+>
+  <styled.a
+    aria-label="Share on Facebook"
+    href="https://facebook.com/sharer/sharer.php?u="
+    rel="noreferrer noopener"
+    simpleReverse={true}
+    target="_blank"
+  >
+    <a
+      aria-label="Share on Facebook"
+      className="sc-bwzfXH jHqTEf"
+      href="https://facebook.com/sharer/sharer.php?u="
+      rel="noreferrer noopener"
+      target="_blank"
+    >
+      <FacebookIconFill>
+        <svg
+          viewBox="0 0 24 24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M18.77 7.46H14.5v-1.9c0-.9.6-1.1 1-1.1h3V.5h-4.33C10.24.5 9.5 3.44 9.5 5.32v2.15h-3v4h3v12h5v-12h3.85l.42-4z"
+          />
+        </svg>
+      </FacebookIconFill>
     </a>
   </styled.a>
 </Button>
