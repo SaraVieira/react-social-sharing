@@ -69,4 +69,12 @@ describe('Reddit', function() {
     const wrapper = mount(<Reddit />)
     expect(wrapper).toMatchSnapshot()
   })
+  test('13', () => {
+    const wrapper = mount(<Reddit simple />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('14', () => {
+    const wrapper = mount(<Reddit simpleReverse />)
+    expect(wrapper).toMatchSnapshot()
+  })
 })

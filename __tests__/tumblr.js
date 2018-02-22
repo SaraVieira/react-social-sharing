@@ -118,4 +118,12 @@ describe('Tumblr', function() {
     const wrapper = mount(<Tumblr />)
     expect(wrapper).toMatchSnapshot()
   })
+  test('13', () => {
+    const wrapper = mount(<Tumblr simple />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('14', () => {
+    const wrapper = mount(<Tumblr simpleReverse />)
+    expect(wrapper).toMatchSnapshot()
+  })
 })

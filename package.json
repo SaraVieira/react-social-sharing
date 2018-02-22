@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "catalog start docs",
-    "test": "jest",
+    "test": "jest && npm run test:lint",
     "posttest": "npm run format",
     "test:coverage": "jest --coverage",
     "test:watch": "jest --watch",

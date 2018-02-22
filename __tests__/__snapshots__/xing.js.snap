@@ -625,3 +625,69 @@ exports[`Xing 12 1`] = `
   </styled.a>
 </Button>
 `;
+
+exports[`Xing 13 1`] = `
+<Button
+  simple={true}
+>
+  <styled.a
+    aria-label="Share on Xing"
+    href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+    rel="noreferrer noopener"
+    simple={true}
+    target="_blank"
+  >
+    <a
+      aria-label="Share on Xing"
+      className="sc-bwzfXH bGIzAI"
+      href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+      rel="noreferrer noopener"
+      target="_blank"
+    >
+      <XingIconFill>
+        <svg
+          viewBox="0 0 24 24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M10.2 9.7l-3-5.4C7.2 4 7 4 6.8 4h-5c-.3 0-.4 0-.5.2v.5L4 10 .4 16v.5c0 .2.2.3.4.3h5c.3 0 .4 0 .5-.2l4-6.6v-.5zM24 .2l-.5-.2H18s-.2 0-.3.3l-8 14v.4l5.2 9c0 .2 0 .3.3.3h5.4s.3 0 .4-.2c.2-.2.2-.4 0-.5l-5-8.8L24 .7V.2z"
+          />
+        </svg>
+      </XingIconFill>
+    </a>
+  </styled.a>
+</Button>
+`;
+
+exports[`Xing 14 1`] = `
+<Button
+  simpleReverse={true}
+>
+  <styled.a
+    aria-label="Share on Xing"
+    href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+    rel="noreferrer noopener"
+    simpleReverse={true}
+    target="_blank"
+  >
+    <a
+      aria-label="Share on Xing"
+      className="sc-bwzfXH jHqTEf"
+      href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+      rel="noreferrer noopener"
+      target="_blank"
+    >
+      <XingIconFill>
+        <svg
+          viewBox="0 0 24 24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M10.2 9.7l-3-5.4C7.2 4 7 4 6.8 4h-5c-.3 0-.4 0-.5.2v.5L4 10 .4 16v.5c0 .2.2.3.4.3h5c.3 0 .4 0 .5-.2l4-6.6v-.5zM24 .2l-.5-.2H18s-.2 0-.3.3l-8 14v.4l5.2 9c0 .2 0 .3.3.3h5.4s.3 0 .4-.2c.2-.2.2-.4 0-.5l-5-8.8L24 .7V.2z"
+          />
+        </svg>
+      </XingIconFill>
+    </a>
+  </styled.a>
+</Button>
+`;

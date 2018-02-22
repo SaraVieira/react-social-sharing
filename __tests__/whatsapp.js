@@ -118,4 +118,12 @@ describe('Whatsapp', function() {
     const wrapper = mount(<Whatsapp />)
     expect(wrapper).toMatchSnapshot()
   })
+  test('13', () => {
+    const wrapper = mount(<Whatsapp simple />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('14', () => {
+    const wrapper = mount(<Whatsapp simpleReverse />)
+    expect(wrapper).toMatchSnapshot()
+  })
 })

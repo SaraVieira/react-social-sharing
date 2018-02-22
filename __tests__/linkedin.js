@@ -118,4 +118,12 @@ describe('Linkedin', function() {
     const wrapper = mount(<Linkedin />)
     expect(wrapper).toMatchSnapshot()
   })
+  test('13', () => {
+    const wrapper = mount(<Linkedin simple />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('14', () => {
+    const wrapper = mount(<Linkedin simpleReverse />)
+    expect(wrapper).toMatchSnapshot()
+  })
 })

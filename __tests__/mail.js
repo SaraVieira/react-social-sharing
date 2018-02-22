@@ -108,4 +108,12 @@ describe('Mail', function() {
     const wrapper = mount(<Mail />)
     expect(wrapper).toMatchSnapshot()
   })
+  test('13', () => {
+    const wrapper = mount(<Mail simple />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('14', () => {
+    const wrapper = mount(<Mail simpleReverse />)
+    expect(wrapper).toMatchSnapshot()
+  })
 })

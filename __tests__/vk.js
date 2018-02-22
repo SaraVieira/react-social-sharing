@@ -93,4 +93,12 @@ describe('VK', function() {
     const wrapper = mount(<VK />)
     expect(wrapper).toMatchSnapshot()
   })
+  test('13', () => {
+    const wrapper = mount(<VK simple />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('14', () => {
+    const wrapper = mount(<VK simpleReverse />)
+    expect(wrapper).toMatchSnapshot()
+  })
 })

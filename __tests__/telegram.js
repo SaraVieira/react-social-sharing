@@ -118,4 +118,12 @@ describe('Telegram', function() {
     const wrapper = mount(<Telegram />)
     expect(wrapper).toMatchSnapshot()
   })
+  test('13', () => {
+    const wrapper = mount(<Telegram simple />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('14', () => {
+    const wrapper = mount(<Telegram simpleReverse />)
+    expect(wrapper).toMatchSnapshot()
+  })
 })

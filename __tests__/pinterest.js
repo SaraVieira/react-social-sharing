@@ -118,4 +118,12 @@ describe('Pinterest', function() {
     const wrapper = mount(<Pinterest />)
     expect(wrapper).toMatchSnapshot()
   })
+  test('13', () => {
+    const wrapper = mount(<Pinterest simple />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('14', () => {
+    const wrapper = mount(<Pinterest simpleReverse />)
+    expect(wrapper).toMatchSnapshot()
+  })
 })

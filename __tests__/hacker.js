@@ -118,4 +118,12 @@ describe('HackerNews', function() {
     const wrapper = mount(<HackerNews />)
     expect(wrapper).toMatchSnapshot()
   })
+  test('13', () => {
+    const wrapper = mount(<HackerNews simple />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('14', () => {
+    const wrapper = mount(<HackerNews simpleReverse />)
+    expect(wrapper).toMatchSnapshot()
+  })
 })

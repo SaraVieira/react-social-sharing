@@ -118,4 +118,12 @@ describe('Twitter', function() {
     const wrapper = mount(<Twitter />)
     expect(wrapper).toMatchSnapshot()
   })
+  test('13', () => {
+    const wrapper = mount(<Twitter simple />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('14', () => {
+    const wrapper = mount(<Twitter simpleReverse />)
+    expect(wrapper).toMatchSnapshot()
+  })
 })

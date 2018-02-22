@@ -108,4 +108,12 @@ describe('Xing', function() {
     const wrapper = mount(<Xing />)
     expect(wrapper).toMatchSnapshot()
   })
+  test('13', () => {
+    const wrapper = mount(<Xing simple />)
+    expect(wrapper).toMatchSnapshot()
+  })
+  test('14', () => {
+    const wrapper = mount(<Xing simpleReverse />)
+    expect(wrapper).toMatchSnapshot()
+  })
 })
