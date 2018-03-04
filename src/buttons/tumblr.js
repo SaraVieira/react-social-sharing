@@ -26,7 +26,8 @@ const Button = ({
   circle,
   solidcircle,
   simple,
-  simpleReverse
+  simpleReverse,
+  ...props
 }) => (
   <Link
     href={links.tumblr(link)}
@@ -37,9 +38,9 @@ const Button = ({
     simpleReverse={simpleReverse}
   >
     {simple || simpleReverse ? (
-      <TumblrIconFill />
+      <TumblrIconFill {...props} />
     ) : (
-      <Tumblr small={small}>
+      <Tumblr small={small} {...props}>
         <Icon
           solid={(!solid && !circle && !solidcircle) || solid}
           solidcircle={solidcircle}

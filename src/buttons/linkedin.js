@@ -31,7 +31,8 @@ const Button = ({
   circle,
   solidcircle,
   simple,
-  simpleReverse
+  simpleReverse,
+  ...props
 }) => (
   <Link
     href={links.linkedin(message, link)}
@@ -42,9 +43,9 @@ const Button = ({
     aria-label="Share on Linkedin"
   >
     {simple || simpleReverse ? (
-      <LinkedinIconFill />
+      <LinkedinIconFill {...props} />
     ) : (
-      <Linkedin small={small}>
+      <Linkedin small={small} {...props}>
         <Icon
           solid={(!solid && !circle && !solidcircle) || solid}
           solidcircle={solidcircle}

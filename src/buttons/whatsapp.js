@@ -42,9 +42,9 @@ const Button = ({
     simpleReverse={simpleReverse}
   >
     {simple || simpleReverse ? (
-      <WhatsappIconFill />
+      <WhatsappIconFill {...props} />
     ) : (
-      <Whatsapp small={small}>
+      <Whatsapp small={small} {...props}>
         <Icon
           solid={(!solid && !circle && !solidcircle) || solid}
           solidcircle={solidcircle}

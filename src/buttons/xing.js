@@ -42,9 +42,9 @@ const Button = ({
     simple={simple}
   >
     {simple || simpleReverse ? (
-      <XingIconFill />
+      <XingIconFill {...props} />
     ) : (
-      <Xing small={small}>
+      <Xing small={small} {...props}>
         <Icon
           solid={(!solid && !circle && !solidcircle) || solid}
           solidcircle={solidcircle}

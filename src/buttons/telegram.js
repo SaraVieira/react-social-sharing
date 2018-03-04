@@ -31,7 +31,8 @@ const Button = ({
   circle,
   solidcircle,
   simple,
-  simpleReverse
+  simpleReverse,
+  ...props
 }) => (
   <Link
     href={links.telegram(message, link)}
@@ -42,9 +43,9 @@ const Button = ({
     simpleReverse={simpleReverse}
   >
     {simple || simpleReverse ? (
-      <TelegramIconFill />
+      <TelegramIconFill {...props} />
     ) : (
-      <Telegram small={small}>
+      <Telegram small={small} {...props}>
         <Icon
           solid={(!solid && !circle && !solidcircle) || solid}
           solidcircle={solidcircle}

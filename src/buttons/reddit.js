@@ -30,7 +30,8 @@ const Button = ({
   circle,
   solidcircle,
   simple,
-  simpleReverse
+  simpleReverse,
+  ...props
 }) => (
   <Link
     href={links.reddit(link)}
@@ -41,9 +42,9 @@ const Button = ({
     simpleReverse={simpleReverse}
   >
     {simple || simpleReverse ? (
-      <RedditIconFill />
+      <RedditIconFill {...props} />
     ) : (
-      <Reddit small={small}>
+      <Reddit small={small} {...props}>
         <Icon
           solid={(!solid && !circle && !solidcircle) || solid}
           solidcircle={solidcircle}
