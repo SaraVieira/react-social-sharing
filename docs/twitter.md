@@ -53,3 +53,13 @@ import { Twitter } from 'react-social-sharing'
 ```react
 <Twitter solid small message="I am so cool" link="http://sharingbuttons.io"/>
 ```
+
+## Custom Props
+
+```react
+const styles = {
+  background: 'black'
+};
+
+<Twitter style={styles} link="http://sharingbuttons.io"/>
+```

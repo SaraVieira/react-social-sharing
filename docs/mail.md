@@ -53,3 +53,13 @@ import { Mail } from 'react-social-sharing'
 ```react
 <Mail solid small message="I am so cool" link="http://sharingbuttons.io"/>
 ```
+
+## Custom Props
+
+```react
+const styles = {
+  background: 'black'
+};
+
+<Mail style={styles} link="http://sharingbuttons.io"/>
+```

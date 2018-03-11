@@ -21,6 +21,7 @@ exports[`Facebook 1 1`] = `
       target="_blank"
     >
       <styled.div
+        message="I am so cool"
         solidcircle={true}
       >
         <div
@@ -80,6 +81,7 @@ exports[`Facebook 2 1`] = `
       target="_blank"
     >
       <styled.div
+        message="I am so cool"
         solidcircle={true}
       >
         <div
@@ -139,6 +141,7 @@ exports[`Facebook 3 1`] = `
       target="_blank"
     >
       <styled.div
+        message="I am so cool"
         small={true}
         solidcircle={true}
       >
@@ -195,7 +198,9 @@ exports[`Facebook 4 1`] = `
       rel="noreferrer noopener"
       target="_blank"
     >
-      <styled.div>
+      <styled.div
+        message="I am so cool"
+      >
         <div
           className="sc-ifAKCX ksIwnZ"
         >
@@ -251,7 +256,9 @@ exports[`Facebook 5 1`] = `
       rel="noreferrer noopener"
       target="_blank"
     >
-      <styled.div>
+      <styled.div
+        message="I am so cool"
+      >
         <div
           className="sc-ifAKCX ksIwnZ"
         >
@@ -308,6 +315,7 @@ exports[`Facebook 6 1`] = `
       target="_blank"
     >
       <styled.div
+        message="I am so cool"
         small={true}
       >
         <div
@@ -362,7 +370,9 @@ exports[`Facebook 7 1`] = `
       rel="noreferrer noopener"
       target="_blank"
     >
-      <styled.div>
+      <styled.div
+        message="I am so cool"
+      >
         <div
           className="sc-ifAKCX ksIwnZ"
         >
@@ -414,7 +424,9 @@ exports[`Facebook 8 1`] = `
       rel="noreferrer noopener"
       target="_blank"
     >
-      <styled.div>
+      <styled.div
+        message="I am so cool"
+      >
         <div
           className="sc-ifAKCX ksIwnZ"
         >
@@ -467,6 +479,7 @@ exports[`Facebook 9 1`] = `
       target="_blank"
     >
       <styled.div
+        message="I am so cool"
         small={true}
       >
         <div

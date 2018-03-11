@@ -53,3 +53,13 @@ import { Facebook } from 'react-social-sharing'
 ```react
 <Facebook solid small link="http://sharingbuttons.io"/>
 ```
+
+## Custom Props
+
+```react
+const styles = {
+  background: 'black'
+};
+
+<Facebook style={styles} link="http://sharingbuttons.io"/>
+```

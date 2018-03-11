@@ -53,3 +53,13 @@ import { Whatsapp } from 'react-social-sharing'
 ```react
 <Whatsapp solid small message="share on Whatsapp" link="http://sharingbuttons.io"/>
 ```
+
+## Custom Props
+
+```react
+const styles = {
+  background: 'black'
+};
+
+<Whatsapp style={styles} link="http://sharingbuttons.io"/>
+```

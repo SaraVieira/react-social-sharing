@@ -53,3 +53,13 @@ import { Pinterest } from 'react-social-sharing'
 ```react
 <Pinterest solid small message="I am so cool" link="http://sharingbuttons.io"/>
 ```
+
+## Custom Props
+
+```react
+const styles = {
+  background: 'black'
+};
+
+<Pinterest style={styles} link="http://sharingbuttons.io"/>
+```

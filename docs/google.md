@@ -53,3 +53,13 @@ import { Google } from 'react-social-sharing'
 ```react
 <Google solid small link="http://sharingbuttons.io"/>
 ```
+
+## Custom Props
+
+```react
+const styles = {
+  background: 'black'
+};
+
+<Google style={styles} link="http://sharingbuttons.io"/>
+```

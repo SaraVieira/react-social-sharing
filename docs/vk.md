@@ -53,3 +53,13 @@ import { VK } from 'react-social-sharing'
 ```react
 <VK solid small message="share on VK" link="http://sharingbuttons.io"/>
 ```
+
+## Custom Props
+
+```react
+const styles = {
+  background: 'black'
+};
+
+<VK style={styles} link="http://sharingbuttons.io"/>
+```

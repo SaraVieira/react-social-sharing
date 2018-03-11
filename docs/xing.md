@@ -53,3 +53,13 @@ import { Xing } from 'react-social-sharing'
 ```react
 <Xing solid small message="share on xing" link="http://sharingbuttons.io"/>
 ```
+
+## Custom Props
+
+```react
+const styles = {
+  background: 'black'
+};
+
+<Xing style={styles} link="http://sharingbuttons.io"/>
+```

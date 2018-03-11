@@ -21,6 +21,7 @@ exports[`Google 1 1`] = `
       target="_blank"
     >
       <styled.div
+        message="I am so cool"
         solidcircle={true}
       >
         <div
@@ -78,6 +79,7 @@ exports[`Google 2 1`] = `
       target="_blank"
     >
       <styled.div
+        message="I am so cool"
         solidcircle={true}
       >
         <div
@@ -135,6 +137,7 @@ exports[`Google 3 1`] = `
       target="_blank"
     >
       <styled.div
+        message="I am so cool"
         small={true}
         solidcircle={true}
       >
@@ -189,7 +192,9 @@ exports[`Google 4 1`] = `
       rel="noreferrer noopener"
       target="_blank"
     >
-      <styled.div>
+      <styled.div
+        message="I am so cool"
+      >
         <div
           className="sc-EHOje bwSWdB"
         >
@@ -243,7 +248,9 @@ exports[`Google 5 1`] = `
       rel="noreferrer noopener"
       target="_blank"
     >
-      <styled.div>
+      <styled.div
+        message="I am so cool"
+      >
         <div
           className="sc-EHOje bwSWdB"
         >
@@ -298,6 +305,7 @@ exports[`Google 6 1`] = `
       target="_blank"
     >
       <styled.div
+        message="I am so cool"
         small={true}
       >
         <div
@@ -350,7 +358,9 @@ exports[`Google 7 1`] = `
       rel="noreferrer noopener"
       target="_blank"
     >
-      <styled.div>
+      <styled.div
+        message="I am so cool"
+      >
         <div
           className="sc-EHOje bwSWdB"
         >
@@ -402,7 +412,9 @@ exports[`Google 8 1`] = `
       rel="noreferrer noopener"
       target="_blank"
     >
-      <styled.div>
+      <styled.div
+        message="I am so cool"
+      >
         <div
           className="sc-EHOje bwSWdB"
         >
@@ -455,6 +467,7 @@ exports[`Google 9 1`] = `
       target="_blank"
     >
       <styled.div
+        message="I am so cool"
         small={true}
       >
         <div

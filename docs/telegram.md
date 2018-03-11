@@ -53,3 +53,13 @@ import { Telegram } from 'react-social-sharing'
 ```react
 <Telegram solid small message="share on Telegram" link="http://sharingbuttons.io"/>
 ```
+
+## Custom Props
+
+```react
+const styles = {
+  background: 'black'
+};
+
+<Telegram style={styles} link="http://sharingbuttons.io"/>
+```

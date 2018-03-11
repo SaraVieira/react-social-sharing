@@ -57,3 +57,13 @@ import { Linkedin } from 'react-social-sharing'
 ```react
 <Linkedin solid small message="I am so cool" link="http://sharingbuttons.io"/>
 ```
+
+## Custom Props
+
+```react
+const styles = {
+  background: 'black'
+};
+
+<Linkedin style={styles} link="http://sharingbuttons.io"/>
+```

@@ -53,3 +53,13 @@ import { HackerNews } from 'react-social-sharing'
 ```react
 <HackerNews solid small message="share on HackerNews" link="http://sharingbuttons.io"/>
 ```
+
+## Custom Props
+
+```react
+const styles = {
+  background: 'black'
+};
+
+<HackerNews style={styles} link="http://sharingbuttons.io"/>
+```

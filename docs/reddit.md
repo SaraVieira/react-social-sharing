@@ -53,3 +53,13 @@ import { Reddit } from 'react-social-sharing'
 ```react
 <Reddit solid small link="http://sharingbuttons.io"/>
 ```
+
+## Custom Props
+
+```react
+const styles = {
+  background: 'black'
+};
+
+<Reddit style={styles} link="http://sharingbuttons.io"/>
+```

@@ -53,3 +53,13 @@ import { Tumblr } from 'react-social-sharing'
 ```react
 <Tumblr solid small link="http://sharingbuttons.io"/>
 ```
+
+## Custom Props
+
+```react
+const styles = {
+  background: 'black'
+};
+
+<Tumblr style={styles} link="http://sharingbuttons.io"/>
+```
