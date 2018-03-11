@@ -26,7 +26,8 @@ const Button = ({
   circle,
   solidcircle,
   simple,
-  simpleReverse
+  simpleReverse,
+  ...props
 }) => (
   <Link
     href={links.google(link)}
@@ -37,9 +38,9 @@ const Button = ({
     simpleReverse={simpleReverse}
   >
     {simple || simpleReverse ? (
-      <GoogleIconFill />
+      <GoogleIconFill {...props} />
     ) : (
-      <Google small={small} solidcircle={solidcircle}>
+      <Google small={small} solidcircle={solidcircle} {...props}>
         <Icon
           solid={(!solid && !circle && !solidcircle) || solid}
           solidcircle={solidcircle}

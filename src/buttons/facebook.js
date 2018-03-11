@@ -30,7 +30,8 @@ const Button = ({
   circle,
   solidcircle,
   simple,
-  simpleReverse
+  simpleReverse,
+  ...props
 }) => (
   <Link
     href={links.facebook(link)}
@@ -41,9 +42,9 @@ const Button = ({
     aria-label="Share on Facebook"
   >
     {simple || simpleReverse ? (
-      <FacebookIconFill />
+      <FacebookIconFill {...props} />
     ) : (
-      <Facebook small={small} solidcircle={solidcircle}>
+      <Facebook small={small} solidcircle={solidcircle} {...props}>
         <Icon
           solid={(!solid && !circle && !solidcircle) || solid}
           solidcircle={solidcircle}

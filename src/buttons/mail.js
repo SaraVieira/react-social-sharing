@@ -31,7 +31,8 @@ const Button = ({
   circle,
   solidcircle,
   simple,
-  simpleReverse
+  simpleReverse,
+  ...props
 }) => (
   <Link
     href={links.mail(message, link)}
@@ -42,9 +43,9 @@ const Button = ({
     simpleReverse={simpleReverse}
   >
     {simple || simpleReverse ? (
-      <EmailIconFill />
+      <EmailIconFill {...props} />
     ) : (
-      <Email small={small}>
+      <Email small={small} {...props}>
         <Icon
           solid={(!solid && !circle && !solidcircle) || solid}
           solidcircle={solidcircle}

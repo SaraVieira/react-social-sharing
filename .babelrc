@@ -6,6 +6,7 @@
   "plugins": [
     "syntax-dynamic-import",
     [
+      "transform-object-rest-spread",
       "transform-react-remove-prop-types",
       {
         "mode": "wrap"

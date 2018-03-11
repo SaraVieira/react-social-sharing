@@ -31,7 +31,8 @@ const Button = ({
   circle,
   solidcircle,
   simple,
-  simpleReverse
+  simpleReverse,
+  ...props
 }) => (
   <Link
     simple={simple}
@@ -42,9 +43,9 @@ const Button = ({
     aria-label="Share on HackerNews"
   >
     {simple || simpleReverse ? (
-      <HackerIconFill />
+      <HackerIconFill {...props} />
     ) : (
-      <Hacker small={small}>
+      <Hacker small={small} {...props}>
         <Icon
           solid={(!solid && !circle && !solidcircle) || solid}
           solidcircle={solidcircle}

@@ -27,7 +27,8 @@ const Button = ({
   circle,
   solidcircle,
   simple,
-  simpleReverse
+  simpleReverse,
+  ...props
 }) => (
   <Link
     href={links.twitter(message, link)}
@@ -37,9 +38,9 @@ const Button = ({
     simpleReverse={simpleReverse}
   >
     {simple || simpleReverse ? (
-      <TwitterIconFill />
+      <TwitterIconFill {...props} />
     ) : (
-      <Twitter small={small}>
+      <Twitter small={small} {...props}>
         <Icon
           solid={(!solid && !circle && !solidcircle) || solid}
           solidcircle={solidcircle}
