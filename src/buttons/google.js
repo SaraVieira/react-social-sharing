@@ -40,7 +40,7 @@ const Button = ({
     {simple || simpleReverse ? (
       <GoogleIconFill {...props} />
     ) : (
-      <Google small={small} solidcircle={solidcircle} {...props} >
+      <Google small={small} solidcircle={solidcircle} {...props}>
         <Icon
           solid={(!solid && !circle && !solidcircle) || solid}
           solidcircle={solidcircle}
