@@ -44,7 +44,7 @@ const Button = ({
     {simple || simpleReverse ? (
       <FacebookIconFill {...props} />
     ) : (
-      <Facebook small={small} solidcircle={solidcircle} {...props} >
+      <Facebook small={small} solidcircle={solidcircle} {...props}>
         <Icon
           solid={(!solid && !circle && !solidcircle) || solid}
           solidcircle={solidcircle}
