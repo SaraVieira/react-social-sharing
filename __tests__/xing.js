@@ -1,5 +1,6 @@
 import React from 'react'
 import { Xing } from '../src/index'
+import 'jest-styled-components'
 
 describe('Xing', function() {
   test('1', () => {

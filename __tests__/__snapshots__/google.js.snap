@@ -1,6 +1,47 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Google 1 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #dd4b39;
+  border-color: #dd4b39;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #c23321;
+  border-color: #c23321;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   big={true}
   link="http://sharingbuttons.io"
@@ -28,7 +69,7 @@ exports[`Google 1 1`] = `
     >
       <a
         aria-label="Share on Google Plus"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -39,7 +80,7 @@ exports[`Google 1 1`] = `
           solidcircle={true}
         >
           <div
-            className="sc-EHOje bwSWdB"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -47,7 +88,7 @@ exports[`Google 1 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -75,6 +116,47 @@ exports[`Google 1 1`] = `
 `;
 
 exports[`Google 2 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #dd4b39;
+  border-color: #dd4b39;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #c23321;
+  border-color: #c23321;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   link="http://sharingbuttons.io"
   medium={true}
@@ -102,7 +184,7 @@ exports[`Google 2 1`] = `
     >
       <a
         aria-label="Share on Google Plus"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -113,7 +195,7 @@ exports[`Google 2 1`] = `
           solidcircle={true}
         >
           <div
-            className="sc-EHOje bwSWdB"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -121,7 +203,7 @@ exports[`Google 2 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -149,6 +231,47 @@ exports[`Google 2 1`] = `
 `;
 
 exports[`Google 3 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #dd4b39;
+  border-color: #dd4b39;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #c23321;
+  border-color: #c23321;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   link="http://sharingbuttons.io"
   message="I am so cool"
@@ -176,7 +299,7 @@ exports[`Google 3 1`] = `
     >
       <a
         aria-label="Share on Google Plus"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -188,7 +311,7 @@ exports[`Google 3 1`] = `
           solidcircle={true}
         >
           <div
-            className="sc-EHOje bwSWdB"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -196,7 +319,7 @@ exports[`Google 3 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -221,6 +344,45 @@ exports[`Google 3 1`] = `
 `;
 
 exports[`Google 4 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #dd4b39;
+  border-color: #dd4b39;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #c23321;
+  border-color: #c23321;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
 <Component
   big={true}
   circle={true}
@@ -248,7 +410,7 @@ exports[`Google 4 1`] = `
     >
       <a
         aria-label="Share on Google Plus"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -258,14 +420,14 @@ exports[`Google 4 1`] = `
           message="I am so cool"
         >
           <div
-            className="sc-EHOje bwSWdB"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat dZQCuR"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -293,6 +455,45 @@ exports[`Google 4 1`] = `
 `;
 
 exports[`Google 5 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #dd4b39;
+  border-color: #dd4b39;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #c23321;
+  border-color: #c23321;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
 <Component
   circle={true}
   link="http://sharingbuttons.io"
@@ -320,7 +521,7 @@ exports[`Google 5 1`] = `
     >
       <a
         aria-label="Share on Google Plus"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -330,14 +531,14 @@ exports[`Google 5 1`] = `
           message="I am so cool"
         >
           <div
-            className="sc-EHOje bwSWdB"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat dZQCuR"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -365,6 +566,45 @@ exports[`Google 5 1`] = `
 `;
 
 exports[`Google 6 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #dd4b39;
+  border-color: #dd4b39;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #c23321;
+  border-color: #c23321;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
 <Component
   circle={true}
   link="http://sharingbuttons.io"
@@ -392,7 +632,7 @@ exports[`Google 6 1`] = `
     >
       <a
         aria-label="Share on Google Plus"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -403,14 +643,14 @@ exports[`Google 6 1`] = `
           small={true}
         >
           <div
-            className="sc-EHOje bwSWdB"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat dZQCuR"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -435,6 +675,47 @@ exports[`Google 6 1`] = `
 `;
 
 exports[`Google 7 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #dd4b39;
+  border-color: #dd4b39;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #c23321;
+  border-color: #c23321;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   big={true}
   link="http://sharingbuttons.io"
@@ -462,7 +743,7 @@ exports[`Google 7 1`] = `
     >
       <a
         aria-label="Share on Google Plus"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -472,7 +753,7 @@ exports[`Google 7 1`] = `
           message="I am so cool"
         >
           <div
-            className="sc-EHOje bwSWdB"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -480,7 +761,7 @@ exports[`Google 7 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -505,6 +786,47 @@ exports[`Google 7 1`] = `
 `;
 
 exports[`Google 8 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #dd4b39;
+  border-color: #dd4b39;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #c23321;
+  border-color: #c23321;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   link="http://sharingbuttons.io"
   medium={true}
@@ -532,7 +854,7 @@ exports[`Google 8 1`] = `
     >
       <a
         aria-label="Share on Google Plus"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -542,7 +864,7 @@ exports[`Google 8 1`] = `
           message="I am so cool"
         >
           <div
-            className="sc-EHOje bwSWdB"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -550,7 +872,7 @@ exports[`Google 8 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -575,6 +897,47 @@ exports[`Google 8 1`] = `
 `;
 
 exports[`Google 9 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #dd4b39;
+  border-color: #dd4b39;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #c23321;
+  border-color: #c23321;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   link="http://sharingbuttons.io"
   message="I am so cool"
@@ -602,7 +965,7 @@ exports[`Google 9 1`] = `
     >
       <a
         aria-label="Share on Google Plus"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://plus.google.com/share?url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -613,7 +976,7 @@ exports[`Google 9 1`] = `
           small={true}
         >
           <div
-            className="sc-EHOje bwSWdB"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -621,7 +984,7 @@ exports[`Google 9 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -643,6 +1006,45 @@ exports[`Google 9 1`] = `
 `;
 
 exports[`Google 11 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #dd4b39;
+  border-color: #dd4b39;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #c23321;
+  border-color: #c23321;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
 <Component
   circle={true}
 >
@@ -665,7 +1067,7 @@ exports[`Google 11 1`] = `
     >
       <a
         aria-label="Share on Google Plus"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://plus.google.com/share?url="
         rel="noreferrer noopener"
         target="_blank"
@@ -673,14 +1075,14 @@ exports[`Google 11 1`] = `
       >
         <styled.div>
           <div
-            className="sc-EHOje bwSWdB"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat dZQCuR"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -708,6 +1110,47 @@ exports[`Google 11 1`] = `
 `;
 
 exports[`Google 11 2`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #dd4b39;
+  border-color: #dd4b39;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #c23321;
+  border-color: #c23321;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   solidcircle={true}
 >
@@ -730,7 +1173,7 @@ exports[`Google 11 2`] = `
     >
       <a
         aria-label="Share on Google Plus"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://plus.google.com/share?url="
         rel="noreferrer noopener"
         target="_blank"
@@ -740,7 +1183,7 @@ exports[`Google 11 2`] = `
           solidcircle={true}
         >
           <div
-            className="sc-EHOje bwSWdB"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -748,7 +1191,7 @@ exports[`Google 11 2`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -776,6 +1219,47 @@ exports[`Google 11 2`] = `
 `;
 
 exports[`Google 12 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #dd4b39;
+  border-color: #dd4b39;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #c23321;
+  border-color: #c23321;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component>
   <ButtonFactory
     ariaName="Google Plus"
@@ -795,7 +1279,7 @@ exports[`Google 12 1`] = `
     >
       <a
         aria-label="Share on Google Plus"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://plus.google.com/share?url="
         rel="noreferrer noopener"
         target="_blank"
@@ -803,7 +1287,7 @@ exports[`Google 12 1`] = `
       >
         <styled.div>
           <div
-            className="sc-EHOje bwSWdB"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -811,7 +1295,7 @@ exports[`Google 12 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -836,6 +1320,29 @@ exports[`Google 12 1`] = `
 `;
 
 exports[`Google 13 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c0 svg {
+  stroke: #232323;
+  fill: none;
+}
+
 <Component
   simple={true}
 >
@@ -859,7 +1366,7 @@ exports[`Google 13 1`] = `
     >
       <a
         aria-label="Share on Google Plus"
-        className="sc-bwzfXH ljNxya"
+        className="c0"
         href="https://plus.google.com/share?url="
         rel="noreferrer noopener"
         target="_blank"
@@ -882,6 +1389,29 @@ exports[`Google 13 1`] = `
 `;
 
 exports[`Google 14 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c0 svg {
+  stroke: #fff;
+  fill: none;
+}
+
 <Component
   simpleReverse={true}
 >
@@ -905,7 +1435,7 @@ exports[`Google 14 1`] = `
     >
       <a
         aria-label="Share on Google Plus"
-        className="sc-bwzfXH dqksVq"
+        className="c0"
         href="https://plus.google.com/share?url="
         rel="noreferrer noopener"
         target="_blank"

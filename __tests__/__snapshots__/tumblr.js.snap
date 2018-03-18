@@ -1,6 +1,47 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Tumblr 1 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #35465c;
+  border-color: #35465c;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #222d3c;
+  border-color: #222d3c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   big={true}
   link="http://sharingbuttons.io"
@@ -27,7 +68,7 @@ exports[`Tumblr 1 1`] = `
     >
       <a
         aria-label="Share on Tumblr"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -38,7 +79,7 @@ exports[`Tumblr 1 1`] = `
           solidcircle={true}
         >
           <div
-            className="sc-bZQynM dkGtst"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -46,7 +87,7 @@ exports[`Tumblr 1 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   enableBackground="new 0 0 24 24"
@@ -77,6 +118,47 @@ exports[`Tumblr 1 1`] = `
 `;
 
 exports[`Tumblr 2 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #35465c;
+  border-color: #35465c;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #222d3c;
+  border-color: #222d3c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   link="http://sharingbuttons.io"
   medium={true}
@@ -103,7 +185,7 @@ exports[`Tumblr 2 1`] = `
     >
       <a
         aria-label="Share on Tumblr"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -114,7 +196,7 @@ exports[`Tumblr 2 1`] = `
           solidcircle={true}
         >
           <div
-            className="sc-bZQynM dkGtst"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -122,7 +204,7 @@ exports[`Tumblr 2 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   enableBackground="new 0 0 24 24"
@@ -153,6 +235,47 @@ exports[`Tumblr 2 1`] = `
 `;
 
 exports[`Tumblr 3 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #35465c;
+  border-color: #35465c;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #222d3c;
+  border-color: #222d3c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   link="http://sharingbuttons.io"
   message="I am so cool"
@@ -179,7 +302,7 @@ exports[`Tumblr 3 1`] = `
     >
       <a
         aria-label="Share on Tumblr"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -191,7 +314,7 @@ exports[`Tumblr 3 1`] = `
           solidcircle={true}
         >
           <div
-            className="sc-bZQynM dkGtst"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -199,7 +322,7 @@ exports[`Tumblr 3 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   enableBackground="new 0 0 24 24"
@@ -227,6 +350,45 @@ exports[`Tumblr 3 1`] = `
 `;
 
 exports[`Tumblr 4 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #35465c;
+  border-color: #35465c;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #222d3c;
+  border-color: #222d3c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
 <Component
   big={true}
   circle={true}
@@ -253,7 +415,7 @@ exports[`Tumblr 4 1`] = `
     >
       <a
         aria-label="Share on Tumblr"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -263,14 +425,14 @@ exports[`Tumblr 4 1`] = `
           message="I am so cool"
         >
           <div
-            className="sc-bZQynM dkGtst"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat dZQCuR"
+                className="c2"
               >
                 <svg
                   enableBackground="new 0 0 24 24"
@@ -301,6 +463,45 @@ exports[`Tumblr 4 1`] = `
 `;
 
 exports[`Tumblr 5 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #35465c;
+  border-color: #35465c;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #222d3c;
+  border-color: #222d3c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
 <Component
   circle={true}
   link="http://sharingbuttons.io"
@@ -327,7 +528,7 @@ exports[`Tumblr 5 1`] = `
     >
       <a
         aria-label="Share on Tumblr"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -337,14 +538,14 @@ exports[`Tumblr 5 1`] = `
           message="I am so cool"
         >
           <div
-            className="sc-bZQynM dkGtst"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat dZQCuR"
+                className="c2"
               >
                 <svg
                   enableBackground="new 0 0 24 24"
@@ -375,6 +576,45 @@ exports[`Tumblr 5 1`] = `
 `;
 
 exports[`Tumblr 6 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #35465c;
+  border-color: #35465c;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #222d3c;
+  border-color: #222d3c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
 <Component
   circle={true}
   link="http://sharingbuttons.io"
@@ -401,7 +641,7 @@ exports[`Tumblr 6 1`] = `
     >
       <a
         aria-label="Share on Tumblr"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -412,14 +652,14 @@ exports[`Tumblr 6 1`] = `
           small={true}
         >
           <div
-            className="sc-bZQynM dkGtst"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat dZQCuR"
+                className="c2"
               >
                 <svg
                   enableBackground="new 0 0 24 24"
@@ -447,6 +687,47 @@ exports[`Tumblr 6 1`] = `
 `;
 
 exports[`Tumblr 7 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #35465c;
+  border-color: #35465c;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #222d3c;
+  border-color: #222d3c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   big={true}
   link="http://sharingbuttons.io"
@@ -473,7 +754,7 @@ exports[`Tumblr 7 1`] = `
     >
       <a
         aria-label="Share on Tumblr"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -483,7 +764,7 @@ exports[`Tumblr 7 1`] = `
           message="I am so cool"
         >
           <div
-            className="sc-bZQynM dkGtst"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -491,7 +772,7 @@ exports[`Tumblr 7 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -516,6 +797,47 @@ exports[`Tumblr 7 1`] = `
 `;
 
 exports[`Tumblr 8 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #35465c;
+  border-color: #35465c;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #222d3c;
+  border-color: #222d3c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   link="http://sharingbuttons.io"
   medium={true}
@@ -542,7 +864,7 @@ exports[`Tumblr 8 1`] = `
     >
       <a
         aria-label="Share on Tumblr"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -552,7 +874,7 @@ exports[`Tumblr 8 1`] = `
           message="I am so cool"
         >
           <div
-            className="sc-bZQynM dkGtst"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -560,7 +882,7 @@ exports[`Tumblr 8 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -585,6 +907,47 @@ exports[`Tumblr 8 1`] = `
 `;
 
 exports[`Tumblr 9 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #35465c;
+  border-color: #35465c;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #222d3c;
+  border-color: #222d3c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   link="http://sharingbuttons.io"
   message="I am so cool"
@@ -611,7 +974,7 @@ exports[`Tumblr 9 1`] = `
     >
       <a
         aria-label="Share on Tumblr"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -622,7 +985,7 @@ exports[`Tumblr 9 1`] = `
           small={true}
         >
           <div
-            className="sc-bZQynM dkGtst"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -630,7 +993,7 @@ exports[`Tumblr 9 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -652,6 +1015,45 @@ exports[`Tumblr 9 1`] = `
 `;
 
 exports[`Tumblr 11 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #35465c;
+  border-color: #35465c;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #222d3c;
+  border-color: #222d3c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
 <Component
   circle={true}
 >
@@ -673,7 +1075,7 @@ exports[`Tumblr 11 1`] = `
     >
       <a
         aria-label="Share on Tumblr"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="http://tumblr.com/widgets/share/tool?canonicalUrl="
         rel="noreferrer noopener"
         target="_blank"
@@ -681,14 +1083,14 @@ exports[`Tumblr 11 1`] = `
       >
         <styled.div>
           <div
-            className="sc-bZQynM dkGtst"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat dZQCuR"
+                className="c2"
               >
                 <svg
                   enableBackground="new 0 0 24 24"
@@ -719,6 +1121,47 @@ exports[`Tumblr 11 1`] = `
 `;
 
 exports[`Tumblr 11 2`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #35465c;
+  border-color: #35465c;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #222d3c;
+  border-color: #222d3c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   solidcircle={true}
 >
@@ -740,7 +1183,7 @@ exports[`Tumblr 11 2`] = `
     >
       <a
         aria-label="Share on Tumblr"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="http://tumblr.com/widgets/share/tool?canonicalUrl="
         rel="noreferrer noopener"
         target="_blank"
@@ -750,7 +1193,7 @@ exports[`Tumblr 11 2`] = `
           solidcircle={true}
         >
           <div
-            className="sc-bZQynM dkGtst"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -758,7 +1201,7 @@ exports[`Tumblr 11 2`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   enableBackground="new 0 0 24 24"
@@ -789,6 +1232,47 @@ exports[`Tumblr 11 2`] = `
 `;
 
 exports[`Tumblr 12 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #35465c;
+  border-color: #35465c;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #222d3c;
+  border-color: #222d3c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component>
   <ButtonFactory
     buttonComponent={[Function]}
@@ -807,7 +1291,7 @@ exports[`Tumblr 12 1`] = `
     >
       <a
         aria-label="Share on Tumblr"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="http://tumblr.com/widgets/share/tool?canonicalUrl="
         rel="noreferrer noopener"
         target="_blank"
@@ -815,7 +1299,7 @@ exports[`Tumblr 12 1`] = `
       >
         <styled.div>
           <div
-            className="sc-bZQynM dkGtst"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -823,7 +1307,7 @@ exports[`Tumblr 12 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -848,6 +1332,29 @@ exports[`Tumblr 12 1`] = `
 `;
 
 exports[`Tumblr 13 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c0 svg {
+  stroke: #232323;
+  fill: none;
+}
+
 <Component
   simple={true}
 >
@@ -870,7 +1377,7 @@ exports[`Tumblr 13 1`] = `
     >
       <a
         aria-label="Share on Tumblr"
-        className="sc-bwzfXH ljNxya"
+        className="c0"
         href="http://tumblr.com/widgets/share/tool?canonicalUrl="
         rel="noreferrer noopener"
         target="_blank"
@@ -893,6 +1400,29 @@ exports[`Tumblr 13 1`] = `
 `;
 
 exports[`Tumblr 14 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c0 svg {
+  stroke: #fff;
+  fill: none;
+}
+
 <Component
   simpleReverse={true}
 >
@@ -915,7 +1445,7 @@ exports[`Tumblr 14 1`] = `
     >
       <a
         aria-label="Share on Tumblr"
-        className="sc-bwzfXH dqksVq"
+        className="c0"
         href="http://tumblr.com/widgets/share/tool?canonicalUrl="
         rel="noreferrer noopener"
         target="_blank"

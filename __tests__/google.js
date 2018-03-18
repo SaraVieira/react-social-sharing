@@ -1,5 +1,6 @@
 import React from 'react'
 import { Google } from '../src/index'
+import 'jest-styled-components'
 
 describe('Google', function() {
   test('1', () => {

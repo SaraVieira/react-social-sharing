@@ -1,6 +1,51 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Facebook 1 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #3b5998;
+  border-color: #3b5998;
+}
+
+.c1 svg path {
+  fill: #3b5998;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #2d4373;
+  border-color: #2d4373;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   big={true}
   link="http://sharingbuttons.io"
@@ -27,7 +72,7 @@ exports[`Facebook 1 1`] = `
     >
       <a
         aria-label="Share on Facebook"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -38,7 +83,7 @@ exports[`Facebook 1 1`] = `
           solidcircle={true}
         >
           <div
-            className="sc-ifAKCX jzuEBQ"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -46,7 +91,7 @@ exports[`Facebook 1 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -76,6 +121,51 @@ exports[`Facebook 1 1`] = `
 `;
 
 exports[`Facebook 2 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #3b5998;
+  border-color: #3b5998;
+}
+
+.c1 svg path {
+  fill: #3b5998;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #2d4373;
+  border-color: #2d4373;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   link="http://sharingbuttons.io"
   medium={true}
@@ -102,7 +192,7 @@ exports[`Facebook 2 1`] = `
     >
       <a
         aria-label="Share on Facebook"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -113,7 +203,7 @@ exports[`Facebook 2 1`] = `
           solidcircle={true}
         >
           <div
-            className="sc-ifAKCX jzuEBQ"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -121,7 +211,7 @@ exports[`Facebook 2 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -151,6 +241,51 @@ exports[`Facebook 2 1`] = `
 `;
 
 exports[`Facebook 3 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #3b5998;
+  border-color: #3b5998;
+}
+
+.c1 svg path {
+  fill: #3b5998;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #2d4373;
+  border-color: #2d4373;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   link="http://sharingbuttons.io"
   message="I am so cool"
@@ -177,7 +312,7 @@ exports[`Facebook 3 1`] = `
     >
       <a
         aria-label="Share on Facebook"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -189,7 +324,7 @@ exports[`Facebook 3 1`] = `
           solidcircle={true}
         >
           <div
-            className="sc-ifAKCX jzuEBQ"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -197,7 +332,7 @@ exports[`Facebook 3 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -224,6 +359,45 @@ exports[`Facebook 3 1`] = `
 `;
 
 exports[`Facebook 4 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #3b5998;
+  border-color: #3b5998;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #2d4373;
+  border-color: #2d4373;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
 <Component
   big={true}
   circle={true}
@@ -250,7 +424,7 @@ exports[`Facebook 4 1`] = `
     >
       <a
         aria-label="Share on Facebook"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -260,14 +434,14 @@ exports[`Facebook 4 1`] = `
           message="I am so cool"
         >
           <div
-            className="sc-ifAKCX ksIwnZ"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat dZQCuR"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -297,6 +471,45 @@ exports[`Facebook 4 1`] = `
 `;
 
 exports[`Facebook 5 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #3b5998;
+  border-color: #3b5998;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #2d4373;
+  border-color: #2d4373;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
 <Component
   circle={true}
   link="http://sharingbuttons.io"
@@ -323,7 +536,7 @@ exports[`Facebook 5 1`] = `
     >
       <a
         aria-label="Share on Facebook"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -333,14 +546,14 @@ exports[`Facebook 5 1`] = `
           message="I am so cool"
         >
           <div
-            className="sc-ifAKCX ksIwnZ"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat dZQCuR"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -370,6 +583,45 @@ exports[`Facebook 5 1`] = `
 `;
 
 exports[`Facebook 6 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #3b5998;
+  border-color: #3b5998;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #2d4373;
+  border-color: #2d4373;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
 <Component
   circle={true}
   link="http://sharingbuttons.io"
@@ -396,7 +648,7 @@ exports[`Facebook 6 1`] = `
     >
       <a
         aria-label="Share on Facebook"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -407,14 +659,14 @@ exports[`Facebook 6 1`] = `
           small={true}
         >
           <div
-            className="sc-ifAKCX ksIwnZ"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat dZQCuR"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -441,6 +693,47 @@ exports[`Facebook 6 1`] = `
 `;
 
 exports[`Facebook 7 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #3b5998;
+  border-color: #3b5998;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #2d4373;
+  border-color: #2d4373;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   big={true}
   link="http://sharingbuttons.io"
@@ -467,7 +760,7 @@ exports[`Facebook 7 1`] = `
     >
       <a
         aria-label="Share on Facebook"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -477,7 +770,7 @@ exports[`Facebook 7 1`] = `
           message="I am so cool"
         >
           <div
-            className="sc-ifAKCX ksIwnZ"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -485,7 +778,7 @@ exports[`Facebook 7 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -510,6 +803,47 @@ exports[`Facebook 7 1`] = `
 `;
 
 exports[`Facebook 8 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #3b5998;
+  border-color: #3b5998;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #2d4373;
+  border-color: #2d4373;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   link="http://sharingbuttons.io"
   medium={true}
@@ -536,7 +870,7 @@ exports[`Facebook 8 1`] = `
     >
       <a
         aria-label="Share on Facebook"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -546,7 +880,7 @@ exports[`Facebook 8 1`] = `
           message="I am so cool"
         >
           <div
-            className="sc-ifAKCX ksIwnZ"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -554,7 +888,7 @@ exports[`Facebook 8 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -579,6 +913,47 @@ exports[`Facebook 8 1`] = `
 `;
 
 exports[`Facebook 9 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #3b5998;
+  border-color: #3b5998;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #2d4373;
+  border-color: #2d4373;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   link="http://sharingbuttons.io"
   message="I am so cool"
@@ -605,7 +980,7 @@ exports[`Facebook 9 1`] = `
     >
       <a
         aria-label="Share on Facebook"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -616,7 +991,7 @@ exports[`Facebook 9 1`] = `
           small={true}
         >
           <div
-            className="sc-ifAKCX ksIwnZ"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -624,7 +999,7 @@ exports[`Facebook 9 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -646,6 +1021,47 @@ exports[`Facebook 9 1`] = `
 `;
 
 exports[`Facebook 10 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #3b5998;
+  border-color: #3b5998;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #2d4373;
+  border-color: #2d4373;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   solid={true}
 >
@@ -667,7 +1083,7 @@ exports[`Facebook 10 1`] = `
     >
       <a
         aria-label="Share on Facebook"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://facebook.com/sharer/sharer.php?u="
         rel="noreferrer noopener"
         target="_blank"
@@ -675,7 +1091,7 @@ exports[`Facebook 10 1`] = `
       >
         <styled.div>
           <div
-            className="sc-ifAKCX ksIwnZ"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -683,7 +1099,7 @@ exports[`Facebook 10 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -708,6 +1124,45 @@ exports[`Facebook 10 1`] = `
 `;
 
 exports[`Facebook 11 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #3b5998;
+  border-color: #3b5998;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #2d4373;
+  border-color: #2d4373;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
 <Component
   circle={true}
 >
@@ -729,7 +1184,7 @@ exports[`Facebook 11 1`] = `
     >
       <a
         aria-label="Share on Facebook"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://facebook.com/sharer/sharer.php?u="
         rel="noreferrer noopener"
         target="_blank"
@@ -737,14 +1192,14 @@ exports[`Facebook 11 1`] = `
       >
         <styled.div>
           <div
-            className="sc-ifAKCX ksIwnZ"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat dZQCuR"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -774,6 +1229,51 @@ exports[`Facebook 11 1`] = `
 `;
 
 exports[`Facebook 11 2`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #3b5998;
+  border-color: #3b5998;
+}
+
+.c1 svg path {
+  fill: #3b5998;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #2d4373;
+  border-color: #2d4373;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   solidcircle={true}
 >
@@ -795,7 +1295,7 @@ exports[`Facebook 11 2`] = `
     >
       <a
         aria-label="Share on Facebook"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://facebook.com/sharer/sharer.php?u="
         rel="noreferrer noopener"
         target="_blank"
@@ -805,7 +1305,7 @@ exports[`Facebook 11 2`] = `
           solidcircle={true}
         >
           <div
-            className="sc-ifAKCX jzuEBQ"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -813,7 +1313,7 @@ exports[`Facebook 11 2`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -843,6 +1343,47 @@ exports[`Facebook 11 2`] = `
 `;
 
 exports[`Facebook 12 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #3b5998;
+  border-color: #3b5998;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #2d4373;
+  border-color: #2d4373;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component>
   <ButtonFactory
     buttonComponent={[Function]}
@@ -861,7 +1402,7 @@ exports[`Facebook 12 1`] = `
     >
       <a
         aria-label="Share on Facebook"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://facebook.com/sharer/sharer.php?u="
         rel="noreferrer noopener"
         target="_blank"
@@ -869,7 +1410,7 @@ exports[`Facebook 12 1`] = `
       >
         <styled.div>
           <div
-            className="sc-ifAKCX ksIwnZ"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -877,7 +1418,7 @@ exports[`Facebook 12 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -902,6 +1443,29 @@ exports[`Facebook 12 1`] = `
 `;
 
 exports[`Facebook 13 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c0 svg {
+  stroke: #232323;
+  fill: none;
+}
+
 <Component
   simple={true}
 >
@@ -924,7 +1488,7 @@ exports[`Facebook 13 1`] = `
     >
       <a
         aria-label="Share on Facebook"
-        className="sc-bwzfXH ljNxya"
+        className="c0"
         href="https://facebook.com/sharer/sharer.php?u="
         rel="noreferrer noopener"
         target="_blank"
@@ -947,6 +1511,29 @@ exports[`Facebook 13 1`] = `
 `;
 
 exports[`Facebook 14 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c0 svg {
+  stroke: #fff;
+  fill: none;
+}
+
 <Component
   simpleReverse={true}
 >
@@ -969,7 +1556,7 @@ exports[`Facebook 14 1`] = `
     >
       <a
         aria-label="Share on Facebook"
-        className="sc-bwzfXH dqksVq"
+        className="c0"
         href="https://facebook.com/sharer/sharer.php?u="
         rel="noreferrer noopener"
         target="_blank"

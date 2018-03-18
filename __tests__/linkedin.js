@@ -1,5 +1,6 @@
 import React from 'react'
 import { Linkedin } from '../src/index'
+import 'jest-styled-components'
 
 describe('Linkedin', function() {
   test('1', () => {

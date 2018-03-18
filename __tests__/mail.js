@@ -1,5 +1,6 @@
 import React from 'react'
 import { Mail } from '../src/index'
+import 'jest-styled-components'
 
 describe('Mail', function() {
   test('1', () => {

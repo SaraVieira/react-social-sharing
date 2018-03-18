@@ -1,5 +1,6 @@
 import React from 'react'
 import { Twitter } from '../src/index'
+import 'jest-styled-components'
 
 describe('Twitter', function() {
   test('1', () => {

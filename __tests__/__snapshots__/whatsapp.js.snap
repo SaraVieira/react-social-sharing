@@ -1,6 +1,47 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Whatsapp 1 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #25d366;
+  border-color: #25d366;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #1da851;
+  border-color: #1da851;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   big={true}
   link="http://sharingbuttons.io"
@@ -27,7 +68,7 @@ exports[`Whatsapp 1 1`] = `
     >
       <a
         aria-label="Share on WhatsApp"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
         rel="noreferrer noopener"
         target="_blank"
@@ -38,7 +79,7 @@ exports[`Whatsapp 1 1`] = `
           solidcircle={true}
         >
           <div
-            className="sc-gqjmRU eqeAgc"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -46,7 +87,7 @@ exports[`Whatsapp 1 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   height="24"
@@ -73,6 +114,47 @@ exports[`Whatsapp 1 1`] = `
 `;
 
 exports[`Whatsapp 2 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #25d366;
+  border-color: #25d366;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #1da851;
+  border-color: #1da851;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   link="http://sharingbuttons.io"
   medium={true}
@@ -99,7 +181,7 @@ exports[`Whatsapp 2 1`] = `
     >
       <a
         aria-label="Share on WhatsApp"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
         rel="noreferrer noopener"
         target="_blank"
@@ -110,7 +192,7 @@ exports[`Whatsapp 2 1`] = `
           solidcircle={true}
         >
           <div
-            className="sc-gqjmRU eqeAgc"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -118,7 +200,7 @@ exports[`Whatsapp 2 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   height="24"
@@ -145,6 +227,47 @@ exports[`Whatsapp 2 1`] = `
 `;
 
 exports[`Whatsapp 3 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #25d366;
+  border-color: #25d366;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #1da851;
+  border-color: #1da851;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   link="http://sharingbuttons.io"
   message="I am so cool"
@@ -171,7 +294,7 @@ exports[`Whatsapp 3 1`] = `
     >
       <a
         aria-label="Share on WhatsApp"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
         rel="noreferrer noopener"
         target="_blank"
@@ -183,7 +306,7 @@ exports[`Whatsapp 3 1`] = `
           solidcircle={true}
         >
           <div
-            className="sc-gqjmRU eqeAgc"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -191,7 +314,7 @@ exports[`Whatsapp 3 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   height="24"
@@ -215,6 +338,45 @@ exports[`Whatsapp 3 1`] = `
 `;
 
 exports[`Whatsapp 4 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #25d366;
+  border-color: #25d366;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #1da851;
+  border-color: #1da851;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
 <Component
   big={true}
   circle={true}
@@ -241,7 +403,7 @@ exports[`Whatsapp 4 1`] = `
     >
       <a
         aria-label="Share on WhatsApp"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
         rel="noreferrer noopener"
         target="_blank"
@@ -251,14 +413,14 @@ exports[`Whatsapp 4 1`] = `
           message="I am so cool"
         >
           <div
-            className="sc-gqjmRU eqeAgc"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat dZQCuR"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -290,6 +452,45 @@ exports[`Whatsapp 4 1`] = `
 `;
 
 exports[`Whatsapp 5 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #25d366;
+  border-color: #25d366;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #1da851;
+  border-color: #1da851;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
 <Component
   circle={true}
   link="http://sharingbuttons.io"
@@ -316,7 +517,7 @@ exports[`Whatsapp 5 1`] = `
     >
       <a
         aria-label="Share on WhatsApp"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
         rel="noreferrer noopener"
         target="_blank"
@@ -326,14 +527,14 @@ exports[`Whatsapp 5 1`] = `
           message="I am so cool"
         >
           <div
-            className="sc-gqjmRU eqeAgc"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat dZQCuR"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -365,6 +566,45 @@ exports[`Whatsapp 5 1`] = `
 `;
 
 exports[`Whatsapp 6 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #25d366;
+  border-color: #25d366;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #1da851;
+  border-color: #1da851;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
 <Component
   circle={true}
   link="http://sharingbuttons.io"
@@ -391,7 +631,7 @@ exports[`Whatsapp 6 1`] = `
     >
       <a
         aria-label="Share on WhatsApp"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
         rel="noreferrer noopener"
         target="_blank"
@@ -402,14 +642,14 @@ exports[`Whatsapp 6 1`] = `
           small={true}
         >
           <div
-            className="sc-gqjmRU eqeAgc"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat dZQCuR"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -438,6 +678,47 @@ exports[`Whatsapp 6 1`] = `
 `;
 
 exports[`Whatsapp 7 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #25d366;
+  border-color: #25d366;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #1da851;
+  border-color: #1da851;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   big={true}
   link="http://sharingbuttons.io"
@@ -464,7 +745,7 @@ exports[`Whatsapp 7 1`] = `
     >
       <a
         aria-label="Share on WhatsApp"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
         rel="noreferrer noopener"
         target="_blank"
@@ -474,7 +755,7 @@ exports[`Whatsapp 7 1`] = `
           message="I am so cool"
         >
           <div
-            className="sc-gqjmRU eqeAgc"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -482,7 +763,7 @@ exports[`Whatsapp 7 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -507,6 +788,47 @@ exports[`Whatsapp 7 1`] = `
 `;
 
 exports[`Whatsapp 8 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #25d366;
+  border-color: #25d366;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #1da851;
+  border-color: #1da851;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   link="http://sharingbuttons.io"
   medium={true}
@@ -533,7 +855,7 @@ exports[`Whatsapp 8 1`] = `
     >
       <a
         aria-label="Share on WhatsApp"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
         rel="noreferrer noopener"
         target="_blank"
@@ -543,7 +865,7 @@ exports[`Whatsapp 8 1`] = `
           message="I am so cool"
         >
           <div
-            className="sc-gqjmRU eqeAgc"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -551,7 +873,7 @@ exports[`Whatsapp 8 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -576,6 +898,47 @@ exports[`Whatsapp 8 1`] = `
 `;
 
 exports[`Whatsapp 9 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #25d366;
+  border-color: #25d366;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #1da851;
+  border-color: #1da851;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   link="http://sharingbuttons.io"
   message="I am so cool"
@@ -602,7 +965,7 @@ exports[`Whatsapp 9 1`] = `
     >
       <a
         aria-label="Share on WhatsApp"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
         rel="noreferrer noopener"
         target="_blank"
@@ -613,7 +976,7 @@ exports[`Whatsapp 9 1`] = `
           small={true}
         >
           <div
-            className="sc-gqjmRU eqeAgc"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -621,7 +984,7 @@ exports[`Whatsapp 9 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -643,6 +1006,45 @@ exports[`Whatsapp 9 1`] = `
 `;
 
 exports[`Whatsapp 11 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #25d366;
+  border-color: #25d366;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #1da851;
+  border-color: #1da851;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
 <Component
   circle={true}
 >
@@ -664,7 +1066,7 @@ exports[`Whatsapp 11 1`] = `
     >
       <a
         aria-label="Share on WhatsApp"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="whatsapp://send?text=undefined%20"
         rel="noreferrer noopener"
         target="_blank"
@@ -672,14 +1074,14 @@ exports[`Whatsapp 11 1`] = `
       >
         <styled.div>
           <div
-            className="sc-gqjmRU eqeAgc"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat dZQCuR"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -711,6 +1113,47 @@ exports[`Whatsapp 11 1`] = `
 `;
 
 exports[`Whatsapp 11 2`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #25d366;
+  border-color: #25d366;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #1da851;
+  border-color: #1da851;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   solidcircle={true}
 >
@@ -732,7 +1175,7 @@ exports[`Whatsapp 11 2`] = `
     >
       <a
         aria-label="Share on WhatsApp"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="whatsapp://send?text=undefined%20"
         rel="noreferrer noopener"
         target="_blank"
@@ -742,7 +1185,7 @@ exports[`Whatsapp 11 2`] = `
           solidcircle={true}
         >
           <div
-            className="sc-gqjmRU eqeAgc"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -750,7 +1193,7 @@ exports[`Whatsapp 11 2`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   height="24"
@@ -777,6 +1220,47 @@ exports[`Whatsapp 11 2`] = `
 `;
 
 exports[`Whatsapp 12 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #25d366;
+  border-color: #25d366;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #1da851;
+  border-color: #1da851;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component>
   <ButtonFactory
     buttonComponent={[Function]}
@@ -795,7 +1279,7 @@ exports[`Whatsapp 12 1`] = `
     >
       <a
         aria-label="Share on WhatsApp"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="whatsapp://send?text=undefined%20"
         rel="noreferrer noopener"
         target="_blank"
@@ -803,7 +1287,7 @@ exports[`Whatsapp 12 1`] = `
       >
         <styled.div>
           <div
-            className="sc-gqjmRU eqeAgc"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -811,7 +1295,7 @@ exports[`Whatsapp 12 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -836,6 +1320,29 @@ exports[`Whatsapp 12 1`] = `
 `;
 
 exports[`Whatsapp 13 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c0 svg {
+  stroke: #232323;
+  fill: none;
+}
+
 <Component
   simple={true}
 >
@@ -858,7 +1365,7 @@ exports[`Whatsapp 13 1`] = `
     >
       <a
         aria-label="Share on WhatsApp"
-        className="sc-bwzfXH ljNxya"
+        className="c0"
         href="whatsapp://send?text=undefined%20"
         rel="noreferrer noopener"
         target="_blank"
@@ -881,6 +1388,29 @@ exports[`Whatsapp 13 1`] = `
 `;
 
 exports[`Whatsapp 14 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c0 svg {
+  stroke: #fff;
+  fill: none;
+}
+
 <Component
   simpleReverse={true}
 >
@@ -903,7 +1433,7 @@ exports[`Whatsapp 14 1`] = `
     >
       <a
         aria-label="Share on WhatsApp"
-        className="sc-bwzfXH dqksVq"
+        className="c0"
         href="whatsapp://send?text=undefined%20"
         rel="noreferrer noopener"
         target="_blank"

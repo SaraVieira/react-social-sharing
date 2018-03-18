@@ -1,5 +1,6 @@
 import React from 'react'
 import { Tumblr } from '../src/index'
+import 'jest-styled-components'
 
 describe('Tumblr', function() {
   test('1', () => {

@@ -1,6 +1,47 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Linkedin 1 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #0077b5;
+  border-color: #0077b5;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #046293;
+  border-color: #046293;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   big={true}
   link="http://sharingbuttons.io"
@@ -27,7 +68,7 @@ exports[`Linkedin 1 1`] = `
     >
       <a
         aria-label="Share on LinkedIn"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
         rel="noreferrer noopener"
         target="_blank"
@@ -38,7 +79,7 @@ exports[`Linkedin 1 1`] = `
           solidcircle={true}
         >
           <div
-            className="sc-dnqmqq dWbQzG"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -46,7 +87,7 @@ exports[`Linkedin 1 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   enableBackground="new 0 0 24 24"
@@ -77,6 +118,47 @@ exports[`Linkedin 1 1`] = `
 `;
 
 exports[`Linkedin 2 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #0077b5;
+  border-color: #0077b5;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #046293;
+  border-color: #046293;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   link="http://sharingbuttons.io"
   medium={true}
@@ -103,7 +185,7 @@ exports[`Linkedin 2 1`] = `
     >
       <a
         aria-label="Share on LinkedIn"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
         rel="noreferrer noopener"
         target="_blank"
@@ -114,7 +196,7 @@ exports[`Linkedin 2 1`] = `
           solidcircle={true}
         >
           <div
-            className="sc-dnqmqq dWbQzG"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -122,7 +204,7 @@ exports[`Linkedin 2 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   enableBackground="new 0 0 24 24"
@@ -153,6 +235,47 @@ exports[`Linkedin 2 1`] = `
 `;
 
 exports[`Linkedin 3 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #0077b5;
+  border-color: #0077b5;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #046293;
+  border-color: #046293;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   link="http://sharingbuttons.io"
   message="I am so cool"
@@ -179,7 +302,7 @@ exports[`Linkedin 3 1`] = `
     >
       <a
         aria-label="Share on LinkedIn"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
         rel="noreferrer noopener"
         target="_blank"
@@ -191,7 +314,7 @@ exports[`Linkedin 3 1`] = `
           solidcircle={true}
         >
           <div
-            className="sc-dnqmqq dWbQzG"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -199,7 +322,7 @@ exports[`Linkedin 3 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   enableBackground="new 0 0 24 24"
@@ -227,6 +350,45 @@ exports[`Linkedin 3 1`] = `
 `;
 
 exports[`Linkedin 4 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #0077b5;
+  border-color: #0077b5;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #046293;
+  border-color: #046293;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
 <Component
   big={true}
   circle={true}
@@ -253,7 +415,7 @@ exports[`Linkedin 4 1`] = `
     >
       <a
         aria-label="Share on LinkedIn"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
         rel="noreferrer noopener"
         target="_blank"
@@ -263,14 +425,14 @@ exports[`Linkedin 4 1`] = `
           message="I am so cool"
         >
           <div
-            className="sc-dnqmqq dWbQzG"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat dZQCuR"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -305,6 +467,45 @@ exports[`Linkedin 4 1`] = `
 `;
 
 exports[`Linkedin 5 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #0077b5;
+  border-color: #0077b5;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #046293;
+  border-color: #046293;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
 <Component
   circle={true}
   link="http://sharingbuttons.io"
@@ -331,7 +532,7 @@ exports[`Linkedin 5 1`] = `
     >
       <a
         aria-label="Share on LinkedIn"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
         rel="noreferrer noopener"
         target="_blank"
@@ -341,14 +542,14 @@ exports[`Linkedin 5 1`] = `
           message="I am so cool"
         >
           <div
-            className="sc-dnqmqq dWbQzG"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat dZQCuR"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -383,6 +584,45 @@ exports[`Linkedin 5 1`] = `
 `;
 
 exports[`Linkedin 6 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #0077b5;
+  border-color: #0077b5;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #046293;
+  border-color: #046293;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
 <Component
   circle={true}
   link="http://sharingbuttons.io"
@@ -409,7 +649,7 @@ exports[`Linkedin 6 1`] = `
     >
       <a
         aria-label="Share on LinkedIn"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
         rel="noreferrer noopener"
         target="_blank"
@@ -420,14 +660,14 @@ exports[`Linkedin 6 1`] = `
           small={true}
         >
           <div
-            className="sc-dnqmqq dWbQzG"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat dZQCuR"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -459,6 +699,47 @@ exports[`Linkedin 6 1`] = `
 `;
 
 exports[`Linkedin 7 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #0077b5;
+  border-color: #0077b5;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #046293;
+  border-color: #046293;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   big={true}
   link="http://sharingbuttons.io"
@@ -485,7 +766,7 @@ exports[`Linkedin 7 1`] = `
     >
       <a
         aria-label="Share on LinkedIn"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
         rel="noreferrer noopener"
         target="_blank"
@@ -495,7 +776,7 @@ exports[`Linkedin 7 1`] = `
           message="I am so cool"
         >
           <div
-            className="sc-dnqmqq dWbQzG"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -503,7 +784,7 @@ exports[`Linkedin 7 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -528,6 +809,47 @@ exports[`Linkedin 7 1`] = `
 `;
 
 exports[`Linkedin 8 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #0077b5;
+  border-color: #0077b5;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #046293;
+  border-color: #046293;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   link="http://sharingbuttons.io"
   medium={true}
@@ -554,7 +876,7 @@ exports[`Linkedin 8 1`] = `
     >
       <a
         aria-label="Share on LinkedIn"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
         rel="noreferrer noopener"
         target="_blank"
@@ -564,7 +886,7 @@ exports[`Linkedin 8 1`] = `
           message="I am so cool"
         >
           <div
-            className="sc-dnqmqq dWbQzG"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -572,7 +894,7 @@ exports[`Linkedin 8 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -597,6 +919,47 @@ exports[`Linkedin 8 1`] = `
 `;
 
 exports[`Linkedin 9 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #0077b5;
+  border-color: #0077b5;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #046293;
+  border-color: #046293;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   link="http://sharingbuttons.io"
   message="I am so cool"
@@ -623,7 +986,7 @@ exports[`Linkedin 9 1`] = `
     >
       <a
         aria-label="Share on LinkedIn"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
         rel="noreferrer noopener"
         target="_blank"
@@ -634,7 +997,7 @@ exports[`Linkedin 9 1`] = `
           small={true}
         >
           <div
-            className="sc-dnqmqq dWbQzG"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -642,7 +1005,7 @@ exports[`Linkedin 9 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -664,6 +1027,45 @@ exports[`Linkedin 9 1`] = `
 `;
 
 exports[`Linkedin 11 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #0077b5;
+  border-color: #0077b5;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #046293;
+  border-color: #046293;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
 <Component
   circle={true}
 >
@@ -685,7 +1087,7 @@ exports[`Linkedin 11 1`] = `
     >
       <a
         aria-label="Share on LinkedIn"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=.&amp;summary=.&amp;source="
         rel="noreferrer noopener"
         target="_blank"
@@ -693,14 +1095,14 @@ exports[`Linkedin 11 1`] = `
       >
         <styled.div>
           <div
-            className="sc-dnqmqq dWbQzG"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat dZQCuR"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -735,6 +1137,47 @@ exports[`Linkedin 11 1`] = `
 `;
 
 exports[`Linkedin 11 2`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #0077b5;
+  border-color: #0077b5;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #046293;
+  border-color: #046293;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component
   solidcircle={true}
 >
@@ -756,7 +1199,7 @@ exports[`Linkedin 11 2`] = `
     >
       <a
         aria-label="Share on LinkedIn"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=.&amp;summary=.&amp;source="
         rel="noreferrer noopener"
         target="_blank"
@@ -766,7 +1209,7 @@ exports[`Linkedin 11 2`] = `
           solidcircle={true}
         >
           <div
-            className="sc-dnqmqq dWbQzG"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -774,7 +1217,7 @@ exports[`Linkedin 11 2`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   enableBackground="new 0 0 24 24"
@@ -805,6 +1248,47 @@ exports[`Linkedin 11 2`] = `
 `;
 
 exports[`Linkedin 12 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #0077b5;
+  border-color: #0077b5;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #046293;
+  border-color: #046293;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
 <Component>
   <ButtonFactory
     buttonComponent={[Function]}
@@ -823,7 +1307,7 @@ exports[`Linkedin 12 1`] = `
     >
       <a
         aria-label="Share on LinkedIn"
-        className="sc-bwzfXH ewcqji"
+        className="c0"
         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=.&amp;summary=.&amp;source="
         rel="noreferrer noopener"
         target="_blank"
@@ -831,7 +1315,7 @@ exports[`Linkedin 12 1`] = `
       >
         <styled.div>
           <div
-            className="sc-dnqmqq dWbQzG"
+            className="c1"
           >
             <styled.div
               aria-hidden="true"
@@ -839,7 +1323,7 @@ exports[`Linkedin 12 1`] = `
             >
               <div
                 aria-hidden="true"
-                className="sc-htpNat gylFwk"
+                className="c2"
               >
                 <svg
                   viewBox="0 0 24 24"
@@ -864,6 +1348,29 @@ exports[`Linkedin 12 1`] = `
 `;
 
 exports[`Linkedin 13 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c0 svg {
+  stroke: #232323;
+  fill: none;
+}
+
 <Component
   simple={true}
 >
@@ -886,7 +1393,7 @@ exports[`Linkedin 13 1`] = `
     >
       <a
         aria-label="Share on LinkedIn"
-        className="sc-bwzfXH ljNxya"
+        className="c0"
         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=.&amp;summary=.&amp;source="
         rel="noreferrer noopener"
         target="_blank"
@@ -909,6 +1416,29 @@ exports[`Linkedin 13 1`] = `
 `;
 
 exports[`Linkedin 14 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c0 svg {
+  stroke: #fff;
+  fill: none;
+}
+
 <Component
   simpleReverse={true}
 >
@@ -931,7 +1461,7 @@ exports[`Linkedin 14 1`] = `
     >
       <a
         aria-label="Share on LinkedIn"
-        className="sc-bwzfXH dqksVq"
+        className="c0"
         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=.&amp;summary=.&amp;source="
         rel="noreferrer noopener"
         target="_blank"

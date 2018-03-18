@@ -1,5 +1,6 @@
 import React from 'react'
 import { Facebook } from '../src/index'
+import 'jest-styled-components'
 
 describe('Facebook', function() {
   test('1', () => {

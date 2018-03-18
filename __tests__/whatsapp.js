@@ -1,5 +1,6 @@
 import React from 'react'
 import { Whatsapp } from '../src/index'
+import 'jest-styled-components'
 
 describe('Whatsapp', function() {
   test('1', () => {

@@ -1,5 +1,6 @@
 import React from 'react'
 import { Reddit } from '../src/index'
+import 'jest-styled-components'
 
 describe('Reddit', function() {
   test('1', () => {
