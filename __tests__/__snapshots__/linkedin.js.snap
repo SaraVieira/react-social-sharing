@@ -1,737 +1,942 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Linkedin 1 1`] = `
-<Button
+<Component
   big={true}
   link="http://sharingbuttons.io"
   message="I am so cool"
   solidcircle={true}
 >
-  <styled.a
-    aria-label="Share on Linkedin"
-    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    big={true}
+    buttonComponent={[Function]}
+    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    message="I am so cool"
+    name="LinkedIn"
+    solidcircle={true}
   >
-    <a
-      aria-label="Share on Linkedin"
-      className="sc-bwzfXH bSlLDy"
-      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
+    <styled.a
+      aria-label="Share on LinkedIn"
+      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on LinkedIn"
     >
-      <styled.div>
-        <div
-          className="sc-dnqmqq dWbQzG"
+      <a
+        aria-label="Share on LinkedIn"
+        className="sc-bwzfXH bSlLDy"
+        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on LinkedIn"
+      >
+        <styled.div
+          message="I am so cool"
+          solidcircle={true}
         >
-          <styled.div
-            aria-hidden="true"
-            solidcircle={true}
+          <div
+            className="sc-dnqmqq dWbQzG"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solidcircle={true}
             >
-              <svg
-                enableBackground="new 0 0 24 24"
-                height="24px"
-                version="1.1"
-                viewBox="0 0 24 24"
-                width="24px"
-                x="0px"
-                xmlSpace="preserve"
-                y="0px"
+              <div
+                aria-hidden="true"
+                className="sc-htpNat gylFwk"
               >
-                <path
-                  d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M9.5,16.5h-2v-7h2V16.5z M8.5,7.5 c-0.553,0-1-0.448-1-1c0-0.552,0.447-1,1-1s1,0.448,1,1C9.5,7.052,9.053,7.5,8.5,7.5z M18.5,16.5h-3V13c0-0.277-0.225-0.5-0.5-0.5 c-0.276,0-0.5,0.223-0.5,0.5v3.5h-3c0,0,0.031-6.478,0-7h3v0.835c0,0,0.457-0.753,1.707-0.753c1.55,0,2.293,1.12,2.293,3.296V16.5z"
-                />
-              </svg>
-               share on 
-              LinkedIn
-               
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  enableBackground="new 0 0 24 24"
+                  height="24px"
+                  version="1.1"
+                  viewBox="0 0 24 24"
+                  width="24px"
+                  x="0px"
+                  xmlSpace="preserve"
+                  y="0px"
+                >
+                  <path
+                    d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M9.5,16.5h-2v-7h2V16.5z M8.5,7.5 c-0.553,0-1-0.448-1-1c0-0.552,0.447-1,1-1s1,0.448,1,1C9.5,7.052,9.053,7.5,8.5,7.5z M18.5,16.5h-3V13c0-0.277-0.225-0.5-0.5-0.5 c-0.276,0-0.5,0.223-0.5,0.5v3.5h-3c0,0,0.031-6.478,0-7h3v0.835c0,0,0.457-0.753,1.707-0.753c1.55,0,2.293,1.12,2.293,3.296V16.5z"
+                  />
+                </svg>
+                 share on 
+                LinkedIn
+                 
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Linkedin 2 1`] = `
-<Button
+<Component
   link="http://sharingbuttons.io"
   medium={true}
   message="I am so cool"
   solidcircle={true}
 >
-  <styled.a
-    aria-label="Share on Linkedin"
-    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    buttonComponent={[Function]}
+    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    medium={true}
+    message="I am so cool"
+    name="LinkedIn"
+    solidcircle={true}
   >
-    <a
-      aria-label="Share on Linkedin"
-      className="sc-bwzfXH bSlLDy"
-      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
+    <styled.a
+      aria-label="Share on LinkedIn"
+      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on LinkedIn"
     >
-      <styled.div>
-        <div
-          className="sc-dnqmqq dWbQzG"
+      <a
+        aria-label="Share on LinkedIn"
+        className="sc-bwzfXH bSlLDy"
+        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on LinkedIn"
+      >
+        <styled.div
+          message="I am so cool"
+          solidcircle={true}
         >
-          <styled.div
-            aria-hidden="true"
-            solidcircle={true}
+          <div
+            className="sc-dnqmqq dWbQzG"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solidcircle={true}
             >
-              <svg
-                enableBackground="new 0 0 24 24"
-                height="24px"
-                version="1.1"
-                viewBox="0 0 24 24"
-                width="24px"
-                x="0px"
-                xmlSpace="preserve"
-                y="0px"
+              <div
+                aria-hidden="true"
+                className="sc-htpNat gylFwk"
               >
-                <path
-                  d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M9.5,16.5h-2v-7h2V16.5z M8.5,7.5 c-0.553,0-1-0.448-1-1c0-0.552,0.447-1,1-1s1,0.448,1,1C9.5,7.052,9.053,7.5,8.5,7.5z M18.5,16.5h-3V13c0-0.277-0.225-0.5-0.5-0.5 c-0.276,0-0.5,0.223-0.5,0.5v3.5h-3c0,0,0.031-6.478,0-7h3v0.835c0,0,0.457-0.753,1.707-0.753c1.55,0,2.293,1.12,2.293,3.296V16.5z"
-                />
-              </svg>
-               
-              LinkedIn
-               
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  enableBackground="new 0 0 24 24"
+                  height="24px"
+                  version="1.1"
+                  viewBox="0 0 24 24"
+                  width="24px"
+                  x="0px"
+                  xmlSpace="preserve"
+                  y="0px"
+                >
+                  <path
+                    d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M9.5,16.5h-2v-7h2V16.5z M8.5,7.5 c-0.553,0-1-0.448-1-1c0-0.552,0.447-1,1-1s1,0.448,1,1C9.5,7.052,9.053,7.5,8.5,7.5z M18.5,16.5h-3V13c0-0.277-0.225-0.5-0.5-0.5 c-0.276,0-0.5,0.223-0.5,0.5v3.5h-3c0,0,0.031-6.478,0-7h3v0.835c0,0,0.457-0.753,1.707-0.753c1.55,0,2.293,1.12,2.293,3.296V16.5z"
+                  />
+                </svg>
+                 
+                LinkedIn
+                 
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Linkedin 3 1`] = `
-<Button
+<Component
   link="http://sharingbuttons.io"
   message="I am so cool"
   small={true}
   solidcircle={true}
 >
-  <styled.a
-    aria-label="Share on Linkedin"
-    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    buttonComponent={[Function]}
+    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    message="I am so cool"
+    name="LinkedIn"
+    small={true}
+    solidcircle={true}
   >
-    <a
-      aria-label="Share on Linkedin"
-      className="sc-bwzfXH bSlLDy"
-      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
+    <styled.a
+      aria-label="Share on LinkedIn"
+      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on LinkedIn"
     >
-      <styled.div
-        small={true}
+      <a
+        aria-label="Share on LinkedIn"
+        className="sc-bwzfXH bSlLDy"
+        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on LinkedIn"
       >
-        <div
-          className="sc-dnqmqq dWbQzG"
+        <styled.div
+          message="I am so cool"
+          small={true}
+          solidcircle={true}
         >
-          <styled.div
-            aria-hidden="true"
-            solidcircle={true}
+          <div
+            className="sc-dnqmqq dWbQzG"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solidcircle={true}
             >
-              <svg
-                enableBackground="new 0 0 24 24"
-                height="24px"
-                version="1.1"
-                viewBox="0 0 24 24"
-                width="24px"
-                x="0px"
-                xmlSpace="preserve"
-                y="0px"
+              <div
+                aria-hidden="true"
+                className="sc-htpNat gylFwk"
               >
-                <path
-                  d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M9.5,16.5h-2v-7h2V16.5z M8.5,7.5 c-0.553,0-1-0.448-1-1c0-0.552,0.447-1,1-1s1,0.448,1,1C9.5,7.052,9.053,7.5,8.5,7.5z M18.5,16.5h-3V13c0-0.277-0.225-0.5-0.5-0.5 c-0.276,0-0.5,0.223-0.5,0.5v3.5h-3c0,0,0.031-6.478,0-7h3v0.835c0,0,0.457-0.753,1.707-0.753c1.55,0,2.293,1.12,2.293,3.296V16.5z"
-                />
-              </svg>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  enableBackground="new 0 0 24 24"
+                  height="24px"
+                  version="1.1"
+                  viewBox="0 0 24 24"
+                  width="24px"
+                  x="0px"
+                  xmlSpace="preserve"
+                  y="0px"
+                >
+                  <path
+                    d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M9.5,16.5h-2v-7h2V16.5z M8.5,7.5 c-0.553,0-1-0.448-1-1c0-0.552,0.447-1,1-1s1,0.448,1,1C9.5,7.052,9.053,7.5,8.5,7.5z M18.5,16.5h-3V13c0-0.277-0.225-0.5-0.5-0.5 c-0.276,0-0.5,0.223-0.5,0.5v3.5h-3c0,0,0.031-6.478,0-7h3v0.835c0,0,0.457-0.753,1.707-0.753c1.55,0,2.293,1.12,2.293,3.296V16.5z"
+                  />
+                </svg>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Linkedin 4 1`] = `
-<Button
+<Component
   big={true}
   circle={true}
   link="http://sharingbuttons.io"
   message="I am so cool"
 >
-  <styled.a
-    aria-label="Share on Linkedin"
-    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    big={true}
+    buttonComponent={[Function]}
+    circle={true}
+    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    message="I am so cool"
+    name="LinkedIn"
   >
-    <a
-      aria-label="Share on Linkedin"
-      className="sc-bwzfXH bSlLDy"
-      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
+    <styled.a
+      aria-label="Share on LinkedIn"
+      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on LinkedIn"
     >
-      <styled.div>
-        <div
-          className="sc-dnqmqq dWbQzG"
+      <a
+        aria-label="Share on LinkedIn"
+        className="sc-bwzfXH bSlLDy"
+        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on LinkedIn"
+      >
+        <styled.div
+          message="I am so cool"
         >
-          <styled.div
-            aria-hidden="true"
+          <div
+            className="sc-dnqmqq dWbQzG"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat dZQCuR"
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="sc-htpNat dZQCuR"
               >
-                <circle
-                  cx="12"
-                  cy="12"
-                  r="11.5"
-                />
-                <path
-                  d="M15 12.5c-.28 0-.5.22-.5.5v3.5h-3s.03-6.48 0-7h3v.83s.46-.75 1.7-.75c1.56 0 2.3 1.12 2.3 3.3v3.62h-3V13c0-.28-.23-.5-.5-.5zm-7.5-3h2v7h-2z"
-                />
-                <circle
-                  cx="8.5"
-                  cy="6.5"
-                  r="1"
-                />
-              </svg>
-               share on 
-              LinkedIn
-               
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="11.5"
+                  />
+                  <path
+                    d="M15 12.5c-.28 0-.5.22-.5.5v3.5h-3s.03-6.48 0-7h3v.83s.46-.75 1.7-.75c1.56 0 2.3 1.12 2.3 3.3v3.62h-3V13c0-.28-.23-.5-.5-.5zm-7.5-3h2v7h-2z"
+                  />
+                  <circle
+                    cx="8.5"
+                    cy="6.5"
+                    r="1"
+                  />
+                </svg>
+                 share on 
+                LinkedIn
+                 
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Linkedin 5 1`] = `
-<Button
+<Component
   circle={true}
   link="http://sharingbuttons.io"
   medium={true}
   message="I am so cool"
 >
-  <styled.a
-    aria-label="Share on Linkedin"
-    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    buttonComponent={[Function]}
+    circle={true}
+    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    medium={true}
+    message="I am so cool"
+    name="LinkedIn"
   >
-    <a
-      aria-label="Share on Linkedin"
-      className="sc-bwzfXH bSlLDy"
-      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
+    <styled.a
+      aria-label="Share on LinkedIn"
+      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on LinkedIn"
     >
-      <styled.div>
-        <div
-          className="sc-dnqmqq dWbQzG"
+      <a
+        aria-label="Share on LinkedIn"
+        className="sc-bwzfXH bSlLDy"
+        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on LinkedIn"
+      >
+        <styled.div
+          message="I am so cool"
         >
-          <styled.div
-            aria-hidden="true"
+          <div
+            className="sc-dnqmqq dWbQzG"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat dZQCuR"
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="sc-htpNat dZQCuR"
               >
-                <circle
-                  cx="12"
-                  cy="12"
-                  r="11.5"
-                />
-                <path
-                  d="M15 12.5c-.28 0-.5.22-.5.5v3.5h-3s.03-6.48 0-7h3v.83s.46-.75 1.7-.75c1.56 0 2.3 1.12 2.3 3.3v3.62h-3V13c0-.28-.23-.5-.5-.5zm-7.5-3h2v7h-2z"
-                />
-                <circle
-                  cx="8.5"
-                  cy="6.5"
-                  r="1"
-                />
-              </svg>
-               
-              LinkedIn
-               
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="11.5"
+                  />
+                  <path
+                    d="M15 12.5c-.28 0-.5.22-.5.5v3.5h-3s.03-6.48 0-7h3v.83s.46-.75 1.7-.75c1.56 0 2.3 1.12 2.3 3.3v3.62h-3V13c0-.28-.23-.5-.5-.5zm-7.5-3h2v7h-2z"
+                  />
+                  <circle
+                    cx="8.5"
+                    cy="6.5"
+                    r="1"
+                  />
+                </svg>
+                 
+                LinkedIn
+                 
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Linkedin 6 1`] = `
-<Button
+<Component
   circle={true}
   link="http://sharingbuttons.io"
   message="I am so cool"
   small={true}
 >
-  <styled.a
-    aria-label="Share on Linkedin"
-    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    buttonComponent={[Function]}
+    circle={true}
+    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    message="I am so cool"
+    name="LinkedIn"
+    small={true}
   >
-    <a
-      aria-label="Share on Linkedin"
-      className="sc-bwzfXH bSlLDy"
-      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
+    <styled.a
+      aria-label="Share on LinkedIn"
+      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on LinkedIn"
     >
-      <styled.div
-        small={true}
+      <a
+        aria-label="Share on LinkedIn"
+        className="sc-bwzfXH bSlLDy"
+        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on LinkedIn"
       >
-        <div
-          className="sc-dnqmqq dWbQzG"
+        <styled.div
+          message="I am so cool"
+          small={true}
         >
-          <styled.div
-            aria-hidden="true"
+          <div
+            className="sc-dnqmqq dWbQzG"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat dZQCuR"
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="sc-htpNat dZQCuR"
               >
-                <circle
-                  cx="12"
-                  cy="12"
-                  r="11.5"
-                />
-                <path
-                  d="M15 12.5c-.28 0-.5.22-.5.5v3.5h-3s.03-6.48 0-7h3v.83s.46-.75 1.7-.75c1.56 0 2.3 1.12 2.3 3.3v3.62h-3V13c0-.28-.23-.5-.5-.5zm-7.5-3h2v7h-2z"
-                />
-                <circle
-                  cx="8.5"
-                  cy="6.5"
-                  r="1"
-                />
-              </svg>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="11.5"
+                  />
+                  <path
+                    d="M15 12.5c-.28 0-.5.22-.5.5v3.5h-3s.03-6.48 0-7h3v.83s.46-.75 1.7-.75c1.56 0 2.3 1.12 2.3 3.3v3.62h-3V13c0-.28-.23-.5-.5-.5zm-7.5-3h2v7h-2z"
+                  />
+                  <circle
+                    cx="8.5"
+                    cy="6.5"
+                    r="1"
+                  />
+                </svg>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Linkedin 7 1`] = `
-<Button
+<Component
   big={true}
   link="http://sharingbuttons.io"
   message="I am so cool"
   solid={true}
 >
-  <styled.a
-    aria-label="Share on Linkedin"
-    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    big={true}
+    buttonComponent={[Function]}
+    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    message="I am so cool"
+    name="LinkedIn"
+    solid={true}
   >
-    <a
-      aria-label="Share on Linkedin"
-      className="sc-bwzfXH bSlLDy"
-      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
+    <styled.a
+      aria-label="Share on LinkedIn"
+      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on LinkedIn"
     >
-      <styled.div>
-        <div
-          className="sc-dnqmqq dWbQzG"
+      <a
+        aria-label="Share on LinkedIn"
+        className="sc-bwzfXH bSlLDy"
+        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on LinkedIn"
+      >
+        <styled.div
+          message="I am so cool"
         >
-          <styled.div
-            aria-hidden="true"
-            solid={true}
+          <div
+            className="sc-dnqmqq dWbQzG"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solid={true}
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="sc-htpNat gylFwk"
               >
-                <path
-                  d="M6.5 21.5h-5v-13h5v13zM4 6.5C2.5 6.5 1.5 5.3 1.5 4s1-2.4 2.5-2.4c1.6 0 2.5 1 2.6 2.5 0 1.4-1 2.5-2.6 2.5zm11.5 6c-1 0-2 1-2 2v7h-5v-13h5V10s1.6-1.5 4-1.5c3 0 5 2.2 5 6.3v6.7h-5v-7c0-1-1-2-2-2z"
-                />
-              </svg>
-               share on 
-              LinkedIn
-               
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M6.5 21.5h-5v-13h5v13zM4 6.5C2.5 6.5 1.5 5.3 1.5 4s1-2.4 2.5-2.4c1.6 0 2.5 1 2.6 2.5 0 1.4-1 2.5-2.6 2.5zm11.5 6c-1 0-2 1-2 2v7h-5v-13h5V10s1.6-1.5 4-1.5c3 0 5 2.2 5 6.3v6.7h-5v-7c0-1-1-2-2-2z"
+                  />
+                </svg>
+                 share on 
+                LinkedIn
+                 
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Linkedin 8 1`] = `
-<Button
+<Component
   link="http://sharingbuttons.io"
   medium={true}
   message="I am so cool"
   solid={true}
 >
-  <styled.a
-    aria-label="Share on Linkedin"
-    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    buttonComponent={[Function]}
+    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    medium={true}
+    message="I am so cool"
+    name="LinkedIn"
+    solid={true}
   >
-    <a
-      aria-label="Share on Linkedin"
-      className="sc-bwzfXH bSlLDy"
-      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
+    <styled.a
+      aria-label="Share on LinkedIn"
+      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on LinkedIn"
     >
-      <styled.div>
-        <div
-          className="sc-dnqmqq dWbQzG"
+      <a
+        aria-label="Share on LinkedIn"
+        className="sc-bwzfXH bSlLDy"
+        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on LinkedIn"
+      >
+        <styled.div
+          message="I am so cool"
         >
-          <styled.div
-            aria-hidden="true"
-            solid={true}
+          <div
+            className="sc-dnqmqq dWbQzG"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solid={true}
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="sc-htpNat gylFwk"
               >
-                <path
-                  d="M6.5 21.5h-5v-13h5v13zM4 6.5C2.5 6.5 1.5 5.3 1.5 4s1-2.4 2.5-2.4c1.6 0 2.5 1 2.6 2.5 0 1.4-1 2.5-2.6 2.5zm11.5 6c-1 0-2 1-2 2v7h-5v-13h5V10s1.6-1.5 4-1.5c3 0 5 2.2 5 6.3v6.7h-5v-7c0-1-1-2-2-2z"
-                />
-              </svg>
-               
-              LinkedIn
-               
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M6.5 21.5h-5v-13h5v13zM4 6.5C2.5 6.5 1.5 5.3 1.5 4s1-2.4 2.5-2.4c1.6 0 2.5 1 2.6 2.5 0 1.4-1 2.5-2.6 2.5zm11.5 6c-1 0-2 1-2 2v7h-5v-13h5V10s1.6-1.5 4-1.5c3 0 5 2.2 5 6.3v6.7h-5v-7c0-1-1-2-2-2z"
+                  />
+                </svg>
+                 
+                LinkedIn
+                 
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Linkedin 9 1`] = `
-<Button
+<Component
   link="http://sharingbuttons.io"
   message="I am so cool"
   small={true}
   solid={true}
 >
-  <styled.a
-    aria-label="Share on Linkedin"
-    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    buttonComponent={[Function]}
+    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    message="I am so cool"
+    name="LinkedIn"
+    small={true}
+    solid={true}
   >
-    <a
-      aria-label="Share on Linkedin"
-      className="sc-bwzfXH bSlLDy"
-      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
+    <styled.a
+      aria-label="Share on LinkedIn"
+      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on LinkedIn"
     >
-      <styled.div
-        small={true}
+      <a
+        aria-label="Share on LinkedIn"
+        className="sc-bwzfXH bSlLDy"
+        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on LinkedIn"
       >
-        <div
-          className="sc-dnqmqq dWbQzG"
+        <styled.div
+          message="I am so cool"
+          small={true}
         >
-          <styled.div
-            aria-hidden="true"
-            solid={true}
+          <div
+            className="sc-dnqmqq dWbQzG"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solid={true}
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="sc-htpNat gylFwk"
               >
-                <path
-                  d="M6.5 21.5h-5v-13h5v13zM4 6.5C2.5 6.5 1.5 5.3 1.5 4s1-2.4 2.5-2.4c1.6 0 2.5 1 2.6 2.5 0 1.4-1 2.5-2.6 2.5zm11.5 6c-1 0-2 1-2 2v7h-5v-13h5V10s1.6-1.5 4-1.5c3 0 5 2.2 5 6.3v6.7h-5v-7c0-1-1-2-2-2z"
-                />
-              </svg>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M6.5 21.5h-5v-13h5v13zM4 6.5C2.5 6.5 1.5 5.3 1.5 4s1-2.4 2.5-2.4c1.6 0 2.5 1 2.6 2.5 0 1.4-1 2.5-2.6 2.5zm11.5 6c-1 0-2 1-2 2v7h-5v-13h5V10s1.6-1.5 4-1.5c3 0 5 2.2 5 6.3v6.7h-5v-7c0-1-1-2-2-2z"
+                  />
+                </svg>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Linkedin 11 1`] = `
-<Button
+<Component
   circle={true}
 >
-  <styled.a
-    aria-label="Share on Linkedin"
+  <ButtonFactory
+    buttonComponent={[Function]}
+    circle={true}
     href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=.&amp;summary=.&amp;source="
-    rel="noreferrer noopener"
-    target="_blank"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    name="LinkedIn"
   >
-    <a
-      aria-label="Share on Linkedin"
-      className="sc-bwzfXH bSlLDy"
+    <styled.a
+      aria-label="Share on LinkedIn"
       href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=.&amp;summary=.&amp;source="
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on LinkedIn"
     >
-      <styled.div>
-        <div
-          className="sc-dnqmqq dWbQzG"
-        >
-          <styled.div
-            aria-hidden="true"
+      <a
+        aria-label="Share on LinkedIn"
+        className="sc-bwzfXH bSlLDy"
+        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=.&amp;summary=.&amp;source="
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on LinkedIn"
+      >
+        <styled.div>
+          <div
+            className="sc-dnqmqq dWbQzG"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat dZQCuR"
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="sc-htpNat dZQCuR"
               >
-                <circle
-                  cx="12"
-                  cy="12"
-                  r="11.5"
-                />
-                <path
-                  d="M15 12.5c-.28 0-.5.22-.5.5v3.5h-3s.03-6.48 0-7h3v.83s.46-.75 1.7-.75c1.56 0 2.3 1.12 2.3 3.3v3.62h-3V13c0-.28-.23-.5-.5-.5zm-7.5-3h2v7h-2z"
-                />
-                <circle
-                  cx="8.5"
-                  cy="6.5"
-                  r="1"
-                />
-              </svg>
-               
-              LinkedIn
-               
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="11.5"
+                  />
+                  <path
+                    d="M15 12.5c-.28 0-.5.22-.5.5v3.5h-3s.03-6.48 0-7h3v.83s.46-.75 1.7-.75c1.56 0 2.3 1.12 2.3 3.3v3.62h-3V13c0-.28-.23-.5-.5-.5zm-7.5-3h2v7h-2z"
+                  />
+                  <circle
+                    cx="8.5"
+                    cy="6.5"
+                    r="1"
+                  />
+                </svg>
+                 
+                LinkedIn
+                 
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Linkedin 11 2`] = `
-<Button
+<Component
   solidcircle={true}
 >
-  <styled.a
-    aria-label="Share on Linkedin"
+  <ButtonFactory
+    buttonComponent={[Function]}
     href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=.&amp;summary=.&amp;source="
-    rel="noreferrer noopener"
-    target="_blank"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    name="LinkedIn"
+    solidcircle={true}
   >
-    <a
-      aria-label="Share on Linkedin"
-      className="sc-bwzfXH bSlLDy"
+    <styled.a
+      aria-label="Share on LinkedIn"
       href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=.&amp;summary=.&amp;source="
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on LinkedIn"
     >
-      <styled.div>
-        <div
-          className="sc-dnqmqq dWbQzG"
+      <a
+        aria-label="Share on LinkedIn"
+        className="sc-bwzfXH bSlLDy"
+        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=.&amp;summary=.&amp;source="
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on LinkedIn"
+      >
+        <styled.div
+          solidcircle={true}
         >
-          <styled.div
-            aria-hidden="true"
-            solidcircle={true}
+          <div
+            className="sc-dnqmqq dWbQzG"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solidcircle={true}
             >
-              <svg
-                enableBackground="new 0 0 24 24"
-                height="24px"
-                version="1.1"
-                viewBox="0 0 24 24"
-                width="24px"
-                x="0px"
-                xmlSpace="preserve"
-                y="0px"
+              <div
+                aria-hidden="true"
+                className="sc-htpNat gylFwk"
               >
-                <path
-                  d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M9.5,16.5h-2v-7h2V16.5z M8.5,7.5 c-0.553,0-1-0.448-1-1c0-0.552,0.447-1,1-1s1,0.448,1,1C9.5,7.052,9.053,7.5,8.5,7.5z M18.5,16.5h-3V13c0-0.277-0.225-0.5-0.5-0.5 c-0.276,0-0.5,0.223-0.5,0.5v3.5h-3c0,0,0.031-6.478,0-7h3v0.835c0,0,0.457-0.753,1.707-0.753c1.55,0,2.293,1.12,2.293,3.296V16.5z"
-                />
-              </svg>
-               
-              LinkedIn
-               
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  enableBackground="new 0 0 24 24"
+                  height="24px"
+                  version="1.1"
+                  viewBox="0 0 24 24"
+                  width="24px"
+                  x="0px"
+                  xmlSpace="preserve"
+                  y="0px"
+                >
+                  <path
+                    d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M9.5,16.5h-2v-7h2V16.5z M8.5,7.5 c-0.553,0-1-0.448-1-1c0-0.552,0.447-1,1-1s1,0.448,1,1C9.5,7.052,9.053,7.5,8.5,7.5z M18.5,16.5h-3V13c0-0.277-0.225-0.5-0.5-0.5 c-0.276,0-0.5,0.223-0.5,0.5v3.5h-3c0,0,0.031-6.478,0-7h3v0.835c0,0,0.457-0.753,1.707-0.753c1.55,0,2.293,1.12,2.293,3.296V16.5z"
+                  />
+                </svg>
+                 
+                LinkedIn
+                 
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Linkedin 12 1`] = `
-<Button>
-  <styled.a
-    aria-label="Share on Linkedin"
+<Component>
+  <ButtonFactory
+    buttonComponent={[Function]}
     href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=.&amp;summary=.&amp;source="
-    rel="noreferrer noopener"
-    target="_blank"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    name="LinkedIn"
   >
-    <a
-      aria-label="Share on Linkedin"
-      className="sc-bwzfXH bSlLDy"
+    <styled.a
+      aria-label="Share on LinkedIn"
       href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=.&amp;summary=.&amp;source="
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on LinkedIn"
     >
-      <styled.div>
-        <div
-          className="sc-dnqmqq dWbQzG"
-        >
-          <styled.div
-            aria-hidden="true"
-            solid={true}
+      <a
+        aria-label="Share on LinkedIn"
+        className="sc-bwzfXH bSlLDy"
+        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=.&amp;summary=.&amp;source="
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on LinkedIn"
+      >
+        <styled.div>
+          <div
+            className="sc-dnqmqq dWbQzG"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solid={true}
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="sc-htpNat gylFwk"
               >
-                <path
-                  d="M6.5 21.5h-5v-13h5v13zM4 6.5C2.5 6.5 1.5 5.3 1.5 4s1-2.4 2.5-2.4c1.6 0 2.5 1 2.6 2.5 0 1.4-1 2.5-2.6 2.5zm11.5 6c-1 0-2 1-2 2v7h-5v-13h5V10s1.6-1.5 4-1.5c3 0 5 2.2 5 6.3v6.7h-5v-7c0-1-1-2-2-2z"
-                />
-              </svg>
-               
-              LinkedIn
-               
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M6.5 21.5h-5v-13h5v13zM4 6.5C2.5 6.5 1.5 5.3 1.5 4s1-2.4 2.5-2.4c1.6 0 2.5 1 2.6 2.5 0 1.4-1 2.5-2.6 2.5zm11.5 6c-1 0-2 1-2 2v7h-5v-13h5V10s1.6-1.5 4-1.5c3 0 5 2.2 5 6.3v6.7h-5v-7c0-1-1-2-2-2z"
+                  />
+                </svg>
+                 
+                LinkedIn
+                 
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Linkedin 13 1`] = `
-<Button
+<Component
   simple={true}
 >
-  <styled.a
-    aria-label="Share on Linkedin"
+  <ButtonFactory
+    buttonComponent={[Function]}
     href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=.&amp;summary=.&amp;source="
-    rel="noreferrer noopener"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    name="LinkedIn"
     simple={true}
-    target="_blank"
   >
-    <a
-      aria-label="Share on Linkedin"
-      className="sc-bwzfXH bGIzAI"
+    <styled.a
+      aria-label="Share on LinkedIn"
       href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=.&amp;summary=.&amp;source="
       rel="noreferrer noopener"
+      simple={true}
       target="_blank"
+      title="Share on LinkedIn"
     >
-      <LinkedinIconFill>
-        <svg
-          viewBox="0 0 24 24"
-          xmlns="http://www.w3.org/2000/svg"
-        >
-          <path
-            d="M6.5 21.5h-5v-13h5v13zM4 6.5C2.5 6.5 1.5 5.3 1.5 4s1-2.4 2.5-2.4c1.6 0 2.5 1 2.6 2.5 0 1.4-1 2.5-2.6 2.5zm11.5 6c-1 0-2 1-2 2v7h-5v-13h5V10s1.6-1.5 4-1.5c3 0 5 2.2 5 6.3v6.7h-5v-7c0-1-1-2-2-2z"
-          />
-        </svg>
-      </LinkedinIconFill>
-    </a>
-  </styled.a>
-</Button>
+      <a
+        aria-label="Share on LinkedIn"
+        className="sc-bwzfXH bGIzAI"
+        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=.&amp;summary=.&amp;source="
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on LinkedIn"
+      >
+        <LinkedinIconFill>
+          <svg
+            viewBox="0 0 24 24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M6.5 21.5h-5v-13h5v13zM4 6.5C2.5 6.5 1.5 5.3 1.5 4s1-2.4 2.5-2.4c1.6 0 2.5 1 2.6 2.5 0 1.4-1 2.5-2.6 2.5zm11.5 6c-1 0-2 1-2 2v7h-5v-13h5V10s1.6-1.5 4-1.5c3 0 5 2.2 5 6.3v6.7h-5v-7c0-1-1-2-2-2z"
+            />
+          </svg>
+        </LinkedinIconFill>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Linkedin 14 1`] = `
-<Button
+<Component
   simpleReverse={true}
 >
-  <styled.a
-    aria-label="Share on Linkedin"
+  <ButtonFactory
+    buttonComponent={[Function]}
     href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=.&amp;summary=.&amp;source="
-    rel="noreferrer noopener"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    name="LinkedIn"
     simpleReverse={true}
-    target="_blank"
   >
-    <a
-      aria-label="Share on Linkedin"
-      className="sc-bwzfXH jHqTEf"
+    <styled.a
+      aria-label="Share on LinkedIn"
       href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=.&amp;summary=.&amp;source="
       rel="noreferrer noopener"
+      simpleReverse={true}
       target="_blank"
+      title="Share on LinkedIn"
     >
-      <LinkedinIconFill>
-        <svg
-          viewBox="0 0 24 24"
-          xmlns="http://www.w3.org/2000/svg"
-        >
-          <path
-            d="M6.5 21.5h-5v-13h5v13zM4 6.5C2.5 6.5 1.5 5.3 1.5 4s1-2.4 2.5-2.4c1.6 0 2.5 1 2.6 2.5 0 1.4-1 2.5-2.6 2.5zm11.5 6c-1 0-2 1-2 2v7h-5v-13h5V10s1.6-1.5 4-1.5c3 0 5 2.2 5 6.3v6.7h-5v-7c0-1-1-2-2-2z"
-          />
-        </svg>
-      </LinkedinIconFill>
-    </a>
-  </styled.a>
-</Button>
+      <a
+        aria-label="Share on LinkedIn"
+        className="sc-bwzfXH jHqTEf"
+        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=.&amp;summary=.&amp;source="
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on LinkedIn"
+      >
+        <LinkedinIconFill>
+          <svg
+            viewBox="0 0 24 24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M6.5 21.5h-5v-13h5v13zM4 6.5C2.5 6.5 1.5 5.3 1.5 4s1-2.4 2.5-2.4c1.6 0 2.5 1 2.6 2.5 0 1.4-1 2.5-2.6 2.5zm11.5 6c-1 0-2 1-2 2v7h-5v-13h5V10s1.6-1.5 4-1.5c3 0 5 2.2 5 6.3v6.7h-5v-7c0-1-1-2-2-2z"
+            />
+          </svg>
+        </LinkedinIconFill>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
