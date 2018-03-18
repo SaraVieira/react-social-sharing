@@ -1,10 +1,9 @@
-import React, { Fragment } from 'react'
-import styled from 'styled-components'
+import React from 'react'
 import is from 'styled-is'
+import ButtonFactory from './factory'
 import { TumblrIconFill, TumblrIconCircle } from '../svg/tumblr.js'
-import { SharingButton, Link, Icon } from '../common'
+import { SharingButton } from '../common'
 import links from '../consts'
-import wrapper from './wrapper'
 
 const Tumblr = SharingButton.extend`
   background-color: #35465c;
@@ -17,51 +16,14 @@ const Tumblr = SharingButton.extend`
   }
 `
 
-const Button = ({
-  small,
-  solid,
-  link,
-  medium,
-  big,
-  circle,
-  solidcircle,
-  simple,
-  simpleReverse,
-  ...props
-}) => (
-  <Link
+export default ({ link, ...props }) => (
+  <ButtonFactory
+    {...props}
+    name="Tumblr"
     href={links.tumblr(link)}
-    target="_blank"
-    aria-label="Share on Tumblr"
-    rel="noreferrer noopener"
-    simple={simple}
-    simpleReverse={simpleReverse}
-  >
-    {simple || simpleReverse ? (
-      <TumblrIconFill {...props} />
-    ) : (
-      <Tumblr small={small} {...props}>
-        <Icon
-          solid={(!solid && !circle && !solidcircle) || solid}
-          solidcircle={solidcircle}
-          aria-hidden="true"
-        >
-          {wrapper(
-            small,
-            solid,
-            medium,
-            big,
-            circle,
-            solidcircle,
-            TumblrIconFill,
-            TumblrIconCircle,
-            TumblrIconCircle,
-            'Tumblr'
-          )}
-        </Icon>
-      </Tumblr>
-    )}
-  </Link>
+    buttonComponent={Tumblr}
+    iconFill={TumblrIconFill}
+    iconCircle={TumblrIconCircle}
+    iconCircleSolid={TumblrIconCircle}
+  />
 )
-
-export default Button

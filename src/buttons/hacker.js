@@ -1,14 +1,13 @@
-import React, { Fragment } from 'react'
-import styled from 'styled-components'
+import React from 'react'
 import is from 'styled-is'
+import ButtonFactory from './factory'
 import {
   HackerIconFill,
   HackerIconCircle,
   HackerIconCircleSolid
 } from '../svg/hacker.js'
-import { SharingButton, Link, Icon } from '../common'
+import { SharingButton } from '../common'
 import links from '../consts'
-import wrapper from './wrapper'
 
 const Hacker = SharingButton.extend`
   background-color: #ff6600;
@@ -21,52 +20,14 @@ const Hacker = SharingButton.extend`
   }
 `
 
-const Button = ({
-  small,
-  solid,
-  link,
-  message,
-  medium,
-  big,
-  circle,
-  solidcircle,
-  simple,
-  simpleReverse,
-  ...props
-}) => (
-  <Link
-    simple={simple}
-    simpleReverse={simpleReverse}
-    href={links.hacker(message, link)}
-    target="_blank"
-    rel="noreferrer noopener"
-    aria-label="Share on HackerNews"
-  >
-    {simple || simpleReverse ? (
-      <HackerIconFill {...props} />
-    ) : (
-      <Hacker small={small} {...props}>
-        <Icon
-          solid={(!solid && !circle && !solidcircle) || solid}
-          solidcircle={solidcircle}
-          aria-hidden="true"
-        >
-          {wrapper(
-            small,
-            solid,
-            medium,
-            big,
-            circle,
-            solidcircle,
-            HackerIconFill,
-            HackerIconCircle,
-            HackerIconCircleSolid,
-            'HackerNews'
-          )}
-        </Icon>
-      </Hacker>
-    )}
-  </Link>
+export default ({ link, ...props }) => (
+  <ButtonFactory
+    {...props}
+    name="HackerNews"
+    href={links.hacker(link)}
+    buttonComponent={Hacker}
+    iconFill={HackerIconFill}
+    iconCircle={HackerIconCircle}
+    iconCircleSolid={HackerIconCircleSolid}
+  />
 )
-
-export default Button

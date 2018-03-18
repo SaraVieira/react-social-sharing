@@ -1,5 +1,6 @@
 import React from 'react'
 import { VK } from '../src/index'
+import 'jest-styled-components'
 
 describe('VK', function() {
   test('1', () => {

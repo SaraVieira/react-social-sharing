@@ -1,14 +1,13 @@
-import React, { Fragment } from 'react'
-import styled from 'styled-components'
+import React from 'react'
 import is from 'styled-is'
+import ButtonFactory from './factory'
 import {
   RedditIconFill,
   RedditIconCircle,
   RedditIconCircleSolid
 } from '../svg/reddit.js'
-import { SharingButton, Link, Icon } from '../common'
+import { SharingButton } from '../common'
 import links from '../consts'
-import wrapper from './wrapper'
 
 const Reddit = SharingButton.extend`
   background-color: #5f99cf;
@@ -21,51 +20,14 @@ const Reddit = SharingButton.extend`
   }
 `
 
-const Button = ({
-  small,
-  solid,
-  link,
-  medium,
-  big,
-  circle,
-  solidcircle,
-  simple,
-  simpleReverse,
-  ...props
-}) => (
-  <Link
+export default ({ link, ...props }) => (
+  <ButtonFactory
+    {...props}
+    name="Reddit"
     href={links.reddit(link)}
-    target="_blank"
-    aria-label="Share on Reddit"
-    rel="noreferrer noopener"
-    simple={simple}
-    simpleReverse={simpleReverse}
-  >
-    {simple || simpleReverse ? (
-      <RedditIconFill {...props} />
-    ) : (
-      <Reddit small={small} {...props}>
-        <Icon
-          solid={(!solid && !circle && !solidcircle) || solid}
-          solidcircle={solidcircle}
-          aria-hidden="true"
-        >
-          {wrapper(
-            small,
-            solid,
-            medium,
-            big,
-            circle,
-            solidcircle,
-            RedditIconFill,
-            RedditIconCircle,
-            RedditIconCircleSolid,
-            'Reddit'
-          )}
-        </Icon>
-      </Reddit>
-    )}
-  </Link>
+    buttonComponent={Reddit}
+    iconFill={RedditIconFill}
+    iconCircle={RedditIconCircle}
+    iconCircleSolid={RedditIconCircleSolid}
+  />
 )
-
-export default Button

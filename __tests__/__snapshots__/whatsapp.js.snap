@@ -1,721 +1,1456 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Whatsapp 1 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #25d366;
+  border-color: #25d366;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #1da851;
+  border-color: #1da851;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
+<Component
   big={true}
   link="http://sharingbuttons.io"
   message="I am so cool"
   solidcircle={true}
 >
-  <styled.a
-    aria-label="Share on WhatsApp"
-    href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    big={true}
+    buttonComponent={[Function]}
+    href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    message="I am so cool"
+    name="WhatsApp"
+    solidcircle={true}
   >
-    <a
+    <styled.a
       aria-label="Share on WhatsApp"
-      className="sc-bwzfXH ewcqji"
-      href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
+      href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on WhatsApp"
     >
-      <styled.div>
-        <div
-          className="sc-gqjmRU eqeAgc"
+      <a
+        aria-label="Share on WhatsApp"
+        className="c0"
+        href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on WhatsApp"
+      >
+        <styled.div
+          message="I am so cool"
+          solidcircle={true}
         >
-          <styled.div
-            aria-hidden="true"
-            solidcircle={true}
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solidcircle={true}
             >
-              <svg
-                height="24"
-                viewBox="0 0 24 24"
-                width="24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <path
-                  d="m12 0c-6.6 0-12 5.4-12 12s5.4 12 12 12 12-5.4 12-12-5.4-12-12-12zm0 3.8c2.2 0 4.2 0.9 5.7 2.4 1.6 1.5 2.4 3.6 2.5 5.7 0 4.5-3.6 8.1-8.1 8.1-1.4 0-2.7-0.4-3.9-1l-4.4 1.1 1.2-4.2c-0.8-1.2-1.1-2.6-1.1-4 0-4.5 3.6-8.1 8.1-8.1zm0.1 1.5c-3.7 0-6.7 3-6.7 6.7 0 1.3 0.3 2.5 1 3.6l0.1 0.3-0.7 2.4 2.5-0.7 0.3 0.099c1 0.7 2.2 1 3.4 1 3.7 0 6.8-3 6.9-6.6 0-1.8-0.7-3.5-2-4.8s-3-2-4.8-2zm-3 2.9h0.4c0.2 0 0.4-0.099 0.5 0.3s0.5 1.5 0.6 1.7 0.1 0.2 0 0.3-0.1 0.2-0.2 0.3l-0.3 0.3c-0.1 0.1-0.2 0.2-0.1 0.4 0.2 0.2 0.6 0.9 1.2 1.4 0.7 0.7 1.4 0.9 1.6 1 0.2 0 0.3 0.001 0.4-0.099s0.5-0.6 0.6-0.8c0.2-0.2 0.3-0.2 0.5-0.1l1.4 0.7c0.2 0.1 0.3 0.2 0.5 0.3 0 0.1 0.1 0.5-0.099 1s-1 0.9-1.4 1c-0.3 0-0.8 0.001-1.3-0.099-0.3-0.1-0.7-0.2-1.2-0.4-2.1-0.9-3.4-3-3.5-3.1s-0.8-1.1-0.8-2.1c0-1 0.5-1.5 0.7-1.7s0.4-0.3 0.5-0.3z"
-                />
-              </svg>
-               
-              <span>
-                share on WhatsApp
-              </span>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  height="24"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12 0c-6.6 0-12 5.4-12 12s5.4 12 12 12 12-5.4 12-12-5.4-12-12-12zm0 3.8c2.2 0 4.2 0.9 5.7 2.4 1.6 1.5 2.4 3.6 2.5 5.7 0 4.5-3.6 8.1-8.1 8.1-1.4 0-2.7-0.4-3.9-1l-4.4 1.1 1.2-4.2c-0.8-1.2-1.1-2.6-1.1-4 0-4.5 3.6-8.1 8.1-8.1zm0.1 1.5c-3.7 0-6.7 3-6.7 6.7 0 1.3 0.3 2.5 1 3.6l0.1 0.3-0.7 2.4 2.5-0.7 0.3 0.099c1 0.7 2.2 1 3.4 1 3.7 0 6.8-3 6.9-6.6 0-1.8-0.7-3.5-2-4.8s-3-2-4.8-2zm-3 2.9h0.4c0.2 0 0.4-0.099 0.5 0.3s0.5 1.5 0.6 1.7 0.1 0.2 0 0.3-0.1 0.2-0.2 0.3l-0.3 0.3c-0.1 0.1-0.2 0.2-0.1 0.4 0.2 0.2 0.6 0.9 1.2 1.4 0.7 0.7 1.4 0.9 1.6 1 0.2 0 0.3 0.001 0.4-0.099s0.5-0.6 0.6-0.8c0.2-0.2 0.3-0.2 0.5-0.1l1.4 0.7c0.2 0.1 0.3 0.2 0.5 0.3 0 0.1 0.1 0.5-0.099 1s-1 0.9-1.4 1c-0.3 0-0.8 0.001-1.3-0.099-0.3-0.1-0.7-0.2-1.2-0.4-2.1-0.9-3.4-3-3.5-3.1s-0.8-1.1-0.8-2.1c0-1 0.5-1.5 0.7-1.7s0.4-0.3 0.5-0.3z"
+                  />
+                </svg>
+                 
+                <span>
+                  share on WhatsApp
+                </span>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Whatsapp 2 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #25d366;
+  border-color: #25d366;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #1da851;
+  border-color: #1da851;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
+<Component
   link="http://sharingbuttons.io"
   medium={true}
   message="I am so cool"
   solidcircle={true}
 >
-  <styled.a
-    aria-label="Share on WhatsApp"
-    href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    buttonComponent={[Function]}
+    href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    medium={true}
+    message="I am so cool"
+    name="WhatsApp"
+    solidcircle={true}
   >
-    <a
+    <styled.a
       aria-label="Share on WhatsApp"
-      className="sc-bwzfXH ewcqji"
-      href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
+      href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on WhatsApp"
     >
-      <styled.div>
-        <div
-          className="sc-gqjmRU eqeAgc"
+      <a
+        aria-label="Share on WhatsApp"
+        className="c0"
+        href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on WhatsApp"
+      >
+        <styled.div
+          message="I am so cool"
+          solidcircle={true}
         >
-          <styled.div
-            aria-hidden="true"
-            solidcircle={true}
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solidcircle={true}
             >
-              <svg
-                height="24"
-                viewBox="0 0 24 24"
-                width="24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <path
-                  d="m12 0c-6.6 0-12 5.4-12 12s5.4 12 12 12 12-5.4 12-12-5.4-12-12-12zm0 3.8c2.2 0 4.2 0.9 5.7 2.4 1.6 1.5 2.4 3.6 2.5 5.7 0 4.5-3.6 8.1-8.1 8.1-1.4 0-2.7-0.4-3.9-1l-4.4 1.1 1.2-4.2c-0.8-1.2-1.1-2.6-1.1-4 0-4.5 3.6-8.1 8.1-8.1zm0.1 1.5c-3.7 0-6.7 3-6.7 6.7 0 1.3 0.3 2.5 1 3.6l0.1 0.3-0.7 2.4 2.5-0.7 0.3 0.099c1 0.7 2.2 1 3.4 1 3.7 0 6.8-3 6.9-6.6 0-1.8-0.7-3.5-2-4.8s-3-2-4.8-2zm-3 2.9h0.4c0.2 0 0.4-0.099 0.5 0.3s0.5 1.5 0.6 1.7 0.1 0.2 0 0.3-0.1 0.2-0.2 0.3l-0.3 0.3c-0.1 0.1-0.2 0.2-0.1 0.4 0.2 0.2 0.6 0.9 1.2 1.4 0.7 0.7 1.4 0.9 1.6 1 0.2 0 0.3 0.001 0.4-0.099s0.5-0.6 0.6-0.8c0.2-0.2 0.3-0.2 0.5-0.1l1.4 0.7c0.2 0.1 0.3 0.2 0.5 0.3 0 0.1 0.1 0.5-0.099 1s-1 0.9-1.4 1c-0.3 0-0.8 0.001-1.3-0.099-0.3-0.1-0.7-0.2-1.2-0.4-2.1-0.9-3.4-3-3.5-3.1s-0.8-1.1-0.8-2.1c0-1 0.5-1.5 0.7-1.7s0.4-0.3 0.5-0.3z"
-                />
-              </svg>
-               
-              <span>
-                WhatsApp
-              </span>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  height="24"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12 0c-6.6 0-12 5.4-12 12s5.4 12 12 12 12-5.4 12-12-5.4-12-12-12zm0 3.8c2.2 0 4.2 0.9 5.7 2.4 1.6 1.5 2.4 3.6 2.5 5.7 0 4.5-3.6 8.1-8.1 8.1-1.4 0-2.7-0.4-3.9-1l-4.4 1.1 1.2-4.2c-0.8-1.2-1.1-2.6-1.1-4 0-4.5 3.6-8.1 8.1-8.1zm0.1 1.5c-3.7 0-6.7 3-6.7 6.7 0 1.3 0.3 2.5 1 3.6l0.1 0.3-0.7 2.4 2.5-0.7 0.3 0.099c1 0.7 2.2 1 3.4 1 3.7 0 6.8-3 6.9-6.6 0-1.8-0.7-3.5-2-4.8s-3-2-4.8-2zm-3 2.9h0.4c0.2 0 0.4-0.099 0.5 0.3s0.5 1.5 0.6 1.7 0.1 0.2 0 0.3-0.1 0.2-0.2 0.3l-0.3 0.3c-0.1 0.1-0.2 0.2-0.1 0.4 0.2 0.2 0.6 0.9 1.2 1.4 0.7 0.7 1.4 0.9 1.6 1 0.2 0 0.3 0.001 0.4-0.099s0.5-0.6 0.6-0.8c0.2-0.2 0.3-0.2 0.5-0.1l1.4 0.7c0.2 0.1 0.3 0.2 0.5 0.3 0 0.1 0.1 0.5-0.099 1s-1 0.9-1.4 1c-0.3 0-0.8 0.001-1.3-0.099-0.3-0.1-0.7-0.2-1.2-0.4-2.1-0.9-3.4-3-3.5-3.1s-0.8-1.1-0.8-2.1c0-1 0.5-1.5 0.7-1.7s0.4-0.3 0.5-0.3z"
+                  />
+                </svg>
+                 
+                <span>
+                  WhatsApp
+                </span>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Whatsapp 3 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #25d366;
+  border-color: #25d366;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #1da851;
+  border-color: #1da851;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
+<Component
   link="http://sharingbuttons.io"
   message="I am so cool"
   small={true}
   solidcircle={true}
 >
-  <styled.a
-    aria-label="Share on WhatsApp"
-    href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    buttonComponent={[Function]}
+    href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    message="I am so cool"
+    name="WhatsApp"
+    small={true}
+    solidcircle={true}
   >
-    <a
+    <styled.a
       aria-label="Share on WhatsApp"
-      className="sc-bwzfXH ewcqji"
-      href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
+      href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on WhatsApp"
     >
-      <styled.div
-        small={true}
+      <a
+        aria-label="Share on WhatsApp"
+        className="c0"
+        href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on WhatsApp"
       >
-        <div
-          className="sc-gqjmRU eqeAgc"
+        <styled.div
+          message="I am so cool"
+          small={true}
+          solidcircle={true}
         >
-          <styled.div
-            aria-hidden="true"
-            solidcircle={true}
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solidcircle={true}
             >
-              <svg
-                height="24"
-                viewBox="0 0 24 24"
-                width="24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <path
-                  d="m12 0c-6.6 0-12 5.4-12 12s5.4 12 12 12 12-5.4 12-12-5.4-12-12-12zm0 3.8c2.2 0 4.2 0.9 5.7 2.4 1.6 1.5 2.4 3.6 2.5 5.7 0 4.5-3.6 8.1-8.1 8.1-1.4 0-2.7-0.4-3.9-1l-4.4 1.1 1.2-4.2c-0.8-1.2-1.1-2.6-1.1-4 0-4.5 3.6-8.1 8.1-8.1zm0.1 1.5c-3.7 0-6.7 3-6.7 6.7 0 1.3 0.3 2.5 1 3.6l0.1 0.3-0.7 2.4 2.5-0.7 0.3 0.099c1 0.7 2.2 1 3.4 1 3.7 0 6.8-3 6.9-6.6 0-1.8-0.7-3.5-2-4.8s-3-2-4.8-2zm-3 2.9h0.4c0.2 0 0.4-0.099 0.5 0.3s0.5 1.5 0.6 1.7 0.1 0.2 0 0.3-0.1 0.2-0.2 0.3l-0.3 0.3c-0.1 0.1-0.2 0.2-0.1 0.4 0.2 0.2 0.6 0.9 1.2 1.4 0.7 0.7 1.4 0.9 1.6 1 0.2 0 0.3 0.001 0.4-0.099s0.5-0.6 0.6-0.8c0.2-0.2 0.3-0.2 0.5-0.1l1.4 0.7c0.2 0.1 0.3 0.2 0.5 0.3 0 0.1 0.1 0.5-0.099 1s-1 0.9-1.4 1c-0.3 0-0.8 0.001-1.3-0.099-0.3-0.1-0.7-0.2-1.2-0.4-2.1-0.9-3.4-3-3.5-3.1s-0.8-1.1-0.8-2.1c0-1 0.5-1.5 0.7-1.7s0.4-0.3 0.5-0.3z"
-                />
-              </svg>
-               
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  height="24"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12 0c-6.6 0-12 5.4-12 12s5.4 12 12 12 12-5.4 12-12-5.4-12-12-12zm0 3.8c2.2 0 4.2 0.9 5.7 2.4 1.6 1.5 2.4 3.6 2.5 5.7 0 4.5-3.6 8.1-8.1 8.1-1.4 0-2.7-0.4-3.9-1l-4.4 1.1 1.2-4.2c-0.8-1.2-1.1-2.6-1.1-4 0-4.5 3.6-8.1 8.1-8.1zm0.1 1.5c-3.7 0-6.7 3-6.7 6.7 0 1.3 0.3 2.5 1 3.6l0.1 0.3-0.7 2.4 2.5-0.7 0.3 0.099c1 0.7 2.2 1 3.4 1 3.7 0 6.8-3 6.9-6.6 0-1.8-0.7-3.5-2-4.8s-3-2-4.8-2zm-3 2.9h0.4c0.2 0 0.4-0.099 0.5 0.3s0.5 1.5 0.6 1.7 0.1 0.2 0 0.3-0.1 0.2-0.2 0.3l-0.3 0.3c-0.1 0.1-0.2 0.2-0.1 0.4 0.2 0.2 0.6 0.9 1.2 1.4 0.7 0.7 1.4 0.9 1.6 1 0.2 0 0.3 0.001 0.4-0.099s0.5-0.6 0.6-0.8c0.2-0.2 0.3-0.2 0.5-0.1l1.4 0.7c0.2 0.1 0.3 0.2 0.5 0.3 0 0.1 0.1 0.5-0.099 1s-1 0.9-1.4 1c-0.3 0-0.8 0.001-1.3-0.099-0.3-0.1-0.7-0.2-1.2-0.4-2.1-0.9-3.4-3-3.5-3.1s-0.8-1.1-0.8-2.1c0-1 0.5-1.5 0.7-1.7s0.4-0.3 0.5-0.3z"
+                  />
+                </svg>
+                 
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Whatsapp 4 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #25d366;
+  border-color: #25d366;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #1da851;
+  border-color: #1da851;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
+<Component
   big={true}
   circle={true}
   link="http://sharingbuttons.io"
   message="I am so cool"
 >
-  <styled.a
-    aria-label="Share on WhatsApp"
-    href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    big={true}
+    buttonComponent={[Function]}
+    circle={true}
+    href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    message="I am so cool"
+    name="WhatsApp"
   >
-    <a
+    <styled.a
       aria-label="Share on WhatsApp"
-      className="sc-bwzfXH ewcqji"
-      href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
+      href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on WhatsApp"
     >
-      <styled.div>
-        <div
-          className="sc-gqjmRU eqeAgc"
+      <a
+        aria-label="Share on WhatsApp"
+        className="c0"
+        href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on WhatsApp"
+      >
+        <styled.div
+          message="I am so cool"
         >
-          <styled.div
-            aria-hidden="true"
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat dZQCuR"
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <circle
-                  cx="12"
-                  cy="12"
-                  r="11.5"
+                <svg
+                  viewBox="0 0 24 24"
                   xmlns="http://www.w3.org/2000/svg"
-                />
-                <path
-                  d="M17.6 6.2c-1.5-1.5-3.4-2.3-5.5-2.3-4.3 0-7.8 3.5-7.8 7.8 0 1.4.4 2.7 1 3.9l-1.1 4 4.1-1.1c1.1.6 2.4.9 3.7.9 4.3 0 7.8-3.5 7.8-7.8.1-2-.7-3.9-2.2-5.4zm-5.5 11.9c-1.2 0-2.3-.3-3.3-.9l-.2-.1-2.4.6.7-2.4-.2-.2c-.6-1-1-2.2-1-3.4 0-3.6 2.9-6.5 6.5-6.5 1.7 0 3.3.7 4.6 1.9 1.2 1.2 1.9 2.8 1.9 4.6-.1 3.5-3 6.4-6.6 6.4zm3.5-4.8c-.2-.1-1.1-.6-1.3-.6-.2-.1-.3-.1-.4.1-.1.2-.5.6-.6.8-.1.1-.2.1-.4 0s-.8-.3-1.6-1c-.6-.5-1-1.2-1.1-1.3-.1-.2 0-.3.1-.4l.3-.3s.1-.2.2-.3c.1-.1 0-.2 0-.3s-.4-1.1-.6-1.4c-.2-.4-.3-.3-.4-.3h-.4s-.3 0-.5.2-.7.7-.7 1.6c0 1 .7 1.9.8 2s1.4 2.1 3.3 2.9c.5.2.8.3 1.1.4.5.1.9.1 1.2.1.4-.1 1.1-.5 1.3-.9.2-.5.2-.8.1-.9 0-.2-.2-.3-.4-.4z"
-                  strokeWidth="1px"
-                />
-              </svg>
-               
-              <span>
-                share on WhatsApp
-              </span>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                >
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="11.5"
+                    xmlns="http://www.w3.org/2000/svg"
+                  />
+                  <path
+                    d="M17.6 6.2c-1.5-1.5-3.4-2.3-5.5-2.3-4.3 0-7.8 3.5-7.8 7.8 0 1.4.4 2.7 1 3.9l-1.1 4 4.1-1.1c1.1.6 2.4.9 3.7.9 4.3 0 7.8-3.5 7.8-7.8.1-2-.7-3.9-2.2-5.4zm-5.5 11.9c-1.2 0-2.3-.3-3.3-.9l-.2-.1-2.4.6.7-2.4-.2-.2c-.6-1-1-2.2-1-3.4 0-3.6 2.9-6.5 6.5-6.5 1.7 0 3.3.7 4.6 1.9 1.2 1.2 1.9 2.8 1.9 4.6-.1 3.5-3 6.4-6.6 6.4zm3.5-4.8c-.2-.1-1.1-.6-1.3-.6-.2-.1-.3-.1-.4.1-.1.2-.5.6-.6.8-.1.1-.2.1-.4 0s-.8-.3-1.6-1c-.6-.5-1-1.2-1.1-1.3-.1-.2 0-.3.1-.4l.3-.3s.1-.2.2-.3c.1-.1 0-.2 0-.3s-.4-1.1-.6-1.4c-.2-.4-.3-.3-.4-.3h-.4s-.3 0-.5.2-.7.7-.7 1.6c0 1 .7 1.9.8 2s1.4 2.1 3.3 2.9c.5.2.8.3 1.1.4.5.1.9.1 1.2.1.4-.1 1.1-.5 1.3-.9.2-.5.2-.8.1-.9 0-.2-.2-.3-.4-.4z"
+                    strokeWidth="1px"
+                  />
+                </svg>
+                 
+                <span>
+                  share on WhatsApp
+                </span>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Whatsapp 5 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #25d366;
+  border-color: #25d366;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #1da851;
+  border-color: #1da851;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
+<Component
   circle={true}
   link="http://sharingbuttons.io"
   medium={true}
   message="I am so cool"
 >
-  <styled.a
-    aria-label="Share on WhatsApp"
-    href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    buttonComponent={[Function]}
+    circle={true}
+    href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    medium={true}
+    message="I am so cool"
+    name="WhatsApp"
   >
-    <a
+    <styled.a
       aria-label="Share on WhatsApp"
-      className="sc-bwzfXH ewcqji"
-      href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
+      href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on WhatsApp"
     >
-      <styled.div>
-        <div
-          className="sc-gqjmRU eqeAgc"
+      <a
+        aria-label="Share on WhatsApp"
+        className="c0"
+        href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on WhatsApp"
+      >
+        <styled.div
+          message="I am so cool"
         >
-          <styled.div
-            aria-hidden="true"
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat dZQCuR"
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <circle
-                  cx="12"
-                  cy="12"
-                  r="11.5"
+                <svg
+                  viewBox="0 0 24 24"
                   xmlns="http://www.w3.org/2000/svg"
-                />
-                <path
-                  d="M17.6 6.2c-1.5-1.5-3.4-2.3-5.5-2.3-4.3 0-7.8 3.5-7.8 7.8 0 1.4.4 2.7 1 3.9l-1.1 4 4.1-1.1c1.1.6 2.4.9 3.7.9 4.3 0 7.8-3.5 7.8-7.8.1-2-.7-3.9-2.2-5.4zm-5.5 11.9c-1.2 0-2.3-.3-3.3-.9l-.2-.1-2.4.6.7-2.4-.2-.2c-.6-1-1-2.2-1-3.4 0-3.6 2.9-6.5 6.5-6.5 1.7 0 3.3.7 4.6 1.9 1.2 1.2 1.9 2.8 1.9 4.6-.1 3.5-3 6.4-6.6 6.4zm3.5-4.8c-.2-.1-1.1-.6-1.3-.6-.2-.1-.3-.1-.4.1-.1.2-.5.6-.6.8-.1.1-.2.1-.4 0s-.8-.3-1.6-1c-.6-.5-1-1.2-1.1-1.3-.1-.2 0-.3.1-.4l.3-.3s.1-.2.2-.3c.1-.1 0-.2 0-.3s-.4-1.1-.6-1.4c-.2-.4-.3-.3-.4-.3h-.4s-.3 0-.5.2-.7.7-.7 1.6c0 1 .7 1.9.8 2s1.4 2.1 3.3 2.9c.5.2.8.3 1.1.4.5.1.9.1 1.2.1.4-.1 1.1-.5 1.3-.9.2-.5.2-.8.1-.9 0-.2-.2-.3-.4-.4z"
-                  strokeWidth="1px"
-                />
-              </svg>
-               
-              <span>
-                WhatsApp
-              </span>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                >
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="11.5"
+                    xmlns="http://www.w3.org/2000/svg"
+                  />
+                  <path
+                    d="M17.6 6.2c-1.5-1.5-3.4-2.3-5.5-2.3-4.3 0-7.8 3.5-7.8 7.8 0 1.4.4 2.7 1 3.9l-1.1 4 4.1-1.1c1.1.6 2.4.9 3.7.9 4.3 0 7.8-3.5 7.8-7.8.1-2-.7-3.9-2.2-5.4zm-5.5 11.9c-1.2 0-2.3-.3-3.3-.9l-.2-.1-2.4.6.7-2.4-.2-.2c-.6-1-1-2.2-1-3.4 0-3.6 2.9-6.5 6.5-6.5 1.7 0 3.3.7 4.6 1.9 1.2 1.2 1.9 2.8 1.9 4.6-.1 3.5-3 6.4-6.6 6.4zm3.5-4.8c-.2-.1-1.1-.6-1.3-.6-.2-.1-.3-.1-.4.1-.1.2-.5.6-.6.8-.1.1-.2.1-.4 0s-.8-.3-1.6-1c-.6-.5-1-1.2-1.1-1.3-.1-.2 0-.3.1-.4l.3-.3s.1-.2.2-.3c.1-.1 0-.2 0-.3s-.4-1.1-.6-1.4c-.2-.4-.3-.3-.4-.3h-.4s-.3 0-.5.2-.7.7-.7 1.6c0 1 .7 1.9.8 2s1.4 2.1 3.3 2.9c.5.2.8.3 1.1.4.5.1.9.1 1.2.1.4-.1 1.1-.5 1.3-.9.2-.5.2-.8.1-.9 0-.2-.2-.3-.4-.4z"
+                    strokeWidth="1px"
+                  />
+                </svg>
+                 
+                <span>
+                  WhatsApp
+                </span>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Whatsapp 6 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #25d366;
+  border-color: #25d366;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #1da851;
+  border-color: #1da851;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
+<Component
   circle={true}
   link="http://sharingbuttons.io"
   message="I am so cool"
   small={true}
 >
-  <styled.a
-    aria-label="Share on WhatsApp"
-    href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    buttonComponent={[Function]}
+    circle={true}
+    href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    message="I am so cool"
+    name="WhatsApp"
+    small={true}
   >
-    <a
+    <styled.a
       aria-label="Share on WhatsApp"
-      className="sc-bwzfXH ewcqji"
-      href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
+      href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on WhatsApp"
     >
-      <styled.div
-        small={true}
+      <a
+        aria-label="Share on WhatsApp"
+        className="c0"
+        href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on WhatsApp"
       >
-        <div
-          className="sc-gqjmRU eqeAgc"
+        <styled.div
+          message="I am so cool"
+          small={true}
         >
-          <styled.div
-            aria-hidden="true"
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat dZQCuR"
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <circle
-                  cx="12"
-                  cy="12"
-                  r="11.5"
+                <svg
+                  viewBox="0 0 24 24"
                   xmlns="http://www.w3.org/2000/svg"
-                />
-                <path
-                  d="M17.6 6.2c-1.5-1.5-3.4-2.3-5.5-2.3-4.3 0-7.8 3.5-7.8 7.8 0 1.4.4 2.7 1 3.9l-1.1 4 4.1-1.1c1.1.6 2.4.9 3.7.9 4.3 0 7.8-3.5 7.8-7.8.1-2-.7-3.9-2.2-5.4zm-5.5 11.9c-1.2 0-2.3-.3-3.3-.9l-.2-.1-2.4.6.7-2.4-.2-.2c-.6-1-1-2.2-1-3.4 0-3.6 2.9-6.5 6.5-6.5 1.7 0 3.3.7 4.6 1.9 1.2 1.2 1.9 2.8 1.9 4.6-.1 3.5-3 6.4-6.6 6.4zm3.5-4.8c-.2-.1-1.1-.6-1.3-.6-.2-.1-.3-.1-.4.1-.1.2-.5.6-.6.8-.1.1-.2.1-.4 0s-.8-.3-1.6-1c-.6-.5-1-1.2-1.1-1.3-.1-.2 0-.3.1-.4l.3-.3s.1-.2.2-.3c.1-.1 0-.2 0-.3s-.4-1.1-.6-1.4c-.2-.4-.3-.3-.4-.3h-.4s-.3 0-.5.2-.7.7-.7 1.6c0 1 .7 1.9.8 2s1.4 2.1 3.3 2.9c.5.2.8.3 1.1.4.5.1.9.1 1.2.1.4-.1 1.1-.5 1.3-.9.2-.5.2-.8.1-.9 0-.2-.2-.3-.4-.4z"
-                  strokeWidth="1px"
-                />
-              </svg>
-               
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                >
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="11.5"
+                    xmlns="http://www.w3.org/2000/svg"
+                  />
+                  <path
+                    d="M17.6 6.2c-1.5-1.5-3.4-2.3-5.5-2.3-4.3 0-7.8 3.5-7.8 7.8 0 1.4.4 2.7 1 3.9l-1.1 4 4.1-1.1c1.1.6 2.4.9 3.7.9 4.3 0 7.8-3.5 7.8-7.8.1-2-.7-3.9-2.2-5.4zm-5.5 11.9c-1.2 0-2.3-.3-3.3-.9l-.2-.1-2.4.6.7-2.4-.2-.2c-.6-1-1-2.2-1-3.4 0-3.6 2.9-6.5 6.5-6.5 1.7 0 3.3.7 4.6 1.9 1.2 1.2 1.9 2.8 1.9 4.6-.1 3.5-3 6.4-6.6 6.4zm3.5-4.8c-.2-.1-1.1-.6-1.3-.6-.2-.1-.3-.1-.4.1-.1.2-.5.6-.6.8-.1.1-.2.1-.4 0s-.8-.3-1.6-1c-.6-.5-1-1.2-1.1-1.3-.1-.2 0-.3.1-.4l.3-.3s.1-.2.2-.3c.1-.1 0-.2 0-.3s-.4-1.1-.6-1.4c-.2-.4-.3-.3-.4-.3h-.4s-.3 0-.5.2-.7.7-.7 1.6c0 1 .7 1.9.8 2s1.4 2.1 3.3 2.9c.5.2.8.3 1.1.4.5.1.9.1 1.2.1.4-.1 1.1-.5 1.3-.9.2-.5.2-.8.1-.9 0-.2-.2-.3-.4-.4z"
+                    strokeWidth="1px"
+                  />
+                </svg>
+                 
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Whatsapp 7 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #25d366;
+  border-color: #25d366;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #1da851;
+  border-color: #1da851;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
+<Component
   big={true}
   link="http://sharingbuttons.io"
   message="I am so cool"
   solid={true}
 >
-  <styled.a
-    aria-label="Share on WhatsApp"
-    href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    big={true}
+    buttonComponent={[Function]}
+    href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    message="I am so cool"
+    name="WhatsApp"
+    solid={true}
   >
-    <a
+    <styled.a
       aria-label="Share on WhatsApp"
-      className="sc-bwzfXH ewcqji"
-      href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
+      href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on WhatsApp"
     >
-      <styled.div>
-        <div
-          className="sc-gqjmRU eqeAgc"
+      <a
+        aria-label="Share on WhatsApp"
+        className="c0"
+        href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on WhatsApp"
+      >
+        <styled.div
+          message="I am so cool"
         >
-          <styled.div
-            aria-hidden="true"
-            solid={true}
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solid={true}
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <path
-                  d="M20.1 3.9C17.9 1.7 15 .5 12 .5 5.8.5.7 5.6.7 11.9c0 2 .5 3.9 1.5 5.6L.6 23.4l6-1.6c1.6.9 3.5 1.3 5.4 1.3 6.3 0 11.4-5.1 11.4-11.4-.1-2.8-1.2-5.7-3.3-7.8zM12 21.4c-1.7 0-3.3-.5-4.8-1.3l-.4-.2-3.5 1 1-3.4L4 17c-1-1.5-1.4-3.2-1.4-5.1 0-5.2 4.2-9.4 9.4-9.4 2.5 0 4.9 1 6.7 2.8 1.8 1.8 2.8 4.2 2.8 6.7-.1 5.2-4.3 9.4-9.5 9.4zm5.1-7.1c-.3-.1-1.7-.9-1.9-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-.9 1.1-.2.2-.3.2-.6.1s-1.2-.5-2.3-1.4c-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6s.3-.3.4-.5c.2-.1.3-.3.4-.5.1-.2 0-.4 0-.5C10 9 9.3 7.6 9 7c-.1-.4-.4-.3-.5-.3h-.6s-.4.1-.7.3c-.3.3-1 1-1 2.4s1 2.8 1.1 3c.1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.7-.7 1.9-1.3.2-.7.2-1.2.2-1.3-.1-.3-.3-.4-.6-.5z"
-                />
-              </svg>
-               
-              <span>
-                share on WhatsApp
-              </span>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M20.1 3.9C17.9 1.7 15 .5 12 .5 5.8.5.7 5.6.7 11.9c0 2 .5 3.9 1.5 5.6L.6 23.4l6-1.6c1.6.9 3.5 1.3 5.4 1.3 6.3 0 11.4-5.1 11.4-11.4-.1-2.8-1.2-5.7-3.3-7.8zM12 21.4c-1.7 0-3.3-.5-4.8-1.3l-.4-.2-3.5 1 1-3.4L4 17c-1-1.5-1.4-3.2-1.4-5.1 0-5.2 4.2-9.4 9.4-9.4 2.5 0 4.9 1 6.7 2.8 1.8 1.8 2.8 4.2 2.8 6.7-.1 5.2-4.3 9.4-9.5 9.4zm5.1-7.1c-.3-.1-1.7-.9-1.9-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-.9 1.1-.2.2-.3.2-.6.1s-1.2-.5-2.3-1.4c-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6s.3-.3.4-.5c.2-.1.3-.3.4-.5.1-.2 0-.4 0-.5C10 9 9.3 7.6 9 7c-.1-.4-.4-.3-.5-.3h-.6s-.4.1-.7.3c-.3.3-1 1-1 2.4s1 2.8 1.1 3c.1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.7-.7 1.9-1.3.2-.7.2-1.2.2-1.3-.1-.3-.3-.4-.6-.5z"
+                  />
+                </svg>
+                 
+                <span>
+                  share on WhatsApp
+                </span>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Whatsapp 8 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #25d366;
+  border-color: #25d366;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #1da851;
+  border-color: #1da851;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
+<Component
   link="http://sharingbuttons.io"
   medium={true}
   message="I am so cool"
   solid={true}
 >
-  <styled.a
-    aria-label="Share on WhatsApp"
-    href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    buttonComponent={[Function]}
+    href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    medium={true}
+    message="I am so cool"
+    name="WhatsApp"
+    solid={true}
   >
-    <a
+    <styled.a
       aria-label="Share on WhatsApp"
-      className="sc-bwzfXH ewcqji"
-      href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
+      href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on WhatsApp"
     >
-      <styled.div>
-        <div
-          className="sc-gqjmRU eqeAgc"
+      <a
+        aria-label="Share on WhatsApp"
+        className="c0"
+        href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on WhatsApp"
+      >
+        <styled.div
+          message="I am so cool"
         >
-          <styled.div
-            aria-hidden="true"
-            solid={true}
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solid={true}
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <path
-                  d="M20.1 3.9C17.9 1.7 15 .5 12 .5 5.8.5.7 5.6.7 11.9c0 2 .5 3.9 1.5 5.6L.6 23.4l6-1.6c1.6.9 3.5 1.3 5.4 1.3 6.3 0 11.4-5.1 11.4-11.4-.1-2.8-1.2-5.7-3.3-7.8zM12 21.4c-1.7 0-3.3-.5-4.8-1.3l-.4-.2-3.5 1 1-3.4L4 17c-1-1.5-1.4-3.2-1.4-5.1 0-5.2 4.2-9.4 9.4-9.4 2.5 0 4.9 1 6.7 2.8 1.8 1.8 2.8 4.2 2.8 6.7-.1 5.2-4.3 9.4-9.5 9.4zm5.1-7.1c-.3-.1-1.7-.9-1.9-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-.9 1.1-.2.2-.3.2-.6.1s-1.2-.5-2.3-1.4c-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6s.3-.3.4-.5c.2-.1.3-.3.4-.5.1-.2 0-.4 0-.5C10 9 9.3 7.6 9 7c-.1-.4-.4-.3-.5-.3h-.6s-.4.1-.7.3c-.3.3-1 1-1 2.4s1 2.8 1.1 3c.1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.7-.7 1.9-1.3.2-.7.2-1.2.2-1.3-.1-.3-.3-.4-.6-.5z"
-                />
-              </svg>
-               
-              <span>
-                WhatsApp
-              </span>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M20.1 3.9C17.9 1.7 15 .5 12 .5 5.8.5.7 5.6.7 11.9c0 2 .5 3.9 1.5 5.6L.6 23.4l6-1.6c1.6.9 3.5 1.3 5.4 1.3 6.3 0 11.4-5.1 11.4-11.4-.1-2.8-1.2-5.7-3.3-7.8zM12 21.4c-1.7 0-3.3-.5-4.8-1.3l-.4-.2-3.5 1 1-3.4L4 17c-1-1.5-1.4-3.2-1.4-5.1 0-5.2 4.2-9.4 9.4-9.4 2.5 0 4.9 1 6.7 2.8 1.8 1.8 2.8 4.2 2.8 6.7-.1 5.2-4.3 9.4-9.5 9.4zm5.1-7.1c-.3-.1-1.7-.9-1.9-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-.9 1.1-.2.2-.3.2-.6.1s-1.2-.5-2.3-1.4c-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6s.3-.3.4-.5c.2-.1.3-.3.4-.5.1-.2 0-.4 0-.5C10 9 9.3 7.6 9 7c-.1-.4-.4-.3-.5-.3h-.6s-.4.1-.7.3c-.3.3-1 1-1 2.4s1 2.8 1.1 3c.1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.7-.7 1.9-1.3.2-.7.2-1.2.2-1.3-.1-.3-.3-.4-.6-.5z"
+                  />
+                </svg>
+                 
+                <span>
+                  WhatsApp
+                </span>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Whatsapp 9 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #25d366;
+  border-color: #25d366;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #1da851;
+  border-color: #1da851;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
+<Component
   link="http://sharingbuttons.io"
   message="I am so cool"
   small={true}
   solid={true}
 >
-  <styled.a
-    aria-label="Share on WhatsApp"
-    href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    buttonComponent={[Function]}
+    href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    message="I am so cool"
+    name="WhatsApp"
+    small={true}
+    solid={true}
   >
-    <a
+    <styled.a
       aria-label="Share on WhatsApp"
-      className="sc-bwzfXH ewcqji"
-      href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
+      href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on WhatsApp"
     >
-      <styled.div
-        small={true}
+      <a
+        aria-label="Share on WhatsApp"
+        className="c0"
+        href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on WhatsApp"
       >
-        <div
-          className="sc-gqjmRU eqeAgc"
+        <styled.div
+          message="I am so cool"
+          small={true}
         >
-          <styled.div
-            aria-hidden="true"
-            solid={true}
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solid={true}
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <path
-                  d="M20.1 3.9C17.9 1.7 15 .5 12 .5 5.8.5.7 5.6.7 11.9c0 2 .5 3.9 1.5 5.6L.6 23.4l6-1.6c1.6.9 3.5 1.3 5.4 1.3 6.3 0 11.4-5.1 11.4-11.4-.1-2.8-1.2-5.7-3.3-7.8zM12 21.4c-1.7 0-3.3-.5-4.8-1.3l-.4-.2-3.5 1 1-3.4L4 17c-1-1.5-1.4-3.2-1.4-5.1 0-5.2 4.2-9.4 9.4-9.4 2.5 0 4.9 1 6.7 2.8 1.8 1.8 2.8 4.2 2.8 6.7-.1 5.2-4.3 9.4-9.5 9.4zm5.1-7.1c-.3-.1-1.7-.9-1.9-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-.9 1.1-.2.2-.3.2-.6.1s-1.2-.5-2.3-1.4c-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6s.3-.3.4-.5c.2-.1.3-.3.4-.5.1-.2 0-.4 0-.5C10 9 9.3 7.6 9 7c-.1-.4-.4-.3-.5-.3h-.6s-.4.1-.7.3c-.3.3-1 1-1 2.4s1 2.8 1.1 3c.1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.7-.7 1.9-1.3.2-.7.2-1.2.2-1.3-.1-.3-.3-.4-.6-.5z"
-                />
-              </svg>
-               
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M20.1 3.9C17.9 1.7 15 .5 12 .5 5.8.5.7 5.6.7 11.9c0 2 .5 3.9 1.5 5.6L.6 23.4l6-1.6c1.6.9 3.5 1.3 5.4 1.3 6.3 0 11.4-5.1 11.4-11.4-.1-2.8-1.2-5.7-3.3-7.8zM12 21.4c-1.7 0-3.3-.5-4.8-1.3l-.4-.2-3.5 1 1-3.4L4 17c-1-1.5-1.4-3.2-1.4-5.1 0-5.2 4.2-9.4 9.4-9.4 2.5 0 4.9 1 6.7 2.8 1.8 1.8 2.8 4.2 2.8 6.7-.1 5.2-4.3 9.4-9.5 9.4zm5.1-7.1c-.3-.1-1.7-.9-1.9-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-.9 1.1-.2.2-.3.2-.6.1s-1.2-.5-2.3-1.4c-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6s.3-.3.4-.5c.2-.1.3-.3.4-.5.1-.2 0-.4 0-.5C10 9 9.3 7.6 9 7c-.1-.4-.4-.3-.5-.3h-.6s-.4.1-.7.3c-.3.3-1 1-1 2.4s1 2.8 1.1 3c.1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.7-.7 1.9-1.3.2-.7.2-1.2.2-1.3-.1-.3-.3-.4-.6-.5z"
+                  />
+                </svg>
+                 
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Whatsapp 11 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #25d366;
+  border-color: #25d366;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #1da851;
+  border-color: #1da851;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
+<Component
   circle={true}
 >
-  <styled.a
-    aria-label="Share on WhatsApp"
+  <ButtonFactory
+    buttonComponent={[Function]}
+    circle={true}
     href="whatsapp://send?text=undefined%20"
-    rel="noreferrer noopener"
-    target="_blank"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    name="WhatsApp"
   >
-    <a
+    <styled.a
       aria-label="Share on WhatsApp"
-      className="sc-bwzfXH ewcqji"
       href="whatsapp://send?text=undefined%20"
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on WhatsApp"
     >
-      <styled.div>
-        <div
-          className="sc-gqjmRU eqeAgc"
-        >
-          <styled.div
-            aria-hidden="true"
+      <a
+        aria-label="Share on WhatsApp"
+        className="c0"
+        href="whatsapp://send?text=undefined%20"
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on WhatsApp"
+      >
+        <styled.div>
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat dZQCuR"
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <circle
-                  cx="12"
-                  cy="12"
-                  r="11.5"
+                <svg
+                  viewBox="0 0 24 24"
                   xmlns="http://www.w3.org/2000/svg"
-                />
-                <path
-                  d="M17.6 6.2c-1.5-1.5-3.4-2.3-5.5-2.3-4.3 0-7.8 3.5-7.8 7.8 0 1.4.4 2.7 1 3.9l-1.1 4 4.1-1.1c1.1.6 2.4.9 3.7.9 4.3 0 7.8-3.5 7.8-7.8.1-2-.7-3.9-2.2-5.4zm-5.5 11.9c-1.2 0-2.3-.3-3.3-.9l-.2-.1-2.4.6.7-2.4-.2-.2c-.6-1-1-2.2-1-3.4 0-3.6 2.9-6.5 6.5-6.5 1.7 0 3.3.7 4.6 1.9 1.2 1.2 1.9 2.8 1.9 4.6-.1 3.5-3 6.4-6.6 6.4zm3.5-4.8c-.2-.1-1.1-.6-1.3-.6-.2-.1-.3-.1-.4.1-.1.2-.5.6-.6.8-.1.1-.2.1-.4 0s-.8-.3-1.6-1c-.6-.5-1-1.2-1.1-1.3-.1-.2 0-.3.1-.4l.3-.3s.1-.2.2-.3c.1-.1 0-.2 0-.3s-.4-1.1-.6-1.4c-.2-.4-.3-.3-.4-.3h-.4s-.3 0-.5.2-.7.7-.7 1.6c0 1 .7 1.9.8 2s1.4 2.1 3.3 2.9c.5.2.8.3 1.1.4.5.1.9.1 1.2.1.4-.1 1.1-.5 1.3-.9.2-.5.2-.8.1-.9 0-.2-.2-.3-.4-.4z"
-                  strokeWidth="1px"
-                />
-              </svg>
-               
-              <span>
-                WhatsApp
-              </span>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                >
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="11.5"
+                    xmlns="http://www.w3.org/2000/svg"
+                  />
+                  <path
+                    d="M17.6 6.2c-1.5-1.5-3.4-2.3-5.5-2.3-4.3 0-7.8 3.5-7.8 7.8 0 1.4.4 2.7 1 3.9l-1.1 4 4.1-1.1c1.1.6 2.4.9 3.7.9 4.3 0 7.8-3.5 7.8-7.8.1-2-.7-3.9-2.2-5.4zm-5.5 11.9c-1.2 0-2.3-.3-3.3-.9l-.2-.1-2.4.6.7-2.4-.2-.2c-.6-1-1-2.2-1-3.4 0-3.6 2.9-6.5 6.5-6.5 1.7 0 3.3.7 4.6 1.9 1.2 1.2 1.9 2.8 1.9 4.6-.1 3.5-3 6.4-6.6 6.4zm3.5-4.8c-.2-.1-1.1-.6-1.3-.6-.2-.1-.3-.1-.4.1-.1.2-.5.6-.6.8-.1.1-.2.1-.4 0s-.8-.3-1.6-1c-.6-.5-1-1.2-1.1-1.3-.1-.2 0-.3.1-.4l.3-.3s.1-.2.2-.3c.1-.1 0-.2 0-.3s-.4-1.1-.6-1.4c-.2-.4-.3-.3-.4-.3h-.4s-.3 0-.5.2-.7.7-.7 1.6c0 1 .7 1.9.8 2s1.4 2.1 3.3 2.9c.5.2.8.3 1.1.4.5.1.9.1 1.2.1.4-.1 1.1-.5 1.3-.9.2-.5.2-.8.1-.9 0-.2-.2-.3-.4-.4z"
+                    strokeWidth="1px"
+                  />
+                </svg>
+                 
+                <span>
+                  WhatsApp
+                </span>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Whatsapp 11 2`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #25d366;
+  border-color: #25d366;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #1da851;
+  border-color: #1da851;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
+<Component
   solidcircle={true}
 >
-  <styled.a
-    aria-label="Share on WhatsApp"
+  <ButtonFactory
+    buttonComponent={[Function]}
     href="whatsapp://send?text=undefined%20"
-    rel="noreferrer noopener"
-    target="_blank"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    name="WhatsApp"
+    solidcircle={true}
   >
-    <a
+    <styled.a
       aria-label="Share on WhatsApp"
-      className="sc-bwzfXH ewcqji"
       href="whatsapp://send?text=undefined%20"
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on WhatsApp"
     >
-      <styled.div>
-        <div
-          className="sc-gqjmRU eqeAgc"
+      <a
+        aria-label="Share on WhatsApp"
+        className="c0"
+        href="whatsapp://send?text=undefined%20"
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on WhatsApp"
+      >
+        <styled.div
+          solidcircle={true}
         >
-          <styled.div
-            aria-hidden="true"
-            solidcircle={true}
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solidcircle={true}
             >
-              <svg
-                height="24"
-                viewBox="0 0 24 24"
-                width="24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <path
-                  d="m12 0c-6.6 0-12 5.4-12 12s5.4 12 12 12 12-5.4 12-12-5.4-12-12-12zm0 3.8c2.2 0 4.2 0.9 5.7 2.4 1.6 1.5 2.4 3.6 2.5 5.7 0 4.5-3.6 8.1-8.1 8.1-1.4 0-2.7-0.4-3.9-1l-4.4 1.1 1.2-4.2c-0.8-1.2-1.1-2.6-1.1-4 0-4.5 3.6-8.1 8.1-8.1zm0.1 1.5c-3.7 0-6.7 3-6.7 6.7 0 1.3 0.3 2.5 1 3.6l0.1 0.3-0.7 2.4 2.5-0.7 0.3 0.099c1 0.7 2.2 1 3.4 1 3.7 0 6.8-3 6.9-6.6 0-1.8-0.7-3.5-2-4.8s-3-2-4.8-2zm-3 2.9h0.4c0.2 0 0.4-0.099 0.5 0.3s0.5 1.5 0.6 1.7 0.1 0.2 0 0.3-0.1 0.2-0.2 0.3l-0.3 0.3c-0.1 0.1-0.2 0.2-0.1 0.4 0.2 0.2 0.6 0.9 1.2 1.4 0.7 0.7 1.4 0.9 1.6 1 0.2 0 0.3 0.001 0.4-0.099s0.5-0.6 0.6-0.8c0.2-0.2 0.3-0.2 0.5-0.1l1.4 0.7c0.2 0.1 0.3 0.2 0.5 0.3 0 0.1 0.1 0.5-0.099 1s-1 0.9-1.4 1c-0.3 0-0.8 0.001-1.3-0.099-0.3-0.1-0.7-0.2-1.2-0.4-2.1-0.9-3.4-3-3.5-3.1s-0.8-1.1-0.8-2.1c0-1 0.5-1.5 0.7-1.7s0.4-0.3 0.5-0.3z"
-                />
-              </svg>
-               
-              <span>
-                WhatsApp
-              </span>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  height="24"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12 0c-6.6 0-12 5.4-12 12s5.4 12 12 12 12-5.4 12-12-5.4-12-12-12zm0 3.8c2.2 0 4.2 0.9 5.7 2.4 1.6 1.5 2.4 3.6 2.5 5.7 0 4.5-3.6 8.1-8.1 8.1-1.4 0-2.7-0.4-3.9-1l-4.4 1.1 1.2-4.2c-0.8-1.2-1.1-2.6-1.1-4 0-4.5 3.6-8.1 8.1-8.1zm0.1 1.5c-3.7 0-6.7 3-6.7 6.7 0 1.3 0.3 2.5 1 3.6l0.1 0.3-0.7 2.4 2.5-0.7 0.3 0.099c1 0.7 2.2 1 3.4 1 3.7 0 6.8-3 6.9-6.6 0-1.8-0.7-3.5-2-4.8s-3-2-4.8-2zm-3 2.9h0.4c0.2 0 0.4-0.099 0.5 0.3s0.5 1.5 0.6 1.7 0.1 0.2 0 0.3-0.1 0.2-0.2 0.3l-0.3 0.3c-0.1 0.1-0.2 0.2-0.1 0.4 0.2 0.2 0.6 0.9 1.2 1.4 0.7 0.7 1.4 0.9 1.6 1 0.2 0 0.3 0.001 0.4-0.099s0.5-0.6 0.6-0.8c0.2-0.2 0.3-0.2 0.5-0.1l1.4 0.7c0.2 0.1 0.3 0.2 0.5 0.3 0 0.1 0.1 0.5-0.099 1s-1 0.9-1.4 1c-0.3 0-0.8 0.001-1.3-0.099-0.3-0.1-0.7-0.2-1.2-0.4-2.1-0.9-3.4-3-3.5-3.1s-0.8-1.1-0.8-2.1c0-1 0.5-1.5 0.7-1.7s0.4-0.3 0.5-0.3z"
+                  />
+                </svg>
+                 
+                <span>
+                  WhatsApp
+                </span>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Whatsapp 12 1`] = `
-<Button>
-  <styled.a
-    aria-label="Share on WhatsApp"
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #25d366;
+  border-color: #25d366;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #1da851;
+  border-color: #1da851;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
+<Component>
+  <ButtonFactory
+    buttonComponent={[Function]}
     href="whatsapp://send?text=undefined%20"
-    rel="noreferrer noopener"
-    target="_blank"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    name="WhatsApp"
   >
-    <a
+    <styled.a
       aria-label="Share on WhatsApp"
-      className="sc-bwzfXH ewcqji"
       href="whatsapp://send?text=undefined%20"
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on WhatsApp"
     >
-      <styled.div>
-        <div
-          className="sc-gqjmRU eqeAgc"
-        >
-          <styled.div
-            aria-hidden="true"
-            solid={true}
+      <a
+        aria-label="Share on WhatsApp"
+        className="c0"
+        href="whatsapp://send?text=undefined%20"
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on WhatsApp"
+      >
+        <styled.div>
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solid={true}
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <path
-                  d="M20.1 3.9C17.9 1.7 15 .5 12 .5 5.8.5.7 5.6.7 11.9c0 2 .5 3.9 1.5 5.6L.6 23.4l6-1.6c1.6.9 3.5 1.3 5.4 1.3 6.3 0 11.4-5.1 11.4-11.4-.1-2.8-1.2-5.7-3.3-7.8zM12 21.4c-1.7 0-3.3-.5-4.8-1.3l-.4-.2-3.5 1 1-3.4L4 17c-1-1.5-1.4-3.2-1.4-5.1 0-5.2 4.2-9.4 9.4-9.4 2.5 0 4.9 1 6.7 2.8 1.8 1.8 2.8 4.2 2.8 6.7-.1 5.2-4.3 9.4-9.5 9.4zm5.1-7.1c-.3-.1-1.7-.9-1.9-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-.9 1.1-.2.2-.3.2-.6.1s-1.2-.5-2.3-1.4c-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6s.3-.3.4-.5c.2-.1.3-.3.4-.5.1-.2 0-.4 0-.5C10 9 9.3 7.6 9 7c-.1-.4-.4-.3-.5-.3h-.6s-.4.1-.7.3c-.3.3-1 1-1 2.4s1 2.8 1.1 3c.1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.7-.7 1.9-1.3.2-.7.2-1.2.2-1.3-.1-.3-.3-.4-.6-.5z"
-                />
-              </svg>
-               
-              <span>
-                WhatsApp
-              </span>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M20.1 3.9C17.9 1.7 15 .5 12 .5 5.8.5.7 5.6.7 11.9c0 2 .5 3.9 1.5 5.6L.6 23.4l6-1.6c1.6.9 3.5 1.3 5.4 1.3 6.3 0 11.4-5.1 11.4-11.4-.1-2.8-1.2-5.7-3.3-7.8zM12 21.4c-1.7 0-3.3-.5-4.8-1.3l-.4-.2-3.5 1 1-3.4L4 17c-1-1.5-1.4-3.2-1.4-5.1 0-5.2 4.2-9.4 9.4-9.4 2.5 0 4.9 1 6.7 2.8 1.8 1.8 2.8 4.2 2.8 6.7-.1 5.2-4.3 9.4-9.5 9.4zm5.1-7.1c-.3-.1-1.7-.9-1.9-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-.9 1.1-.2.2-.3.2-.6.1s-1.2-.5-2.3-1.4c-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6s.3-.3.4-.5c.2-.1.3-.3.4-.5.1-.2 0-.4 0-.5C10 9 9.3 7.6 9 7c-.1-.4-.4-.3-.5-.3h-.6s-.4.1-.7.3c-.3.3-1 1-1 2.4s1 2.8 1.1 3c.1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.7-.7 1.9-1.3.2-.7.2-1.2.2-1.3-.1-.3-.3-.4-.6-.5z"
+                  />
+                </svg>
+                 
+                <span>
+                  WhatsApp
+                </span>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Whatsapp 13 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c0 svg {
+  stroke: #232323;
+  fill: none;
+}
+
+<Component
   simple={true}
 >
-  <styled.a
-    aria-label="Share on WhatsApp"
+  <ButtonFactory
+    buttonComponent={[Function]}
     href="whatsapp://send?text=undefined%20"
-    rel="noreferrer noopener"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    name="WhatsApp"
     simple={true}
-    target="_blank"
   >
-    <a
+    <styled.a
       aria-label="Share on WhatsApp"
-      className="sc-bwzfXH ljNxya"
       href="whatsapp://send?text=undefined%20"
       rel="noreferrer noopener"
+      simple={true}
       target="_blank"
+      title="Share on WhatsApp"
     >
-      <WhatsappIconFill>
-        <svg
-          viewBox="0 0 24 24"
-          xmlns="http://www.w3.org/2000/svg"
-        >
-          <path
-            d="M20.1 3.9C17.9 1.7 15 .5 12 .5 5.8.5.7 5.6.7 11.9c0 2 .5 3.9 1.5 5.6L.6 23.4l6-1.6c1.6.9 3.5 1.3 5.4 1.3 6.3 0 11.4-5.1 11.4-11.4-.1-2.8-1.2-5.7-3.3-7.8zM12 21.4c-1.7 0-3.3-.5-4.8-1.3l-.4-.2-3.5 1 1-3.4L4 17c-1-1.5-1.4-3.2-1.4-5.1 0-5.2 4.2-9.4 9.4-9.4 2.5 0 4.9 1 6.7 2.8 1.8 1.8 2.8 4.2 2.8 6.7-.1 5.2-4.3 9.4-9.5 9.4zm5.1-7.1c-.3-.1-1.7-.9-1.9-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-.9 1.1-.2.2-.3.2-.6.1s-1.2-.5-2.3-1.4c-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6s.3-.3.4-.5c.2-.1.3-.3.4-.5.1-.2 0-.4 0-.5C10 9 9.3 7.6 9 7c-.1-.4-.4-.3-.5-.3h-.6s-.4.1-.7.3c-.3.3-1 1-1 2.4s1 2.8 1.1 3c.1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.7-.7 1.9-1.3.2-.7.2-1.2.2-1.3-.1-.3-.3-.4-.6-.5z"
-          />
-        </svg>
-      </WhatsappIconFill>
-    </a>
-  </styled.a>
-</Button>
+      <a
+        aria-label="Share on WhatsApp"
+        className="c0"
+        href="whatsapp://send?text=undefined%20"
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on WhatsApp"
+      >
+        <WhatsappIconFill>
+          <svg
+            viewBox="0 0 24 24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M20.1 3.9C17.9 1.7 15 .5 12 .5 5.8.5.7 5.6.7 11.9c0 2 .5 3.9 1.5 5.6L.6 23.4l6-1.6c1.6.9 3.5 1.3 5.4 1.3 6.3 0 11.4-5.1 11.4-11.4-.1-2.8-1.2-5.7-3.3-7.8zM12 21.4c-1.7 0-3.3-.5-4.8-1.3l-.4-.2-3.5 1 1-3.4L4 17c-1-1.5-1.4-3.2-1.4-5.1 0-5.2 4.2-9.4 9.4-9.4 2.5 0 4.9 1 6.7 2.8 1.8 1.8 2.8 4.2 2.8 6.7-.1 5.2-4.3 9.4-9.5 9.4zm5.1-7.1c-.3-.1-1.7-.9-1.9-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-.9 1.1-.2.2-.3.2-.6.1s-1.2-.5-2.3-1.4c-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6s.3-.3.4-.5c.2-.1.3-.3.4-.5.1-.2 0-.4 0-.5C10 9 9.3 7.6 9 7c-.1-.4-.4-.3-.5-.3h-.6s-.4.1-.7.3c-.3.3-1 1-1 2.4s1 2.8 1.1 3c.1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.7-.7 1.9-1.3.2-.7.2-1.2.2-1.3-.1-.3-.3-.4-.6-.5z"
+            />
+          </svg>
+        </WhatsappIconFill>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Whatsapp 14 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c0 svg {
+  stroke: #fff;
+  fill: none;
+}
+
+<Component
   simpleReverse={true}
 >
-  <styled.a
-    aria-label="Share on WhatsApp"
+  <ButtonFactory
+    buttonComponent={[Function]}
     href="whatsapp://send?text=undefined%20"
-    rel="noreferrer noopener"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    name="WhatsApp"
     simpleReverse={true}
-    target="_blank"
   >
-    <a
+    <styled.a
       aria-label="Share on WhatsApp"
-      className="sc-bwzfXH dqksVq"
       href="whatsapp://send?text=undefined%20"
       rel="noreferrer noopener"
+      simpleReverse={true}
       target="_blank"
+      title="Share on WhatsApp"
     >
-      <WhatsappIconFill>
-        <svg
-          viewBox="0 0 24 24"
-          xmlns="http://www.w3.org/2000/svg"
-        >
-          <path
-            d="M20.1 3.9C17.9 1.7 15 .5 12 .5 5.8.5.7 5.6.7 11.9c0 2 .5 3.9 1.5 5.6L.6 23.4l6-1.6c1.6.9 3.5 1.3 5.4 1.3 6.3 0 11.4-5.1 11.4-11.4-.1-2.8-1.2-5.7-3.3-7.8zM12 21.4c-1.7 0-3.3-.5-4.8-1.3l-.4-.2-3.5 1 1-3.4L4 17c-1-1.5-1.4-3.2-1.4-5.1 0-5.2 4.2-9.4 9.4-9.4 2.5 0 4.9 1 6.7 2.8 1.8 1.8 2.8 4.2 2.8 6.7-.1 5.2-4.3 9.4-9.5 9.4zm5.1-7.1c-.3-.1-1.7-.9-1.9-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-.9 1.1-.2.2-.3.2-.6.1s-1.2-.5-2.3-1.4c-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6s.3-.3.4-.5c.2-.1.3-.3.4-.5.1-.2 0-.4 0-.5C10 9 9.3 7.6 9 7c-.1-.4-.4-.3-.5-.3h-.6s-.4.1-.7.3c-.3.3-1 1-1 2.4s1 2.8 1.1 3c.1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.7-.7 1.9-1.3.2-.7.2-1.2.2-1.3-.1-.3-.3-.4-.6-.5z"
-          />
-        </svg>
-      </WhatsappIconFill>
-    </a>
-  </styled.a>
-</Button>
+      <a
+        aria-label="Share on WhatsApp"
+        className="c0"
+        href="whatsapp://send?text=undefined%20"
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on WhatsApp"
+      >
+        <WhatsappIconFill>
+          <svg
+            viewBox="0 0 24 24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M20.1 3.9C17.9 1.7 15 .5 12 .5 5.8.5.7 5.6.7 11.9c0 2 .5 3.9 1.5 5.6L.6 23.4l6-1.6c1.6.9 3.5 1.3 5.4 1.3 6.3 0 11.4-5.1 11.4-11.4-.1-2.8-1.2-5.7-3.3-7.8zM12 21.4c-1.7 0-3.3-.5-4.8-1.3l-.4-.2-3.5 1 1-3.4L4 17c-1-1.5-1.4-3.2-1.4-5.1 0-5.2 4.2-9.4 9.4-9.4 2.5 0 4.9 1 6.7 2.8 1.8 1.8 2.8 4.2 2.8 6.7-.1 5.2-4.3 9.4-9.5 9.4zm5.1-7.1c-.3-.1-1.7-.9-1.9-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-.9 1.1-.2.2-.3.2-.6.1s-1.2-.5-2.3-1.4c-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6s.3-.3.4-.5c.2-.1.3-.3.4-.5.1-.2 0-.4 0-.5C10 9 9.3 7.6 9 7c-.1-.4-.4-.3-.5-.3h-.6s-.4.1-.7.3c-.3.3-1 1-1 2.4s1 2.8 1.1 3c.1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.7-.7 1.9-1.3.2-.7.2-1.2.2-1.3-.1-.3-.3-.4-.6-.5z"
+            />
+          </svg>
+        </WhatsappIconFill>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;

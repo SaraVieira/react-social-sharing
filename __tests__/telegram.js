@@ -1,5 +1,6 @@
 import React from 'react'
 import { Telegram } from '../src/index'
+import 'jest-styled-components'
 
 describe('Telegram', function() {
   test('1', () => {

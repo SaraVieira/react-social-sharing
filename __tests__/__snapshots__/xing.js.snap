@@ -1,705 +1,1440 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Xing 1 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #1a7576;
+  border-color: #1a7576;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #114c4c;
+  border-color: #114c4c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
+<Component
   big={true}
   link="http://sharingbuttons.io"
   message="I am so cool"
   solidcircle={true}
 >
-  <styled.a
-    aria-label="Share on Xing"
-    href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    big={true}
+    buttonComponent={[Function]}
+    href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    message="I am so cool"
+    name="Xing"
+    solidcircle={true}
   >
-    <a
+    <styled.a
       aria-label="Share on Xing"
-      className="sc-bwzfXH ewcqji"
-      href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
+      href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on Xing"
     >
-      <styled.div>
-        <div
-          className="sc-gZMcBi FVSUz"
+      <a
+        aria-label="Share on Xing"
+        className="c0"
+        href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on Xing"
+      >
+        <styled.div
+          message="I am so cool"
+          solidcircle={true}
         >
-          <styled.div
-            aria-hidden="true"
-            solidcircle={true}
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solidcircle={true}
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <path
-                  d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.6 0 12 0zM7.8 14.5h-3L7 11.3 5.3 8.5h3l1.8 2.8L8 14.5zm9 5h-3.4l-3-5.5L15 5.5h3.2L13.6 14l3 5.5z"
-                />
-              </svg>
-               
-              <span>
-                share on Xing
-              </span>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.6 0 12 0zM7.8 14.5h-3L7 11.3 5.3 8.5h3l1.8 2.8L8 14.5zm9 5h-3.4l-3-5.5L15 5.5h3.2L13.6 14l3 5.5z"
+                  />
+                </svg>
+                 
+                <span>
+                  share on Xing
+                </span>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Xing 2 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #1a7576;
+  border-color: #1a7576;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #114c4c;
+  border-color: #114c4c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
+<Component
   link="http://sharingbuttons.io"
   medium={true}
   message="I am so cool"
   solidcircle={true}
 >
-  <styled.a
-    aria-label="Share on Xing"
-    href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    buttonComponent={[Function]}
+    href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    medium={true}
+    message="I am so cool"
+    name="Xing"
+    solidcircle={true}
   >
-    <a
+    <styled.a
       aria-label="Share on Xing"
-      className="sc-bwzfXH ewcqji"
-      href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
+      href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on Xing"
     >
-      <styled.div>
-        <div
-          className="sc-gZMcBi FVSUz"
+      <a
+        aria-label="Share on Xing"
+        className="c0"
+        href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on Xing"
+      >
+        <styled.div
+          message="I am so cool"
+          solidcircle={true}
         >
-          <styled.div
-            aria-hidden="true"
-            solidcircle={true}
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solidcircle={true}
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <path
-                  d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.6 0 12 0zM7.8 14.5h-3L7 11.3 5.3 8.5h3l1.8 2.8L8 14.5zm9 5h-3.4l-3-5.5L15 5.5h3.2L13.6 14l3 5.5z"
-                />
-              </svg>
-               
-              <span>
-                Xing
-              </span>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.6 0 12 0zM7.8 14.5h-3L7 11.3 5.3 8.5h3l1.8 2.8L8 14.5zm9 5h-3.4l-3-5.5L15 5.5h3.2L13.6 14l3 5.5z"
+                  />
+                </svg>
+                 
+                <span>
+                  Xing
+                </span>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Xing 3 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #1a7576;
+  border-color: #1a7576;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #114c4c;
+  border-color: #114c4c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
+<Component
   link="http://sharingbuttons.io"
   message="I am so cool"
   small={true}
   solidcircle={true}
 >
-  <styled.a
-    aria-label="Share on Xing"
-    href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    buttonComponent={[Function]}
+    href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    message="I am so cool"
+    name="Xing"
+    small={true}
+    solidcircle={true}
   >
-    <a
+    <styled.a
       aria-label="Share on Xing"
-      className="sc-bwzfXH ewcqji"
-      href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
+      href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on Xing"
     >
-      <styled.div
-        small={true}
+      <a
+        aria-label="Share on Xing"
+        className="c0"
+        href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on Xing"
       >
-        <div
-          className="sc-gZMcBi FVSUz"
+        <styled.div
+          message="I am so cool"
+          small={true}
+          solidcircle={true}
         >
-          <styled.div
-            aria-hidden="true"
-            solidcircle={true}
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solidcircle={true}
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <path
-                  d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.6 0 12 0zM7.8 14.5h-3L7 11.3 5.3 8.5h3l1.8 2.8L8 14.5zm9 5h-3.4l-3-5.5L15 5.5h3.2L13.6 14l3 5.5z"
-                />
-              </svg>
-               
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.6 0 12 0zM7.8 14.5h-3L7 11.3 5.3 8.5h3l1.8 2.8L8 14.5zm9 5h-3.4l-3-5.5L15 5.5h3.2L13.6 14l3 5.5z"
+                  />
+                </svg>
+                 
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Xing 4 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #1a7576;
+  border-color: #1a7576;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #114c4c;
+  border-color: #114c4c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
+<Component
   big={true}
   circle={true}
   link="http://sharingbuttons.io"
   message="I am so cool"
 >
-  <styled.a
-    aria-label="Share on Xing"
-    href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    big={true}
+    buttonComponent={[Function]}
+    circle={true}
+    href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    message="I am so cool"
+    name="Xing"
   >
-    <a
+    <styled.a
       aria-label="Share on Xing"
-      className="sc-bwzfXH ewcqji"
-      href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
+      href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on Xing"
     >
-      <styled.div>
-        <div
-          className="sc-gZMcBi FVSUz"
+      <a
+        aria-label="Share on Xing"
+        className="c0"
+        href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on Xing"
+      >
+        <styled.div
+          message="I am so cool"
         >
-          <styled.div
-            aria-hidden="true"
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat dZQCuR"
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <circle
-                  cx="12"
-                  cy="12"
-                  r="11.5"
-                />
-                <path
-                  d="M8.4 8.5h-3L7 11.3l-2.2 3.2h3l2.3-3.2zm10-3h-3.2l-5 8.5 3.2 5.5h3.3l-3-5.5z"
-                />
-              </svg>
-               
-              <span>
-                share on Xing
-              </span>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="11.5"
+                  />
+                  <path
+                    d="M8.4 8.5h-3L7 11.3l-2.2 3.2h3l2.3-3.2zm10-3h-3.2l-5 8.5 3.2 5.5h3.3l-3-5.5z"
+                  />
+                </svg>
+                 
+                <span>
+                  share on Xing
+                </span>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Xing 5 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #1a7576;
+  border-color: #1a7576;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #114c4c;
+  border-color: #114c4c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
+<Component
   circle={true}
   link="http://sharingbuttons.io"
   medium={true}
   message="I am so cool"
 >
-  <styled.a
-    aria-label="Share on Xing"
-    href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    buttonComponent={[Function]}
+    circle={true}
+    href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    medium={true}
+    message="I am so cool"
+    name="Xing"
   >
-    <a
+    <styled.a
       aria-label="Share on Xing"
-      className="sc-bwzfXH ewcqji"
-      href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
+      href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on Xing"
     >
-      <styled.div>
-        <div
-          className="sc-gZMcBi FVSUz"
+      <a
+        aria-label="Share on Xing"
+        className="c0"
+        href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on Xing"
+      >
+        <styled.div
+          message="I am so cool"
         >
-          <styled.div
-            aria-hidden="true"
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat dZQCuR"
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <circle
-                  cx="12"
-                  cy="12"
-                  r="11.5"
-                />
-                <path
-                  d="M8.4 8.5h-3L7 11.3l-2.2 3.2h3l2.3-3.2zm10-3h-3.2l-5 8.5 3.2 5.5h3.3l-3-5.5z"
-                />
-              </svg>
-               
-              <span>
-                Xing
-              </span>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="11.5"
+                  />
+                  <path
+                    d="M8.4 8.5h-3L7 11.3l-2.2 3.2h3l2.3-3.2zm10-3h-3.2l-5 8.5 3.2 5.5h3.3l-3-5.5z"
+                  />
+                </svg>
+                 
+                <span>
+                  Xing
+                </span>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Xing 6 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #1a7576;
+  border-color: #1a7576;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #114c4c;
+  border-color: #114c4c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
+<Component
   circle={true}
   link="http://sharingbuttons.io"
   message="I am so cool"
   small={true}
 >
-  <styled.a
-    aria-label="Share on Xing"
-    href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    buttonComponent={[Function]}
+    circle={true}
+    href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    message="I am so cool"
+    name="Xing"
+    small={true}
   >
-    <a
+    <styled.a
       aria-label="Share on Xing"
-      className="sc-bwzfXH ewcqji"
-      href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
+      href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on Xing"
     >
-      <styled.div
-        small={true}
+      <a
+        aria-label="Share on Xing"
+        className="c0"
+        href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on Xing"
       >
-        <div
-          className="sc-gZMcBi FVSUz"
+        <styled.div
+          message="I am so cool"
+          small={true}
         >
-          <styled.div
-            aria-hidden="true"
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat dZQCuR"
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <circle
-                  cx="12"
-                  cy="12"
-                  r="11.5"
-                />
-                <path
-                  d="M8.4 8.5h-3L7 11.3l-2.2 3.2h3l2.3-3.2zm10-3h-3.2l-5 8.5 3.2 5.5h3.3l-3-5.5z"
-                />
-              </svg>
-               
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="11.5"
+                  />
+                  <path
+                    d="M8.4 8.5h-3L7 11.3l-2.2 3.2h3l2.3-3.2zm10-3h-3.2l-5 8.5 3.2 5.5h3.3l-3-5.5z"
+                  />
+                </svg>
+                 
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Xing 7 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #1a7576;
+  border-color: #1a7576;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #114c4c;
+  border-color: #114c4c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
+<Component
   big={true}
   link="http://sharingbuttons.io"
   message="I am so cool"
   solid={true}
 >
-  <styled.a
-    aria-label="Share on Xing"
-    href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    big={true}
+    buttonComponent={[Function]}
+    href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    message="I am so cool"
+    name="Xing"
+    solid={true}
   >
-    <a
+    <styled.a
       aria-label="Share on Xing"
-      className="sc-bwzfXH ewcqji"
-      href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
+      href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on Xing"
     >
-      <styled.div>
-        <div
-          className="sc-gZMcBi FVSUz"
+      <a
+        aria-label="Share on Xing"
+        className="c0"
+        href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on Xing"
+      >
+        <styled.div
+          message="I am so cool"
         >
-          <styled.div
-            aria-hidden="true"
-            solid={true}
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solid={true}
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <path
-                  d="M10.2 9.7l-3-5.4C7.2 4 7 4 6.8 4h-5c-.3 0-.4 0-.5.2v.5L4 10 .4 16v.5c0 .2.2.3.4.3h5c.3 0 .4 0 .5-.2l4-6.6v-.5zM24 .2l-.5-.2H18s-.2 0-.3.3l-8 14v.4l5.2 9c0 .2 0 .3.3.3h5.4s.3 0 .4-.2c.2-.2.2-.4 0-.5l-5-8.8L24 .7V.2z"
-                />
-              </svg>
-               
-              <span>
-                share on Xing
-              </span>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M10.2 9.7l-3-5.4C7.2 4 7 4 6.8 4h-5c-.3 0-.4 0-.5.2v.5L4 10 .4 16v.5c0 .2.2.3.4.3h5c.3 0 .4 0 .5-.2l4-6.6v-.5zM24 .2l-.5-.2H18s-.2 0-.3.3l-8 14v.4l5.2 9c0 .2 0 .3.3.3h5.4s.3 0 .4-.2c.2-.2.2-.4 0-.5l-5-8.8L24 .7V.2z"
+                  />
+                </svg>
+                 
+                <span>
+                  share on Xing
+                </span>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Xing 8 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #1a7576;
+  border-color: #1a7576;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #114c4c;
+  border-color: #114c4c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
+<Component
   link="http://sharingbuttons.io"
   medium={true}
   message="I am so cool"
   solid={true}
 >
-  <styled.a
-    aria-label="Share on Xing"
-    href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    buttonComponent={[Function]}
+    href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    medium={true}
+    message="I am so cool"
+    name="Xing"
+    solid={true}
   >
-    <a
+    <styled.a
       aria-label="Share on Xing"
-      className="sc-bwzfXH ewcqji"
-      href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
+      href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on Xing"
     >
-      <styled.div>
-        <div
-          className="sc-gZMcBi FVSUz"
+      <a
+        aria-label="Share on Xing"
+        className="c0"
+        href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on Xing"
+      >
+        <styled.div
+          message="I am so cool"
         >
-          <styled.div
-            aria-hidden="true"
-            solid={true}
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solid={true}
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <path
-                  d="M10.2 9.7l-3-5.4C7.2 4 7 4 6.8 4h-5c-.3 0-.4 0-.5.2v.5L4 10 .4 16v.5c0 .2.2.3.4.3h5c.3 0 .4 0 .5-.2l4-6.6v-.5zM24 .2l-.5-.2H18s-.2 0-.3.3l-8 14v.4l5.2 9c0 .2 0 .3.3.3h5.4s.3 0 .4-.2c.2-.2.2-.4 0-.5l-5-8.8L24 .7V.2z"
-                />
-              </svg>
-               
-              <span>
-                Xing
-              </span>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M10.2 9.7l-3-5.4C7.2 4 7 4 6.8 4h-5c-.3 0-.4 0-.5.2v.5L4 10 .4 16v.5c0 .2.2.3.4.3h5c.3 0 .4 0 .5-.2l4-6.6v-.5zM24 .2l-.5-.2H18s-.2 0-.3.3l-8 14v.4l5.2 9c0 .2 0 .3.3.3h5.4s.3 0 .4-.2c.2-.2.2-.4 0-.5l-5-8.8L24 .7V.2z"
+                  />
+                </svg>
+                 
+                <span>
+                  Xing
+                </span>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Xing 9 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #1a7576;
+  border-color: #1a7576;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #114c4c;
+  border-color: #114c4c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
+<Component
   link="http://sharingbuttons.io"
   message="I am so cool"
   small={true}
   solid={true}
 >
-  <styled.a
-    aria-label="Share on Xing"
-    href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    buttonComponent={[Function]}
+    href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    message="I am so cool"
+    name="Xing"
+    small={true}
+    solid={true}
   >
-    <a
+    <styled.a
       aria-label="Share on Xing"
-      className="sc-bwzfXH ewcqji"
-      href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
+      href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on Xing"
     >
-      <styled.div
-        small={true}
+      <a
+        aria-label="Share on Xing"
+        className="c0"
+        href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on Xing"
       >
-        <div
-          className="sc-gZMcBi FVSUz"
+        <styled.div
+          message="I am so cool"
+          small={true}
         >
-          <styled.div
-            aria-hidden="true"
-            solid={true}
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solid={true}
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <path
-                  d="M10.2 9.7l-3-5.4C7.2 4 7 4 6.8 4h-5c-.3 0-.4 0-.5.2v.5L4 10 .4 16v.5c0 .2.2.3.4.3h5c.3 0 .4 0 .5-.2l4-6.6v-.5zM24 .2l-.5-.2H18s-.2 0-.3.3l-8 14v.4l5.2 9c0 .2 0 .3.3.3h5.4s.3 0 .4-.2c.2-.2.2-.4 0-.5l-5-8.8L24 .7V.2z"
-                />
-              </svg>
-               
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M10.2 9.7l-3-5.4C7.2 4 7 4 6.8 4h-5c-.3 0-.4 0-.5.2v.5L4 10 .4 16v.5c0 .2.2.3.4.3h5c.3 0 .4 0 .5-.2l4-6.6v-.5zM24 .2l-.5-.2H18s-.2 0-.3.3l-8 14v.4l5.2 9c0 .2 0 .3.3.3h5.4s.3 0 .4-.2c.2-.2.2-.4 0-.5l-5-8.8L24 .7V.2z"
+                  />
+                </svg>
+                 
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Xing 11 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #1a7576;
+  border-color: #1a7576;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #114c4c;
+  border-color: #114c4c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
+<Component
   circle={true}
 >
-  <styled.a
-    aria-label="Share on Xing"
+  <ButtonFactory
+    buttonComponent={[Function]}
+    circle={true}
     href="https://www.xing.com/app/user?op=share;url=;title=undefined."
-    rel="noreferrer noopener"
-    target="_blank"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    name="Xing"
   >
-    <a
+    <styled.a
       aria-label="Share on Xing"
-      className="sc-bwzfXH ewcqji"
       href="https://www.xing.com/app/user?op=share;url=;title=undefined."
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on Xing"
     >
-      <styled.div>
-        <div
-          className="sc-gZMcBi FVSUz"
-        >
-          <styled.div
-            aria-hidden="true"
+      <a
+        aria-label="Share on Xing"
+        className="c0"
+        href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on Xing"
+      >
+        <styled.div>
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat dZQCuR"
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <circle
-                  cx="12"
-                  cy="12"
-                  r="11.5"
-                />
-                <path
-                  d="M8.4 8.5h-3L7 11.3l-2.2 3.2h3l2.3-3.2zm10-3h-3.2l-5 8.5 3.2 5.5h3.3l-3-5.5z"
-                />
-              </svg>
-               
-              <span>
-                Xing
-              </span>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="11.5"
+                  />
+                  <path
+                    d="M8.4 8.5h-3L7 11.3l-2.2 3.2h3l2.3-3.2zm10-3h-3.2l-5 8.5 3.2 5.5h3.3l-3-5.5z"
+                  />
+                </svg>
+                 
+                <span>
+                  Xing
+                </span>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Xing 11 2`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #1a7576;
+  border-color: #1a7576;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #114c4c;
+  border-color: #114c4c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
+<Component
   solidcircle={true}
 >
-  <styled.a
-    aria-label="Share on Xing"
+  <ButtonFactory
+    buttonComponent={[Function]}
     href="https://www.xing.com/app/user?op=share;url=;title=undefined."
-    rel="noreferrer noopener"
-    target="_blank"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    name="Xing"
+    solidcircle={true}
   >
-    <a
+    <styled.a
       aria-label="Share on Xing"
-      className="sc-bwzfXH ewcqji"
       href="https://www.xing.com/app/user?op=share;url=;title=undefined."
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on Xing"
     >
-      <styled.div>
-        <div
-          className="sc-gZMcBi FVSUz"
+      <a
+        aria-label="Share on Xing"
+        className="c0"
+        href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on Xing"
+      >
+        <styled.div
+          solidcircle={true}
         >
-          <styled.div
-            aria-hidden="true"
-            solidcircle={true}
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solidcircle={true}
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <path
-                  d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.6 0 12 0zM7.8 14.5h-3L7 11.3 5.3 8.5h3l1.8 2.8L8 14.5zm9 5h-3.4l-3-5.5L15 5.5h3.2L13.6 14l3 5.5z"
-                />
-              </svg>
-               
-              <span>
-                Xing
-              </span>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.6 0 12 0zM7.8 14.5h-3L7 11.3 5.3 8.5h3l1.8 2.8L8 14.5zm9 5h-3.4l-3-5.5L15 5.5h3.2L13.6 14l3 5.5z"
+                  />
+                </svg>
+                 
+                <span>
+                  Xing
+                </span>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Xing 12 1`] = `
-<Button>
-  <styled.a
-    aria-label="Share on Xing"
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #1a7576;
+  border-color: #1a7576;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #114c4c;
+  border-color: #114c4c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
+<Component>
+  <ButtonFactory
+    buttonComponent={[Function]}
     href="https://www.xing.com/app/user?op=share;url=;title=undefined."
-    rel="noreferrer noopener"
-    target="_blank"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    name="Xing"
   >
-    <a
+    <styled.a
       aria-label="Share on Xing"
-      className="sc-bwzfXH ewcqji"
       href="https://www.xing.com/app/user?op=share;url=;title=undefined."
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on Xing"
     >
-      <styled.div>
-        <div
-          className="sc-gZMcBi FVSUz"
-        >
-          <styled.div
-            aria-hidden="true"
-            solid={true}
+      <a
+        aria-label="Share on Xing"
+        className="c0"
+        href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on Xing"
+      >
+        <styled.div>
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solid={true}
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <path
-                  d="M10.2 9.7l-3-5.4C7.2 4 7 4 6.8 4h-5c-.3 0-.4 0-.5.2v.5L4 10 .4 16v.5c0 .2.2.3.4.3h5c.3 0 .4 0 .5-.2l4-6.6v-.5zM24 .2l-.5-.2H18s-.2 0-.3.3l-8 14v.4l5.2 9c0 .2 0 .3.3.3h5.4s.3 0 .4-.2c.2-.2.2-.4 0-.5l-5-8.8L24 .7V.2z"
-                />
-              </svg>
-               
-              <span>
-                Xing
-              </span>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M10.2 9.7l-3-5.4C7.2 4 7 4 6.8 4h-5c-.3 0-.4 0-.5.2v.5L4 10 .4 16v.5c0 .2.2.3.4.3h5c.3 0 .4 0 .5-.2l4-6.6v-.5zM24 .2l-.5-.2H18s-.2 0-.3.3l-8 14v.4l5.2 9c0 .2 0 .3.3.3h5.4s.3 0 .4-.2c.2-.2.2-.4 0-.5l-5-8.8L24 .7V.2z"
+                  />
+                </svg>
+                 
+                <span>
+                  Xing
+                </span>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Xing 13 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c0 svg {
+  stroke: #232323;
+  fill: none;
+}
+
+<Component
   simple={true}
 >
-  <styled.a
-    aria-label="Share on Xing"
+  <ButtonFactory
+    buttonComponent={[Function]}
     href="https://www.xing.com/app/user?op=share;url=;title=undefined."
-    rel="noreferrer noopener"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    name="Xing"
     simple={true}
-    target="_blank"
   >
-    <a
+    <styled.a
       aria-label="Share on Xing"
-      className="sc-bwzfXH ljNxya"
       href="https://www.xing.com/app/user?op=share;url=;title=undefined."
       rel="noreferrer noopener"
+      simple={true}
       target="_blank"
+      title="Share on Xing"
     >
-      <XingIconFill>
-        <svg
-          viewBox="0 0 24 24"
-          xmlns="http://www.w3.org/2000/svg"
-        >
-          <path
-            d="M10.2 9.7l-3-5.4C7.2 4 7 4 6.8 4h-5c-.3 0-.4 0-.5.2v.5L4 10 .4 16v.5c0 .2.2.3.4.3h5c.3 0 .4 0 .5-.2l4-6.6v-.5zM24 .2l-.5-.2H18s-.2 0-.3.3l-8 14v.4l5.2 9c0 .2 0 .3.3.3h5.4s.3 0 .4-.2c.2-.2.2-.4 0-.5l-5-8.8L24 .7V.2z"
-          />
-        </svg>
-      </XingIconFill>
-    </a>
-  </styled.a>
-</Button>
+      <a
+        aria-label="Share on Xing"
+        className="c0"
+        href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on Xing"
+      >
+        <XingIconFill>
+          <svg
+            viewBox="0 0 24 24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M10.2 9.7l-3-5.4C7.2 4 7 4 6.8 4h-5c-.3 0-.4 0-.5.2v.5L4 10 .4 16v.5c0 .2.2.3.4.3h5c.3 0 .4 0 .5-.2l4-6.6v-.5zM24 .2l-.5-.2H18s-.2 0-.3.3l-8 14v.4l5.2 9c0 .2 0 .3.3.3h5.4s.3 0 .4-.2c.2-.2.2-.4 0-.5l-5-8.8L24 .7V.2z"
+            />
+          </svg>
+        </XingIconFill>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Xing 14 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c0 svg {
+  stroke: #fff;
+  fill: none;
+}
+
+<Component
   simpleReverse={true}
 >
-  <styled.a
-    aria-label="Share on Xing"
+  <ButtonFactory
+    buttonComponent={[Function]}
     href="https://www.xing.com/app/user?op=share;url=;title=undefined."
-    rel="noreferrer noopener"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    name="Xing"
     simpleReverse={true}
-    target="_blank"
   >
-    <a
+    <styled.a
       aria-label="Share on Xing"
-      className="sc-bwzfXH dqksVq"
       href="https://www.xing.com/app/user?op=share;url=;title=undefined."
       rel="noreferrer noopener"
+      simpleReverse={true}
       target="_blank"
+      title="Share on Xing"
     >
-      <XingIconFill>
-        <svg
-          viewBox="0 0 24 24"
-          xmlns="http://www.w3.org/2000/svg"
-        >
-          <path
-            d="M10.2 9.7l-3-5.4C7.2 4 7 4 6.8 4h-5c-.3 0-.4 0-.5.2v.5L4 10 .4 16v.5c0 .2.2.3.4.3h5c.3 0 .4 0 .5-.2l4-6.6v-.5zM24 .2l-.5-.2H18s-.2 0-.3.3l-8 14v.4l5.2 9c0 .2 0 .3.3.3h5.4s.3 0 .4-.2c.2-.2.2-.4 0-.5l-5-8.8L24 .7V.2z"
-          />
-        </svg>
-      </XingIconFill>
-    </a>
-  </styled.a>
-</Button>
+      <a
+        aria-label="Share on Xing"
+        className="c0"
+        href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on Xing"
+      >
+        <XingIconFill>
+          <svg
+            viewBox="0 0 24 24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M10.2 9.7l-3-5.4C7.2 4 7 4 6.8 4h-5c-.3 0-.4 0-.5.2v.5L4 10 .4 16v.5c0 .2.2.3.4.3h5c.3 0 .4 0 .5-.2l4-6.6v-.5zM24 .2l-.5-.2H18s-.2 0-.3.3l-8 14v.4l5.2 9c0 .2 0 .3.3.3h5.4s.3 0 .4-.2c.2-.2.2-.4 0-.5l-5-8.8L24 .7V.2z"
+            />
+          </svg>
+        </XingIconFill>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;

@@ -1,10 +1,9 @@
-import React, { Fragment } from 'react'
-import styled from 'styled-components'
+import React from 'react'
 import is from 'styled-is'
+import ButtonFactory from './factory'
 import { TwitterIconFill, TwitterIconCircle } from '../svg/twitter.js'
-import { SharingButton, Link, Icon } from '../common'
+import { SharingButton } from '../common'
 import links from '../consts'
-import wrapper from './wrapper'
 
 const Twitter = SharingButton.extend`
   background-color: #55acee;
@@ -17,52 +16,14 @@ const Twitter = SharingButton.extend`
   }
 `
 
-const Button = ({
-  small,
-  solid,
-  message,
-  link,
-  medium,
-  big,
-  circle,
-  solidcircle,
-  simple,
-  simpleReverse,
-  ...props
-}) => (
-  <Link
-    href={links.twitter(message, link)}
-    target="_blank"
-    aria-label="Share on Twitter"
-    simple={simple}
-    simpleReverse={simpleReverse}
-  >
-    {simple || simpleReverse ? (
-      <TwitterIconFill {...props} />
-    ) : (
-      <Twitter small={small} {...props}>
-        <Icon
-          solid={(!solid && !circle && !solidcircle) || solid}
-          solidcircle={solidcircle}
-          aria-hidden="true"
-          rel="noreferrer noopener"
-        >
-          {wrapper(
-            small,
-            solid,
-            medium,
-            big,
-            circle,
-            solidcircle,
-            TwitterIconFill,
-            TwitterIconCircle,
-            TwitterIconCircle,
-            'Twitter'
-          )}
-        </Icon>
-      </Twitter>
-    )}
-  </Link>
+export default ({ link, ...props }) => (
+  <ButtonFactory
+    {...props}
+    name="Twitter"
+    href={links.twitter(link)}
+    buttonComponent={Twitter}
+    iconFill={TwitterIconFill}
+    iconCircle={TwitterIconCircle}
+    iconCircleSolid={TwitterIconCircle}
+  />
 )
-
-export default Button

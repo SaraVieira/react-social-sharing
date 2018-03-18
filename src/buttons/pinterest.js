@@ -1,14 +1,13 @@
-import React, { Fragment } from 'react'
-import styled from 'styled-components'
+import React from 'react'
 import is from 'styled-is'
+import ButtonFactory from './factory'
 import {
   PinterestIconFill,
   PinterestIconCircle,
   PinterestIconCircleSolid
 } from '../svg/pinterest.js'
-import { SharingButton, Link, Icon } from '../common'
+import { SharingButton } from '../common'
 import links from '../consts'
-import wrapper from './wrapper'
 
 const Pinterest = SharingButton.extend`
   background-color: #bd081c;
@@ -21,52 +20,14 @@ const Pinterest = SharingButton.extend`
   }
 `
 
-const Button = ({
-  small,
-  solid,
-  message,
-  link,
-  medium,
-  big,
-  circle,
-  solidcircle,
-  simple,
-  simpleReverse,
-  ...props
-}) => (
-  <Link
-    href={links.pinterest(message, link)}
-    target="_blank"
-    rel="noreferrer noopener"
-    aria-label="Share on Pinterest"
-    simple={simple}
-    simpleReverse={simpleReverse}
-  >
-    {simple || simpleReverse ? (
-      <PinterestIconFill {...props} />
-    ) : (
-      <Pinterest small={small} {...props}>
-        <Icon
-          solid={(!solid && !circle && !solidcircle) || solid}
-          solidcircle={solidcircle}
-          aria-hidden="true"
-        >
-          {wrapper(
-            small,
-            solid,
-            medium,
-            big,
-            circle,
-            solidcircle,
-            PinterestIconFill,
-            PinterestIconCircle,
-            PinterestIconCircleSolid,
-            'Pinterest'
-          )}
-        </Icon>
-      </Pinterest>
-    )}
-  </Link>
+export default ({ link, ...props }) => (
+  <ButtonFactory
+    {...props}
+    name="Pinterest"
+    href={links.pinterest(link)}
+    buttonComponent={Pinterest}
+    iconFill={PinterestIconFill}
+    iconCircle={PinterestIconCircle}
+    iconCircleSolid={PinterestIconCircleSolid}
+  />
 )
-
-export default Button

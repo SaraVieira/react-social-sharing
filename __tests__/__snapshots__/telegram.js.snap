@@ -1,709 +1,1444 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Telegram 1 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #1a7576;
+  border-color: #1a7576;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #114c4c;
+  border-color: #114c4c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
+<Component
   big={true}
   link="http://sharingbuttons.io"
   message="I am so cool"
   solidcircle={true}
 >
-  <styled.a
-    aria-label="Share on Telegram"
-    href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    big={true}
+    buttonComponent={[Function]}
+    href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    message="I am so cool"
+    name="Telegram"
+    solidcircle={true}
   >
-    <a
+    <styled.a
       aria-label="Share on Telegram"
-      className="sc-bwzfXH ewcqji"
-      href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
+      href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on Telegram"
     >
-      <styled.div>
-        <div
-          className="sc-fjdhpX gErvTJ"
+      <a
+        aria-label="Share on Telegram"
+        className="c0"
+        href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on Telegram"
+      >
+        <styled.div
+          message="I am so cool"
+          solidcircle={true}
         >
-          <styled.div
-            aria-hidden="true"
-            solidcircle={true}
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solidcircle={true}
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <path
-                  d="M12 23.5c6.35 0 11.5-5.15 11.5-11.5S18.35.5 12 .5.5 5.65.5 12 5.65 23.5 12 23.5zM2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
-                  fillRule="evenodd"
-                />
-              </svg>
-               
-              <span>
-                share on Telegram
-              </span>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 23.5c6.35 0 11.5-5.15 11.5-11.5S18.35.5 12 .5.5 5.65.5 12 5.65 23.5 12 23.5zM2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
+                    fillRule="evenodd"
+                  />
+                </svg>
+                 
+                <span>
+                  share on Telegram
+                </span>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Telegram 2 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #1a7576;
+  border-color: #1a7576;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #114c4c;
+  border-color: #114c4c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
+<Component
   link="http://sharingbuttons.io"
   medium={true}
   message="I am so cool"
   solidcircle={true}
 >
-  <styled.a
-    aria-label="Share on Telegram"
-    href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    buttonComponent={[Function]}
+    href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    medium={true}
+    message="I am so cool"
+    name="Telegram"
+    solidcircle={true}
   >
-    <a
+    <styled.a
       aria-label="Share on Telegram"
-      className="sc-bwzfXH ewcqji"
-      href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
+      href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on Telegram"
     >
-      <styled.div>
-        <div
-          className="sc-fjdhpX gErvTJ"
+      <a
+        aria-label="Share on Telegram"
+        className="c0"
+        href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on Telegram"
+      >
+        <styled.div
+          message="I am so cool"
+          solidcircle={true}
         >
-          <styled.div
-            aria-hidden="true"
-            solidcircle={true}
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solidcircle={true}
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <path
-                  d="M12 23.5c6.35 0 11.5-5.15 11.5-11.5S18.35.5 12 .5.5 5.65.5 12 5.65 23.5 12 23.5zM2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
-                  fillRule="evenodd"
-                />
-              </svg>
-               
-              <span>
-                Telegram
-              </span>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 23.5c6.35 0 11.5-5.15 11.5-11.5S18.35.5 12 .5.5 5.65.5 12 5.65 23.5 12 23.5zM2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
+                    fillRule="evenodd"
+                  />
+                </svg>
+                 
+                <span>
+                  Telegram
+                </span>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Telegram 3 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #1a7576;
+  border-color: #1a7576;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #114c4c;
+  border-color: #114c4c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
+<Component
   link="http://sharingbuttons.io"
   message="I am so cool"
   small={true}
   solidcircle={true}
 >
-  <styled.a
-    aria-label="Share on Telegram"
-    href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    buttonComponent={[Function]}
+    href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    message="I am so cool"
+    name="Telegram"
+    small={true}
+    solidcircle={true}
   >
-    <a
+    <styled.a
       aria-label="Share on Telegram"
-      className="sc-bwzfXH ewcqji"
-      href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
+      href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on Telegram"
     >
-      <styled.div
-        small={true}
+      <a
+        aria-label="Share on Telegram"
+        className="c0"
+        href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on Telegram"
       >
-        <div
-          className="sc-fjdhpX gErvTJ"
+        <styled.div
+          message="I am so cool"
+          small={true}
+          solidcircle={true}
         >
-          <styled.div
-            aria-hidden="true"
-            solidcircle={true}
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solidcircle={true}
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <path
-                  d="M12 23.5c6.35 0 11.5-5.15 11.5-11.5S18.35.5 12 .5.5 5.65.5 12 5.65 23.5 12 23.5zM2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
-                  fillRule="evenodd"
-                />
-              </svg>
-               
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 23.5c6.35 0 11.5-5.15 11.5-11.5S18.35.5 12 .5.5 5.65.5 12 5.65 23.5 12 23.5zM2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
+                    fillRule="evenodd"
+                  />
+                </svg>
+                 
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Telegram 4 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #1a7576;
+  border-color: #1a7576;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #114c4c;
+  border-color: #114c4c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
+<Component
   big={true}
   circle={true}
   link="http://sharingbuttons.io"
   message="I am so cool"
 >
-  <styled.a
-    aria-label="Share on Telegram"
-    href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    big={true}
+    buttonComponent={[Function]}
+    circle={true}
+    href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    message="I am so cool"
+    name="Telegram"
   >
-    <a
+    <styled.a
       aria-label="Share on Telegram"
-      className="sc-bwzfXH ewcqji"
-      href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
+      href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on Telegram"
     >
-      <styled.div>
-        <div
-          className="sc-fjdhpX gErvTJ"
+      <a
+        aria-label="Share on Telegram"
+        className="c0"
+        href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on Telegram"
+      >
+        <styled.div
+          message="I am so cool"
         >
-          <styled.div
-            aria-hidden="true"
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat dZQCuR"
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <circle
-                  cx="12"
-                  cy="12"
-                  r="11.5"
-                />
-                <path
-                  d="M2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
-                />
-              </svg>
-               
-              <span>
-                share on Telegram
-              </span>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="11.5"
+                  />
+                  <path
+                    d="M2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
+                  />
+                </svg>
+                 
+                <span>
+                  share on Telegram
+                </span>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Telegram 5 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #1a7576;
+  border-color: #1a7576;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #114c4c;
+  border-color: #114c4c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
+<Component
   circle={true}
   link="http://sharingbuttons.io"
   medium={true}
   message="I am so cool"
 >
-  <styled.a
-    aria-label="Share on Telegram"
-    href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    buttonComponent={[Function]}
+    circle={true}
+    href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    medium={true}
+    message="I am so cool"
+    name="Telegram"
   >
-    <a
+    <styled.a
       aria-label="Share on Telegram"
-      className="sc-bwzfXH ewcqji"
-      href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
+      href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on Telegram"
     >
-      <styled.div>
-        <div
-          className="sc-fjdhpX gErvTJ"
+      <a
+        aria-label="Share on Telegram"
+        className="c0"
+        href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on Telegram"
+      >
+        <styled.div
+          message="I am so cool"
         >
-          <styled.div
-            aria-hidden="true"
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat dZQCuR"
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <circle
-                  cx="12"
-                  cy="12"
-                  r="11.5"
-                />
-                <path
-                  d="M2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
-                />
-              </svg>
-               
-              <span>
-                Telegram
-              </span>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="11.5"
+                  />
+                  <path
+                    d="M2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
+                  />
+                </svg>
+                 
+                <span>
+                  Telegram
+                </span>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Telegram 6 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #1a7576;
+  border-color: #1a7576;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #114c4c;
+  border-color: #114c4c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
+<Component
   circle={true}
   link="http://sharingbuttons.io"
   message="I am so cool"
   small={true}
 >
-  <styled.a
-    aria-label="Share on Telegram"
-    href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    buttonComponent={[Function]}
+    circle={true}
+    href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    message="I am so cool"
+    name="Telegram"
+    small={true}
   >
-    <a
+    <styled.a
       aria-label="Share on Telegram"
-      className="sc-bwzfXH ewcqji"
-      href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
+      href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on Telegram"
     >
-      <styled.div
-        small={true}
+      <a
+        aria-label="Share on Telegram"
+        className="c0"
+        href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on Telegram"
       >
-        <div
-          className="sc-fjdhpX gErvTJ"
+        <styled.div
+          message="I am so cool"
+          small={true}
         >
-          <styled.div
-            aria-hidden="true"
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat dZQCuR"
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <circle
-                  cx="12"
-                  cy="12"
-                  r="11.5"
-                />
-                <path
-                  d="M2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
-                />
-              </svg>
-               
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="11.5"
+                  />
+                  <path
+                    d="M2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
+                  />
+                </svg>
+                 
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Telegram 7 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #1a7576;
+  border-color: #1a7576;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #114c4c;
+  border-color: #114c4c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
+<Component
   big={true}
   link="http://sharingbuttons.io"
   message="I am so cool"
   solid={true}
 >
-  <styled.a
-    aria-label="Share on Telegram"
-    href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    big={true}
+    buttonComponent={[Function]}
+    href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    message="I am so cool"
+    name="Telegram"
+    solid={true}
   >
-    <a
+    <styled.a
       aria-label="Share on Telegram"
-      className="sc-bwzfXH ewcqji"
-      href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
+      href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on Telegram"
     >
-      <styled.div>
-        <div
-          className="sc-fjdhpX gErvTJ"
+      <a
+        aria-label="Share on Telegram"
+        className="c0"
+        href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on Telegram"
+      >
+        <styled.div
+          message="I am so cool"
         >
-          <styled.div
-            aria-hidden="true"
-            solid={true}
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solid={true}
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <path
-                  d="M.707 8.475C.275 8.64 0 9.508 0 9.508s.284.867.718 1.03l5.09 1.897 1.986 6.38a1.102 1.102 0 0 0 1.75.527l2.96-2.41a.405.405 0 0 1 .494-.013l5.34 3.87a1.1 1.1 0 0 0 1.046.135 1.1 1.1 0 0 0 .682-.803l3.91-18.795A1.102 1.102 0 0 0 22.5.075L.706 8.475z"
-                />
-              </svg>
-               
-              <span>
-                share on Telegram
-              </span>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M.707 8.475C.275 8.64 0 9.508 0 9.508s.284.867.718 1.03l5.09 1.897 1.986 6.38a1.102 1.102 0 0 0 1.75.527l2.96-2.41a.405.405 0 0 1 .494-.013l5.34 3.87a1.1 1.1 0 0 0 1.046.135 1.1 1.1 0 0 0 .682-.803l3.91-18.795A1.102 1.102 0 0 0 22.5.075L.706 8.475z"
+                  />
+                </svg>
+                 
+                <span>
+                  share on Telegram
+                </span>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Telegram 8 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #1a7576;
+  border-color: #1a7576;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #114c4c;
+  border-color: #114c4c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
+<Component
   link="http://sharingbuttons.io"
   medium={true}
   message="I am so cool"
   solid={true}
 >
-  <styled.a
-    aria-label="Share on Telegram"
-    href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    buttonComponent={[Function]}
+    href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    medium={true}
+    message="I am so cool"
+    name="Telegram"
+    solid={true}
   >
-    <a
+    <styled.a
       aria-label="Share on Telegram"
-      className="sc-bwzfXH ewcqji"
-      href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
+      href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on Telegram"
     >
-      <styled.div>
-        <div
-          className="sc-fjdhpX gErvTJ"
+      <a
+        aria-label="Share on Telegram"
+        className="c0"
+        href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on Telegram"
+      >
+        <styled.div
+          message="I am so cool"
         >
-          <styled.div
-            aria-hidden="true"
-            solid={true}
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solid={true}
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <path
-                  d="M.707 8.475C.275 8.64 0 9.508 0 9.508s.284.867.718 1.03l5.09 1.897 1.986 6.38a1.102 1.102 0 0 0 1.75.527l2.96-2.41a.405.405 0 0 1 .494-.013l5.34 3.87a1.1 1.1 0 0 0 1.046.135 1.1 1.1 0 0 0 .682-.803l3.91-18.795A1.102 1.102 0 0 0 22.5.075L.706 8.475z"
-                />
-              </svg>
-               
-              <span>
-                Telegram
-              </span>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M.707 8.475C.275 8.64 0 9.508 0 9.508s.284.867.718 1.03l5.09 1.897 1.986 6.38a1.102 1.102 0 0 0 1.75.527l2.96-2.41a.405.405 0 0 1 .494-.013l5.34 3.87a1.1 1.1 0 0 0 1.046.135 1.1 1.1 0 0 0 .682-.803l3.91-18.795A1.102 1.102 0 0 0 22.5.075L.706 8.475z"
+                  />
+                </svg>
+                 
+                <span>
+                  Telegram
+                </span>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Telegram 9 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #1a7576;
+  border-color: #1a7576;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #114c4c;
+  border-color: #114c4c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
+<Component
   link="http://sharingbuttons.io"
   message="I am so cool"
   small={true}
   solid={true}
 >
-  <styled.a
-    aria-label="Share on Telegram"
-    href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
-    rel="noreferrer noopener"
-    target="_blank"
+  <ButtonFactory
+    buttonComponent={[Function]}
+    href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    message="I am so cool"
+    name="Telegram"
+    small={true}
+    solid={true}
   >
-    <a
+    <styled.a
       aria-label="Share on Telegram"
-      className="sc-bwzfXH ewcqji"
-      href="https://telegram.me/share/url?text=http%3A%2F%2Fsharingbuttons.io&amp;url=I%20am%20so%20cool"
+      href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on Telegram"
     >
-      <styled.div
-        small={true}
+      <a
+        aria-label="Share on Telegram"
+        className="c0"
+        href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on Telegram"
       >
-        <div
-          className="sc-fjdhpX gErvTJ"
+        <styled.div
+          message="I am so cool"
+          small={true}
         >
-          <styled.div
-            aria-hidden="true"
-            solid={true}
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solid={true}
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <path
-                  d="M.707 8.475C.275 8.64 0 9.508 0 9.508s.284.867.718 1.03l5.09 1.897 1.986 6.38a1.102 1.102 0 0 0 1.75.527l2.96-2.41a.405.405 0 0 1 .494-.013l5.34 3.87a1.1 1.1 0 0 0 1.046.135 1.1 1.1 0 0 0 .682-.803l3.91-18.795A1.102 1.102 0 0 0 22.5.075L.706 8.475z"
-                />
-              </svg>
-               
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M.707 8.475C.275 8.64 0 9.508 0 9.508s.284.867.718 1.03l5.09 1.897 1.986 6.38a1.102 1.102 0 0 0 1.75.527l2.96-2.41a.405.405 0 0 1 .494-.013l5.34 3.87a1.1 1.1 0 0 0 1.046.135 1.1 1.1 0 0 0 .682-.803l3.91-18.795A1.102 1.102 0 0 0 22.5.075L.706 8.475z"
+                  />
+                </svg>
+                 
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Telegram 11 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #1a7576;
+  border-color: #1a7576;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #114c4c;
+  border-color: #114c4c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+}
+
+<Component
   circle={true}
 >
-  <styled.a
-    aria-label="Share on Telegram"
+  <ButtonFactory
+    buttonComponent={[Function]}
+    circle={true}
     href="https://telegram.me/share/url?text=&amp;url="
-    rel="noreferrer noopener"
-    target="_blank"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    name="Telegram"
   >
-    <a
+    <styled.a
       aria-label="Share on Telegram"
-      className="sc-bwzfXH ewcqji"
       href="https://telegram.me/share/url?text=&amp;url="
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on Telegram"
     >
-      <styled.div>
-        <div
-          className="sc-fjdhpX gErvTJ"
-        >
-          <styled.div
-            aria-hidden="true"
+      <a
+        aria-label="Share on Telegram"
+        className="c0"
+        href="https://telegram.me/share/url?text=&amp;url="
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on Telegram"
+      >
+        <styled.div>
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat dZQCuR"
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <circle
-                  cx="12"
-                  cy="12"
-                  r="11.5"
-                />
-                <path
-                  d="M2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
-                />
-              </svg>
-               
-              <span>
-                Telegram
-              </span>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <circle
+                    cx="12"
+                    cy="12"
+                    r="11.5"
+                  />
+                  <path
+                    d="M2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
+                  />
+                </svg>
+                 
+                <span>
+                  Telegram
+                </span>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Telegram 11 2`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #1a7576;
+  border-color: #1a7576;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #114c4c;
+  border-color: #114c4c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
+<Component
   solidcircle={true}
 >
-  <styled.a
-    aria-label="Share on Telegram"
+  <ButtonFactory
+    buttonComponent={[Function]}
     href="https://telegram.me/share/url?text=&amp;url="
-    rel="noreferrer noopener"
-    target="_blank"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    name="Telegram"
+    solidcircle={true}
   >
-    <a
+    <styled.a
       aria-label="Share on Telegram"
-      className="sc-bwzfXH ewcqji"
       href="https://telegram.me/share/url?text=&amp;url="
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on Telegram"
     >
-      <styled.div>
-        <div
-          className="sc-fjdhpX gErvTJ"
+      <a
+        aria-label="Share on Telegram"
+        className="c0"
+        href="https://telegram.me/share/url?text=&amp;url="
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on Telegram"
+      >
+        <styled.div
+          solidcircle={true}
         >
-          <styled.div
-            aria-hidden="true"
-            solidcircle={true}
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solidcircle={true}
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <path
-                  d="M12 23.5c6.35 0 11.5-5.15 11.5-11.5S18.35.5 12 .5.5 5.65.5 12 5.65 23.5 12 23.5zM2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
-                  fillRule="evenodd"
-                />
-              </svg>
-               
-              <span>
-                Telegram
-              </span>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 23.5c6.35 0 11.5-5.15 11.5-11.5S18.35.5 12 .5.5 5.65.5 12 5.65 23.5 12 23.5zM2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
+                    fillRule="evenodd"
+                  />
+                </svg>
+                 
+                <span>
+                  Telegram
+                </span>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Telegram 12 1`] = `
-<Button>
-  <styled.a
-    aria-label="Share on Telegram"
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c1 {
+  border-radius: 5px;
+  -webkit-transition: 25ms ease-out;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+  background-color: #1a7576;
+  border-color: #1a7576;
+}
+
+.c1:hover,
+.c1:active {
+  background-color: #114c4c;
+  border-color: #114c4c;
+}
+
+.c2 {
+  stroke: #fff;
+  fill: none;
+  fill: #fff;
+  stroke: none;
+}
+
+<Component>
+  <ButtonFactory
+    buttonComponent={[Function]}
     href="https://telegram.me/share/url?text=&amp;url="
-    rel="noreferrer noopener"
-    target="_blank"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    name="Telegram"
   >
-    <a
+    <styled.a
       aria-label="Share on Telegram"
-      className="sc-bwzfXH ewcqji"
       href="https://telegram.me/share/url?text=&amp;url="
       rel="noreferrer noopener"
       target="_blank"
+      title="Share on Telegram"
     >
-      <styled.div>
-        <div
-          className="sc-fjdhpX gErvTJ"
-        >
-          <styled.div
-            aria-hidden="true"
-            solid={true}
+      <a
+        aria-label="Share on Telegram"
+        className="c0"
+        href="https://telegram.me/share/url?text=&amp;url="
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on Telegram"
+      >
+        <styled.div>
+          <div
+            className="c1"
           >
-            <div
+            <styled.div
               aria-hidden="true"
-              className="sc-htpNat gylFwk"
+              solid={true}
             >
-              <svg
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
+              <div
+                aria-hidden="true"
+                className="c2"
               >
-                <path
-                  d="M.707 8.475C.275 8.64 0 9.508 0 9.508s.284.867.718 1.03l5.09 1.897 1.986 6.38a1.102 1.102 0 0 0 1.75.527l2.96-2.41a.405.405 0 0 1 .494-.013l5.34 3.87a1.1 1.1 0 0 0 1.046.135 1.1 1.1 0 0 0 .682-.803l3.91-18.795A1.102 1.102 0 0 0 22.5.075L.706 8.475z"
-                />
-              </svg>
-               
-              <span>
-                Telegram
-              </span>
-            </div>
-          </styled.div>
-        </div>
-      </styled.div>
-    </a>
-  </styled.a>
-</Button>
+                <svg
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M.707 8.475C.275 8.64 0 9.508 0 9.508s.284.867.718 1.03l5.09 1.897 1.986 6.38a1.102 1.102 0 0 0 1.75.527l2.96-2.41a.405.405 0 0 1 .494-.013l5.34 3.87a1.1 1.1 0 0 0 1.046.135 1.1 1.1 0 0 0 .682-.803l3.91-18.795A1.102 1.102 0 0 0 22.5.075L.706 8.475z"
+                  />
+                </svg>
+                 
+                <span>
+                  Telegram
+                </span>
+              </div>
+            </styled.div>
+          </div>
+        </styled.div>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Telegram 13 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c0 svg {
+  stroke: #232323;
+  fill: none;
+}
+
+<Component
   simple={true}
 >
-  <styled.a
-    aria-label="Share on Telegram"
+  <ButtonFactory
+    buttonComponent={[Function]}
     href="https://telegram.me/share/url?text=&amp;url="
-    rel="noreferrer noopener"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    name="Telegram"
     simple={true}
-    target="_blank"
   >
-    <a
+    <styled.a
       aria-label="Share on Telegram"
-      className="sc-bwzfXH ljNxya"
       href="https://telegram.me/share/url?text=&amp;url="
       rel="noreferrer noopener"
+      simple={true}
       target="_blank"
+      title="Share on Telegram"
     >
-      <TelegramIconFill>
-        <svg
-          viewBox="0 0 24 24"
-          xmlns="http://www.w3.org/2000/svg"
-        >
-          <path
-            d="M.707 8.475C.275 8.64 0 9.508 0 9.508s.284.867.718 1.03l5.09 1.897 1.986 6.38a1.102 1.102 0 0 0 1.75.527l2.96-2.41a.405.405 0 0 1 .494-.013l5.34 3.87a1.1 1.1 0 0 0 1.046.135 1.1 1.1 0 0 0 .682-.803l3.91-18.795A1.102 1.102 0 0 0 22.5.075L.706 8.475z"
-          />
-        </svg>
-      </TelegramIconFill>
-    </a>
-  </styled.a>
-</Button>
+      <a
+        aria-label="Share on Telegram"
+        className="c0"
+        href="https://telegram.me/share/url?text=&amp;url="
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on Telegram"
+      >
+        <TelegramIconFill>
+          <svg
+            viewBox="0 0 24 24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M.707 8.475C.275 8.64 0 9.508 0 9.508s.284.867.718 1.03l5.09 1.897 1.986 6.38a1.102 1.102 0 0 0 1.75.527l2.96-2.41a.405.405 0 0 1 .494-.013l5.34 3.87a1.1 1.1 0 0 0 1.046.135 1.1 1.1 0 0 0 .682-.803l3.91-18.795A1.102 1.102 0 0 0 22.5.075L.706 8.475z"
+            />
+          </svg>
+        </TelegramIconFill>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;
 
 exports[`Telegram 14 1`] = `
-<Button
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c0 svg {
+  stroke: #fff;
+  fill: none;
+}
+
+<Component
   simpleReverse={true}
 >
-  <styled.a
-    aria-label="Share on Telegram"
+  <ButtonFactory
+    buttonComponent={[Function]}
     href="https://telegram.me/share/url?text=&amp;url="
-    rel="noreferrer noopener"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    name="Telegram"
     simpleReverse={true}
-    target="_blank"
   >
-    <a
+    <styled.a
       aria-label="Share on Telegram"
-      className="sc-bwzfXH dqksVq"
       href="https://telegram.me/share/url?text=&amp;url="
       rel="noreferrer noopener"
+      simpleReverse={true}
       target="_blank"
+      title="Share on Telegram"
     >
-      <TelegramIconFill>
-        <svg
-          viewBox="0 0 24 24"
-          xmlns="http://www.w3.org/2000/svg"
-        >
-          <path
-            d="M.707 8.475C.275 8.64 0 9.508 0 9.508s.284.867.718 1.03l5.09 1.897 1.986 6.38a1.102 1.102 0 0 0 1.75.527l2.96-2.41a.405.405 0 0 1 .494-.013l5.34 3.87a1.1 1.1 0 0 0 1.046.135 1.1 1.1 0 0 0 .682-.803l3.91-18.795A1.102 1.102 0 0 0 22.5.075L.706 8.475z"
-          />
-        </svg>
-      </TelegramIconFill>
-    </a>
-  </styled.a>
-</Button>
+      <a
+        aria-label="Share on Telegram"
+        className="c0"
+        href="https://telegram.me/share/url?text=&amp;url="
+        rel="noreferrer noopener"
+        target="_blank"
+        title="Share on Telegram"
+      >
+        <TelegramIconFill>
+          <svg
+            viewBox="0 0 24 24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M.707 8.475C.275 8.64 0 9.508 0 9.508s.284.867.718 1.03l5.09 1.897 1.986 6.38a1.102 1.102 0 0 0 1.75.527l2.96-2.41a.405.405 0 0 1 .494-.013l5.34 3.87a1.1 1.1 0 0 0 1.046.135 1.1 1.1 0 0 0 .682-.803l3.91-18.795A1.102 1.102 0 0 0 22.5.075L.706 8.475z"
+            />
+          </svg>
+        </TelegramIconFill>
+      </a>
+    </styled.a>
+  </ButtonFactory>
+</Component>
 `;

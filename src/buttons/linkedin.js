@@ -1,14 +1,13 @@
-import React, { Fragment } from 'react'
-import styled from 'styled-components'
+import React from 'react'
 import is from 'styled-is'
+import ButtonFactory from './factory'
 import {
   LinkedinIconFill,
   LinkedinIconCircle,
   LinkedinIconCircleSolid
 } from '../svg/linkedin.js'
-import { SharingButton, Link, Icon } from '../common'
+import { SharingButton } from '../common'
 import links from '../consts'
-import wrapper from './wrapper'
 
 const Linkedin = SharingButton.extend`
   background-color: #0077b5;
@@ -21,52 +20,14 @@ const Linkedin = SharingButton.extend`
   }
 `
 
-const Button = ({
-  small,
-  solid,
-  message,
-  link,
-  medium,
-  big,
-  circle,
-  solidcircle,
-  simple,
-  simpleReverse,
-  ...props
-}) => (
-  <Link
-    href={links.linkedin(message, link)}
-    target="_blank"
-    rel="noreferrer noopener"
-    simple={simple}
-    simpleReverse={simpleReverse}
-    aria-label="Share on Linkedin"
-  >
-    {simple || simpleReverse ? (
-      <LinkedinIconFill {...props} />
-    ) : (
-      <Linkedin small={small} {...props}>
-        <Icon
-          solid={(!solid && !circle && !solidcircle) || solid}
-          solidcircle={solidcircle}
-          aria-hidden="true"
-        >
-          {wrapper(
-            small,
-            solid,
-            medium,
-            big,
-            circle,
-            solidcircle,
-            LinkedinIconFill,
-            LinkedinIconCircle,
-            LinkedinIconCircleSolid,
-            'LinkedIn'
-          )}
-        </Icon>
-      </Linkedin>
-    )}
-  </Link>
+export default ({ link, ...props }) => (
+  <ButtonFactory
+    {...props}
+    name="LinkedIn"
+    href={links.linkedin(link)}
+    buttonComponent={Linkedin}
+    iconFill={LinkedinIconFill}
+    iconCircle={LinkedinIconCircle}
+    iconCircleSolid={LinkedinIconCircleSolid}
+  />
 )
-
-export default Button

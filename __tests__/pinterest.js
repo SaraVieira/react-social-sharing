@@ -1,5 +1,6 @@
 import React from 'react'
 import { Pinterest } from '../src/index'
+import 'jest-styled-components'
 
 describe('Pinterest', function() {
   test('1', () => {

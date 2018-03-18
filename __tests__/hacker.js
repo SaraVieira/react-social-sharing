@@ -1,5 +1,6 @@
 import React from 'react'
 import { HackerNews } from '../src/index'
+import 'jest-styled-components'
 
 describe('HackerNews', function() {
   test('1', () => {
