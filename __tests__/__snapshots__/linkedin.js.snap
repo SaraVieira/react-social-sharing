@@ -27,7 +27,7 @@ exports[`Linkedin 1 1`] = `
     >
       <a
         aria-label="Share on LinkedIn"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
         rel="noreferrer noopener"
         target="_blank"
@@ -62,9 +62,10 @@ exports[`Linkedin 1 1`] = `
                     d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M9.5,16.5h-2v-7h2V16.5z M8.5,7.5 c-0.553,0-1-0.448-1-1c0-0.552,0.447-1,1-1s1,0.448,1,1C9.5,7.052,9.053,7.5,8.5,7.5z M18.5,16.5h-3V13c0-0.277-0.225-0.5-0.5-0.5 c-0.276,0-0.5,0.223-0.5,0.5v3.5h-3c0,0,0.031-6.478,0-7h3v0.835c0,0,0.457-0.753,1.707-0.753c1.55,0,2.293,1.12,2.293,3.296V16.5z"
                   />
                 </svg>
-                 share on 
-                LinkedIn
                  
+                <span>
+                  share on LinkedIn
+                </span>
               </div>
             </styled.div>
           </div>
@@ -102,7 +103,7 @@ exports[`Linkedin 2 1`] = `
     >
       <a
         aria-label="Share on LinkedIn"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
         rel="noreferrer noopener"
         target="_blank"
@@ -138,8 +139,9 @@ exports[`Linkedin 2 1`] = `
                   />
                 </svg>
                  
-                LinkedIn
-                 
+                <span>
+                  LinkedIn
+                </span>
               </div>
             </styled.div>
           </div>
@@ -177,7 +179,7 @@ exports[`Linkedin 3 1`] = `
     >
       <a
         aria-label="Share on LinkedIn"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
         rel="noreferrer noopener"
         target="_blank"
@@ -213,6 +215,7 @@ exports[`Linkedin 3 1`] = `
                     d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M9.5,16.5h-2v-7h2V16.5z M8.5,7.5 c-0.553,0-1-0.448-1-1c0-0.552,0.447-1,1-1s1,0.448,1,1C9.5,7.052,9.053,7.5,8.5,7.5z M18.5,16.5h-3V13c0-0.277-0.225-0.5-0.5-0.5 c-0.276,0-0.5,0.223-0.5,0.5v3.5h-3c0,0,0.031-6.478,0-7h3v0.835c0,0,0.457-0.753,1.707-0.753c1.55,0,2.293,1.12,2.293,3.296V16.5z"
                   />
                 </svg>
+                 
               </div>
             </styled.div>
           </div>
@@ -250,7 +253,7 @@ exports[`Linkedin 4 1`] = `
     >
       <a
         aria-label="Share on LinkedIn"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
         rel="noreferrer noopener"
         target="_blank"
@@ -287,9 +290,10 @@ exports[`Linkedin 4 1`] = `
                     r="1"
                   />
                 </svg>
-                 share on 
-                LinkedIn
                  
+                <span>
+                  share on LinkedIn
+                </span>
               </div>
             </styled.div>
           </div>
@@ -327,7 +331,7 @@ exports[`Linkedin 5 1`] = `
     >
       <a
         aria-label="Share on LinkedIn"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
         rel="noreferrer noopener"
         target="_blank"
@@ -365,8 +369,9 @@ exports[`Linkedin 5 1`] = `
                   />
                 </svg>
                  
-                LinkedIn
-                 
+                <span>
+                  LinkedIn
+                </span>
               </div>
             </styled.div>
           </div>
@@ -404,7 +409,7 @@ exports[`Linkedin 6 1`] = `
     >
       <a
         aria-label="Share on LinkedIn"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
         rel="noreferrer noopener"
         target="_blank"
@@ -442,6 +447,7 @@ exports[`Linkedin 6 1`] = `
                     r="1"
                   />
                 </svg>
+                 
               </div>
             </styled.div>
           </div>
@@ -479,7 +485,7 @@ exports[`Linkedin 7 1`] = `
     >
       <a
         aria-label="Share on LinkedIn"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
         rel="noreferrer noopener"
         target="_blank"
@@ -507,9 +513,10 @@ exports[`Linkedin 7 1`] = `
                     d="M6.5 21.5h-5v-13h5v13zM4 6.5C2.5 6.5 1.5 5.3 1.5 4s1-2.4 2.5-2.4c1.6 0 2.5 1 2.6 2.5 0 1.4-1 2.5-2.6 2.5zm11.5 6c-1 0-2 1-2 2v7h-5v-13h5V10s1.6-1.5 4-1.5c3 0 5 2.2 5 6.3v6.7h-5v-7c0-1-1-2-2-2z"
                   />
                 </svg>
-                 share on 
-                LinkedIn
                  
+                <span>
+                  share on LinkedIn
+                </span>
               </div>
             </styled.div>
           </div>
@@ -547,7 +554,7 @@ exports[`Linkedin 8 1`] = `
     >
       <a
         aria-label="Share on LinkedIn"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
         rel="noreferrer noopener"
         target="_blank"
@@ -576,8 +583,9 @@ exports[`Linkedin 8 1`] = `
                   />
                 </svg>
                  
-                LinkedIn
-                 
+                <span>
+                  LinkedIn
+                </span>
               </div>
             </styled.div>
           </div>
@@ -615,7 +623,7 @@ exports[`Linkedin 9 1`] = `
     >
       <a
         aria-label="Share on LinkedIn"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
         rel="noreferrer noopener"
         target="_blank"
@@ -644,6 +652,7 @@ exports[`Linkedin 9 1`] = `
                     d="M6.5 21.5h-5v-13h5v13zM4 6.5C2.5 6.5 1.5 5.3 1.5 4s1-2.4 2.5-2.4c1.6 0 2.5 1 2.6 2.5 0 1.4-1 2.5-2.6 2.5zm11.5 6c-1 0-2 1-2 2v7h-5v-13h5V10s1.6-1.5 4-1.5c3 0 5 2.2 5 6.3v6.7h-5v-7c0-1-1-2-2-2z"
                   />
                 </svg>
+                 
               </div>
             </styled.div>
           </div>
@@ -676,7 +685,7 @@ exports[`Linkedin 11 1`] = `
     >
       <a
         aria-label="Share on LinkedIn"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=.&amp;summary=.&amp;source="
         rel="noreferrer noopener"
         target="_blank"
@@ -712,8 +721,9 @@ exports[`Linkedin 11 1`] = `
                   />
                 </svg>
                  
-                LinkedIn
-                 
+                <span>
+                  LinkedIn
+                </span>
               </div>
             </styled.div>
           </div>
@@ -746,7 +756,7 @@ exports[`Linkedin 11 2`] = `
     >
       <a
         aria-label="Share on LinkedIn"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=.&amp;summary=.&amp;source="
         rel="noreferrer noopener"
         target="_blank"
@@ -781,8 +791,9 @@ exports[`Linkedin 11 2`] = `
                   />
                 </svg>
                  
-                LinkedIn
-                 
+                <span>
+                  LinkedIn
+                </span>
               </div>
             </styled.div>
           </div>
@@ -812,7 +823,7 @@ exports[`Linkedin 12 1`] = `
     >
       <a
         aria-label="Share on LinkedIn"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=.&amp;summary=.&amp;source="
         rel="noreferrer noopener"
         target="_blank"
@@ -839,8 +850,9 @@ exports[`Linkedin 12 1`] = `
                   />
                 </svg>
                  
-                LinkedIn
-                 
+                <span>
+                  LinkedIn
+                </span>
               </div>
             </styled.div>
           </div>
@@ -874,7 +886,7 @@ exports[`Linkedin 13 1`] = `
     >
       <a
         aria-label="Share on LinkedIn"
-        className="sc-bwzfXH bGIzAI"
+        className="sc-bwzfXH ljNxya"
         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=.&amp;summary=.&amp;source="
         rel="noreferrer noopener"
         target="_blank"
@@ -919,7 +931,7 @@ exports[`Linkedin 14 1`] = `
     >
       <a
         aria-label="Share on LinkedIn"
-        className="sc-bwzfXH jHqTEf"
+        className="sc-bwzfXH dqksVq"
         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=.&amp;summary=.&amp;source="
         rel="noreferrer noopener"
         target="_blank"

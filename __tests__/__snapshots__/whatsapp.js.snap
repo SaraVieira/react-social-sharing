@@ -27,7 +27,7 @@ exports[`Whatsapp 1 1`] = `
     >
       <a
         aria-label="Share on WhatsApp"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
         rel="noreferrer noopener"
         target="_blank"
@@ -58,9 +58,10 @@ exports[`Whatsapp 1 1`] = `
                     d="m12 0c-6.6 0-12 5.4-12 12s5.4 12 12 12 12-5.4 12-12-5.4-12-12-12zm0 3.8c2.2 0 4.2 0.9 5.7 2.4 1.6 1.5 2.4 3.6 2.5 5.7 0 4.5-3.6 8.1-8.1 8.1-1.4 0-2.7-0.4-3.9-1l-4.4 1.1 1.2-4.2c-0.8-1.2-1.1-2.6-1.1-4 0-4.5 3.6-8.1 8.1-8.1zm0.1 1.5c-3.7 0-6.7 3-6.7 6.7 0 1.3 0.3 2.5 1 3.6l0.1 0.3-0.7 2.4 2.5-0.7 0.3 0.099c1 0.7 2.2 1 3.4 1 3.7 0 6.8-3 6.9-6.6 0-1.8-0.7-3.5-2-4.8s-3-2-4.8-2zm-3 2.9h0.4c0.2 0 0.4-0.099 0.5 0.3s0.5 1.5 0.6 1.7 0.1 0.2 0 0.3-0.1 0.2-0.2 0.3l-0.3 0.3c-0.1 0.1-0.2 0.2-0.1 0.4 0.2 0.2 0.6 0.9 1.2 1.4 0.7 0.7 1.4 0.9 1.6 1 0.2 0 0.3 0.001 0.4-0.099s0.5-0.6 0.6-0.8c0.2-0.2 0.3-0.2 0.5-0.1l1.4 0.7c0.2 0.1 0.3 0.2 0.5 0.3 0 0.1 0.1 0.5-0.099 1s-1 0.9-1.4 1c-0.3 0-0.8 0.001-1.3-0.099-0.3-0.1-0.7-0.2-1.2-0.4-2.1-0.9-3.4-3-3.5-3.1s-0.8-1.1-0.8-2.1c0-1 0.5-1.5 0.7-1.7s0.4-0.3 0.5-0.3z"
                   />
                 </svg>
-                 share on 
-                WhatsApp
                  
+                <span>
+                  share on WhatsApp
+                </span>
               </div>
             </styled.div>
           </div>
@@ -98,7 +99,7 @@ exports[`Whatsapp 2 1`] = `
     >
       <a
         aria-label="Share on WhatsApp"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
         rel="noreferrer noopener"
         target="_blank"
@@ -130,8 +131,9 @@ exports[`Whatsapp 2 1`] = `
                   />
                 </svg>
                  
-                WhatsApp
-                 
+                <span>
+                  WhatsApp
+                </span>
               </div>
             </styled.div>
           </div>
@@ -169,7 +171,7 @@ exports[`Whatsapp 3 1`] = `
     >
       <a
         aria-label="Share on WhatsApp"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
         rel="noreferrer noopener"
         target="_blank"
@@ -201,6 +203,7 @@ exports[`Whatsapp 3 1`] = `
                     d="m12 0c-6.6 0-12 5.4-12 12s5.4 12 12 12 12-5.4 12-12-5.4-12-12-12zm0 3.8c2.2 0 4.2 0.9 5.7 2.4 1.6 1.5 2.4 3.6 2.5 5.7 0 4.5-3.6 8.1-8.1 8.1-1.4 0-2.7-0.4-3.9-1l-4.4 1.1 1.2-4.2c-0.8-1.2-1.1-2.6-1.1-4 0-4.5 3.6-8.1 8.1-8.1zm0.1 1.5c-3.7 0-6.7 3-6.7 6.7 0 1.3 0.3 2.5 1 3.6l0.1 0.3-0.7 2.4 2.5-0.7 0.3 0.099c1 0.7 2.2 1 3.4 1 3.7 0 6.8-3 6.9-6.6 0-1.8-0.7-3.5-2-4.8s-3-2-4.8-2zm-3 2.9h0.4c0.2 0 0.4-0.099 0.5 0.3s0.5 1.5 0.6 1.7 0.1 0.2 0 0.3-0.1 0.2-0.2 0.3l-0.3 0.3c-0.1 0.1-0.2 0.2-0.1 0.4 0.2 0.2 0.6 0.9 1.2 1.4 0.7 0.7 1.4 0.9 1.6 1 0.2 0 0.3 0.001 0.4-0.099s0.5-0.6 0.6-0.8c0.2-0.2 0.3-0.2 0.5-0.1l1.4 0.7c0.2 0.1 0.3 0.2 0.5 0.3 0 0.1 0.1 0.5-0.099 1s-1 0.9-1.4 1c-0.3 0-0.8 0.001-1.3-0.099-0.3-0.1-0.7-0.2-1.2-0.4-2.1-0.9-3.4-3-3.5-3.1s-0.8-1.1-0.8-2.1c0-1 0.5-1.5 0.7-1.7s0.4-0.3 0.5-0.3z"
                   />
                 </svg>
+                 
               </div>
             </styled.div>
           </div>
@@ -238,7 +241,7 @@ exports[`Whatsapp 4 1`] = `
     >
       <a
         aria-label="Share on WhatsApp"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
         rel="noreferrer noopener"
         target="_blank"
@@ -272,9 +275,10 @@ exports[`Whatsapp 4 1`] = `
                     strokeWidth="1px"
                   />
                 </svg>
-                 share on 
-                WhatsApp
                  
+                <span>
+                  share on WhatsApp
+                </span>
               </div>
             </styled.div>
           </div>
@@ -312,7 +316,7 @@ exports[`Whatsapp 5 1`] = `
     >
       <a
         aria-label="Share on WhatsApp"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
         rel="noreferrer noopener"
         target="_blank"
@@ -347,8 +351,9 @@ exports[`Whatsapp 5 1`] = `
                   />
                 </svg>
                  
-                WhatsApp
-                 
+                <span>
+                  WhatsApp
+                </span>
               </div>
             </styled.div>
           </div>
@@ -386,7 +391,7 @@ exports[`Whatsapp 6 1`] = `
     >
       <a
         aria-label="Share on WhatsApp"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
         rel="noreferrer noopener"
         target="_blank"
@@ -421,6 +426,7 @@ exports[`Whatsapp 6 1`] = `
                     strokeWidth="1px"
                   />
                 </svg>
+                 
               </div>
             </styled.div>
           </div>
@@ -458,7 +464,7 @@ exports[`Whatsapp 7 1`] = `
     >
       <a
         aria-label="Share on WhatsApp"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
         rel="noreferrer noopener"
         target="_blank"
@@ -486,9 +492,10 @@ exports[`Whatsapp 7 1`] = `
                     d="M20.1 3.9C17.9 1.7 15 .5 12 .5 5.8.5.7 5.6.7 11.9c0 2 .5 3.9 1.5 5.6L.6 23.4l6-1.6c1.6.9 3.5 1.3 5.4 1.3 6.3 0 11.4-5.1 11.4-11.4-.1-2.8-1.2-5.7-3.3-7.8zM12 21.4c-1.7 0-3.3-.5-4.8-1.3l-.4-.2-3.5 1 1-3.4L4 17c-1-1.5-1.4-3.2-1.4-5.1 0-5.2 4.2-9.4 9.4-9.4 2.5 0 4.9 1 6.7 2.8 1.8 1.8 2.8 4.2 2.8 6.7-.1 5.2-4.3 9.4-9.5 9.4zm5.1-7.1c-.3-.1-1.7-.9-1.9-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-.9 1.1-.2.2-.3.2-.6.1s-1.2-.5-2.3-1.4c-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6s.3-.3.4-.5c.2-.1.3-.3.4-.5.1-.2 0-.4 0-.5C10 9 9.3 7.6 9 7c-.1-.4-.4-.3-.5-.3h-.6s-.4.1-.7.3c-.3.3-1 1-1 2.4s1 2.8 1.1 3c.1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.7-.7 1.9-1.3.2-.7.2-1.2.2-1.3-.1-.3-.3-.4-.6-.5z"
                   />
                 </svg>
-                 share on 
-                WhatsApp
                  
+                <span>
+                  share on WhatsApp
+                </span>
               </div>
             </styled.div>
           </div>
@@ -526,7 +533,7 @@ exports[`Whatsapp 8 1`] = `
     >
       <a
         aria-label="Share on WhatsApp"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
         rel="noreferrer noopener"
         target="_blank"
@@ -555,8 +562,9 @@ exports[`Whatsapp 8 1`] = `
                   />
                 </svg>
                  
-                WhatsApp
-                 
+                <span>
+                  WhatsApp
+                </span>
               </div>
             </styled.div>
           </div>
@@ -594,7 +602,7 @@ exports[`Whatsapp 9 1`] = `
     >
       <a
         aria-label="Share on WhatsApp"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
         rel="noreferrer noopener"
         target="_blank"
@@ -623,6 +631,7 @@ exports[`Whatsapp 9 1`] = `
                     d="M20.1 3.9C17.9 1.7 15 .5 12 .5 5.8.5.7 5.6.7 11.9c0 2 .5 3.9 1.5 5.6L.6 23.4l6-1.6c1.6.9 3.5 1.3 5.4 1.3 6.3 0 11.4-5.1 11.4-11.4-.1-2.8-1.2-5.7-3.3-7.8zM12 21.4c-1.7 0-3.3-.5-4.8-1.3l-.4-.2-3.5 1 1-3.4L4 17c-1-1.5-1.4-3.2-1.4-5.1 0-5.2 4.2-9.4 9.4-9.4 2.5 0 4.9 1 6.7 2.8 1.8 1.8 2.8 4.2 2.8 6.7-.1 5.2-4.3 9.4-9.5 9.4zm5.1-7.1c-.3-.1-1.7-.9-1.9-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-.9 1.1-.2.2-.3.2-.6.1s-1.2-.5-2.3-1.4c-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6s.3-.3.4-.5c.2-.1.3-.3.4-.5.1-.2 0-.4 0-.5C10 9 9.3 7.6 9 7c-.1-.4-.4-.3-.5-.3h-.6s-.4.1-.7.3c-.3.3-1 1-1 2.4s1 2.8 1.1 3c.1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.7-.7 1.9-1.3.2-.7.2-1.2.2-1.3-.1-.3-.3-.4-.6-.5z"
                   />
                 </svg>
+                 
               </div>
             </styled.div>
           </div>
@@ -655,7 +664,7 @@ exports[`Whatsapp 11 1`] = `
     >
       <a
         aria-label="Share on WhatsApp"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="whatsapp://send?text=undefined%20"
         rel="noreferrer noopener"
         target="_blank"
@@ -688,8 +697,9 @@ exports[`Whatsapp 11 1`] = `
                   />
                 </svg>
                  
-                WhatsApp
-                 
+                <span>
+                  WhatsApp
+                </span>
               </div>
             </styled.div>
           </div>
@@ -722,7 +732,7 @@ exports[`Whatsapp 11 2`] = `
     >
       <a
         aria-label="Share on WhatsApp"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="whatsapp://send?text=undefined%20"
         rel="noreferrer noopener"
         target="_blank"
@@ -753,8 +763,9 @@ exports[`Whatsapp 11 2`] = `
                   />
                 </svg>
                  
-                WhatsApp
-                 
+                <span>
+                  WhatsApp
+                </span>
               </div>
             </styled.div>
           </div>
@@ -784,7 +795,7 @@ exports[`Whatsapp 12 1`] = `
     >
       <a
         aria-label="Share on WhatsApp"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="whatsapp://send?text=undefined%20"
         rel="noreferrer noopener"
         target="_blank"
@@ -811,8 +822,9 @@ exports[`Whatsapp 12 1`] = `
                   />
                 </svg>
                  
-                WhatsApp
-                 
+                <span>
+                  WhatsApp
+                </span>
               </div>
             </styled.div>
           </div>
@@ -846,7 +858,7 @@ exports[`Whatsapp 13 1`] = `
     >
       <a
         aria-label="Share on WhatsApp"
-        className="sc-bwzfXH bGIzAI"
+        className="sc-bwzfXH ljNxya"
         href="whatsapp://send?text=undefined%20"
         rel="noreferrer noopener"
         target="_blank"
@@ -891,7 +903,7 @@ exports[`Whatsapp 14 1`] = `
     >
       <a
         aria-label="Share on WhatsApp"
-        className="sc-bwzfXH jHqTEf"
+        className="sc-bwzfXH dqksVq"
         href="whatsapp://send?text=undefined%20"
         rel="noreferrer noopener"
         target="_blank"

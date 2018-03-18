@@ -27,7 +27,7 @@ exports[`HackerNews 1 1`] = `
     >
       <a
         aria-label="Share on HackerNews"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -57,9 +57,10 @@ exports[`HackerNews 1 1`] = `
                     fillRule="evenodd"
                   />
                 </svg>
-                 share on 
-                HackerNews
                  
+                <span>
+                  share on HackerNews
+                </span>
               </div>
             </styled.div>
           </div>
@@ -97,7 +98,7 @@ exports[`HackerNews 2 1`] = `
     >
       <a
         aria-label="Share on HackerNews"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -128,8 +129,9 @@ exports[`HackerNews 2 1`] = `
                   />
                 </svg>
                  
-                HackerNews
-                 
+                <span>
+                  HackerNews
+                </span>
               </div>
             </styled.div>
           </div>
@@ -167,7 +169,7 @@ exports[`HackerNews 3 1`] = `
     >
       <a
         aria-label="Share on HackerNews"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -198,6 +200,7 @@ exports[`HackerNews 3 1`] = `
                     fillRule="evenodd"
                   />
                 </svg>
+                 
               </div>
             </styled.div>
           </div>
@@ -235,7 +238,7 @@ exports[`HackerNews 4 1`] = `
     >
       <a
         aria-label="Share on HackerNews"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -269,9 +272,10 @@ exports[`HackerNews 4 1`] = `
                     strokeWidth="10px"
                   />
                 </svg>
-                 share on 
-                HackerNews
                  
+                <span>
+                  share on HackerNews
+                </span>
               </div>
             </styled.div>
           </div>
@@ -309,7 +313,7 @@ exports[`HackerNews 5 1`] = `
     >
       <a
         aria-label="Share on HackerNews"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -344,8 +348,9 @@ exports[`HackerNews 5 1`] = `
                   />
                 </svg>
                  
-                HackerNews
-                 
+                <span>
+                  HackerNews
+                </span>
               </div>
             </styled.div>
           </div>
@@ -383,7 +388,7 @@ exports[`HackerNews 6 1`] = `
     >
       <a
         aria-label="Share on HackerNews"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -418,6 +423,7 @@ exports[`HackerNews 6 1`] = `
                     strokeWidth="10px"
                   />
                 </svg>
+                 
               </div>
             </styled.div>
           </div>
@@ -455,7 +461,7 @@ exports[`HackerNews 7 1`] = `
     >
       <a
         aria-label="Share on HackerNews"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -484,9 +490,10 @@ exports[`HackerNews 7 1`] = `
                     fillRule="evenodd"
                   />
                 </svg>
-                 share on 
-                HackerNews
                  
+                <span>
+                  share on HackerNews
+                </span>
               </div>
             </styled.div>
           </div>
@@ -524,7 +531,7 @@ exports[`HackerNews 8 1`] = `
     >
       <a
         aria-label="Share on HackerNews"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -554,8 +561,9 @@ exports[`HackerNews 8 1`] = `
                   />
                 </svg>
                  
-                HackerNews
-                 
+                <span>
+                  HackerNews
+                </span>
               </div>
             </styled.div>
           </div>
@@ -593,7 +601,7 @@ exports[`HackerNews 9 1`] = `
     >
       <a
         aria-label="Share on HackerNews"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
@@ -623,6 +631,7 @@ exports[`HackerNews 9 1`] = `
                     fillRule="evenodd"
                   />
                 </svg>
+                 
               </div>
             </styled.div>
           </div>
@@ -655,7 +664,7 @@ exports[`HackerNews 11 1`] = `
     >
       <a
         aria-label="Share on HackerNews"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://news.ycombinator.com/submitlink?u=&amp;t=undefined"
         rel="noreferrer noopener"
         target="_blank"
@@ -688,8 +697,9 @@ exports[`HackerNews 11 1`] = `
                   />
                 </svg>
                  
-                HackerNews
-                 
+                <span>
+                  HackerNews
+                </span>
               </div>
             </styled.div>
           </div>
@@ -722,7 +732,7 @@ exports[`HackerNews 11 2`] = `
     >
       <a
         aria-label="Share on HackerNews"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://news.ycombinator.com/submitlink?u=&amp;t=undefined"
         rel="noreferrer noopener"
         target="_blank"
@@ -752,8 +762,9 @@ exports[`HackerNews 11 2`] = `
                   />
                 </svg>
                  
-                HackerNews
-                 
+                <span>
+                  HackerNews
+                </span>
               </div>
             </styled.div>
           </div>
@@ -783,7 +794,7 @@ exports[`HackerNews 12 1`] = `
     >
       <a
         aria-label="Share on HackerNews"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://news.ycombinator.com/submitlink?u=&amp;t=undefined"
         rel="noreferrer noopener"
         target="_blank"
@@ -811,8 +822,9 @@ exports[`HackerNews 12 1`] = `
                   />
                 </svg>
                  
-                HackerNews
-                 
+                <span>
+                  HackerNews
+                </span>
               </div>
             </styled.div>
           </div>
@@ -846,7 +858,7 @@ exports[`HackerNews 13 1`] = `
     >
       <a
         aria-label="Share on HackerNews"
-        className="sc-bwzfXH bGIzAI"
+        className="sc-bwzfXH ljNxya"
         href="https://news.ycombinator.com/submitlink?u=&amp;t=undefined"
         rel="noreferrer noopener"
         target="_blank"
@@ -892,7 +904,7 @@ exports[`HackerNews 14 1`] = `
     >
       <a
         aria-label="Share on HackerNews"
-        className="sc-bwzfXH jHqTEf"
+        className="sc-bwzfXH dqksVq"
         href="https://news.ycombinator.com/submitlink?u=&amp;t=undefined"
         rel="noreferrer noopener"
         target="_blank"

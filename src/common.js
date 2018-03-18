@@ -14,29 +14,31 @@ export const Link = styled.a`
   margin: 0.5em;
   display: inline-block;
 
-  & svg {
+  svg {
     width: 1em;
     height: 1em;
-    margin-right: 0.4em;
     vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
   }
 
   ${is('small')`
-    & svg {
-      margin: 0;
+    svg {
       vertical-align: middle;
     }
   `};
 
   ${is('simple')`
-    & svg {
+    svg {
       stroke: #232323;
       fill: none;
     }
   `};
 
   ${is('simpleReverse')`
-    & svg {
+    svg {
       stroke: #fff;
       fill: none;
     }

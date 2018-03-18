@@ -27,7 +27,7 @@ exports[`Twitter 1 1`] = `
     >
       <a
         aria-label="Share on Twitter"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
         rel="noreferrer noopener"
         target="_blank"
@@ -56,9 +56,10 @@ exports[`Twitter 1 1`] = `
                     d="M12 0C5.38 0 0 5.38 0 12s5.38 12 12 12 12-5.38 12-12S18.62 0 12 0zm5.26 9.38v.34c0 3.48-2.64 7.5-7.48 7.5-1.48 0-2.87-.44-4.03-1.2 1.37.17 2.77-.2 3.9-1.08-1.16-.02-2.13-.78-2.46-1.83.38.1.8.07 1.17-.03-1.2-.24-2.1-1.3-2.1-2.58v-.05c.35.2.75.32 1.18.33-.7-.47-1.17-1.28-1.17-2.2 0-.47.13-.92.36-1.3C7.94 8.85 9.88 9.9 12.06 10c-.04-.2-.06-.4-.06-.6 0-1.46 1.18-2.63 2.63-2.63.76 0 1.44.3 1.92.82.6-.12 1.95-.27 1.95-.27-.35.53-.72 1.66-1.24 2.04z"
                   />
                 </svg>
-                 share on 
-                Twitter
                  
+                <span>
+                  share on Twitter
+                </span>
               </div>
             </styled.div>
           </div>
@@ -96,7 +97,7 @@ exports[`Twitter 2 1`] = `
     >
       <a
         aria-label="Share on Twitter"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
         rel="noreferrer noopener"
         target="_blank"
@@ -126,8 +127,9 @@ exports[`Twitter 2 1`] = `
                   />
                 </svg>
                  
-                Twitter
-                 
+                <span>
+                  Twitter
+                </span>
               </div>
             </styled.div>
           </div>
@@ -165,7 +167,7 @@ exports[`Twitter 3 1`] = `
     >
       <a
         aria-label="Share on Twitter"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
         rel="noreferrer noopener"
         target="_blank"
@@ -195,6 +197,7 @@ exports[`Twitter 3 1`] = `
                     d="M12 0C5.38 0 0 5.38 0 12s5.38 12 12 12 12-5.38 12-12S18.62 0 12 0zm5.26 9.38v.34c0 3.48-2.64 7.5-7.48 7.5-1.48 0-2.87-.44-4.03-1.2 1.37.17 2.77-.2 3.9-1.08-1.16-.02-2.13-.78-2.46-1.83.38.1.8.07 1.17-.03-1.2-.24-2.1-1.3-2.1-2.58v-.05c.35.2.75.32 1.18.33-.7-.47-1.17-1.28-1.17-2.2 0-.47.13-.92.36-1.3C7.94 8.85 9.88 9.9 12.06 10c-.04-.2-.06-.4-.06-.6 0-1.46 1.18-2.63 2.63-2.63.76 0 1.44.3 1.92.82.6-.12 1.95-.27 1.95-.27-.35.53-.72 1.66-1.24 2.04z"
                   />
                 </svg>
+                 
               </div>
             </styled.div>
           </div>
@@ -232,7 +235,7 @@ exports[`Twitter 4 1`] = `
     >
       <a
         aria-label="Share on Twitter"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
         rel="noreferrer noopener"
         target="_blank"
@@ -259,9 +262,10 @@ exports[`Twitter 4 1`] = `
                     d="M12 0C5.38 0 0 5.38 0 12s5.38 12 12 12 12-5.38 12-12S18.62 0 12 0zm5.26 9.38v.34c0 3.48-2.64 7.5-7.48 7.5-1.48 0-2.87-.44-4.03-1.2 1.37.17 2.77-.2 3.9-1.08-1.16-.02-2.13-.78-2.46-1.83.38.1.8.07 1.17-.03-1.2-.24-2.1-1.3-2.1-2.58v-.05c.35.2.75.32 1.18.33-.7-.47-1.17-1.28-1.17-2.2 0-.47.13-.92.36-1.3C7.94 8.85 9.88 9.9 12.06 10c-.04-.2-.06-.4-.06-.6 0-1.46 1.18-2.63 2.63-2.63.76 0 1.44.3 1.92.82.6-.12 1.95-.27 1.95-.27-.35.53-.72 1.66-1.24 2.04z"
                   />
                 </svg>
-                 share on 
-                Twitter
                  
+                <span>
+                  share on Twitter
+                </span>
               </div>
             </styled.div>
           </div>
@@ -299,7 +303,7 @@ exports[`Twitter 5 1`] = `
     >
       <a
         aria-label="Share on Twitter"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
         rel="noreferrer noopener"
         target="_blank"
@@ -327,8 +331,9 @@ exports[`Twitter 5 1`] = `
                   />
                 </svg>
                  
-                Twitter
-                 
+                <span>
+                  Twitter
+                </span>
               </div>
             </styled.div>
           </div>
@@ -366,7 +371,7 @@ exports[`Twitter 6 1`] = `
     >
       <a
         aria-label="Share on Twitter"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
         rel="noreferrer noopener"
         target="_blank"
@@ -394,6 +399,7 @@ exports[`Twitter 6 1`] = `
                     d="M12 0C5.38 0 0 5.38 0 12s5.38 12 12 12 12-5.38 12-12S18.62 0 12 0zm5.26 9.38v.34c0 3.48-2.64 7.5-7.48 7.5-1.48 0-2.87-.44-4.03-1.2 1.37.17 2.77-.2 3.9-1.08-1.16-.02-2.13-.78-2.46-1.83.38.1.8.07 1.17-.03-1.2-.24-2.1-1.3-2.1-2.58v-.05c.35.2.75.32 1.18.33-.7-.47-1.17-1.28-1.17-2.2 0-.47.13-.92.36-1.3C7.94 8.85 9.88 9.9 12.06 10c-.04-.2-.06-.4-.06-.6 0-1.46 1.18-2.63 2.63-2.63.76 0 1.44.3 1.92.82.6-.12 1.95-.27 1.95-.27-.35.53-.72 1.66-1.24 2.04z"
                   />
                 </svg>
+                 
               </div>
             </styled.div>
           </div>
@@ -431,7 +437,7 @@ exports[`Twitter 7 1`] = `
     >
       <a
         aria-label="Share on Twitter"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
         rel="noreferrer noopener"
         target="_blank"
@@ -459,9 +465,10 @@ exports[`Twitter 7 1`] = `
                     d="M23.44 4.83c-.8.37-1.5.38-2.22.02.93-.56.98-.96 1.32-2.02-.88.52-1.86.9-2.9 1.1-.82-.88-2-1.43-3.3-1.43-2.5 0-4.55 2.04-4.55 4.54 0 .36.03.7.1 1.04-3.77-.2-7.12-2-9.36-4.75-.4.67-.6 1.45-.6 2.3 0 1.56.8 2.95 2 3.77-.74-.03-1.44-.23-2.05-.57v.06c0 2.2 1.56 4.03 3.64 4.44-.67.2-1.37.2-2.06.08.58 1.8 2.26 3.12 4.25 3.16C5.78 18.1 3.37 18.74 1 18.46c2 1.3 4.4 2.04 6.97 2.04 8.35 0 12.92-6.92 12.92-12.93 0-.2 0-.4-.02-.6.9-.63 1.96-1.22 2.56-2.14z"
                   />
                 </svg>
-                 share on 
-                Twitter
                  
+                <span>
+                  share on Twitter
+                </span>
               </div>
             </styled.div>
           </div>
@@ -499,7 +506,7 @@ exports[`Twitter 8 1`] = `
     >
       <a
         aria-label="Share on Twitter"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
         rel="noreferrer noopener"
         target="_blank"
@@ -528,8 +535,9 @@ exports[`Twitter 8 1`] = `
                   />
                 </svg>
                  
-                Twitter
-                 
+                <span>
+                  Twitter
+                </span>
               </div>
             </styled.div>
           </div>
@@ -567,7 +575,7 @@ exports[`Twitter 9 1`] = `
     >
       <a
         aria-label="Share on Twitter"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
         rel="noreferrer noopener"
         target="_blank"
@@ -596,6 +604,7 @@ exports[`Twitter 9 1`] = `
                     d="M23.44 4.83c-.8.37-1.5.38-2.22.02.93-.56.98-.96 1.32-2.02-.88.52-1.86.9-2.9 1.1-.82-.88-2-1.43-3.3-1.43-2.5 0-4.55 2.04-4.55 4.54 0 .36.03.7.1 1.04-3.77-.2-7.12-2-9.36-4.75-.4.67-.6 1.45-.6 2.3 0 1.56.8 2.95 2 3.77-.74-.03-1.44-.23-2.05-.57v.06c0 2.2 1.56 4.03 3.64 4.44-.67.2-1.37.2-2.06.08.58 1.8 2.26 3.12 4.25 3.16C5.78 18.1 3.37 18.74 1 18.46c2 1.3 4.4 2.04 6.97 2.04 8.35 0 12.92-6.92 12.92-12.93 0-.2 0-.4-.02-.6.9-.63 1.96-1.22 2.56-2.14z"
                   />
                 </svg>
+                 
               </div>
             </styled.div>
           </div>
@@ -628,7 +637,7 @@ exports[`Twitter 11 1`] = `
     >
       <a
         aria-label="Share on Twitter"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://twitter.com/intent/tweet/?text=.&amp;url="
         rel="noreferrer noopener"
         target="_blank"
@@ -654,8 +663,9 @@ exports[`Twitter 11 1`] = `
                   />
                 </svg>
                  
-                Twitter
-                 
+                <span>
+                  Twitter
+                </span>
               </div>
             </styled.div>
           </div>
@@ -688,7 +698,7 @@ exports[`Twitter 11 2`] = `
     >
       <a
         aria-label="Share on Twitter"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://twitter.com/intent/tweet/?text=.&amp;url="
         rel="noreferrer noopener"
         target="_blank"
@@ -717,8 +727,9 @@ exports[`Twitter 11 2`] = `
                   />
                 </svg>
                  
-                Twitter
-                 
+                <span>
+                  Twitter
+                </span>
               </div>
             </styled.div>
           </div>
@@ -748,7 +759,7 @@ exports[`Twitter 12 1`] = `
     >
       <a
         aria-label="Share on Twitter"
-        className="sc-bwzfXH bSlLDy"
+        className="sc-bwzfXH ewcqji"
         href="https://twitter.com/intent/tweet/?text=.&amp;url="
         rel="noreferrer noopener"
         target="_blank"
@@ -775,8 +786,9 @@ exports[`Twitter 12 1`] = `
                   />
                 </svg>
                  
-                Twitter
-                 
+                <span>
+                  Twitter
+                </span>
               </div>
             </styled.div>
           </div>
@@ -810,7 +822,7 @@ exports[`Twitter 13 1`] = `
     >
       <a
         aria-label="Share on Twitter"
-        className="sc-bwzfXH bGIzAI"
+        className="sc-bwzfXH ljNxya"
         href="https://twitter.com/intent/tweet/?text=.&amp;url="
         rel="noreferrer noopener"
         target="_blank"
@@ -855,7 +867,7 @@ exports[`Twitter 14 1`] = `
     >
       <a
         aria-label="Share on Twitter"
-        className="sc-bwzfXH jHqTEf"
+        className="sc-bwzfXH dqksVq"
         href="https://twitter.com/intent/tweet/?text=.&amp;url="
         rel="noreferrer noopener"
         target="_blank"
