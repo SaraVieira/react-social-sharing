@@ -1,14 +1,13 @@
-import React, { Fragment } from 'react'
-import styled from 'styled-components'
+import React from 'react'
 import is from 'styled-is'
+import ButtonFactory from './factory'
 import {
   WhatsappIconFill,
   WhatsappIconCircle,
   WhatsappIconCircleSolid
 } from '../svg/whatsapp.js'
-import { SharingButton, Link, Icon } from '../common'
+import { SharingButton } from '../common'
 import links from '../consts'
-import wrapper from './wrapper'
 
 const Whatsapp = SharingButton.extend`
   background-color: #25d366;
@@ -21,52 +20,14 @@ const Whatsapp = SharingButton.extend`
   }
 `
 
-const Button = ({
-  small,
-  solid,
-  link,
-  message,
-  medium,
-  big,
-  circle,
-  solidcircle,
-  simple,
-  simpleReverse,
-  ...props
-}) => (
-  <Link
-    href={links.whatsapp(message, link)}
-    target="_blank"
-    aria-label="Share on WhatsApp"
-    rel="noreferrer noopener"
-    simple={simple}
-    simpleReverse={simpleReverse}
-  >
-    {simple || simpleReverse ? (
-      <WhatsappIconFill {...props} />
-    ) : (
-      <Whatsapp small={small} {...props}>
-        <Icon
-          solid={(!solid && !circle && !solidcircle) || solid}
-          solidcircle={solidcircle}
-          aria-hidden="true"
-        >
-          {wrapper(
-            small,
-            solid,
-            medium,
-            big,
-            circle,
-            solidcircle,
-            WhatsappIconFill,
-            WhatsappIconCircle,
-            WhatsappIconCircleSolid,
-            'WhatsApp'
-          )}
-        </Icon>
-      </Whatsapp>
-    )}
-  </Link>
+export default ({ link, ...props }) => (
+  <ButtonFactory
+    {...props}
+    name="WhatsApp"
+    href={links.whatsapp(link)}
+    buttonComponent={Whatsapp}
+    iconFill={WhatsappIconFill}
+    iconCircle={WhatsappIconCircle}
+    iconCircleSolid={WhatsappIconCircleSolid}
+  />
 )
-
-export default Button

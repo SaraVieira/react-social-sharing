@@ -1,10 +1,9 @@
-import React, { Fragment } from 'react'
-import styled from 'styled-components'
+import React from 'react'
 import is from 'styled-is'
+import ButtonFactory from './factory'
 import { GoogleIconFill, GoogleIconCircle } from '../svg/google.js'
-import { SharingButton, Link, Icon } from '../common'
+import { SharingButton } from '../common'
 import links from '../consts'
-import wrapper from './wrapper'
 
 const Google = SharingButton.extend`
   background-color: #dd4b39;
@@ -17,51 +16,15 @@ const Google = SharingButton.extend`
   }
 `
 
-const Button = ({
-  small,
-  solid,
-  link,
-  medium,
-  big,
-  circle,
-  solidcircle,
-  simple,
-  simpleReverse,
-  ...props
-}) => (
-  <Link
+export default ({ link, ...props }) => (
+  <ButtonFactory
+    {...props}
+    name="Google +"
+    ariaName="Google Plus"
     href={links.google(link)}
-    target="_blank"
-    rel="noreferrer noopener"
-    aria-label="Share on Google Plus"
-    simple={simple}
-    simpleReverse={simpleReverse}
-  >
-    {simple || simpleReverse ? (
-      <GoogleIconFill {...props} />
-    ) : (
-      <Google small={small} solidcircle={solidcircle} {...props}>
-        <Icon
-          solid={(!solid && !circle && !solidcircle) || solid}
-          solidcircle={solidcircle}
-          aria-hidden="true"
-        >
-          {wrapper(
-            small,
-            solid,
-            medium,
-            big,
-            circle,
-            solidcircle,
-            GoogleIconFill,
-            GoogleIconCircle,
-            GoogleIconCircle,
-            'Google +'
-          )}
-        </Icon>
-      </Google>
-    )}
-  </Link>
+    buttonComponent={Google}
+    iconFill={GoogleIconFill}
+    iconCircle={GoogleIconCircle}
+    iconCircleSolid={GoogleIconCircle}
+  />
 )
-
-export default Button

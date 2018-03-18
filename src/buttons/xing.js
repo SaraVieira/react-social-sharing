@@ -1,14 +1,13 @@
-import React, { Fragment } from 'react'
-import styled from 'styled-components'
+import React from 'react'
 import is from 'styled-is'
+import ButtonFactory from './factory'
 import {
   XingIconFill,
   XingIconCircle,
   XingIconCircleSolid
 } from '../svg/xing.js'
-import { SharingButton, Link, Icon } from '../common'
+import { SharingButton } from '../common'
 import links from '../consts'
-import wrapper from './wrapper'
 
 const Xing = SharingButton.extend`
   background-color: #1a7576;
@@ -21,52 +20,14 @@ const Xing = SharingButton.extend`
   }
 `
 
-const Button = ({
-  small,
-  solid,
-  link,
-  message,
-  medium,
-  big,
-  circle,
-  solidcircle,
-  simple,
-  simpleReverse,
-  ...props
-}) => (
-  <Link
-    href={links.xing(message, link)}
-    target="_blank"
-    aria-label="Share on Xing"
-    rel="noreferrer noopener"
-    simpleReverse={simpleReverse}
-    simple={simple}
-  >
-    {simple || simpleReverse ? (
-      <XingIconFill {...props} />
-    ) : (
-      <Xing small={small} {...props}>
-        <Icon
-          solid={(!solid && !circle && !solidcircle) || solid}
-          solidcircle={solidcircle}
-          aria-hidden="true"
-        >
-          {wrapper(
-            small,
-            solid,
-            medium,
-            big,
-            circle,
-            solidcircle,
-            XingIconFill,
-            XingIconCircle,
-            XingIconCircleSolid,
-            'Xing'
-          )}
-        </Icon>
-      </Xing>
-    )}
-  </Link>
+export default ({ link, ...props }) => (
+  <ButtonFactory
+    {...props}
+    name="Xing"
+    href={links.xing(link)}
+    buttonComponent={Xing}
+    iconFill={XingIconFill}
+    iconCircle={XingIconCircle}
+    iconCircleSolid={XingIconCircleSolid}
+  />
 )
-
-export default Button

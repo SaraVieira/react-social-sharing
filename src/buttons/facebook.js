@@ -1,10 +1,9 @@
-import React, { Fragment } from 'react'
-import styled from 'styled-components'
+import React from 'react'
 import is from 'styled-is'
+import ButtonFactory from './factory'
 import { FacebookIconFill, FacebookIconCircle } from '../svg/facebook.js'
-import { SharingButton, Link, Icon } from '../common'
+import { SharingButton } from '../common'
 import links from '../consts'
-import wrapper from './wrapper'
 
 const Facebook = SharingButton.extend`
   background-color: #3b5998;
@@ -21,51 +20,14 @@ const Facebook = SharingButton.extend`
   }
 `
 
-const Button = ({
-  small,
-  solid,
-  link,
-  medium,
-  big,
-  circle,
-  solidcircle,
-  simple,
-  simpleReverse,
-  ...props
-}) => (
-  <Link
+export default ({ link, ...props }) => (
+  <ButtonFactory
+    {...props}
+    name="Facebook"
     href={links.facebook(link)}
-    simple={simple}
-    simpleReverse={simpleReverse}
-    target="_blank"
-    rel="noreferrer noopener"
-    aria-label="Share on Facebook"
-  >
-    {simple || simpleReverse ? (
-      <FacebookIconFill {...props} />
-    ) : (
-      <Facebook small={small} solidcircle={solidcircle} {...props}>
-        <Icon
-          solid={(!solid && !circle && !solidcircle) || solid}
-          solidcircle={solidcircle}
-          aria-hidden="true"
-        >
-          {wrapper(
-            small,
-            solid,
-            medium,
-            big,
-            circle,
-            solidcircle,
-            FacebookIconFill,
-            FacebookIconCircle,
-            FacebookIconCircle,
-            'Facebook'
-          )}
-        </Icon>
-      </Facebook>
-    )}
-  </Link>
+    buttonComponent={Facebook}
+    iconFill={FacebookIconFill}
+    iconCircle={FacebookIconCircle}
+    iconCircleSolid={FacebookIconCircle}
+  />
 )
-
-export default Button
