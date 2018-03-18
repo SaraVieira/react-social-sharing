@@ -15,7 +15,7 @@ exports[`Facebook 1 1`] = `
   >
     <a
       aria-label="Share on Facebook"
-      className="sc-bwzfXH bSlLDy"
+      className="sc-bwzfXH ewcqji"
       href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
@@ -48,9 +48,10 @@ exports[`Facebook 1 1`] = `
                   d="M15.84 9.5H13.5V8.48c0-.53.35-.65.6-.65h1.4v-2.3h-2.35c-2.3 0-2.65 1.7-2.65 2.8V9.5h-2v2h2v7h3v-7h2.1l.24-2z"
                 />
               </svg>
-               share on 
-              Facebook
                
+              <span>
+                share on Facebook
+              </span>
             </div>
           </styled.div>
         </div>
@@ -75,7 +76,7 @@ exports[`Facebook 2 1`] = `
   >
     <a
       aria-label="Share on Facebook"
-      className="sc-bwzfXH bSlLDy"
+      className="sc-bwzfXH ewcqji"
       href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
@@ -109,8 +110,9 @@ exports[`Facebook 2 1`] = `
                 />
               </svg>
                
-              Facebook
-               
+              <span>
+                Facebook
+              </span>
             </div>
           </styled.div>
         </div>
@@ -135,7 +137,7 @@ exports[`Facebook 3 1`] = `
   >
     <a
       aria-label="Share on Facebook"
-      className="sc-bwzfXH bSlLDy"
+      className="sc-bwzfXH ewcqji"
       href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
@@ -169,6 +171,7 @@ exports[`Facebook 3 1`] = `
                   d="M15.84 9.5H13.5V8.48c0-.53.35-.65.6-.65h1.4v-2.3h-2.35c-2.3 0-2.65 1.7-2.65 2.8V9.5h-2v2h2v7h3v-7h2.1l.24-2z"
                 />
               </svg>
+               
             </div>
           </styled.div>
         </div>
@@ -193,7 +196,7 @@ exports[`Facebook 4 1`] = `
   >
     <a
       aria-label="Share on Facebook"
-      className="sc-bwzfXH bSlLDy"
+      className="sc-bwzfXH ewcqji"
       href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
@@ -224,9 +227,10 @@ exports[`Facebook 4 1`] = `
                   d="M15.84 9.5H13.5V8.48c0-.53.35-.65.6-.65h1.4v-2.3h-2.35c-2.3 0-2.65 1.7-2.65 2.8V9.5h-2v2h2v7h3v-7h2.1l.24-2z"
                 />
               </svg>
-               share on 
-              Facebook
                
+              <span>
+                share on Facebook
+              </span>
             </div>
           </styled.div>
         </div>
@@ -251,7 +255,7 @@ exports[`Facebook 5 1`] = `
   >
     <a
       aria-label="Share on Facebook"
-      className="sc-bwzfXH bSlLDy"
+      className="sc-bwzfXH ewcqji"
       href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
@@ -283,8 +287,9 @@ exports[`Facebook 5 1`] = `
                 />
               </svg>
                
-              Facebook
-               
+              <span>
+                Facebook
+              </span>
             </div>
           </styled.div>
         </div>
@@ -309,7 +314,7 @@ exports[`Facebook 6 1`] = `
   >
     <a
       aria-label="Share on Facebook"
-      className="sc-bwzfXH bSlLDy"
+      className="sc-bwzfXH ewcqji"
       href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
@@ -341,6 +346,7 @@ exports[`Facebook 6 1`] = `
                   d="M15.84 9.5H13.5V8.48c0-.53.35-.65.6-.65h1.4v-2.3h-2.35c-2.3 0-2.65 1.7-2.65 2.8V9.5h-2v2h2v7h3v-7h2.1l.24-2z"
                 />
               </svg>
+               
             </div>
           </styled.div>
         </div>
@@ -365,7 +371,7 @@ exports[`Facebook 7 1`] = `
   >
     <a
       aria-label="Share on Facebook"
-      className="sc-bwzfXH bSlLDy"
+      className="sc-bwzfXH ewcqji"
       href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
@@ -392,9 +398,10 @@ exports[`Facebook 7 1`] = `
                   d="M18.77 7.46H14.5v-1.9c0-.9.6-1.1 1-1.1h3V.5h-4.33C10.24.5 9.5 3.44 9.5 5.32v2.15h-3v4h3v12h5v-12h3.85l.42-4z"
                 />
               </svg>
-               share on 
-              Facebook
                
+              <span>
+                share on Facebook
+              </span>
             </div>
           </styled.div>
         </div>
@@ -419,7 +426,7 @@ exports[`Facebook 8 1`] = `
   >
     <a
       aria-label="Share on Facebook"
-      className="sc-bwzfXH bSlLDy"
+      className="sc-bwzfXH ewcqji"
       href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
@@ -447,8 +454,9 @@ exports[`Facebook 8 1`] = `
                 />
               </svg>
                
-              Facebook
-               
+              <span>
+                Facebook
+              </span>
             </div>
           </styled.div>
         </div>
@@ -473,7 +481,7 @@ exports[`Facebook 9 1`] = `
   >
     <a
       aria-label="Share on Facebook"
-      className="sc-bwzfXH bSlLDy"
+      className="sc-bwzfXH ewcqji"
       href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
@@ -501,6 +509,7 @@ exports[`Facebook 9 1`] = `
                   d="M18.77 7.46H14.5v-1.9c0-.9.6-1.1 1-1.1h3V.5h-4.33C10.24.5 9.5 3.44 9.5 5.32v2.15h-3v4h3v12h5v-12h3.85l.42-4z"
                 />
               </svg>
+               
             </div>
           </styled.div>
         </div>
@@ -522,7 +531,7 @@ exports[`Facebook 10 1`] = `
   >
     <a
       aria-label="Share on Facebook"
-      className="sc-bwzfXH bSlLDy"
+      className="sc-bwzfXH ewcqji"
       href="https://facebook.com/sharer/sharer.php?u="
       rel="noreferrer noopener"
       target="_blank"
@@ -548,8 +557,9 @@ exports[`Facebook 10 1`] = `
                 />
               </svg>
                
-              Facebook
-               
+              <span>
+                Facebook
+              </span>
             </div>
           </styled.div>
         </div>
@@ -571,7 +581,7 @@ exports[`Facebook 11 1`] = `
   >
     <a
       aria-label="Share on Facebook"
-      className="sc-bwzfXH bSlLDy"
+      className="sc-bwzfXH ewcqji"
       href="https://facebook.com/sharer/sharer.php?u="
       rel="noreferrer noopener"
       target="_blank"
@@ -601,8 +611,9 @@ exports[`Facebook 11 1`] = `
                 />
               </svg>
                
-              Facebook
-               
+              <span>
+                Facebook
+              </span>
             </div>
           </styled.div>
         </div>
@@ -624,7 +635,7 @@ exports[`Facebook 11 2`] = `
   >
     <a
       aria-label="Share on Facebook"
-      className="sc-bwzfXH bSlLDy"
+      className="sc-bwzfXH ewcqji"
       href="https://facebook.com/sharer/sharer.php?u="
       rel="noreferrer noopener"
       target="_blank"
@@ -657,8 +668,9 @@ exports[`Facebook 11 2`] = `
                 />
               </svg>
                
-              Facebook
-               
+              <span>
+                Facebook
+              </span>
             </div>
           </styled.div>
         </div>
@@ -678,7 +690,7 @@ exports[`Facebook 12 1`] = `
   >
     <a
       aria-label="Share on Facebook"
-      className="sc-bwzfXH bSlLDy"
+      className="sc-bwzfXH ewcqji"
       href="https://facebook.com/sharer/sharer.php?u="
       rel="noreferrer noopener"
       target="_blank"
@@ -704,8 +716,9 @@ exports[`Facebook 12 1`] = `
                 />
               </svg>
                
-              Facebook
-               
+              <span>
+                Facebook
+              </span>
             </div>
           </styled.div>
         </div>
@@ -728,7 +741,7 @@ exports[`Facebook 13 1`] = `
   >
     <a
       aria-label="Share on Facebook"
-      className="sc-bwzfXH bGIzAI"
+      className="sc-bwzfXH ljNxya"
       href="https://facebook.com/sharer/sharer.php?u="
       rel="noreferrer noopener"
       target="_blank"
@@ -761,7 +774,7 @@ exports[`Facebook 14 1`] = `
   >
     <a
       aria-label="Share on Facebook"
-      className="sc-bwzfXH jHqTEf"
+      className="sc-bwzfXH dqksVq"
       href="https://facebook.com/sharer/sharer.php?u="
       rel="noreferrer noopener"
       target="_blank"
