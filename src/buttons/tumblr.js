@@ -1,5 +1,4 @@
 import React from 'react'
-import is from 'styled-is'
 import ButtonFactory from './factory'
 import { TumblrIconFill, TumblrIconCircle } from '../svg/tumblr.js'
 import { SharingButton } from '../common'
