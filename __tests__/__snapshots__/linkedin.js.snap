@@ -51,17 +51,16 @@ exports[`Linkedin 1 1`] = `
   <ButtonFactory
     big={true}
     buttonComponent={[Function]}
-    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="LinkedIn"
     solidcircle={true}
   >
     <styled.a
       aria-label="Share on LinkedIn"
-      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on LinkedIn"
@@ -69,13 +68,12 @@ exports[`Linkedin 1 1`] = `
       <a
         aria-label="Share on LinkedIn"
         className="c0"
-        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on LinkedIn"
       >
         <styled.div
-          message="I am so cool"
           solidcircle={true}
         >
           <div
@@ -167,18 +165,17 @@ exports[`Linkedin 2 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     medium={true}
-    message="I am so cool"
     name="LinkedIn"
     solidcircle={true}
   >
     <styled.a
       aria-label="Share on LinkedIn"
-      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on LinkedIn"
@@ -186,13 +183,12 @@ exports[`Linkedin 2 1`] = `
       <a
         aria-label="Share on LinkedIn"
         className="c0"
-        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on LinkedIn"
       >
         <styled.div
-          message="I am so cool"
           solidcircle={true}
         >
           <div
@@ -284,18 +280,17 @@ exports[`Linkedin 3 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="LinkedIn"
     small={true}
     solidcircle={true}
   >
     <styled.a
       aria-label="Share on LinkedIn"
-      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on LinkedIn"
@@ -303,13 +298,12 @@ exports[`Linkedin 3 1`] = `
       <a
         aria-label="Share on LinkedIn"
         className="c0"
-        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on LinkedIn"
       >
         <styled.div
-          message="I am so cool"
           small={true}
           solidcircle={true}
         >
@@ -399,16 +393,15 @@ exports[`Linkedin 4 1`] = `
     big={true}
     buttonComponent={[Function]}
     circle={true}
-    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="LinkedIn"
   >
     <styled.a
       aria-label="Share on LinkedIn"
-      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on LinkedIn"
@@ -416,14 +409,12 @@ exports[`Linkedin 4 1`] = `
       <a
         aria-label="Share on LinkedIn"
         className="c0"
-        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on LinkedIn"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -515,17 +506,16 @@ exports[`Linkedin 5 1`] = `
   <ButtonFactory
     buttonComponent={[Function]}
     circle={true}
-    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     medium={true}
-    message="I am so cool"
     name="LinkedIn"
   >
     <styled.a
       aria-label="Share on LinkedIn"
-      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on LinkedIn"
@@ -533,14 +523,12 @@ exports[`Linkedin 5 1`] = `
       <a
         aria-label="Share on LinkedIn"
         className="c0"
-        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on LinkedIn"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -632,17 +620,16 @@ exports[`Linkedin 6 1`] = `
   <ButtonFactory
     buttonComponent={[Function]}
     circle={true}
-    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="LinkedIn"
     small={true}
   >
     <styled.a
       aria-label="Share on LinkedIn"
-      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on LinkedIn"
@@ -650,13 +637,12 @@ exports[`Linkedin 6 1`] = `
       <a
         aria-label="Share on LinkedIn"
         className="c0"
-        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on LinkedIn"
       >
         <styled.div
-          message="I am so cool"
           small={true}
         >
           <div
@@ -749,17 +735,16 @@ exports[`Linkedin 7 1`] = `
   <ButtonFactory
     big={true}
     buttonComponent={[Function]}
-    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="LinkedIn"
     solid={true}
   >
     <styled.a
       aria-label="Share on LinkedIn"
-      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on LinkedIn"
@@ -767,14 +752,12 @@ exports[`Linkedin 7 1`] = `
       <a
         aria-label="Share on LinkedIn"
         className="c0"
-        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on LinkedIn"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -858,18 +841,17 @@ exports[`Linkedin 8 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     medium={true}
-    message="I am so cool"
     name="LinkedIn"
     solid={true}
   >
     <styled.a
       aria-label="Share on LinkedIn"
-      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on LinkedIn"
@@ -877,14 +859,12 @@ exports[`Linkedin 8 1`] = `
       <a
         aria-label="Share on LinkedIn"
         className="c0"
-        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on LinkedIn"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -968,18 +948,17 @@ exports[`Linkedin 9 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+    href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="LinkedIn"
     small={true}
     solid={true}
   >
     <styled.a
       aria-label="Share on LinkedIn"
-      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on LinkedIn"
@@ -987,13 +966,12 @@ exports[`Linkedin 9 1`] = `
       <a
         aria-label="Share on LinkedIn"
         className="c0"
-        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=http%3A%2F%2Fsharingbuttons.io.&amp;summary=http%3A%2F%2Fsharingbuttons.io.&amp;source="
+        href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fsharingbuttons.io&amp;title=I%20am%20so%20cool.&amp;summary=I%20am%20so%20cool.&amp;source=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on LinkedIn"
       >
         <styled.div
-          message="I am so cool"
           small={true}
         >
           <div

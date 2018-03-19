@@ -51,17 +51,16 @@ exports[`Mail 1 1`] = `
   <ButtonFactory
     big={true}
     buttonComponent={[Function]}
-    href="mailto:?subject=http%3A%2F%2Fsharingbuttons.io.&amp;body="
+    href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="E-mail"
     solidcircle={true}
   >
     <styled.a
       aria-label="Share on E-mail"
-      href="mailto:?subject=http%3A%2F%2Fsharingbuttons.io.&amp;body="
+      href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on E-mail"
@@ -69,13 +68,12 @@ exports[`Mail 1 1`] = `
       <a
         aria-label="Share on E-mail"
         className="c0"
-        href="mailto:?subject=http%3A%2F%2Fsharingbuttons.io.&amp;body="
+        href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on E-mail"
       >
         <styled.div
-          message="I am so cool"
           solidcircle={true}
         >
           <div
@@ -164,18 +162,17 @@ exports[`Mail 2 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="mailto:?subject=http%3A%2F%2Fsharingbuttons.io.&amp;body="
+    href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     medium={true}
-    message="I am so cool"
     name="E-mail"
     solidcircle={true}
   >
     <styled.a
       aria-label="Share on E-mail"
-      href="mailto:?subject=http%3A%2F%2Fsharingbuttons.io.&amp;body="
+      href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on E-mail"
@@ -183,13 +180,12 @@ exports[`Mail 2 1`] = `
       <a
         aria-label="Share on E-mail"
         className="c0"
-        href="mailto:?subject=http%3A%2F%2Fsharingbuttons.io.&amp;body="
+        href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on E-mail"
       >
         <styled.div
-          message="I am so cool"
           solidcircle={true}
         >
           <div
@@ -278,18 +274,17 @@ exports[`Mail 3 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="mailto:?subject=http%3A%2F%2Fsharingbuttons.io.&amp;body="
+    href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="E-mail"
     small={true}
     solidcircle={true}
   >
     <styled.a
       aria-label="Share on E-mail"
-      href="mailto:?subject=http%3A%2F%2Fsharingbuttons.io.&amp;body="
+      href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on E-mail"
@@ -297,13 +292,12 @@ exports[`Mail 3 1`] = `
       <a
         aria-label="Share on E-mail"
         className="c0"
-        href="mailto:?subject=http%3A%2F%2Fsharingbuttons.io.&amp;body="
+        href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on E-mail"
       >
         <styled.div
-          message="I am so cool"
           small={true}
           solidcircle={true}
         >
@@ -390,16 +384,15 @@ exports[`Mail 4 1`] = `
     big={true}
     buttonComponent={[Function]}
     circle={true}
-    href="mailto:?subject=http%3A%2F%2Fsharingbuttons.io.&amp;body="
+    href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="E-mail"
   >
     <styled.a
       aria-label="Share on E-mail"
-      href="mailto:?subject=http%3A%2F%2Fsharingbuttons.io.&amp;body="
+      href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on E-mail"
@@ -407,14 +400,12 @@ exports[`Mail 4 1`] = `
       <a
         aria-label="Share on E-mail"
         className="c0"
-        href="mailto:?subject=http%3A%2F%2Fsharingbuttons.io.&amp;body="
+        href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on E-mail"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -501,17 +492,16 @@ exports[`Mail 5 1`] = `
   <ButtonFactory
     buttonComponent={[Function]}
     circle={true}
-    href="mailto:?subject=http%3A%2F%2Fsharingbuttons.io.&amp;body="
+    href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     medium={true}
-    message="I am so cool"
     name="E-mail"
   >
     <styled.a
       aria-label="Share on E-mail"
-      href="mailto:?subject=http%3A%2F%2Fsharingbuttons.io.&amp;body="
+      href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on E-mail"
@@ -519,14 +509,12 @@ exports[`Mail 5 1`] = `
       <a
         aria-label="Share on E-mail"
         className="c0"
-        href="mailto:?subject=http%3A%2F%2Fsharingbuttons.io.&amp;body="
+        href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on E-mail"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -613,17 +601,16 @@ exports[`Mail 6 1`] = `
   <ButtonFactory
     buttonComponent={[Function]}
     circle={true}
-    href="mailto:?subject=http%3A%2F%2Fsharingbuttons.io.&amp;body="
+    href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="E-mail"
     small={true}
   >
     <styled.a
       aria-label="Share on E-mail"
-      href="mailto:?subject=http%3A%2F%2Fsharingbuttons.io.&amp;body="
+      href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on E-mail"
@@ -631,13 +618,12 @@ exports[`Mail 6 1`] = `
       <a
         aria-label="Share on E-mail"
         className="c0"
-        href="mailto:?subject=http%3A%2F%2Fsharingbuttons.io.&amp;body="
+        href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on E-mail"
       >
         <styled.div
-          message="I am so cool"
           small={true}
         >
           <div
@@ -725,17 +711,16 @@ exports[`Mail 7 1`] = `
   <ButtonFactory
     big={true}
     buttonComponent={[Function]}
-    href="mailto:?subject=http%3A%2F%2Fsharingbuttons.io.&amp;body="
+    href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="E-mail"
     solid={true}
   >
     <styled.a
       aria-label="Share on E-mail"
-      href="mailto:?subject=http%3A%2F%2Fsharingbuttons.io.&amp;body="
+      href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on E-mail"
@@ -743,14 +728,12 @@ exports[`Mail 7 1`] = `
       <a
         aria-label="Share on E-mail"
         className="c0"
-        href="mailto:?subject=http%3A%2F%2Fsharingbuttons.io.&amp;body="
+        href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on E-mail"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -834,18 +817,17 @@ exports[`Mail 8 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="mailto:?subject=http%3A%2F%2Fsharingbuttons.io.&amp;body="
+    href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     medium={true}
-    message="I am so cool"
     name="E-mail"
     solid={true}
   >
     <styled.a
       aria-label="Share on E-mail"
-      href="mailto:?subject=http%3A%2F%2Fsharingbuttons.io.&amp;body="
+      href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on E-mail"
@@ -853,14 +835,12 @@ exports[`Mail 8 1`] = `
       <a
         aria-label="Share on E-mail"
         className="c0"
-        href="mailto:?subject=http%3A%2F%2Fsharingbuttons.io.&amp;body="
+        href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on E-mail"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -944,18 +924,17 @@ exports[`Mail 9 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="mailto:?subject=http%3A%2F%2Fsharingbuttons.io.&amp;body="
+    href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="E-mail"
     small={true}
     solid={true}
   >
     <styled.a
       aria-label="Share on E-mail"
-      href="mailto:?subject=http%3A%2F%2Fsharingbuttons.io.&amp;body="
+      href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on E-mail"
@@ -963,13 +942,12 @@ exports[`Mail 9 1`] = `
       <a
         aria-label="Share on E-mail"
         className="c0"
-        href="mailto:?subject=http%3A%2F%2Fsharingbuttons.io.&amp;body="
+        href="mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on E-mail"
       >
         <styled.div
-          message="I am so cool"
           small={true}
         >
           <div

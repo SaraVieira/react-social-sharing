@@ -51,17 +51,16 @@ exports[`HackerNews 1 1`] = `
   <ButtonFactory
     big={true}
     buttonComponent={[Function]}
-    href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
+    href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="HackerNews"
     solidcircle={true}
   >
     <styled.a
       aria-label="Share on HackerNews"
-      href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
+      href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on HackerNews"
@@ -69,13 +68,12 @@ exports[`HackerNews 1 1`] = `
       <a
         aria-label="Share on HackerNews"
         className="c0"
-        href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
+        href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on HackerNews"
       >
         <styled.div
-          message="I am so cool"
           solidcircle={true}
         >
           <div
@@ -162,18 +160,17 @@ exports[`HackerNews 2 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
+    href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     medium={true}
-    message="I am so cool"
     name="HackerNews"
     solidcircle={true}
   >
     <styled.a
       aria-label="Share on HackerNews"
-      href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
+      href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on HackerNews"
@@ -181,13 +178,12 @@ exports[`HackerNews 2 1`] = `
       <a
         aria-label="Share on HackerNews"
         className="c0"
-        href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
+        href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on HackerNews"
       >
         <styled.div
-          message="I am so cool"
           solidcircle={true}
         >
           <div
@@ -274,18 +270,17 @@ exports[`HackerNews 3 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
+    href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="HackerNews"
     small={true}
     solidcircle={true}
   >
     <styled.a
       aria-label="Share on HackerNews"
-      href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
+      href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on HackerNews"
@@ -293,13 +288,12 @@ exports[`HackerNews 3 1`] = `
       <a
         aria-label="Share on HackerNews"
         className="c0"
-        href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
+        href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on HackerNews"
       >
         <styled.div
-          message="I am so cool"
           small={true}
           solidcircle={true}
         >
@@ -384,16 +378,15 @@ exports[`HackerNews 4 1`] = `
     big={true}
     buttonComponent={[Function]}
     circle={true}
-    href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
+    href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="HackerNews"
   >
     <styled.a
       aria-label="Share on HackerNews"
-      href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
+      href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on HackerNews"
@@ -401,14 +394,12 @@ exports[`HackerNews 4 1`] = `
       <a
         aria-label="Share on HackerNews"
         className="c0"
-        href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
+        href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on HackerNews"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -497,17 +488,16 @@ exports[`HackerNews 5 1`] = `
   <ButtonFactory
     buttonComponent={[Function]}
     circle={true}
-    href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
+    href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     medium={true}
-    message="I am so cool"
     name="HackerNews"
   >
     <styled.a
       aria-label="Share on HackerNews"
-      href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
+      href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on HackerNews"
@@ -515,14 +505,12 @@ exports[`HackerNews 5 1`] = `
       <a
         aria-label="Share on HackerNews"
         className="c0"
-        href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
+        href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on HackerNews"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -611,17 +599,16 @@ exports[`HackerNews 6 1`] = `
   <ButtonFactory
     buttonComponent={[Function]}
     circle={true}
-    href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
+    href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="HackerNews"
     small={true}
   >
     <styled.a
       aria-label="Share on HackerNews"
-      href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
+      href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on HackerNews"
@@ -629,13 +616,12 @@ exports[`HackerNews 6 1`] = `
       <a
         aria-label="Share on HackerNews"
         className="c0"
-        href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
+        href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on HackerNews"
       >
         <styled.div
-          message="I am so cool"
           small={true}
         >
           <div
@@ -725,17 +711,16 @@ exports[`HackerNews 7 1`] = `
   <ButtonFactory
     big={true}
     buttonComponent={[Function]}
-    href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
+    href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="HackerNews"
     solid={true}
   >
     <styled.a
       aria-label="Share on HackerNews"
-      href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
+      href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on HackerNews"
@@ -743,14 +728,12 @@ exports[`HackerNews 7 1`] = `
       <a
         aria-label="Share on HackerNews"
         className="c0"
-        href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
+        href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on HackerNews"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -835,18 +818,17 @@ exports[`HackerNews 8 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
+    href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     medium={true}
-    message="I am so cool"
     name="HackerNews"
     solid={true}
   >
     <styled.a
       aria-label="Share on HackerNews"
-      href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
+      href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on HackerNews"
@@ -854,14 +836,12 @@ exports[`HackerNews 8 1`] = `
       <a
         aria-label="Share on HackerNews"
         className="c0"
-        href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
+        href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on HackerNews"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -946,18 +926,17 @@ exports[`HackerNews 9 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
+    href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="HackerNews"
     small={true}
     solid={true}
   >
     <styled.a
       aria-label="Share on HackerNews"
-      href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
+      href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on HackerNews"
@@ -965,13 +944,12 @@ exports[`HackerNews 9 1`] = `
       <a
         aria-label="Share on HackerNews"
         className="c0"
-        href="https://news.ycombinator.com/submitlink?u=&amp;t=http%3A%2F%2Fsharingbuttons.io"
+        href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&amp;t=I%20am%20so%20cool"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on HackerNews"
       >
         <styled.div
-          message="I am so cool"
           small={true}
         >
           <div

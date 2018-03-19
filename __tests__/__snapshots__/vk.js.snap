@@ -51,17 +51,16 @@ exports[`VK 1 1`] = `
   <ButtonFactory
     big={true}
     buttonComponent={[Function]}
-    href="http://vk.com/share.php?title=http%3A%2F%2Fsharingbuttons.io&amp;url="
+    href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="VK"
     solidcircle={true}
   >
     <styled.a
       aria-label="Share on VK"
-      href="http://vk.com/share.php?title=http%3A%2F%2Fsharingbuttons.io&amp;url="
+      href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on VK"
@@ -69,13 +68,12 @@ exports[`VK 1 1`] = `
       <a
         aria-label="Share on VK"
         className="c0"
-        href="http://vk.com/share.php?title=http%3A%2F%2Fsharingbuttons.io&amp;url="
+        href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on VK"
       >
         <styled.div
-          message="I am so cool"
           solidcircle={true}
         >
           <div
@@ -161,18 +159,17 @@ exports[`VK 2 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="http://vk.com/share.php?title=http%3A%2F%2Fsharingbuttons.io&amp;url="
+    href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     medium={true}
-    message="I am so cool"
     name="VK"
     solidcircle={true}
   >
     <styled.a
       aria-label="Share on VK"
-      href="http://vk.com/share.php?title=http%3A%2F%2Fsharingbuttons.io&amp;url="
+      href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on VK"
@@ -180,13 +177,12 @@ exports[`VK 2 1`] = `
       <a
         aria-label="Share on VK"
         className="c0"
-        href="http://vk.com/share.php?title=http%3A%2F%2Fsharingbuttons.io&amp;url="
+        href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on VK"
       >
         <styled.div
-          message="I am so cool"
           solidcircle={true}
         >
           <div
@@ -272,18 +268,17 @@ exports[`VK 3 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="http://vk.com/share.php?title=http%3A%2F%2Fsharingbuttons.io&amp;url="
+    href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="VK"
     small={true}
     solidcircle={true}
   >
     <styled.a
       aria-label="Share on VK"
-      href="http://vk.com/share.php?title=http%3A%2F%2Fsharingbuttons.io&amp;url="
+      href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on VK"
@@ -291,13 +286,12 @@ exports[`VK 3 1`] = `
       <a
         aria-label="Share on VK"
         className="c0"
-        href="http://vk.com/share.php?title=http%3A%2F%2Fsharingbuttons.io&amp;url="
+        href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on VK"
       >
         <styled.div
-          message="I am so cool"
           small={true}
           solidcircle={true}
         >
@@ -381,16 +375,15 @@ exports[`VK 4 1`] = `
     big={true}
     buttonComponent={[Function]}
     circle={true}
-    href="http://vk.com/share.php?title=http%3A%2F%2Fsharingbuttons.io&amp;url="
+    href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="VK"
   >
     <styled.a
       aria-label="Share on VK"
-      href="http://vk.com/share.php?title=http%3A%2F%2Fsharingbuttons.io&amp;url="
+      href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on VK"
@@ -398,14 +391,12 @@ exports[`VK 4 1`] = `
       <a
         aria-label="Share on VK"
         className="c0"
-        href="http://vk.com/share.php?title=http%3A%2F%2Fsharingbuttons.io&amp;url="
+        href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on VK"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -493,17 +484,16 @@ exports[`VK 5 1`] = `
   <ButtonFactory
     buttonComponent={[Function]}
     circle={true}
-    href="http://vk.com/share.php?title=http%3A%2F%2Fsharingbuttons.io&amp;url="
+    href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     medium={true}
-    message="I am so cool"
     name="VK"
   >
     <styled.a
       aria-label="Share on VK"
-      href="http://vk.com/share.php?title=http%3A%2F%2Fsharingbuttons.io&amp;url="
+      href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on VK"
@@ -511,14 +501,12 @@ exports[`VK 5 1`] = `
       <a
         aria-label="Share on VK"
         className="c0"
-        href="http://vk.com/share.php?title=http%3A%2F%2Fsharingbuttons.io&amp;url="
+        href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on VK"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -606,17 +594,16 @@ exports[`VK 6 1`] = `
   <ButtonFactory
     buttonComponent={[Function]}
     circle={true}
-    href="http://vk.com/share.php?title=http%3A%2F%2Fsharingbuttons.io&amp;url="
+    href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="VK"
     small={true}
   >
     <styled.a
       aria-label="Share on VK"
-      href="http://vk.com/share.php?title=http%3A%2F%2Fsharingbuttons.io&amp;url="
+      href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on VK"
@@ -624,13 +611,12 @@ exports[`VK 6 1`] = `
       <a
         aria-label="Share on VK"
         className="c0"
-        href="http://vk.com/share.php?title=http%3A%2F%2Fsharingbuttons.io&amp;url="
+        href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on VK"
       >
         <styled.div
-          message="I am so cool"
           small={true}
         >
           <div
@@ -719,17 +705,16 @@ exports[`VK 7 1`] = `
   <ButtonFactory
     big={true}
     buttonComponent={[Function]}
-    href="http://vk.com/share.php?title=http%3A%2F%2Fsharingbuttons.io&amp;url="
+    href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="VK"
     solid={true}
   >
     <styled.a
       aria-label="Share on VK"
-      href="http://vk.com/share.php?title=http%3A%2F%2Fsharingbuttons.io&amp;url="
+      href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on VK"
@@ -737,14 +722,12 @@ exports[`VK 7 1`] = `
       <a
         aria-label="Share on VK"
         className="c0"
-        href="http://vk.com/share.php?title=http%3A%2F%2Fsharingbuttons.io&amp;url="
+        href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on VK"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -828,18 +811,17 @@ exports[`VK 8 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="http://vk.com/share.php?title=http%3A%2F%2Fsharingbuttons.io&amp;url="
+    href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     medium={true}
-    message="I am so cool"
     name="VK"
     solid={true}
   >
     <styled.a
       aria-label="Share on VK"
-      href="http://vk.com/share.php?title=http%3A%2F%2Fsharingbuttons.io&amp;url="
+      href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on VK"
@@ -847,14 +829,12 @@ exports[`VK 8 1`] = `
       <a
         aria-label="Share on VK"
         className="c0"
-        href="http://vk.com/share.php?title=http%3A%2F%2Fsharingbuttons.io&amp;url="
+        href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on VK"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -938,18 +918,17 @@ exports[`VK 9 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="http://vk.com/share.php?title=http%3A%2F%2Fsharingbuttons.io&amp;url="
+    href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="VK"
     small={true}
     solid={true}
   >
     <styled.a
       aria-label="Share on VK"
-      href="http://vk.com/share.php?title=http%3A%2F%2Fsharingbuttons.io&amp;url="
+      href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on VK"
@@ -957,13 +936,12 @@ exports[`VK 9 1`] = `
       <a
         aria-label="Share on VK"
         className="c0"
-        href="http://vk.com/share.php?title=http%3A%2F%2Fsharingbuttons.io&amp;url="
+        href="http://vk.com/share.php?title=I%20am%20so%20cool&amp;url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on VK"
       >
         <styled.div
-          message="I am so cool"
           small={true}
         >
           <div

@@ -16,11 +16,11 @@ const VK = SharingButton.extend`
   }
 `
 
-export default ({ link, ...props }) => (
+export default ({ link, message, ...props }) => (
   <ButtonFactory
     {...props}
     name="VK"
-    href={links.vk(link)}
+    href={links.vk(link, message)}
     buttonComponent={VK}
     iconFill={VKIconFill}
     iconCircle={VKIconCircle}

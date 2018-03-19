@@ -20,11 +20,11 @@ const Hacker = SharingButton.extend`
   }
 `
 
-export default ({ link, ...props }) => (
+export default ({ link, message, ...props }) => (
   <ButtonFactory
     {...props}
     name="HackerNews"
-    href={links.hacker(link)}
+    href={links.hacker(link, message)}
     buttonComponent={Hacker}
     iconFill={HackerIconFill}
     iconCircle={HackerIconCircle}

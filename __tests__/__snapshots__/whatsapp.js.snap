@@ -51,17 +51,16 @@ exports[`Whatsapp 1 1`] = `
   <ButtonFactory
     big={true}
     buttonComponent={[Function]}
-    href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+    href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="WhatsApp"
     solidcircle={true}
   >
     <styled.a
       aria-label="Share on WhatsApp"
-      href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+      href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on WhatsApp"
@@ -69,13 +68,12 @@ exports[`Whatsapp 1 1`] = `
       <a
         aria-label="Share on WhatsApp"
         className="c0"
-        href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+        href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on WhatsApp"
       >
         <styled.div
-          message="I am so cool"
           solidcircle={true}
         >
           <div
@@ -163,18 +161,17 @@ exports[`Whatsapp 2 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+    href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     medium={true}
-    message="I am so cool"
     name="WhatsApp"
     solidcircle={true}
   >
     <styled.a
       aria-label="Share on WhatsApp"
-      href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+      href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on WhatsApp"
@@ -182,13 +179,12 @@ exports[`Whatsapp 2 1`] = `
       <a
         aria-label="Share on WhatsApp"
         className="c0"
-        href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+        href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on WhatsApp"
       >
         <styled.div
-          message="I am so cool"
           solidcircle={true}
         >
           <div
@@ -276,18 +272,17 @@ exports[`Whatsapp 3 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+    href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="WhatsApp"
     small={true}
     solidcircle={true}
   >
     <styled.a
       aria-label="Share on WhatsApp"
-      href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+      href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on WhatsApp"
@@ -295,13 +290,12 @@ exports[`Whatsapp 3 1`] = `
       <a
         aria-label="Share on WhatsApp"
         className="c0"
-        href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+        href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on WhatsApp"
       >
         <styled.div
-          message="I am so cool"
           small={true}
           solidcircle={true}
         >
@@ -387,16 +381,15 @@ exports[`Whatsapp 4 1`] = `
     big={true}
     buttonComponent={[Function]}
     circle={true}
-    href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+    href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="WhatsApp"
   >
     <styled.a
       aria-label="Share on WhatsApp"
-      href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+      href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on WhatsApp"
@@ -404,14 +397,12 @@ exports[`Whatsapp 4 1`] = `
       <a
         aria-label="Share on WhatsApp"
         className="c0"
-        href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+        href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on WhatsApp"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -500,17 +491,16 @@ exports[`Whatsapp 5 1`] = `
   <ButtonFactory
     buttonComponent={[Function]}
     circle={true}
-    href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+    href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     medium={true}
-    message="I am so cool"
     name="WhatsApp"
   >
     <styled.a
       aria-label="Share on WhatsApp"
-      href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+      href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on WhatsApp"
@@ -518,14 +508,12 @@ exports[`Whatsapp 5 1`] = `
       <a
         aria-label="Share on WhatsApp"
         className="c0"
-        href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+        href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on WhatsApp"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -614,17 +602,16 @@ exports[`Whatsapp 6 1`] = `
   <ButtonFactory
     buttonComponent={[Function]}
     circle={true}
-    href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+    href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="WhatsApp"
     small={true}
   >
     <styled.a
       aria-label="Share on WhatsApp"
-      href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+      href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on WhatsApp"
@@ -632,13 +619,12 @@ exports[`Whatsapp 6 1`] = `
       <a
         aria-label="Share on WhatsApp"
         className="c0"
-        href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+        href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on WhatsApp"
       >
         <styled.div
-          message="I am so cool"
           small={true}
         >
           <div
@@ -728,17 +714,16 @@ exports[`Whatsapp 7 1`] = `
   <ButtonFactory
     big={true}
     buttonComponent={[Function]}
-    href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+    href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="WhatsApp"
     solid={true}
   >
     <styled.a
       aria-label="Share on WhatsApp"
-      href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+      href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on WhatsApp"
@@ -746,14 +731,12 @@ exports[`Whatsapp 7 1`] = `
       <a
         aria-label="Share on WhatsApp"
         className="c0"
-        href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+        href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on WhatsApp"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -837,18 +820,17 @@ exports[`Whatsapp 8 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+    href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     medium={true}
-    message="I am so cool"
     name="WhatsApp"
     solid={true}
   >
     <styled.a
       aria-label="Share on WhatsApp"
-      href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+      href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on WhatsApp"
@@ -856,14 +838,12 @@ exports[`Whatsapp 8 1`] = `
       <a
         aria-label="Share on WhatsApp"
         className="c0"
-        href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+        href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on WhatsApp"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -947,18 +927,17 @@ exports[`Whatsapp 9 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+    href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="WhatsApp"
     small={true}
     solid={true}
   >
     <styled.a
       aria-label="Share on WhatsApp"
-      href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+      href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on WhatsApp"
@@ -966,13 +945,12 @@ exports[`Whatsapp 9 1`] = `
       <a
         aria-label="Share on WhatsApp"
         className="c0"
-        href="whatsapp://send?text=http%3A%2F%2Fsharingbuttons.io%20"
+        href="whatsapp://send?text=I%20am%20so%20cool%20http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on WhatsApp"
       >
         <styled.div
-          message="I am so cool"
           small={true}
         >
           <div

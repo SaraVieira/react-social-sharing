@@ -51,17 +51,16 @@ exports[`Pinterest 1 1`] = `
   <ButtonFactory
     big={true}
     buttonComponent={[Function]}
-    href="https://pinterest.com/pin/create/button/?url=&amp;media=&amp;description=http%3A%2F%2Fsharingbuttons.io"
+    href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&amp;media=http%3A%2F%2Fsharingbuttons.io&amp;description=I%20am%20so%20cool"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="Pinterest"
     solidcircle={true}
   >
     <styled.a
       aria-label="Share on Pinterest"
-      href="https://pinterest.com/pin/create/button/?url=&amp;media=&amp;description=http%3A%2F%2Fsharingbuttons.io"
+      href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&amp;media=http%3A%2F%2Fsharingbuttons.io&amp;description=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Pinterest"
@@ -69,13 +68,12 @@ exports[`Pinterest 1 1`] = `
       <a
         aria-label="Share on Pinterest"
         className="c0"
-        href="https://pinterest.com/pin/create/button/?url=&amp;media=&amp;description=http%3A%2F%2Fsharingbuttons.io"
+        href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&amp;media=http%3A%2F%2Fsharingbuttons.io&amp;description=I%20am%20so%20cool"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Pinterest"
       >
         <styled.div
-          message="I am so cool"
           solidcircle={true}
         >
           <div
@@ -161,18 +159,17 @@ exports[`Pinterest 2 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="https://pinterest.com/pin/create/button/?url=&amp;media=&amp;description=http%3A%2F%2Fsharingbuttons.io"
+    href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&amp;media=http%3A%2F%2Fsharingbuttons.io&amp;description=I%20am%20so%20cool"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     medium={true}
-    message="I am so cool"
     name="Pinterest"
     solidcircle={true}
   >
     <styled.a
       aria-label="Share on Pinterest"
-      href="https://pinterest.com/pin/create/button/?url=&amp;media=&amp;description=http%3A%2F%2Fsharingbuttons.io"
+      href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&amp;media=http%3A%2F%2Fsharingbuttons.io&amp;description=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Pinterest"
@@ -180,13 +177,12 @@ exports[`Pinterest 2 1`] = `
       <a
         aria-label="Share on Pinterest"
         className="c0"
-        href="https://pinterest.com/pin/create/button/?url=&amp;media=&amp;description=http%3A%2F%2Fsharingbuttons.io"
+        href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&amp;media=http%3A%2F%2Fsharingbuttons.io&amp;description=I%20am%20so%20cool"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Pinterest"
       >
         <styled.div
-          message="I am so cool"
           solidcircle={true}
         >
           <div
@@ -272,18 +268,17 @@ exports[`Pinterest 3 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="https://pinterest.com/pin/create/button/?url=&amp;media=&amp;description=http%3A%2F%2Fsharingbuttons.io"
+    href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&amp;media=http%3A%2F%2Fsharingbuttons.io&amp;description=I%20am%20so%20cool"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="Pinterest"
     small={true}
     solidcircle={true}
   >
     <styled.a
       aria-label="Share on Pinterest"
-      href="https://pinterest.com/pin/create/button/?url=&amp;media=&amp;description=http%3A%2F%2Fsharingbuttons.io"
+      href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&amp;media=http%3A%2F%2Fsharingbuttons.io&amp;description=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Pinterest"
@@ -291,13 +286,12 @@ exports[`Pinterest 3 1`] = `
       <a
         aria-label="Share on Pinterest"
         className="c0"
-        href="https://pinterest.com/pin/create/button/?url=&amp;media=&amp;description=http%3A%2F%2Fsharingbuttons.io"
+        href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&amp;media=http%3A%2F%2Fsharingbuttons.io&amp;description=I%20am%20so%20cool"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Pinterest"
       >
         <styled.div
-          message="I am so cool"
           small={true}
           solidcircle={true}
         >
@@ -381,16 +375,15 @@ exports[`Pinterest 4 1`] = `
     big={true}
     buttonComponent={[Function]}
     circle={true}
-    href="https://pinterest.com/pin/create/button/?url=&amp;media=&amp;description=http%3A%2F%2Fsharingbuttons.io"
+    href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&amp;media=http%3A%2F%2Fsharingbuttons.io&amp;description=I%20am%20so%20cool"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="Pinterest"
   >
     <styled.a
       aria-label="Share on Pinterest"
-      href="https://pinterest.com/pin/create/button/?url=&amp;media=&amp;description=http%3A%2F%2Fsharingbuttons.io"
+      href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&amp;media=http%3A%2F%2Fsharingbuttons.io&amp;description=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Pinterest"
@@ -398,14 +391,12 @@ exports[`Pinterest 4 1`] = `
       <a
         aria-label="Share on Pinterest"
         className="c0"
-        href="https://pinterest.com/pin/create/button/?url=&amp;media=&amp;description=http%3A%2F%2Fsharingbuttons.io"
+        href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&amp;media=http%3A%2F%2Fsharingbuttons.io&amp;description=I%20am%20so%20cool"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Pinterest"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -492,17 +483,16 @@ exports[`Pinterest 5 1`] = `
   <ButtonFactory
     buttonComponent={[Function]}
     circle={true}
-    href="https://pinterest.com/pin/create/button/?url=&amp;media=&amp;description=http%3A%2F%2Fsharingbuttons.io"
+    href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&amp;media=http%3A%2F%2Fsharingbuttons.io&amp;description=I%20am%20so%20cool"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     medium={true}
-    message="I am so cool"
     name="Pinterest"
   >
     <styled.a
       aria-label="Share on Pinterest"
-      href="https://pinterest.com/pin/create/button/?url=&amp;media=&amp;description=http%3A%2F%2Fsharingbuttons.io"
+      href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&amp;media=http%3A%2F%2Fsharingbuttons.io&amp;description=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Pinterest"
@@ -510,14 +500,12 @@ exports[`Pinterest 5 1`] = `
       <a
         aria-label="Share on Pinterest"
         className="c0"
-        href="https://pinterest.com/pin/create/button/?url=&amp;media=&amp;description=http%3A%2F%2Fsharingbuttons.io"
+        href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&amp;media=http%3A%2F%2Fsharingbuttons.io&amp;description=I%20am%20so%20cool"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Pinterest"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -604,17 +592,16 @@ exports[`Pinterest 6 1`] = `
   <ButtonFactory
     buttonComponent={[Function]}
     circle={true}
-    href="https://pinterest.com/pin/create/button/?url=&amp;media=&amp;description=http%3A%2F%2Fsharingbuttons.io"
+    href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&amp;media=http%3A%2F%2Fsharingbuttons.io&amp;description=I%20am%20so%20cool"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="Pinterest"
     small={true}
   >
     <styled.a
       aria-label="Share on Pinterest"
-      href="https://pinterest.com/pin/create/button/?url=&amp;media=&amp;description=http%3A%2F%2Fsharingbuttons.io"
+      href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&amp;media=http%3A%2F%2Fsharingbuttons.io&amp;description=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Pinterest"
@@ -622,13 +609,12 @@ exports[`Pinterest 6 1`] = `
       <a
         aria-label="Share on Pinterest"
         className="c0"
-        href="https://pinterest.com/pin/create/button/?url=&amp;media=&amp;description=http%3A%2F%2Fsharingbuttons.io"
+        href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&amp;media=http%3A%2F%2Fsharingbuttons.io&amp;description=I%20am%20so%20cool"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Pinterest"
       >
         <styled.div
-          message="I am so cool"
           small={true}
         >
           <div
@@ -716,17 +702,16 @@ exports[`Pinterest 7 1`] = `
   <ButtonFactory
     big={true}
     buttonComponent={[Function]}
-    href="https://pinterest.com/pin/create/button/?url=&amp;media=&amp;description=http%3A%2F%2Fsharingbuttons.io"
+    href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&amp;media=http%3A%2F%2Fsharingbuttons.io&amp;description=I%20am%20so%20cool"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="Pinterest"
     solid={true}
   >
     <styled.a
       aria-label="Share on Pinterest"
-      href="https://pinterest.com/pin/create/button/?url=&amp;media=&amp;description=http%3A%2F%2Fsharingbuttons.io"
+      href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&amp;media=http%3A%2F%2Fsharingbuttons.io&amp;description=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Pinterest"
@@ -734,14 +719,12 @@ exports[`Pinterest 7 1`] = `
       <a
         aria-label="Share on Pinterest"
         className="c0"
-        href="https://pinterest.com/pin/create/button/?url=&amp;media=&amp;description=http%3A%2F%2Fsharingbuttons.io"
+        href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&amp;media=http%3A%2F%2Fsharingbuttons.io&amp;description=I%20am%20so%20cool"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Pinterest"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -825,18 +808,17 @@ exports[`Pinterest 8 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="https://pinterest.com/pin/create/button/?url=&amp;media=&amp;description=http%3A%2F%2Fsharingbuttons.io"
+    href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&amp;media=http%3A%2F%2Fsharingbuttons.io&amp;description=I%20am%20so%20cool"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     medium={true}
-    message="I am so cool"
     name="Pinterest"
     solid={true}
   >
     <styled.a
       aria-label="Share on Pinterest"
-      href="https://pinterest.com/pin/create/button/?url=&amp;media=&amp;description=http%3A%2F%2Fsharingbuttons.io"
+      href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&amp;media=http%3A%2F%2Fsharingbuttons.io&amp;description=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Pinterest"
@@ -844,14 +826,12 @@ exports[`Pinterest 8 1`] = `
       <a
         aria-label="Share on Pinterest"
         className="c0"
-        href="https://pinterest.com/pin/create/button/?url=&amp;media=&amp;description=http%3A%2F%2Fsharingbuttons.io"
+        href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&amp;media=http%3A%2F%2Fsharingbuttons.io&amp;description=I%20am%20so%20cool"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Pinterest"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -935,18 +915,17 @@ exports[`Pinterest 9 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="https://pinterest.com/pin/create/button/?url=&amp;media=&amp;description=http%3A%2F%2Fsharingbuttons.io"
+    href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&amp;media=http%3A%2F%2Fsharingbuttons.io&amp;description=I%20am%20so%20cool"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="Pinterest"
     small={true}
     solid={true}
   >
     <styled.a
       aria-label="Share on Pinterest"
-      href="https://pinterest.com/pin/create/button/?url=&amp;media=&amp;description=http%3A%2F%2Fsharingbuttons.io"
+      href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&amp;media=http%3A%2F%2Fsharingbuttons.io&amp;description=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Pinterest"
@@ -954,13 +933,12 @@ exports[`Pinterest 9 1`] = `
       <a
         aria-label="Share on Pinterest"
         className="c0"
-        href="https://pinterest.com/pin/create/button/?url=&amp;media=&amp;description=http%3A%2F%2Fsharingbuttons.io"
+        href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&amp;media=http%3A%2F%2Fsharingbuttons.io&amp;description=I%20am%20so%20cool"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Pinterest"
       >
         <styled.div
-          message="I am so cool"
           small={true}
         >
           <div

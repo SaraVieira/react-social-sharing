@@ -20,11 +20,11 @@ const Xing = SharingButton.extend`
   }
 `
 
-export default ({ link, ...props }) => (
+export default ({ link, message, ...props }) => (
   <ButtonFactory
     {...props}
     name="Xing"
-    href={links.xing(link)}
+    href={links.xing(link, message)}
     buttonComponent={Xing}
     iconFill={XingIconFill}
     iconCircle={XingIconCircle}

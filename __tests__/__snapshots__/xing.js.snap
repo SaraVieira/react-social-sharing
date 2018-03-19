@@ -51,17 +51,16 @@ exports[`Xing 1 1`] = `
   <ButtonFactory
     big={true}
     buttonComponent={[Function]}
-    href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+    href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="Xing"
     solidcircle={true}
   >
     <styled.a
       aria-label="Share on Xing"
-      href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+      href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Xing"
@@ -69,13 +68,12 @@ exports[`Xing 1 1`] = `
       <a
         aria-label="Share on Xing"
         className="c0"
-        href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+        href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Xing"
       >
         <styled.div
-          message="I am so cool"
           solidcircle={true}
         >
           <div
@@ -161,18 +159,17 @@ exports[`Xing 2 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+    href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     medium={true}
-    message="I am so cool"
     name="Xing"
     solidcircle={true}
   >
     <styled.a
       aria-label="Share on Xing"
-      href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+      href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Xing"
@@ -180,13 +177,12 @@ exports[`Xing 2 1`] = `
       <a
         aria-label="Share on Xing"
         className="c0"
-        href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+        href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Xing"
       >
         <styled.div
-          message="I am so cool"
           solidcircle={true}
         >
           <div
@@ -272,18 +268,17 @@ exports[`Xing 3 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+    href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="Xing"
     small={true}
     solidcircle={true}
   >
     <styled.a
       aria-label="Share on Xing"
-      href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+      href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Xing"
@@ -291,13 +286,12 @@ exports[`Xing 3 1`] = `
       <a
         aria-label="Share on Xing"
         className="c0"
-        href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+        href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Xing"
       >
         <styled.div
-          message="I am so cool"
           small={true}
           solidcircle={true}
         >
@@ -381,16 +375,15 @@ exports[`Xing 4 1`] = `
     big={true}
     buttonComponent={[Function]}
     circle={true}
-    href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+    href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="Xing"
   >
     <styled.a
       aria-label="Share on Xing"
-      href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+      href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Xing"
@@ -398,14 +391,12 @@ exports[`Xing 4 1`] = `
       <a
         aria-label="Share on Xing"
         className="c0"
-        href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+        href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Xing"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -492,17 +483,16 @@ exports[`Xing 5 1`] = `
   <ButtonFactory
     buttonComponent={[Function]}
     circle={true}
-    href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+    href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     medium={true}
-    message="I am so cool"
     name="Xing"
   >
     <styled.a
       aria-label="Share on Xing"
-      href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+      href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Xing"
@@ -510,14 +500,12 @@ exports[`Xing 5 1`] = `
       <a
         aria-label="Share on Xing"
         className="c0"
-        href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+        href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Xing"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -604,17 +592,16 @@ exports[`Xing 6 1`] = `
   <ButtonFactory
     buttonComponent={[Function]}
     circle={true}
-    href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+    href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="Xing"
     small={true}
   >
     <styled.a
       aria-label="Share on Xing"
-      href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+      href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Xing"
@@ -622,13 +609,12 @@ exports[`Xing 6 1`] = `
       <a
         aria-label="Share on Xing"
         className="c0"
-        href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+        href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Xing"
       >
         <styled.div
-          message="I am so cool"
           small={true}
         >
           <div
@@ -716,17 +702,16 @@ exports[`Xing 7 1`] = `
   <ButtonFactory
     big={true}
     buttonComponent={[Function]}
-    href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+    href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="Xing"
     solid={true}
   >
     <styled.a
       aria-label="Share on Xing"
-      href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+      href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Xing"
@@ -734,14 +719,12 @@ exports[`Xing 7 1`] = `
       <a
         aria-label="Share on Xing"
         className="c0"
-        href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+        href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Xing"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -825,18 +808,17 @@ exports[`Xing 8 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+    href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     medium={true}
-    message="I am so cool"
     name="Xing"
     solid={true}
   >
     <styled.a
       aria-label="Share on Xing"
-      href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+      href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Xing"
@@ -844,14 +826,12 @@ exports[`Xing 8 1`] = `
       <a
         aria-label="Share on Xing"
         className="c0"
-        href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+        href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Xing"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -935,18 +915,17 @@ exports[`Xing 9 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+    href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="Xing"
     small={true}
     solid={true}
   >
     <styled.a
       aria-label="Share on Xing"
-      href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+      href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Xing"
@@ -954,13 +933,12 @@ exports[`Xing 9 1`] = `
       <a
         aria-label="Share on Xing"
         className="c0"
-        href="https://www.xing.com/app/user?op=share;url=;title=http%3A%2F%2Fsharingbuttons.io."
+        href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Xing"
       >
         <styled.div
-          message="I am so cool"
           small={true}
         >
           <div
