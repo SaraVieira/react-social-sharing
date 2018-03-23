@@ -16,11 +16,11 @@ const Twitter = SharingButton.extend`
   }
 `
 
-export default ({ link, ...props }) => (
+export default ({ link, message, ...props }) => (
   <ButtonFactory
     {...props}
     name="Twitter"
-    href={links.twitter(link)}
+    href={links.twitter(link, message)}
     buttonComponent={Twitter}
     iconFill={TwitterIconFill}
     iconCircle={TwitterIconCircle}

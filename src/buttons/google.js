@@ -16,12 +16,12 @@ const Google = SharingButton.extend`
   }
 `
 
-export default ({ link, ...props }) => (
+export default ({ link, message, ...props }) => (
   <ButtonFactory
     {...props}
     name="Google +"
     ariaName="Google Plus"
-    href={links.google(link)}
+    href={links.google(link, message)}
     buttonComponent={Google}
     iconFill={GoogleIconFill}
     iconCircle={GoogleIconCircle}

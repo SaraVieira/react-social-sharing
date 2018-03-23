@@ -20,11 +20,11 @@ const Linkedin = SharingButton.extend`
   }
 `
 
-export default ({ link, ...props }) => (
+export default ({ link, message, ...props }) => (
   <ButtonFactory
     {...props}
     name="LinkedIn"
-    href={links.linkedin(link)}
+    href={links.linkedin(link, message)}
     buttonComponent={Linkedin}
     iconFill={LinkedinIconFill}
     iconCircle={LinkedinIconCircle}

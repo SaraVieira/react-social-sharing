@@ -20,11 +20,11 @@ const Email = SharingButton.extend`
   }
 `
 
-export default ({ link, ...props }) => (
+export default ({ link, message, ...props }) => (
   <ButtonFactory
     {...props}
     name="E-mail"
-    href={links.mail(link)}
+    href={links.mail(link, message)}
     buttonComponent={Email}
     iconFill={EmailIconFill}
     iconCircle={EmailIconCircle}

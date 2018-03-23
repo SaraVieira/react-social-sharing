@@ -1,5 +1,5 @@
 export default {
-  twitter: (message, link) =>
+  twitter: (link, message) =>
     `https://twitter.com/intent/tweet/?text=${encodeURIComponent(
       message || ''
     )}.&amp;url=${encodeURIComponent(link || '')}`,
@@ -15,7 +15,7 @@ export default {
     )}`,
   reddit: link =>
     `https://reddit.com/submit/?url=${encodeURIComponent(link || '')}`,
-  whatsapp: (message, link) =>
+  whatsapp: (link, message) =>
     `whatsapp://send?text=${encodeURIComponent(message)}%20${encodeURIComponent(
       link || ''
     )}`,
@@ -23,29 +23,29 @@ export default {
     `https://telegram.me/share/url?text=${encodeURIComponent(
       message || ''
     )}&amp;url=${encodeURIComponent(link || '')}`,
-  vk: (message, link) =>
+  vk: (link, message) =>
     `http://vk.com/share.php?title=${encodeURIComponent(
       message || ''
     )}&amp;url=${encodeURIComponent(link || '')}`,
-  hacker: (message, link) =>
+  hacker: (link, message) =>
     `https://news.ycombinator.com/submitlink?u=${encodeURIComponent(
       link || ''
     )}&amp;t=${encodeURIComponent(message)}`,
-  xing: (message, link) =>
+  xing: (link, message) =>
     `https://www.xing.com/app/user?op=share;url=${encodeURIComponent(
       link || ''
     )};title=${encodeURIComponent(message)}.`,
-  mail: (message, link) =>
+  mail: (link, message) =>
     `mailto:?subject=${encodeURIComponent(
       message || ''
     )}.&amp;body=${encodeURIComponent(link || '')}`,
-  pinterest: (message, link) =>
+  pinterest: (link, message) =>
     `https://pinterest.com/pin/create/button/?url=${encodeURIComponent(
       link || ''
     )}&amp;media=${encodeURIComponent(
       link || ''
     )}&amp;description=${encodeURIComponent(message || '')}`,
-  linkedin: (message, link) =>
+  linkedin: (link, message) =>
     `https://www.linkedin.com/shareArticle?mini=true&amp;url=${encodeURIComponent(
       link || ''
     )}&amp;title=${encodeURIComponent(

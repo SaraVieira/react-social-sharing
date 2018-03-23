@@ -56,7 +56,6 @@ exports[`Google 1 1`] = `
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="Google +"
     solidcircle={true}
   >
@@ -76,7 +75,6 @@ exports[`Google 1 1`] = `
         title="Share on Google Plus"
       >
         <styled.div
-          message="I am so cool"
           solidcircle={true}
         >
           <div
@@ -171,7 +169,6 @@ exports[`Google 2 1`] = `
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     medium={true}
-    message="I am so cool"
     name="Google +"
     solidcircle={true}
   >
@@ -191,7 +188,6 @@ exports[`Google 2 1`] = `
         title="Share on Google Plus"
       >
         <styled.div
-          message="I am so cool"
           solidcircle={true}
         >
           <div
@@ -285,7 +281,6 @@ exports[`Google 3 1`] = `
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="Google +"
     small={true}
     solidcircle={true}
@@ -306,7 +301,6 @@ exports[`Google 3 1`] = `
         title="Share on Google Plus"
       >
         <styled.div
-          message="I am so cool"
           small={true}
           solidcircle={true}
         >
@@ -398,7 +392,6 @@ exports[`Google 4 1`] = `
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="Google +"
   >
     <styled.a
@@ -416,9 +409,7 @@ exports[`Google 4 1`] = `
         target="_blank"
         title="Share on Google Plus"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -509,7 +500,6 @@ exports[`Google 5 1`] = `
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     medium={true}
-    message="I am so cool"
     name="Google +"
   >
     <styled.a
@@ -527,9 +517,7 @@ exports[`Google 5 1`] = `
         target="_blank"
         title="Share on Google Plus"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -619,7 +607,6 @@ exports[`Google 6 1`] = `
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="Google +"
     small={true}
   >
@@ -639,7 +626,6 @@ exports[`Google 6 1`] = `
         title="Share on Google Plus"
       >
         <styled.div
-          message="I am so cool"
           small={true}
         >
           <div
@@ -730,7 +716,6 @@ exports[`Google 7 1`] = `
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="Google +"
     solid={true}
   >
@@ -749,9 +734,7 @@ exports[`Google 7 1`] = `
         target="_blank"
         title="Share on Google Plus"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -841,7 +824,6 @@ exports[`Google 8 1`] = `
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     medium={true}
-    message="I am so cool"
     name="Google +"
     solid={true}
   >
@@ -860,9 +842,7 @@ exports[`Google 8 1`] = `
         target="_blank"
         title="Share on Google Plus"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -951,7 +931,6 @@ exports[`Google 9 1`] = `
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="Google +"
     small={true}
     solid={true}
@@ -972,7 +951,6 @@ exports[`Google 9 1`] = `
         title="Share on Google Plus"
       >
         <styled.div
-          message="I am so cool"
           small={true}
         >
           <div

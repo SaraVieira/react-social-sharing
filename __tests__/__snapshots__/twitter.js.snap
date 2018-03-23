@@ -51,17 +51,16 @@ exports[`Twitter 1 1`] = `
   <ButtonFactory
     big={true}
     buttonComponent={[Function]}
-    href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
+    href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="Twitter"
     solidcircle={true}
   >
     <styled.a
       aria-label="Share on Twitter"
-      href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
+      href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Twitter"
@@ -69,13 +68,12 @@ exports[`Twitter 1 1`] = `
       <a
         aria-label="Share on Twitter"
         className="c0"
-        href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
+        href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Twitter"
       >
         <styled.div
-          message="I am so cool"
           solidcircle={true}
         >
           <div
@@ -161,18 +159,17 @@ exports[`Twitter 2 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
+    href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     medium={true}
-    message="I am so cool"
     name="Twitter"
     solidcircle={true}
   >
     <styled.a
       aria-label="Share on Twitter"
-      href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
+      href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Twitter"
@@ -180,13 +177,12 @@ exports[`Twitter 2 1`] = `
       <a
         aria-label="Share on Twitter"
         className="c0"
-        href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
+        href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Twitter"
       >
         <styled.div
-          message="I am so cool"
           solidcircle={true}
         >
           <div
@@ -272,18 +268,17 @@ exports[`Twitter 3 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
+    href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="Twitter"
     small={true}
     solidcircle={true}
   >
     <styled.a
       aria-label="Share on Twitter"
-      href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
+      href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Twitter"
@@ -291,13 +286,12 @@ exports[`Twitter 3 1`] = `
       <a
         aria-label="Share on Twitter"
         className="c0"
-        href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
+        href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Twitter"
       >
         <styled.div
-          message="I am so cool"
           small={true}
           solidcircle={true}
         >
@@ -381,16 +375,15 @@ exports[`Twitter 4 1`] = `
     big={true}
     buttonComponent={[Function]}
     circle={true}
-    href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
+    href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="Twitter"
   >
     <styled.a
       aria-label="Share on Twitter"
-      href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
+      href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Twitter"
@@ -398,14 +391,12 @@ exports[`Twitter 4 1`] = `
       <a
         aria-label="Share on Twitter"
         className="c0"
-        href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
+        href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Twitter"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -487,17 +478,16 @@ exports[`Twitter 5 1`] = `
   <ButtonFactory
     buttonComponent={[Function]}
     circle={true}
-    href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
+    href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     medium={true}
-    message="I am so cool"
     name="Twitter"
   >
     <styled.a
       aria-label="Share on Twitter"
-      href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
+      href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Twitter"
@@ -505,14 +495,12 @@ exports[`Twitter 5 1`] = `
       <a
         aria-label="Share on Twitter"
         className="c0"
-        href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
+        href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Twitter"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -594,17 +582,16 @@ exports[`Twitter 6 1`] = `
   <ButtonFactory
     buttonComponent={[Function]}
     circle={true}
-    href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
+    href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="Twitter"
     small={true}
   >
     <styled.a
       aria-label="Share on Twitter"
-      href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
+      href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Twitter"
@@ -612,13 +599,12 @@ exports[`Twitter 6 1`] = `
       <a
         aria-label="Share on Twitter"
         className="c0"
-        href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
+        href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Twitter"
       >
         <styled.div
-          message="I am so cool"
           small={true}
         >
           <div
@@ -701,17 +687,16 @@ exports[`Twitter 7 1`] = `
   <ButtonFactory
     big={true}
     buttonComponent={[Function]}
-    href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
+    href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="Twitter"
     solid={true}
   >
     <styled.a
       aria-label="Share on Twitter"
-      href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
+      href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Twitter"
@@ -719,14 +704,12 @@ exports[`Twitter 7 1`] = `
       <a
         aria-label="Share on Twitter"
         className="c0"
-        href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
+        href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Twitter"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -810,18 +793,17 @@ exports[`Twitter 8 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
+    href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     medium={true}
-    message="I am so cool"
     name="Twitter"
     solid={true}
   >
     <styled.a
       aria-label="Share on Twitter"
-      href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
+      href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Twitter"
@@ -829,14 +811,12 @@ exports[`Twitter 8 1`] = `
       <a
         aria-label="Share on Twitter"
         className="c0"
-        href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
+        href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Twitter"
       >
-        <styled.div
-          message="I am so cool"
-        >
+        <styled.div>
           <div
             className="c1"
           >
@@ -920,18 +900,17 @@ exports[`Twitter 9 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
+    href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
-    message="I am so cool"
     name="Twitter"
     small={true}
     solid={true}
   >
     <styled.a
       aria-label="Share on Twitter"
-      href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
+      href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Twitter"
@@ -939,13 +918,12 @@ exports[`Twitter 9 1`] = `
       <a
         aria-label="Share on Twitter"
         className="c0"
-        href="https://twitter.com/intent/tweet/?text=http%3A%2F%2Fsharingbuttons.io.&amp;url="
+        href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool.&amp;url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Twitter"
       >
         <styled.div
-          message="I am so cool"
           small={true}
         >
           <div

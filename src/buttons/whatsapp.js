@@ -20,11 +20,11 @@ const Whatsapp = SharingButton.extend`
   }
 `
 
-export default ({ link, ...props }) => (
+export default ({ link, message, ...props }) => (
   <ButtonFactory
     {...props}
     name="WhatsApp"
-    href={links.whatsapp(link)}
+    href={links.whatsapp(link, message)}
     buttonComponent={Whatsapp}
     iconFill={WhatsappIconFill}
     iconCircle={WhatsappIconCircle}
