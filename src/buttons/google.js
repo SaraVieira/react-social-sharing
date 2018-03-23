@@ -1,5 +1,4 @@
 import React from 'react'
-import is from 'styled-is'
 import ButtonFactory from './factory'
 import { GoogleIconFill, GoogleIconCircle } from '../svg/google.js'
 import { SharingButton } from '../common'

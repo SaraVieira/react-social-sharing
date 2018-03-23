@@ -1,5 +1,4 @@
 import React from 'react'
-import is from 'styled-is'
 import ButtonFactory from './factory'
 import { VKIconFill, VKIconCircle, VKIconCircleSolid } from '../svg/vk.js'
 import { SharingButton } from '../common'
