@@ -2,7 +2,7 @@
   "name": "react-social-sharing",
   "description": "React Social Sharing Components ( No extra JS )",
   "author": "Sara Vieira",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "scripts": {
     "start": "catalog start docs",
     "test": "jest && npm run test:lint",
@@ -11,10 +11,8 @@
     "test:watch": "jest --watch",
     "test:lint": "eslint . --ignore-path .gitignore",
     "build": "catalog build docs",
-    "dist:es6":
-      "del-cli ./dist-es6 && cross-env BABEL_ENV=es6 babel ./src --out-dir ./dist-es6",
-    "dist:modules":
-      "del-cli ./dist-modules && cross-env BABEL_ENV=modules babel ./src --out-dir ./dist-modules",
+    "dist:es6": "del-cli ./dist-es6 && cross-env BABEL_ENV=es6 babel ./src --out-dir ./dist-es6",
+    "dist:modules": "del-cli ./dist-modules && cross-env BABEL_ENV=modules babel ./src --out-dir ./dist-modules",
     "preversion": "npm run test",
     "prepublishOnly": "npm run dist:es6 && npm run dist:modules",
     "postinstall": "node lib/post_install.js",
@@ -68,15 +66,31 @@
     "url": "https://github.com/SaraVieira/react-social-sharing/issues"
   },
   "jest": {
-    "setupFiles": ["./lib/jestsetup.js"],
-    "snapshotSerializers": ["enzyme-to-json/serializer"],
+    "setupFiles": [
+      "./lib/jestsetup.js"
+    ],
+    "snapshotSerializers": [
+      "enzyme-to-json/serializer"
+    ],
     "collectCoverage": true,
-    "moduleFileExtensions": ["js", "jsx"],
-    "moduleDirectories": ["node_modules", "packages"]
+    "moduleFileExtensions": [
+      "js",
+      "jsx"
+    ],
+    "moduleDirectories": [
+      "node_modules",
+      "packages"
+    ]
   },
-  "keywords": ["react", "reactjs", "boilerplate"],
+  "keywords": [
+    "react",
+    "reactjs",
+    "boilerplate"
+  ],
   "license": "MIT",
-  "pre-push": ["test"],
+  "pre-push": [
+    "test"
+  ],
   "dependencies": {
     "jest": "^22.3.0",
     "styled-components": "^3.1.6",
