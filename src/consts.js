@@ -2,7 +2,7 @@ export default {
   twitter: (link, message) =>
     `https://twitter.com/intent/tweet/?text=${encodeURIComponent(
       message || ''
-    )}.&url=${encodeURIComponent(link || '')}`,
+    )}&url=${encodeURIComponent(link || '')}`,
   facebook: link =>
     `https://facebook.com/sharer/sharer.php?u=${encodeURIComponent(
       link || ''
@@ -38,7 +38,7 @@ export default {
   mail: (link, message) =>
     `mailto:?subject=${encodeURIComponent(
       message || ''
-    )}.&body=${encodeURIComponent(link || '')}`,
+    )}&body=${encodeURIComponent(link || '')}`,
   pinterest: (link, message) =>
     `https://pinterest.com/pin/create/button/?url=${encodeURIComponent(
       link || ''
@@ -48,7 +48,7 @@ export default {
   linkedin: (link, message) =>
     `https://www.linkedin.com/shareArticle?mini=true&url=${encodeURIComponent(
       link || ''
-    )}&title=${encodeURIComponent(message || '')}.&summary=${encodeURIComponent(
+    )}&title=${encodeURIComponent(message || '')}&summary=${encodeURIComponent(
       message || ''
-    )}.&source=${encodeURIComponent(link || '')}`
+    )}&source=${encodeURIComponent(link || '')}`
 }
