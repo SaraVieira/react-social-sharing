@@ -42,15 +42,13 @@ export default {
   pinterest: (link, message) =>
     `https://pinterest.com/pin/create/button/?url=${encodeURIComponent(
       link || ''
-    )}&media=${encodeURIComponent(
-      link || ''
-    )}&description=${encodeURIComponent(message || '')}`,
+    )}&media=${encodeURIComponent(link || '')}&description=${encodeURIComponent(
+      message || ''
+    )}`,
   linkedin: (link, message) =>
     `https://www.linkedin.com/shareArticle?mini=true&url=${encodeURIComponent(
       link || ''
-    )}&title=${encodeURIComponent(
-      message || ''
-    )}.&summary=${encodeURIComponent(
+    )}&title=${encodeURIComponent(message || '')}.&summary=${encodeURIComponent(
       message || ''
     )}.&source=${encodeURIComponent(link || '')}`
 }
