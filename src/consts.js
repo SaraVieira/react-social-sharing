@@ -2,7 +2,7 @@ export default {
   twitter: (link, message) =>
     `https://twitter.com/intent/tweet/?text=${encodeURIComponent(
       message || ''
-    )}.&amp;url=${encodeURIComponent(link || '')}`,
+    )}.&url=${encodeURIComponent(link || '')}`,
   facebook: link =>
     `https://facebook.com/sharer/sharer.php?u=${encodeURIComponent(
       link || ''
@@ -22,15 +22,15 @@ export default {
   telegram: (link, message) =>
     `https://telegram.me/share/url?text=${encodeURIComponent(
       message || ''
-    )}&amp;url=${encodeURIComponent(link || '')}`,
+    )}&url=${encodeURIComponent(link || '')}`,
   vk: (link, message) =>
     `http://vk.com/share.php?title=${encodeURIComponent(
       message || ''
-    )}&amp;url=${encodeURIComponent(link || '')}`,
+    )}&url=${encodeURIComponent(link || '')}`,
   hacker: (link, message) =>
     `https://news.ycombinator.com/submitlink?u=${encodeURIComponent(
       link || ''
-    )}&amp;t=${encodeURIComponent(message)}`,
+    )}&t=${encodeURIComponent(message)}`,
   xing: (link, message) =>
     `https://www.xing.com/app/user?op=share;url=${encodeURIComponent(
       link || ''
@@ -38,19 +38,19 @@ export default {
   mail: (link, message) =>
     `mailto:?subject=${encodeURIComponent(
       message || ''
-    )}.&amp;body=${encodeURIComponent(link || '')}`,
+    )}.&body=${encodeURIComponent(link || '')}`,
   pinterest: (link, message) =>
     `https://pinterest.com/pin/create/button/?url=${encodeURIComponent(
       link || ''
-    )}&amp;media=${encodeURIComponent(
+    )}&media=${encodeURIComponent(
       link || ''
-    )}&amp;description=${encodeURIComponent(message || '')}`,
+    )}&description=${encodeURIComponent(message || '')}`,
   linkedin: (link, message) =>
-    `https://www.linkedin.com/shareArticle?mini=true&amp;url=${encodeURIComponent(
+    `https://www.linkedin.com/shareArticle?mini=true&url=${encodeURIComponent(
       link || ''
-    )}&amp;title=${encodeURIComponent(
+    )}&title=${encodeURIComponent(
       message || ''
-    )}.&amp;summary=${encodeURIComponent(
+    )}.&summary=${encodeURIComponent(
       message || ''
-    )}.&amp;source=${encodeURIComponent(link || '')}`
+    )}.&source=${encodeURIComponent(link || '')}`
 }

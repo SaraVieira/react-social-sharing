@@ -51,7 +51,7 @@ exports[`Telegram 1 1`] = `
   <ButtonFactory
     big={true}
     buttonComponent={[Function]}
-    href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+    href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -61,7 +61,7 @@ exports[`Telegram 1 1`] = `
   >
     <styled.a
       aria-label="Share on Telegram"
-      href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+      href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Telegram"
@@ -69,7 +69,7 @@ exports[`Telegram 1 1`] = `
       <a
         aria-label="Share on Telegram"
         className="c0"
-        href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+        href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Telegram"
@@ -162,7 +162,7 @@ exports[`Telegram 2 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+    href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -173,7 +173,7 @@ exports[`Telegram 2 1`] = `
   >
     <styled.a
       aria-label="Share on Telegram"
-      href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+      href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Telegram"
@@ -181,7 +181,7 @@ exports[`Telegram 2 1`] = `
       <a
         aria-label="Share on Telegram"
         className="c0"
-        href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+        href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Telegram"
@@ -274,7 +274,7 @@ exports[`Telegram 3 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+    href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -285,7 +285,7 @@ exports[`Telegram 3 1`] = `
   >
     <styled.a
       aria-label="Share on Telegram"
-      href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+      href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Telegram"
@@ -293,7 +293,7 @@ exports[`Telegram 3 1`] = `
       <a
         aria-label="Share on Telegram"
         className="c0"
-        href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+        href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Telegram"
@@ -384,7 +384,7 @@ exports[`Telegram 4 1`] = `
     big={true}
     buttonComponent={[Function]}
     circle={true}
-    href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+    href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -393,7 +393,7 @@ exports[`Telegram 4 1`] = `
   >
     <styled.a
       aria-label="Share on Telegram"
-      href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+      href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Telegram"
@@ -401,7 +401,7 @@ exports[`Telegram 4 1`] = `
       <a
         aria-label="Share on Telegram"
         className="c0"
-        href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+        href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Telegram"
@@ -495,7 +495,7 @@ exports[`Telegram 5 1`] = `
   <ButtonFactory
     buttonComponent={[Function]}
     circle={true}
-    href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+    href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -505,7 +505,7 @@ exports[`Telegram 5 1`] = `
   >
     <styled.a
       aria-label="Share on Telegram"
-      href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+      href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Telegram"
@@ -513,7 +513,7 @@ exports[`Telegram 5 1`] = `
       <a
         aria-label="Share on Telegram"
         className="c0"
-        href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+        href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Telegram"
@@ -607,7 +607,7 @@ exports[`Telegram 6 1`] = `
   <ButtonFactory
     buttonComponent={[Function]}
     circle={true}
-    href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+    href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -617,7 +617,7 @@ exports[`Telegram 6 1`] = `
   >
     <styled.a
       aria-label="Share on Telegram"
-      href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+      href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Telegram"
@@ -625,7 +625,7 @@ exports[`Telegram 6 1`] = `
       <a
         aria-label="Share on Telegram"
         className="c0"
-        href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+        href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Telegram"
@@ -719,7 +719,7 @@ exports[`Telegram 7 1`] = `
   <ButtonFactory
     big={true}
     buttonComponent={[Function]}
-    href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+    href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -729,7 +729,7 @@ exports[`Telegram 7 1`] = `
   >
     <styled.a
       aria-label="Share on Telegram"
-      href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+      href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Telegram"
@@ -737,7 +737,7 @@ exports[`Telegram 7 1`] = `
       <a
         aria-label="Share on Telegram"
         className="c0"
-        href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+        href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Telegram"
@@ -828,7 +828,7 @@ exports[`Telegram 8 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+    href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -839,7 +839,7 @@ exports[`Telegram 8 1`] = `
   >
     <styled.a
       aria-label="Share on Telegram"
-      href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+      href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Telegram"
@@ -847,7 +847,7 @@ exports[`Telegram 8 1`] = `
       <a
         aria-label="Share on Telegram"
         className="c0"
-        href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+        href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Telegram"
@@ -938,7 +938,7 @@ exports[`Telegram 9 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+    href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -949,7 +949,7 @@ exports[`Telegram 9 1`] = `
   >
     <styled.a
       aria-label="Share on Telegram"
-      href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+      href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Telegram"
@@ -957,7 +957,7 @@ exports[`Telegram 9 1`] = `
       <a
         aria-label="Share on Telegram"
         className="c0"
-        href="https://telegram.me/share/url?text=&amp;url=http%3A%2F%2Fsharingbuttons.io"
+        href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Telegram"
@@ -1042,7 +1042,7 @@ exports[`Telegram 11 1`] = `
   <ButtonFactory
     buttonComponent={[Function]}
     circle={true}
-    href="https://telegram.me/share/url?text=&amp;url="
+    href="https://telegram.me/share/url?text=&url="
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -1050,7 +1050,7 @@ exports[`Telegram 11 1`] = `
   >
     <styled.a
       aria-label="Share on Telegram"
-      href="https://telegram.me/share/url?text=&amp;url="
+      href="https://telegram.me/share/url?text=&url="
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Telegram"
@@ -1058,7 +1058,7 @@ exports[`Telegram 11 1`] = `
       <a
         aria-label="Share on Telegram"
         className="c0"
-        href="https://telegram.me/share/url?text=&amp;url="
+        href="https://telegram.me/share/url?text=&url="
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Telegram"
@@ -1148,7 +1148,7 @@ exports[`Telegram 11 2`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="https://telegram.me/share/url?text=&amp;url="
+    href="https://telegram.me/share/url?text=&url="
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -1157,7 +1157,7 @@ exports[`Telegram 11 2`] = `
   >
     <styled.a
       aria-label="Share on Telegram"
-      href="https://telegram.me/share/url?text=&amp;url="
+      href="https://telegram.me/share/url?text=&url="
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Telegram"
@@ -1165,7 +1165,7 @@ exports[`Telegram 11 2`] = `
       <a
         aria-label="Share on Telegram"
         className="c0"
-        href="https://telegram.me/share/url?text=&amp;url="
+        href="https://telegram.me/share/url?text=&url="
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Telegram"
@@ -1252,7 +1252,7 @@ exports[`Telegram 12 1`] = `
 <Component>
   <ButtonFactory
     buttonComponent={[Function]}
-    href="https://telegram.me/share/url?text=&amp;url="
+    href="https://telegram.me/share/url?text=&url="
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -1260,7 +1260,7 @@ exports[`Telegram 12 1`] = `
   >
     <styled.a
       aria-label="Share on Telegram"
-      href="https://telegram.me/share/url?text=&amp;url="
+      href="https://telegram.me/share/url?text=&url="
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Telegram"
@@ -1268,7 +1268,7 @@ exports[`Telegram 12 1`] = `
       <a
         aria-label="Share on Telegram"
         className="c0"
-        href="https://telegram.me/share/url?text=&amp;url="
+        href="https://telegram.me/share/url?text=&url="
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Telegram"
@@ -1336,7 +1336,7 @@ exports[`Telegram 13 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="https://telegram.me/share/url?text=&amp;url="
+    href="https://telegram.me/share/url?text=&url="
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -1345,7 +1345,7 @@ exports[`Telegram 13 1`] = `
   >
     <styled.a
       aria-label="Share on Telegram"
-      href="https://telegram.me/share/url?text=&amp;url="
+      href="https://telegram.me/share/url?text=&url="
       rel="noreferrer noopener"
       simple={true}
       target="_blank"
@@ -1354,7 +1354,7 @@ exports[`Telegram 13 1`] = `
       <a
         aria-label="Share on Telegram"
         className="c0"
-        href="https://telegram.me/share/url?text=&amp;url="
+        href="https://telegram.me/share/url?text=&url="
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Telegram"
@@ -1404,7 +1404,7 @@ exports[`Telegram 14 1`] = `
 >
   <ButtonFactory
     buttonComponent={[Function]}
-    href="https://telegram.me/share/url?text=&amp;url="
+    href="https://telegram.me/share/url?text=&url="
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -1413,7 +1413,7 @@ exports[`Telegram 14 1`] = `
   >
     <styled.a
       aria-label="Share on Telegram"
-      href="https://telegram.me/share/url?text=&amp;url="
+      href="https://telegram.me/share/url?text=&url="
       rel="noreferrer noopener"
       simpleReverse={true}
       target="_blank"
@@ -1422,7 +1422,7 @@ exports[`Telegram 14 1`] = `
       <a
         aria-label="Share on Telegram"
         className="c0"
-        href="https://telegram.me/share/url?text=&amp;url="
+        href="https://telegram.me/share/url?text=&url="
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Telegram"
