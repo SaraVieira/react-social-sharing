@@ -118,10 +118,11 @@ describe('Mail', function() {
     expect(wrapper).toMatchSnapshot()
   })
   test('ampersands escaping', () => {
-    const wrapper = mount(<Mail
-      message="I am so cool"
-      link="http://sharingbuttons.io"
-    />)
-    expect(wrapper.html()).toContain('mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io')
+    const wrapper = mount(
+      <Mail message="I am so cool" link="http://sharingbuttons.io" />
+    )
+    expect(wrapper.html()).toContain(
+      'mailto:?subject=I%20am%20so%20cool.&amp;body=http%3A%2F%2Fsharingbuttons.io'
+    )
   })
 })
