@@ -19,6 +19,21 @@ exports[`Reddit 1 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -33,13 +48,6 @@ exports[`Reddit 1 1`] = `
 .c1:active {
   background-color: #3a80c1;
   border-color: #3a80c1;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -143,6 +151,21 @@ exports[`Reddit 2 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -157,13 +180,6 @@ exports[`Reddit 2 1`] = `
 .c1:active {
   background-color: #3a80c1;
   border-color: #3a80c1;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -267,6 +283,21 @@ exports[`Reddit 3 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -281,13 +312,6 @@ exports[`Reddit 3 1`] = `
 .c1:active {
   background-color: #3a80c1;
   border-color: #3a80c1;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -389,6 +413,19 @@ exports[`Reddit 4 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -403,11 +440,6 @@ exports[`Reddit 4 1`] = `
 .c1:active {
   background-color: #3a80c1;
   border-color: #3a80c1;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
 }
 
 <Component
@@ -524,6 +556,19 @@ exports[`Reddit 5 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -538,11 +583,6 @@ exports[`Reddit 5 1`] = `
 .c1:active {
   background-color: #3a80c1;
   border-color: #3a80c1;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
 }
 
 <Component
@@ -659,6 +699,19 @@ exports[`Reddit 6 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -673,11 +726,6 @@ exports[`Reddit 6 1`] = `
 .c1:active {
   background-color: #3a80c1;
   border-color: #3a80c1;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
 }
 
 <Component
@@ -793,6 +841,21 @@ exports[`Reddit 7 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -807,13 +870,6 @@ exports[`Reddit 7 1`] = `
 .c1:active {
   background-color: #3a80c1;
   border-color: #3a80c1;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -899,6 +955,21 @@ exports[`Reddit 8 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -913,13 +984,6 @@ exports[`Reddit 8 1`] = `
 .c1:active {
   background-color: #3a80c1;
   border-color: #3a80c1;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -1005,6 +1069,21 @@ exports[`Reddit 9 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -1019,13 +1098,6 @@ exports[`Reddit 9 1`] = `
 .c1:active {
   background-color: #3a80c1;
   border-color: #3a80c1;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -1110,6 +1182,19 @@ exports[`Reddit 11 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -1124,11 +1209,6 @@ exports[`Reddit 11 1`] = `
 .c1:active {
   background-color: #3a80c1;
   border-color: #3a80c1;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
 }
 
 <Component
@@ -1242,6 +1322,21 @@ exports[`Reddit 11 2`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -1256,13 +1351,6 @@ exports[`Reddit 11 2`] = `
 .c1:active {
   background-color: #3a80c1;
   border-color: #3a80c1;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -1363,6 +1451,21 @@ exports[`Reddit 12 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -1377,13 +1480,6 @@ exports[`Reddit 12 1`] = `
 .c1:active {
   background-color: #3a80c1;
   border-color: #3a80c1;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component>

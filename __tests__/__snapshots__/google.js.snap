@@ -19,6 +19,21 @@ exports[`Google 1 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -33,13 +48,6 @@ exports[`Google 1 1`] = `
 .c1:active {
   background-color: #c23321;
   border-color: #c23321;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -132,6 +140,21 @@ exports[`Google 2 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -146,13 +169,6 @@ exports[`Google 2 1`] = `
 .c1:active {
   background-color: #c23321;
   border-color: #c23321;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -245,6 +261,21 @@ exports[`Google 3 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -259,13 +290,6 @@ exports[`Google 3 1`] = `
 .c1:active {
   background-color: #c23321;
   border-color: #c23321;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -356,6 +380,19 @@ exports[`Google 4 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -370,11 +407,6 @@ exports[`Google 4 1`] = `
 .c1:active {
   background-color: #c23321;
   border-color: #c23321;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
 }
 
 <Component
@@ -464,6 +496,19 @@ exports[`Google 5 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -478,11 +523,6 @@ exports[`Google 5 1`] = `
 .c1:active {
   background-color: #c23321;
   border-color: #c23321;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
 }
 
 <Component
@@ -572,6 +612,19 @@ exports[`Google 6 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -586,11 +639,6 @@ exports[`Google 6 1`] = `
 .c1:active {
   background-color: #c23321;
   border-color: #c23321;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
 }
 
 <Component
@@ -679,6 +727,21 @@ exports[`Google 7 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -693,13 +756,6 @@ exports[`Google 7 1`] = `
 .c1:active {
   background-color: #c23321;
   border-color: #c23321;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -787,6 +843,21 @@ exports[`Google 8 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -801,13 +872,6 @@ exports[`Google 8 1`] = `
 .c1:active {
   background-color: #c23321;
   border-color: #c23321;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -895,6 +959,21 @@ exports[`Google 9 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -909,13 +988,6 @@ exports[`Google 9 1`] = `
 .c1:active {
   background-color: #c23321;
   border-color: #c23321;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -1002,6 +1074,19 @@ exports[`Google 11 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -1016,11 +1101,6 @@ exports[`Google 11 1`] = `
 .c1:active {
   background-color: #c23321;
   border-color: #c23321;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
 }
 
 <Component
@@ -1106,6 +1186,21 @@ exports[`Google 11 2`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -1120,13 +1215,6 @@ exports[`Google 11 2`] = `
 .c1:active {
   background-color: #c23321;
   border-color: #c23321;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -1215,6 +1303,21 @@ exports[`Google 12 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -1229,13 +1332,6 @@ exports[`Google 12 1`] = `
 .c1:active {
   background-color: #c23321;
   border-color: #c23321;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component>

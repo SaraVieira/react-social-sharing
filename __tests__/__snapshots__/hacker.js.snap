@@ -19,6 +19,21 @@ exports[`HackerNews 1 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -33,13 +48,6 @@ exports[`HackerNews 1 1`] = `
 .c1:active {
   background-color: #fb6200;
   border-color: #fb6200;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -129,6 +137,21 @@ exports[`HackerNews 2 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -143,13 +166,6 @@ exports[`HackerNews 2 1`] = `
 .c1:active {
   background-color: #fb6200;
   border-color: #fb6200;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -239,6 +255,21 @@ exports[`HackerNews 3 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -253,13 +284,6 @@ exports[`HackerNews 3 1`] = `
 .c1:active {
   background-color: #fb6200;
   border-color: #fb6200;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -347,6 +371,19 @@ exports[`HackerNews 4 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -361,11 +398,6 @@ exports[`HackerNews 4 1`] = `
 .c1:active {
   background-color: #fb6200;
   border-color: #fb6200;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
 }
 
 <Component
@@ -458,6 +490,19 @@ exports[`HackerNews 5 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -472,11 +517,6 @@ exports[`HackerNews 5 1`] = `
 .c1:active {
   background-color: #fb6200;
   border-color: #fb6200;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
 }
 
 <Component
@@ -569,6 +609,19 @@ exports[`HackerNews 6 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -583,11 +636,6 @@ exports[`HackerNews 6 1`] = `
 .c1:active {
   background-color: #fb6200;
   border-color: #fb6200;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
 }
 
 <Component
@@ -679,6 +727,21 @@ exports[`HackerNews 7 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -693,13 +756,6 @@ exports[`HackerNews 7 1`] = `
 .c1:active {
   background-color: #fb6200;
   border-color: #fb6200;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -787,6 +843,21 @@ exports[`HackerNews 8 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -801,13 +872,6 @@ exports[`HackerNews 8 1`] = `
 .c1:active {
   background-color: #fb6200;
   border-color: #fb6200;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -895,6 +959,21 @@ exports[`HackerNews 9 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -909,13 +988,6 @@ exports[`HackerNews 9 1`] = `
 .c1:active {
   background-color: #fb6200;
   border-color: #fb6200;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -1002,6 +1074,19 @@ exports[`HackerNews 11 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -1016,11 +1101,6 @@ exports[`HackerNews 11 1`] = `
 .c1:active {
   background-color: #fb6200;
   border-color: #fb6200;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
 }
 
 <Component
@@ -1109,6 +1189,21 @@ exports[`HackerNews 11 2`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -1123,13 +1218,6 @@ exports[`HackerNews 11 2`] = `
 .c1:active {
   background-color: #fb6200;
   border-color: #fb6200;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -1215,6 +1303,21 @@ exports[`HackerNews 12 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -1229,13 +1332,6 @@ exports[`HackerNews 12 1`] = `
 .c1:active {
   background-color: #fb6200;
   border-color: #fb6200;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component>

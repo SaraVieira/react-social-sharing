@@ -48,6 +48,8 @@ export const Link = styled.a`
 export const Icon = styled.div`
   display: flex;
   align-items: center;
+  fill: #fff;
+  stroke: none
 
   ${isOr('solid', 'solidcircle')`
     fill: #fff;

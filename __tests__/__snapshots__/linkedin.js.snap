@@ -19,6 +19,21 @@ exports[`Linkedin 1 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -33,13 +48,6 @@ exports[`Linkedin 1 1`] = `
 .c1:active {
   background-color: #046293;
   border-color: #046293;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -134,6 +142,21 @@ exports[`Linkedin 2 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -148,13 +171,6 @@ exports[`Linkedin 2 1`] = `
 .c1:active {
   background-color: #046293;
   border-color: #046293;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -249,6 +265,21 @@ exports[`Linkedin 3 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -263,13 +294,6 @@ exports[`Linkedin 3 1`] = `
 .c1:active {
   background-color: #046293;
   border-color: #046293;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -362,6 +386,19 @@ exports[`Linkedin 4 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -376,11 +413,6 @@ exports[`Linkedin 4 1`] = `
 .c1:active {
   background-color: #046293;
   border-color: #046293;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
 }
 
 <Component
@@ -476,6 +508,19 @@ exports[`Linkedin 5 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -490,11 +535,6 @@ exports[`Linkedin 5 1`] = `
 .c1:active {
   background-color: #046293;
   border-color: #046293;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
 }
 
 <Component
@@ -590,6 +630,19 @@ exports[`Linkedin 6 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -604,11 +657,6 @@ exports[`Linkedin 6 1`] = `
 .c1:active {
   background-color: #046293;
   border-color: #046293;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
 }
 
 <Component
@@ -703,6 +751,21 @@ exports[`Linkedin 7 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -717,13 +780,6 @@ exports[`Linkedin 7 1`] = `
 .c1:active {
   background-color: #046293;
   border-color: #046293;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -810,6 +866,21 @@ exports[`Linkedin 8 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -824,13 +895,6 @@ exports[`Linkedin 8 1`] = `
 .c1:active {
   background-color: #046293;
   border-color: #046293;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -917,6 +981,21 @@ exports[`Linkedin 9 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -931,13 +1010,6 @@ exports[`Linkedin 9 1`] = `
 .c1:active {
   background-color: #046293;
   border-color: #046293;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -1023,6 +1095,19 @@ exports[`Linkedin 11 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -1037,11 +1122,6 @@ exports[`Linkedin 11 1`] = `
 .c1:active {
   background-color: #046293;
   border-color: #046293;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
 }
 
 <Component
@@ -1133,6 +1213,21 @@ exports[`Linkedin 11 2`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -1147,13 +1242,6 @@ exports[`Linkedin 11 2`] = `
 .c1:active {
   background-color: #046293;
   border-color: #046293;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -1244,6 +1332,21 @@ exports[`Linkedin 12 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -1258,13 +1361,6 @@ exports[`Linkedin 12 1`] = `
 .c1:active {
   background-color: #046293;
   border-color: #046293;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component>

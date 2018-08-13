@@ -75,6 +75,7 @@
     "snapshotSerializers": [
       "enzyme-to-json/serializer"
     ],
+    "testURL": "http://localhost",
     "collectCoverage": true,
     "moduleFileExtensions": [
       "js",

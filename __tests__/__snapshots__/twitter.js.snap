@@ -19,6 +19,21 @@ exports[`Twitter 1 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -33,13 +48,6 @@ exports[`Twitter 1 1`] = `
 .c1:active {
   background-color: #2795e9;
   border-color: #2795e9;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -128,6 +136,21 @@ exports[`Twitter 2 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -142,13 +165,6 @@ exports[`Twitter 2 1`] = `
 .c1:active {
   background-color: #2795e9;
   border-color: #2795e9;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -237,6 +253,21 @@ exports[`Twitter 3 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -251,13 +282,6 @@ exports[`Twitter 3 1`] = `
 .c1:active {
   background-color: #2795e9;
   border-color: #2795e9;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -344,6 +368,19 @@ exports[`Twitter 4 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -358,11 +395,6 @@ exports[`Twitter 4 1`] = `
 .c1:active {
   background-color: #2795e9;
   border-color: #2795e9;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
 }
 
 <Component
@@ -448,6 +480,19 @@ exports[`Twitter 5 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -462,11 +507,6 @@ exports[`Twitter 5 1`] = `
 .c1:active {
   background-color: #2795e9;
   border-color: #2795e9;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
 }
 
 <Component
@@ -552,6 +592,19 @@ exports[`Twitter 6 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -566,11 +619,6 @@ exports[`Twitter 6 1`] = `
 .c1:active {
   background-color: #2795e9;
   border-color: #2795e9;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
 }
 
 <Component
@@ -655,6 +703,21 @@ exports[`Twitter 7 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -669,13 +732,6 @@ exports[`Twitter 7 1`] = `
 .c1:active {
   background-color: #2795e9;
   border-color: #2795e9;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -762,6 +818,21 @@ exports[`Twitter 8 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -776,13 +847,6 @@ exports[`Twitter 8 1`] = `
 .c1:active {
   background-color: #2795e9;
   border-color: #2795e9;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -869,6 +933,21 @@ exports[`Twitter 9 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -883,13 +962,6 @@ exports[`Twitter 9 1`] = `
 .c1:active {
   background-color: #2795e9;
   border-color: #2795e9;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -975,6 +1047,19 @@ exports[`Twitter 11 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -989,11 +1074,6 @@ exports[`Twitter 11 1`] = `
 .c1:active {
   background-color: #2795e9;
   border-color: #2795e9;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
 }
 
 <Component
@@ -1075,6 +1155,21 @@ exports[`Twitter 11 2`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -1089,13 +1184,6 @@ exports[`Twitter 11 2`] = `
 .c1:active {
   background-color: #2795e9;
   border-color: #2795e9;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component
@@ -1180,6 +1268,21 @@ exports[`Twitter 12 1`] = `
   margin-right: 0.4em;
 }
 
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+  fill: #fff;
+  stroke: none;
+}
+
 .c1 {
   border-radius: 5px;
   -webkit-transition: 25ms ease-out;
@@ -1194,13 +1297,6 @@ exports[`Twitter 12 1`] = `
 .c1:active {
   background-color: #2795e9;
   border-color: #2795e9;
-}
-
-.c2 {
-  stroke: #fff;
-  fill: none;
-  fill: #fff;
-  stroke: none;
 }
 
 <Component>
