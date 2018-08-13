@@ -100,7 +100,7 @@ exports[`Mail 1 1`] = `
                 </svg>
                  
                 <span>
-                  share on E-mail
+                  Share on E-mail
                 </span>
               </div>
             </styled.div>
@@ -431,7 +431,7 @@ exports[`Mail 4 1`] = `
                 </svg>
                  
                 <span>
-                  share on E-mail
+                  Share on E-mail
                 </span>
               </div>
             </styled.div>
@@ -755,7 +755,7 @@ exports[`Mail 7 1`] = `
                 </svg>
                  
                 <span>
-                  share on E-mail
+                  Share on E-mail
                 </span>
               </div>
             </styled.div>

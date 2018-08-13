@@ -19,39 +19,39 @@ import { HackerNews } from 'react-social-sharing'
 ```
 
 ```react
-<HackerNews solidcircle big message="share on HackerNews" link="http://sharingbuttons.io"/>
+<HackerNews solidcircle big message="Share on HackerNews" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<HackerNews solidcircle medium message="share on HackerNews" link="http://sharingbuttons.io"/>
+<HackerNews solidcircle medium message="Share on HackerNews" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<HackerNews solidcircle small message="share on HackerNews" link="http://sharingbuttons.io"/>
+<HackerNews solidcircle small message="Share on HackerNews" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<HackerNews circle big message="share on HackerNews" link="http://sharingbuttons.io"/>
+<HackerNews circle big message="Share on HackerNews" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<HackerNews circle medium message="share on HackerNews" link="http://sharingbuttons.io"/>
+<HackerNews circle medium message="Share on HackerNews" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<HackerNews circle small message="share on HackerNews" link="http://sharingbuttons.io"/>
+<HackerNews circle small message="Share on HackerNews" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<HackerNews solid big message="share on HackerNews" link="http://sharingbuttons.io"/>
+<HackerNews solid big message="Share on HackerNews" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<HackerNews solid medium message="share on HackerNews" link="http://sharingbuttons.io"/>
+<HackerNews solid medium message="Share on HackerNews" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<HackerNews solid small message="share on HackerNews" link="http://sharingbuttons.io"/>
+<HackerNews solid small message="Share on HackerNews" link="http://sharingbuttons.io"/>
 ```
 
 ## Custom Props

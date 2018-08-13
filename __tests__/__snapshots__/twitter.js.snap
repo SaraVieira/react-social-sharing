@@ -97,7 +97,7 @@ exports[`Twitter 1 1`] = `
                 </svg>
                  
                 <span>
-                  share on Twitter
+                  Share on Twitter
                 </span>
               </div>
             </styled.div>
@@ -417,7 +417,7 @@ exports[`Twitter 4 1`] = `
                 </svg>
                  
                 <span>
-                  share on Twitter
+                  Share on Twitter
                 </span>
               </div>
             </styled.div>
@@ -731,7 +731,7 @@ exports[`Twitter 7 1`] = `
                 </svg>
                  
                 <span>
-                  share on Twitter
+                  Share on Twitter
                 </span>
               </div>
             </styled.div>

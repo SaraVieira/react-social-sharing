@@ -19,39 +19,39 @@ import { Whatsapp } from 'react-social-sharing'
 ```
 
 ```react
-<Whatsapp solidcircle big message="share on Whatsapp" link="http://sharingbuttons.io"/>
+<Whatsapp solidcircle big message="Share on Whatsapp" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<Whatsapp solidcircle medium message="share on Whatsapp" link="http://sharingbuttons.io"/>
+<Whatsapp solidcircle medium message="Share on Whatsapp" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<Whatsapp solidcircle small message="share on Whatsapp" link="http://sharingbuttons.io"/>
+<Whatsapp solidcircle small message="Share on Whatsapp" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<Whatsapp circle big message="share on Whatsapp" link="http://sharingbuttons.io"/>
+<Whatsapp circle big message="Share on Whatsapp" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<Whatsapp circle medium message="share on Whatsapp" link="http://sharingbuttons.io"/>
+<Whatsapp circle medium message="Share on Whatsapp" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<Whatsapp circle small message="share on Whatsapp" link="http://sharingbuttons.io"/>
+<Whatsapp circle small message="Share on Whatsapp" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<Whatsapp solid big message="share on Whatsapp" link="http://sharingbuttons.io"/>
+<Whatsapp solid big message="Share on Whatsapp" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<Whatsapp solid medium message="share on Whatsapp" link="http://sharingbuttons.io"/>
+<Whatsapp solid medium message="Share on Whatsapp" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<Whatsapp solid small message="share on Whatsapp" link="http://sharingbuttons.io"/>
+<Whatsapp solid small message="Share on Whatsapp" link="http://sharingbuttons.io"/>
 ```
 
 ## Custom Props

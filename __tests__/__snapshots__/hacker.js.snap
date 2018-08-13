@@ -98,7 +98,7 @@ exports[`HackerNews 1 1`] = `
                 </svg>
                  
                 <span>
-                  share on HackerNews
+                  Share on HackerNews
                 </span>
               </div>
             </styled.div>
@@ -427,7 +427,7 @@ exports[`HackerNews 4 1`] = `
                 </svg>
                  
                 <span>
-                  share on HackerNews
+                  Share on HackerNews
                 </span>
               </div>
             </styled.div>
@@ -756,7 +756,7 @@ exports[`HackerNews 7 1`] = `
                 </svg>
                  
                 <span>
-                  share on HackerNews
+                  Share on HackerNews
                 </span>
               </div>
             </styled.div>

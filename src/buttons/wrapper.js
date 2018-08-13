@@ -13,7 +13,7 @@ export default (
   name
 ) => {
   const buttonLabel = !small ? (
-    <span>{!big ? name : `share on ${name}`}</span>
+    <span>{!big ? name : `Share on ${name}`}</span>
   ) : null
 
   if (solid) {

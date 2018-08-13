@@ -108,7 +108,7 @@ exports[`Facebook 1 1`] = `
                 </svg>
                  
                 <span>
-                  share on Facebook
+                  Share on Facebook
                 </span>
               </div>
             </styled.div>
@@ -458,7 +458,7 @@ exports[`Facebook 4 1`] = `
                 </svg>
                  
                 <span>
-                  share on Facebook
+                  Share on Facebook
                 </span>
               </div>
             </styled.div>
@@ -790,7 +790,7 @@ exports[`Facebook 7 1`] = `
                 </svg>
                  
                 <span>
-                  share on Facebook
+                  Share on Facebook
                 </span>
               </div>
             </styled.div>

@@ -19,39 +19,39 @@ import { Telegram } from 'react-social-sharing'
 ```
 
 ```react
-<Telegram solidcircle big message="share on Telegram" link="http://sharingbuttons.io"/>
+<Telegram solidcircle big message="Share on Telegram" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<Telegram solidcircle medium message="share on Telegram" link="http://sharingbuttons.io"/>
+<Telegram solidcircle medium message="Share on Telegram" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<Telegram solidcircle small message="share on Telegram" link="http://sharingbuttons.io"/>
+<Telegram solidcircle small message="Share on Telegram" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<Telegram circle big message="share on Telegram" link="http://sharingbuttons.io"/>
+<Telegram circle big message="Share on Telegram" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<Telegram circle medium message="share on Telegram" link="http://sharingbuttons.io"/>
+<Telegram circle medium message="Share on Telegram" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<Telegram circle small message="share on Telegram" link="http://sharingbuttons.io"/>
+<Telegram circle small message="Share on Telegram" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<Telegram solid big message="share on Telegram" link="http://sharingbuttons.io"/>
+<Telegram solid big message="Share on Telegram" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<Telegram solid medium message="share on Telegram" link="http://sharingbuttons.io"/>
+<Telegram solid medium message="Share on Telegram" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<Telegram solid small message="share on Telegram" link="http://sharingbuttons.io"/>
+<Telegram solid small message="Share on Telegram" link="http://sharingbuttons.io"/>
 ```
 
 ## Custom Props

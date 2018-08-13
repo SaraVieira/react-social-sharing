@@ -19,39 +19,39 @@ import { Xing } from 'react-social-sharing'
 ```
 
 ```react
-<Xing solidcircle big message="share on xing" link="http://sharingbuttons.io"/>
+<Xing solidcircle big message="Share on xing" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<Xing solidcircle medium message="share on xing" link="http://sharingbuttons.io"/>
+<Xing solidcircle medium message="Share on xing" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<Xing solidcircle small message="share on xing" link="http://sharingbuttons.io"/>
+<Xing solidcircle small message="Share on xing" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<Xing circle big message="share on xing" link="http://sharingbuttons.io"/>
+<Xing circle big message="Share on xing" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<Xing circle medium message="share on xing" link="http://sharingbuttons.io"/>
+<Xing circle medium message="Share on xing" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<Xing circle small message="share on xing" link="http://sharingbuttons.io"/>
+<Xing circle small message="Share on xing" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<Xing solid big message="share on xing" link="http://sharingbuttons.io"/>
+<Xing solid big message="Share on xing" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<Xing solid medium message="share on xing" link="http://sharingbuttons.io"/>
+<Xing solid medium message="Share on xing" link="http://sharingbuttons.io"/>
 ```
 
 ```react
-<Xing solid small message="share on xing" link="http://sharingbuttons.io"/>
+<Xing solid small message="Share on xing" link="http://sharingbuttons.io"/>
 ```
 
 ## Custom Props

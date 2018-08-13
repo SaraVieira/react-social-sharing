@@ -112,7 +112,7 @@ exports[`Reddit 1 1`] = `
                 </svg>
                  
                 <span>
-                  share on Reddit
+                  Share on Reddit
                 </span>
               </div>
             </styled.div>
@@ -493,7 +493,7 @@ exports[`Reddit 4 1`] = `
                 </svg>
                  
                 <span>
-                  share on Reddit
+                  Share on Reddit
                 </span>
               </div>
             </styled.div>
@@ -868,7 +868,7 @@ exports[`Reddit 7 1`] = `
                 </svg>
                  
                 <span>
-                  share on Reddit
+                  Share on Reddit
                 </span>
               </div>
             </styled.div>
