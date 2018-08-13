@@ -23,6 +23,6 @@ react-social-sharing is available under MIT. See LICENSE for more details.
 
 ## Acknowledgements
 
-* Thank you to [bebraw](https://github.com/bebraw) for creating [react-component-boilerplate](https://github.com/survivejs/react-component-boilerplate)
-* Thank you to [mxstbr](https://github.com/mxstbr) for creating [sharingbuttons.io](https://github.com/mxstbr/sharingbuttons.io)
-* Icons by [Streamline](http://streamlineicons.com/).
+- Thank you to [bebraw](https://github.com/bebraw) for creating [react-component-boilerplate](https://github.com/survivejs/react-component-boilerplate)
+- Thank you to [mxstbr](https://github.com/mxstbr) for creating [sharingbuttons.io](https://github.com/mxstbr/sharingbuttons.io)
+- Icons by [Streamline](http://streamlineicons.com/).
