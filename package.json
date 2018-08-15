@@ -89,9 +89,6 @@
     "boilerplate"
   ],
   "license": "MIT",
-  "pre-push": [
-    "test"
-  ],
   "dependencies": {
     "styled-components": "^3.1.6",
     "styled-is": "^1.1.2"
