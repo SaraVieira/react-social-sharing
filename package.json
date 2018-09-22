@@ -13,8 +13,8 @@
     "build": "catalog build docs",
     "dist:es6": "cross-env BABEL_ENV=es6 babel ./src --out-dir ./dist-es6",
     "dist:modules": "cross-env BABEL_ENV=modules babel ./src --out-dir ./dist-modules",
-    "prepublishOnly": "npm run dist:es6 && npm run dist:modules",
-    "postinstall": "npm run dist:modules",
+    "dist": "npm run dist:es6 && npm run dist:modules",
+    "prepublish": "npm run dist",
     "format": "prettier --write '**/*.{js,css,md}'",
     "precommit": "lint-staged"
   },
