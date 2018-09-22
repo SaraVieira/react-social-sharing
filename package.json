@@ -13,8 +13,8 @@
     "build": "catalog build docs",
     "dist:es6": "cross-env BABEL_ENV=es6 babel ./src --out-dir ./dist-es6",
     "dist:modules": "cross-env BABEL_ENV=modules babel ./src --out-dir ./dist-modules",
-    "prepublishOnly": "npm run dist:es6 && npm run dist:modules",
-    "postinstall": "npm run dist:modules",
+    "dist": "npm run dist:es6 && npm run dist:modules",
+    "prepublish": "npm run dist",
     "format": "prettier --write '**/*.{js,css,md}'",
     "precommit": "lint-staged"
   },
@@ -35,10 +35,10 @@
     "babel-plugin-transform-react-remove-prop-types": "^0.4.14",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
-    "catalog": "^3.2.1",
+    "catalog": "^3.5.5",
     "cross-env": "^5.2.0",
-    "enzyme": "^3.3.0",
-    "enzyme-adapter-react-16": "^1.1.1",
+    "enzyme": "^3.6.0",
+    "enzyme-adapter-react-16": "^1.5.0",
     "enzyme-to-json": "^3.3.1",
     "eslint": "^4.13.1",
     "eslint-config-prettier": "^2.9.0",
@@ -48,13 +48,15 @@
     "eslint-plugin-react": "^7.5.1",
     "gh-pages": "^1.1.0",
     "git-prepush-hook": "^1.0.2",
-    "jest": "^22.3.0",
+    "jest": "^23.6.0",
     "jest-styled-components": "^5.0.0",
     "lint-staged": "^6.1.1",
     "prettier": "^1.10.2",
     "purecss": "^1.0.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
     "react-github-corner": "^2.0.0",
-    "react-test-renderer": "^16.2.0",
+    "react-test-renderer": "^16.5.2",
     "sync-exec": "^0.6.2"
   },
   "repository": {
@@ -92,5 +94,6 @@
   "dependencies": {
     "styled-components": "^3.1.6",
     "styled-is": "^1.1.2"
-  }
+  },
+  "pre-push": []
 }
