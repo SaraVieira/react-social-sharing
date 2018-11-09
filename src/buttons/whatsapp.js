@@ -1,4 +1,5 @@
 import React from 'react'
+import styled from 'styled-components'
 import ButtonFactory from './factory'
 import {
   WhatsappIconFill,
@@ -8,7 +9,7 @@ import {
 import { SharingButton } from '../common'
 import links from '../consts'
 
-const Whatsapp = SharingButton.extend`
+const Whatsapp = styled(SharingButton)`
   background-color: #25d366;
   border-color: #25d366;
 

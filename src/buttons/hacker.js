@@ -1,4 +1,5 @@
 import React from 'react'
+import styled from 'styled-components'
 import ButtonFactory from './factory'
 import {
   HackerIconFill,
@@ -8,7 +9,7 @@ import {
 import { SharingButton } from '../common'
 import links from '../consts'
 
-const Hacker = SharingButton.extend`
+const Hacker = styled(SharingButton)`
   background-color: #ff6600;
   border-color: #ff6600;
 

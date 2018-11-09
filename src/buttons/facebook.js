@@ -1,11 +1,12 @@
 import React from 'react'
+import styled from 'styled-components'
 import is from 'styled-is'
 import ButtonFactory from './factory'
 import { FacebookIconFill, FacebookIconCircle } from '../svg/facebook.js'
 import { SharingButton } from '../common'
 import links from '../consts'
 
-const Facebook = SharingButton.extend`
+const Facebook = styled(SharingButton)`
   background-color: #3b5998;
   border-color: #3b5998;
 

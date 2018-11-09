@@ -1,4 +1,5 @@
 import React from 'react'
+import styled from 'styled-components'
 import ButtonFactory from './factory'
 import {
   EmailIconFill,
@@ -8,7 +9,7 @@ import {
 import { SharingButton } from '../common'
 import links from '../consts'
 
-const Email = SharingButton.extend`
+const Email = styled(SharingButton)`
   background-color: #777777;
   border-color: #777777;
 
