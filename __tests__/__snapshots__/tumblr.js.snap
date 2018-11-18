@@ -102,7 +102,7 @@ exports[`Tumblr 1 1`] = `
     name="Tumblr"
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Tumblr"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -173,7 +173,7 @@ exports[`Tumblr 1 1`] = `
           target="_blank"
           title="Share on Tumblr"
         >
-          <ForwardRef
+          <Styled(styled.div)
             message="I am so cool"
             solidcircle={true}
           >
@@ -221,7 +221,7 @@ exports[`Tumblr 1 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -240,7 +240,9 @@ exports[`Tumblr 1 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -282,13 +284,13 @@ exports[`Tumblr 1 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -395,7 +397,7 @@ exports[`Tumblr 2 1`] = `
     name="Tumblr"
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Tumblr"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -466,7 +468,7 @@ exports[`Tumblr 2 1`] = `
           target="_blank"
           title="Share on Tumblr"
         >
-          <ForwardRef
+          <Styled(styled.div)
             message="I am so cool"
             solidcircle={true}
           >
@@ -514,7 +516,7 @@ exports[`Tumblr 2 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -533,7 +535,9 @@ exports[`Tumblr 2 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -575,13 +579,13 @@ exports[`Tumblr 2 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -688,7 +692,7 @@ exports[`Tumblr 3 1`] = `
     small={true}
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Tumblr"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -759,7 +763,7 @@ exports[`Tumblr 3 1`] = `
           target="_blank"
           title="Share on Tumblr"
         >
-          <ForwardRef
+          <Styled(styled.div)
             message="I am so cool"
             small={true}
             solidcircle={true}
@@ -809,7 +813,7 @@ exports[`Tumblr 3 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -828,7 +832,9 @@ exports[`Tumblr 3 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -867,13 +873,13 @@ exports[`Tumblr 3 1`] = `
                        
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -978,7 +984,7 @@ exports[`Tumblr 4 1`] = `
     message="I am so cool"
     name="Tumblr"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Tumblr"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -1049,7 +1055,7 @@ exports[`Tumblr 4 1`] = `
           target="_blank"
           title="Share on Tumblr"
         >
-          <ForwardRef
+          <Styled(styled.div)
             message="I am so cool"
           >
             <StyledComponent
@@ -1095,7 +1101,7 @@ exports[`Tumblr 4 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -1113,7 +1119,9 @@ exports[`Tumblr 4 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -1154,13 +1162,13 @@ exports[`Tumblr 4 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -1265,7 +1273,7 @@ exports[`Tumblr 5 1`] = `
     message="I am so cool"
     name="Tumblr"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Tumblr"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -1336,7 +1344,7 @@ exports[`Tumblr 5 1`] = `
           target="_blank"
           title="Share on Tumblr"
         >
-          <ForwardRef
+          <Styled(styled.div)
             message="I am so cool"
           >
             <StyledComponent
@@ -1382,7 +1390,7 @@ exports[`Tumblr 5 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -1400,7 +1408,9 @@ exports[`Tumblr 5 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -1441,13 +1451,13 @@ exports[`Tumblr 5 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -1552,7 +1562,7 @@ exports[`Tumblr 6 1`] = `
     name="Tumblr"
     small={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Tumblr"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -1623,7 +1633,7 @@ exports[`Tumblr 6 1`] = `
           target="_blank"
           title="Share on Tumblr"
         >
-          <ForwardRef
+          <Styled(styled.div)
             message="I am so cool"
             small={true}
           >
@@ -1671,7 +1681,7 @@ exports[`Tumblr 6 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -1689,7 +1699,9 @@ exports[`Tumblr 6 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -1727,13 +1739,13 @@ exports[`Tumblr 6 1`] = `
                        
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -1840,7 +1852,7 @@ exports[`Tumblr 7 1`] = `
     name="Tumblr"
     solid={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Tumblr"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -1911,7 +1923,7 @@ exports[`Tumblr 7 1`] = `
           target="_blank"
           title="Share on Tumblr"
         >
-          <ForwardRef
+          <Styled(styled.div)
             message="I am so cool"
           >
             <StyledComponent
@@ -1957,7 +1969,7 @@ exports[`Tumblr 7 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -1976,7 +1988,9 @@ exports[`Tumblr 7 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -2012,13 +2026,13 @@ exports[`Tumblr 7 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2125,7 +2139,7 @@ exports[`Tumblr 8 1`] = `
     name="Tumblr"
     solid={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Tumblr"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -2196,7 +2210,7 @@ exports[`Tumblr 8 1`] = `
           target="_blank"
           title="Share on Tumblr"
         >
-          <ForwardRef
+          <Styled(styled.div)
             message="I am so cool"
           >
             <StyledComponent
@@ -2242,7 +2256,7 @@ exports[`Tumblr 8 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -2261,7 +2275,9 @@ exports[`Tumblr 8 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -2297,13 +2313,13 @@ exports[`Tumblr 8 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2410,7 +2426,7 @@ exports[`Tumblr 9 1`] = `
     small={true}
     solid={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Tumblr"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -2481,7 +2497,7 @@ exports[`Tumblr 9 1`] = `
           target="_blank"
           title="Share on Tumblr"
         >
-          <ForwardRef
+          <Styled(styled.div)
             message="I am so cool"
             small={true}
           >
@@ -2529,7 +2545,7 @@ exports[`Tumblr 9 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -2548,7 +2564,9 @@ exports[`Tumblr 9 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -2581,13 +2599,13 @@ exports[`Tumblr 9 1`] = `
                        
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2687,7 +2705,7 @@ exports[`Tumblr 11 1`] = `
     iconFill={[Function]}
     name="Tumblr"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Tumblr"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl="
       rel="noreferrer noopener"
@@ -2758,7 +2776,7 @@ exports[`Tumblr 11 1`] = `
           target="_blank"
           title="Share on Tumblr"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -2801,7 +2819,7 @@ exports[`Tumblr 11 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -2819,7 +2837,9 @@ exports[`Tumblr 11 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -2860,13 +2880,13 @@ exports[`Tumblr 11 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2968,7 +2988,7 @@ exports[`Tumblr 11 2`] = `
     name="Tumblr"
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Tumblr"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl="
       rel="noreferrer noopener"
@@ -3039,7 +3059,7 @@ exports[`Tumblr 11 2`] = `
           target="_blank"
           title="Share on Tumblr"
         >
-          <ForwardRef
+          <Styled(styled.div)
             solidcircle={true}
           >
             <StyledComponent
@@ -3085,7 +3105,7 @@ exports[`Tumblr 11 2`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -3104,7 +3124,9 @@ exports[`Tumblr 11 2`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -3146,13 +3168,13 @@ exports[`Tumblr 11 2`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -3251,7 +3273,7 @@ exports[`Tumblr 12 1`] = `
     iconFill={[Function]}
     name="Tumblr"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Tumblr"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl="
       rel="noreferrer noopener"
@@ -3322,7 +3344,7 @@ exports[`Tumblr 12 1`] = `
           target="_blank"
           title="Share on Tumblr"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -3365,7 +3387,7 @@ exports[`Tumblr 12 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -3384,7 +3406,9 @@ exports[`Tumblr 12 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -3420,13 +3444,13 @@ exports[`Tumblr 12 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -3502,7 +3526,7 @@ exports[`Tumblr 13 1`] = `
     name="Tumblr"
     simple={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Tumblr"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl="
       rel="noreferrer noopener"
@@ -3587,7 +3611,7 @@ exports[`Tumblr 13 1`] = `
           </TumblrIconFill>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -3663,7 +3687,7 @@ exports[`Tumblr 14 1`] = `
     name="Tumblr"
     simpleReverse={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Tumblr"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl="
       rel="noreferrer noopener"
@@ -3748,7 +3772,7 @@ exports[`Tumblr 14 1`] = `
           </TumblrIconFill>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;

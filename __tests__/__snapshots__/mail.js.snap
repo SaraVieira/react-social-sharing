@@ -101,7 +101,7 @@ exports[`Mail 1 1`] = `
     name="E-mail"
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on E-mail"
       href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -172,7 +172,7 @@ exports[`Mail 1 1`] = `
           target="_blank"
           title="Share on E-mail"
         >
-          <ForwardRef
+          <Styled(styled.div)
             solidcircle={true}
           >
             <StyledComponent
@@ -218,7 +218,7 @@ exports[`Mail 1 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -237,7 +237,9 @@ exports[`Mail 1 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -276,13 +278,13 @@ exports[`Mail 1 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -388,7 +390,7 @@ exports[`Mail 2 1`] = `
     name="E-mail"
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on E-mail"
       href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -459,7 +461,7 @@ exports[`Mail 2 1`] = `
           target="_blank"
           title="Share on E-mail"
         >
-          <ForwardRef
+          <Styled(styled.div)
             solidcircle={true}
           >
             <StyledComponent
@@ -505,7 +507,7 @@ exports[`Mail 2 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -524,7 +526,9 @@ exports[`Mail 2 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -563,13 +567,13 @@ exports[`Mail 2 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -675,7 +679,7 @@ exports[`Mail 3 1`] = `
     small={true}
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on E-mail"
       href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -746,7 +750,7 @@ exports[`Mail 3 1`] = `
           target="_blank"
           title="Share on E-mail"
         >
-          <ForwardRef
+          <Styled(styled.div)
             small={true}
             solidcircle={true}
           >
@@ -794,7 +798,7 @@ exports[`Mail 3 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -813,7 +817,9 @@ exports[`Mail 3 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -849,13 +855,13 @@ exports[`Mail 3 1`] = `
                        
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -959,7 +965,7 @@ exports[`Mail 4 1`] = `
     iconFill={[Function]}
     name="E-mail"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on E-mail"
       href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -1030,7 +1036,7 @@ exports[`Mail 4 1`] = `
           target="_blank"
           title="Share on E-mail"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -1073,7 +1079,7 @@ exports[`Mail 4 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -1091,7 +1097,9 @@ exports[`Mail 4 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -1131,13 +1139,13 @@ exports[`Mail 4 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -1241,7 +1249,7 @@ exports[`Mail 5 1`] = `
     medium={true}
     name="E-mail"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on E-mail"
       href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -1312,7 +1320,7 @@ exports[`Mail 5 1`] = `
           target="_blank"
           title="Share on E-mail"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -1355,7 +1363,7 @@ exports[`Mail 5 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -1373,7 +1381,9 @@ exports[`Mail 5 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -1413,13 +1423,13 @@ exports[`Mail 5 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -1523,7 +1533,7 @@ exports[`Mail 6 1`] = `
     name="E-mail"
     small={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on E-mail"
       href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -1594,7 +1604,7 @@ exports[`Mail 6 1`] = `
           target="_blank"
           title="Share on E-mail"
         >
-          <ForwardRef
+          <Styled(styled.div)
             small={true}
           >
             <StyledComponent
@@ -1640,7 +1650,7 @@ exports[`Mail 6 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -1658,7 +1668,9 @@ exports[`Mail 6 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -1695,13 +1707,13 @@ exports[`Mail 6 1`] = `
                        
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -1807,7 +1819,7 @@ exports[`Mail 7 1`] = `
     name="E-mail"
     solid={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on E-mail"
       href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -1878,7 +1890,7 @@ exports[`Mail 7 1`] = `
           target="_blank"
           title="Share on E-mail"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -1921,7 +1933,7 @@ exports[`Mail 7 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -1940,7 +1952,9 @@ exports[`Mail 7 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -1976,13 +1990,13 @@ exports[`Mail 7 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2088,7 +2102,7 @@ exports[`Mail 8 1`] = `
     name="E-mail"
     solid={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on E-mail"
       href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -2159,7 +2173,7 @@ exports[`Mail 8 1`] = `
           target="_blank"
           title="Share on E-mail"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -2202,7 +2216,7 @@ exports[`Mail 8 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -2221,7 +2235,9 @@ exports[`Mail 8 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -2257,13 +2273,13 @@ exports[`Mail 8 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2369,7 +2385,7 @@ exports[`Mail 9 1`] = `
     small={true}
     solid={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on E-mail"
       href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -2440,7 +2456,7 @@ exports[`Mail 9 1`] = `
           target="_blank"
           title="Share on E-mail"
         >
-          <ForwardRef
+          <Styled(styled.div)
             small={true}
           >
             <StyledComponent
@@ -2486,7 +2502,7 @@ exports[`Mail 9 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -2505,7 +2521,9 @@ exports[`Mail 9 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -2538,13 +2556,13 @@ exports[`Mail 9 1`] = `
                        
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2644,7 +2662,7 @@ exports[`Mail 11 1`] = `
     iconFill={[Function]}
     name="E-mail"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on E-mail"
       href="mailto:?subject=&body="
       rel="noreferrer noopener"
@@ -2715,7 +2733,7 @@ exports[`Mail 11 1`] = `
           target="_blank"
           title="Share on E-mail"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -2758,7 +2776,7 @@ exports[`Mail 11 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -2776,7 +2794,9 @@ exports[`Mail 11 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -2816,13 +2836,13 @@ exports[`Mail 11 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2924,7 +2944,7 @@ exports[`Mail 11 2`] = `
     name="E-mail"
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on E-mail"
       href="mailto:?subject=&body="
       rel="noreferrer noopener"
@@ -2995,7 +3015,7 @@ exports[`Mail 11 2`] = `
           target="_blank"
           title="Share on E-mail"
         >
-          <ForwardRef
+          <Styled(styled.div)
             solidcircle={true}
           >
             <StyledComponent
@@ -3041,7 +3061,7 @@ exports[`Mail 11 2`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -3060,7 +3080,9 @@ exports[`Mail 11 2`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -3099,13 +3121,13 @@ exports[`Mail 11 2`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -3204,7 +3226,7 @@ exports[`Mail 12 1`] = `
     iconFill={[Function]}
     name="E-mail"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on E-mail"
       href="mailto:?subject=&body="
       rel="noreferrer noopener"
@@ -3275,7 +3297,7 @@ exports[`Mail 12 1`] = `
           target="_blank"
           title="Share on E-mail"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -3318,7 +3340,7 @@ exports[`Mail 12 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -3337,7 +3359,9 @@ exports[`Mail 12 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -3373,13 +3397,13 @@ exports[`Mail 12 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -3455,7 +3479,7 @@ exports[`Mail 13 1`] = `
     name="E-mail"
     simple={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on E-mail"
       href="mailto:?subject=&body="
       rel="noreferrer noopener"
@@ -3540,7 +3564,7 @@ exports[`Mail 13 1`] = `
           </EmailIconFill>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -3616,7 +3640,7 @@ exports[`Mail 14 1`] = `
     name="E-mail"
     simpleReverse={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on E-mail"
       href="mailto:?subject=&body="
       rel="noreferrer noopener"
@@ -3701,7 +3725,7 @@ exports[`Mail 14 1`] = `
           </EmailIconFill>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;

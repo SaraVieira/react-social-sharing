@@ -110,7 +110,7 @@ exports[`Facebook 1 1`] = `
     name="Facebook"
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Facebook"
       href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -181,7 +181,7 @@ exports[`Facebook 1 1`] = `
           target="_blank"
           title="Share on Facebook"
         >
-          <ForwardRef
+          <Styled(styled.div)
             message="I am so cool"
             solidcircle={true}
           >
@@ -233,7 +233,7 @@ exports[`Facebook 1 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -252,7 +252,9 @@ exports[`Facebook 1 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -293,13 +295,13 @@ exports[`Facebook 1 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -414,7 +416,7 @@ exports[`Facebook 2 1`] = `
     name="Facebook"
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Facebook"
       href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -485,7 +487,7 @@ exports[`Facebook 2 1`] = `
           target="_blank"
           title="Share on Facebook"
         >
-          <ForwardRef
+          <Styled(styled.div)
             message="I am so cool"
             solidcircle={true}
           >
@@ -537,7 +539,7 @@ exports[`Facebook 2 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -556,7 +558,9 @@ exports[`Facebook 2 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -597,13 +601,13 @@ exports[`Facebook 2 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -718,7 +722,7 @@ exports[`Facebook 3 1`] = `
     small={true}
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Facebook"
       href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -789,7 +793,7 @@ exports[`Facebook 3 1`] = `
           target="_blank"
           title="Share on Facebook"
         >
-          <ForwardRef
+          <Styled(styled.div)
             message="I am so cool"
             small={true}
             solidcircle={true}
@@ -843,7 +847,7 @@ exports[`Facebook 3 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -862,7 +866,9 @@ exports[`Facebook 3 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -900,13 +906,13 @@ exports[`Facebook 3 1`] = `
                        
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -1015,7 +1021,7 @@ exports[`Facebook 4 1`] = `
     message="I am so cool"
     name="Facebook"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Facebook"
       href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -1086,7 +1092,7 @@ exports[`Facebook 4 1`] = `
           target="_blank"
           title="Share on Facebook"
         >
-          <ForwardRef
+          <Styled(styled.div)
             message="I am so cool"
           >
             <StyledComponent
@@ -1136,7 +1142,7 @@ exports[`Facebook 4 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -1154,7 +1160,9 @@ exports[`Facebook 4 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -1194,13 +1202,13 @@ exports[`Facebook 4 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -1309,7 +1317,7 @@ exports[`Facebook 5 1`] = `
     message="I am so cool"
     name="Facebook"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Facebook"
       href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -1380,7 +1388,7 @@ exports[`Facebook 5 1`] = `
           target="_blank"
           title="Share on Facebook"
         >
-          <ForwardRef
+          <Styled(styled.div)
             message="I am so cool"
           >
             <StyledComponent
@@ -1430,7 +1438,7 @@ exports[`Facebook 5 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -1448,7 +1456,9 @@ exports[`Facebook 5 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -1488,13 +1498,13 @@ exports[`Facebook 5 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -1603,7 +1613,7 @@ exports[`Facebook 6 1`] = `
     name="Facebook"
     small={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Facebook"
       href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -1674,7 +1684,7 @@ exports[`Facebook 6 1`] = `
           target="_blank"
           title="Share on Facebook"
         >
-          <ForwardRef
+          <Styled(styled.div)
             message="I am so cool"
             small={true}
           >
@@ -1726,7 +1736,7 @@ exports[`Facebook 6 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -1744,7 +1754,9 @@ exports[`Facebook 6 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -1781,13 +1793,13 @@ exports[`Facebook 6 1`] = `
                        
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -1898,7 +1910,7 @@ exports[`Facebook 7 1`] = `
     name="Facebook"
     solid={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Facebook"
       href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -1969,7 +1981,7 @@ exports[`Facebook 7 1`] = `
           target="_blank"
           title="Share on Facebook"
         >
-          <ForwardRef
+          <Styled(styled.div)
             message="I am so cool"
           >
             <StyledComponent
@@ -2019,7 +2031,7 @@ exports[`Facebook 7 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -2038,7 +2050,9 @@ exports[`Facebook 7 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -2074,13 +2088,13 @@ exports[`Facebook 7 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2191,7 +2205,7 @@ exports[`Facebook 8 1`] = `
     name="Facebook"
     solid={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Facebook"
       href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -2262,7 +2276,7 @@ exports[`Facebook 8 1`] = `
           target="_blank"
           title="Share on Facebook"
         >
-          <ForwardRef
+          <Styled(styled.div)
             message="I am so cool"
           >
             <StyledComponent
@@ -2312,7 +2326,7 @@ exports[`Facebook 8 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -2331,7 +2345,9 @@ exports[`Facebook 8 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -2367,13 +2383,13 @@ exports[`Facebook 8 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2484,7 +2500,7 @@ exports[`Facebook 9 1`] = `
     small={true}
     solid={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Facebook"
       href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -2555,7 +2571,7 @@ exports[`Facebook 9 1`] = `
           target="_blank"
           title="Share on Facebook"
         >
-          <ForwardRef
+          <Styled(styled.div)
             message="I am so cool"
             small={true}
           >
@@ -2607,7 +2623,7 @@ exports[`Facebook 9 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -2626,7 +2642,9 @@ exports[`Facebook 9 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -2659,13 +2677,13 @@ exports[`Facebook 9 1`] = `
                        
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2771,7 +2789,7 @@ exports[`Facebook 10 1`] = `
     name="Facebook"
     solid={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Facebook"
       href="https://facebook.com/sharer/sharer.php?u="
       rel="noreferrer noopener"
@@ -2842,7 +2860,7 @@ exports[`Facebook 10 1`] = `
           target="_blank"
           title="Share on Facebook"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -2889,7 +2907,7 @@ exports[`Facebook 10 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -2908,7 +2926,9 @@ exports[`Facebook 10 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -2944,13 +2964,13 @@ exports[`Facebook 10 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -3054,7 +3074,7 @@ exports[`Facebook 11 1`] = `
     iconFill={[Function]}
     name="Facebook"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Facebook"
       href="https://facebook.com/sharer/sharer.php?u="
       rel="noreferrer noopener"
@@ -3125,7 +3145,7 @@ exports[`Facebook 11 1`] = `
           target="_blank"
           title="Share on Facebook"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -3172,7 +3192,7 @@ exports[`Facebook 11 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -3190,7 +3210,9 @@ exports[`Facebook 11 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -3230,13 +3252,13 @@ exports[`Facebook 11 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -3346,7 +3368,7 @@ exports[`Facebook 11 2`] = `
     name="Facebook"
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Facebook"
       href="https://facebook.com/sharer/sharer.php?u="
       rel="noreferrer noopener"
@@ -3417,7 +3439,7 @@ exports[`Facebook 11 2`] = `
           target="_blank"
           title="Share on Facebook"
         >
-          <ForwardRef
+          <Styled(styled.div)
             solidcircle={true}
           >
             <StyledComponent
@@ -3467,7 +3489,7 @@ exports[`Facebook 11 2`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -3486,7 +3508,9 @@ exports[`Facebook 11 2`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -3527,13 +3551,13 @@ exports[`Facebook 11 2`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -3636,7 +3660,7 @@ exports[`Facebook 12 1`] = `
     iconFill={[Function]}
     name="Facebook"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Facebook"
       href="https://facebook.com/sharer/sharer.php?u="
       rel="noreferrer noopener"
@@ -3707,7 +3731,7 @@ exports[`Facebook 12 1`] = `
           target="_blank"
           title="Share on Facebook"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -3754,7 +3778,7 @@ exports[`Facebook 12 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -3773,7 +3797,9 @@ exports[`Facebook 12 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -3809,13 +3835,13 @@ exports[`Facebook 12 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -3895,7 +3921,7 @@ exports[`Facebook 13 1`] = `
     name="Facebook"
     simple={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Facebook"
       href="https://facebook.com/sharer/sharer.php?u="
       rel="noreferrer noopener"
@@ -3980,7 +4006,7 @@ exports[`Facebook 13 1`] = `
           </FacebookIconFill>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -4060,7 +4086,7 @@ exports[`Facebook 14 1`] = `
     name="Facebook"
     simpleReverse={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Facebook"
       href="https://facebook.com/sharer/sharer.php?u="
       rel="noreferrer noopener"
@@ -4145,7 +4171,7 @@ exports[`Facebook 14 1`] = `
           </FacebookIconFill>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;

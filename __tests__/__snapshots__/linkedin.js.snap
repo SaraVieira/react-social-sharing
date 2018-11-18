@@ -101,7 +101,7 @@ exports[`Linkedin 1 1`] = `
     name="LinkedIn"
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on LinkedIn"
       href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -172,7 +172,7 @@ exports[`Linkedin 1 1`] = `
           target="_blank"
           title="Share on LinkedIn"
         >
-          <ForwardRef
+          <Styled(styled.div)
             solidcircle={true}
           >
             <StyledComponent
@@ -218,7 +218,7 @@ exports[`Linkedin 1 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -237,7 +237,9 @@ exports[`Linkedin 1 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -279,13 +281,13 @@ exports[`Linkedin 1 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -391,7 +393,7 @@ exports[`Linkedin 2 1`] = `
     name="LinkedIn"
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on LinkedIn"
       href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -462,7 +464,7 @@ exports[`Linkedin 2 1`] = `
           target="_blank"
           title="Share on LinkedIn"
         >
-          <ForwardRef
+          <Styled(styled.div)
             solidcircle={true}
           >
             <StyledComponent
@@ -508,7 +510,7 @@ exports[`Linkedin 2 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -527,7 +529,9 @@ exports[`Linkedin 2 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -569,13 +573,13 @@ exports[`Linkedin 2 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -681,7 +685,7 @@ exports[`Linkedin 3 1`] = `
     small={true}
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on LinkedIn"
       href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -752,7 +756,7 @@ exports[`Linkedin 3 1`] = `
           target="_blank"
           title="Share on LinkedIn"
         >
-          <ForwardRef
+          <Styled(styled.div)
             small={true}
             solidcircle={true}
           >
@@ -800,7 +804,7 @@ exports[`Linkedin 3 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -819,7 +823,9 @@ exports[`Linkedin 3 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -858,13 +864,13 @@ exports[`Linkedin 3 1`] = `
                        
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -968,7 +974,7 @@ exports[`Linkedin 4 1`] = `
     iconFill={[Function]}
     name="LinkedIn"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on LinkedIn"
       href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -1039,7 +1045,7 @@ exports[`Linkedin 4 1`] = `
           target="_blank"
           title="Share on LinkedIn"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -1082,7 +1088,7 @@ exports[`Linkedin 4 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -1100,7 +1106,9 @@ exports[`Linkedin 4 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -1145,13 +1153,13 @@ exports[`Linkedin 4 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -1255,7 +1263,7 @@ exports[`Linkedin 5 1`] = `
     medium={true}
     name="LinkedIn"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on LinkedIn"
       href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -1326,7 +1334,7 @@ exports[`Linkedin 5 1`] = `
           target="_blank"
           title="Share on LinkedIn"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -1369,7 +1377,7 @@ exports[`Linkedin 5 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -1387,7 +1395,9 @@ exports[`Linkedin 5 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -1432,13 +1442,13 @@ exports[`Linkedin 5 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -1542,7 +1552,7 @@ exports[`Linkedin 6 1`] = `
     name="LinkedIn"
     small={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on LinkedIn"
       href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -1613,7 +1623,7 @@ exports[`Linkedin 6 1`] = `
           target="_blank"
           title="Share on LinkedIn"
         >
-          <ForwardRef
+          <Styled(styled.div)
             small={true}
           >
             <StyledComponent
@@ -1659,7 +1669,7 @@ exports[`Linkedin 6 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -1677,7 +1687,9 @@ exports[`Linkedin 6 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -1719,13 +1731,13 @@ exports[`Linkedin 6 1`] = `
                        
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -1831,7 +1843,7 @@ exports[`Linkedin 7 1`] = `
     name="LinkedIn"
     solid={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on LinkedIn"
       href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -1902,7 +1914,7 @@ exports[`Linkedin 7 1`] = `
           target="_blank"
           title="Share on LinkedIn"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -1945,7 +1957,7 @@ exports[`Linkedin 7 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -1964,7 +1976,9 @@ exports[`Linkedin 7 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -2000,13 +2014,13 @@ exports[`Linkedin 7 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2112,7 +2126,7 @@ exports[`Linkedin 8 1`] = `
     name="LinkedIn"
     solid={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on LinkedIn"
       href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -2183,7 +2197,7 @@ exports[`Linkedin 8 1`] = `
           target="_blank"
           title="Share on LinkedIn"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -2226,7 +2240,7 @@ exports[`Linkedin 8 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -2245,7 +2259,9 @@ exports[`Linkedin 8 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -2281,13 +2297,13 @@ exports[`Linkedin 8 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2393,7 +2409,7 @@ exports[`Linkedin 9 1`] = `
     small={true}
     solid={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on LinkedIn"
       href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -2464,7 +2480,7 @@ exports[`Linkedin 9 1`] = `
           target="_blank"
           title="Share on LinkedIn"
         >
-          <ForwardRef
+          <Styled(styled.div)
             small={true}
           >
             <StyledComponent
@@ -2510,7 +2526,7 @@ exports[`Linkedin 9 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -2529,7 +2545,9 @@ exports[`Linkedin 9 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -2562,13 +2580,13 @@ exports[`Linkedin 9 1`] = `
                        
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2668,7 +2686,7 @@ exports[`Linkedin 11 1`] = `
     iconFill={[Function]}
     name="LinkedIn"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on LinkedIn"
       href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
       rel="noreferrer noopener"
@@ -2739,7 +2757,7 @@ exports[`Linkedin 11 1`] = `
           target="_blank"
           title="Share on LinkedIn"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -2782,7 +2800,7 @@ exports[`Linkedin 11 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -2800,7 +2818,9 @@ exports[`Linkedin 11 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -2845,13 +2865,13 @@ exports[`Linkedin 11 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2953,7 +2973,7 @@ exports[`Linkedin 11 2`] = `
     name="LinkedIn"
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on LinkedIn"
       href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
       rel="noreferrer noopener"
@@ -3024,7 +3044,7 @@ exports[`Linkedin 11 2`] = `
           target="_blank"
           title="Share on LinkedIn"
         >
-          <ForwardRef
+          <Styled(styled.div)
             solidcircle={true}
           >
             <StyledComponent
@@ -3070,7 +3090,7 @@ exports[`Linkedin 11 2`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -3089,7 +3109,9 @@ exports[`Linkedin 11 2`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -3131,13 +3153,13 @@ exports[`Linkedin 11 2`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -3236,7 +3258,7 @@ exports[`Linkedin 12 1`] = `
     iconFill={[Function]}
     name="LinkedIn"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on LinkedIn"
       href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
       rel="noreferrer noopener"
@@ -3307,7 +3329,7 @@ exports[`Linkedin 12 1`] = `
           target="_blank"
           title="Share on LinkedIn"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -3350,7 +3372,7 @@ exports[`Linkedin 12 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -3369,7 +3391,9 @@ exports[`Linkedin 12 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -3405,13 +3429,13 @@ exports[`Linkedin 12 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -3487,7 +3511,7 @@ exports[`Linkedin 13 1`] = `
     name="LinkedIn"
     simple={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on LinkedIn"
       href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
       rel="noreferrer noopener"
@@ -3572,7 +3596,7 @@ exports[`Linkedin 13 1`] = `
           </LinkedinIconFill>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -3648,7 +3672,7 @@ exports[`Linkedin 14 1`] = `
     name="LinkedIn"
     simpleReverse={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on LinkedIn"
       href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
       rel="noreferrer noopener"
@@ -3733,7 +3757,7 @@ exports[`Linkedin 14 1`] = `
           </LinkedinIconFill>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;

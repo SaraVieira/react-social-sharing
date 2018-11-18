@@ -102,7 +102,7 @@ exports[`Telegram 1 1`] = `
     name="Telegram"
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Telegram"
       href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -173,7 +173,7 @@ exports[`Telegram 1 1`] = `
           target="_blank"
           title="Share on Telegram"
         >
-          <ForwardRef
+          <Styled(styled.div)
             message="I am so cool"
             solidcircle={true}
           >
@@ -221,7 +221,7 @@ exports[`Telegram 1 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -240,7 +240,9 @@ exports[`Telegram 1 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -277,13 +279,13 @@ exports[`Telegram 1 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -390,7 +392,7 @@ exports[`Telegram 2 1`] = `
     name="Telegram"
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Telegram"
       href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -461,7 +463,7 @@ exports[`Telegram 2 1`] = `
           target="_blank"
           title="Share on Telegram"
         >
-          <ForwardRef
+          <Styled(styled.div)
             message="I am so cool"
             solidcircle={true}
           >
@@ -509,7 +511,7 @@ exports[`Telegram 2 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -528,7 +530,9 @@ exports[`Telegram 2 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -565,13 +569,13 @@ exports[`Telegram 2 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -678,7 +682,7 @@ exports[`Telegram 3 1`] = `
     small={true}
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Telegram"
       href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -749,7 +753,7 @@ exports[`Telegram 3 1`] = `
           target="_blank"
           title="Share on Telegram"
         >
-          <ForwardRef
+          <Styled(styled.div)
             message="I am so cool"
             small={true}
             solidcircle={true}
@@ -799,7 +803,7 @@ exports[`Telegram 3 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -818,7 +822,9 @@ exports[`Telegram 3 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -852,13 +858,13 @@ exports[`Telegram 3 1`] = `
                        
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -963,7 +969,7 @@ exports[`Telegram 4 1`] = `
     message="I am so cool"
     name="Telegram"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Telegram"
       href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -1034,7 +1040,7 @@ exports[`Telegram 4 1`] = `
           target="_blank"
           title="Share on Telegram"
         >
-          <ForwardRef
+          <Styled(styled.div)
             message="I am so cool"
           >
             <StyledComponent
@@ -1080,7 +1086,7 @@ exports[`Telegram 4 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -1098,7 +1104,9 @@ exports[`Telegram 4 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -1138,13 +1146,13 @@ exports[`Telegram 4 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -1249,7 +1257,7 @@ exports[`Telegram 5 1`] = `
     message="I am so cool"
     name="Telegram"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Telegram"
       href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -1320,7 +1328,7 @@ exports[`Telegram 5 1`] = `
           target="_blank"
           title="Share on Telegram"
         >
-          <ForwardRef
+          <Styled(styled.div)
             message="I am so cool"
           >
             <StyledComponent
@@ -1366,7 +1374,7 @@ exports[`Telegram 5 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -1384,7 +1392,9 @@ exports[`Telegram 5 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -1424,13 +1434,13 @@ exports[`Telegram 5 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -1535,7 +1545,7 @@ exports[`Telegram 6 1`] = `
     name="Telegram"
     small={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Telegram"
       href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -1606,7 +1616,7 @@ exports[`Telegram 6 1`] = `
           target="_blank"
           title="Share on Telegram"
         >
-          <ForwardRef
+          <Styled(styled.div)
             message="I am so cool"
             small={true}
           >
@@ -1654,7 +1664,7 @@ exports[`Telegram 6 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -1672,7 +1682,9 @@ exports[`Telegram 6 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -1709,13 +1721,13 @@ exports[`Telegram 6 1`] = `
                        
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -1822,7 +1834,7 @@ exports[`Telegram 7 1`] = `
     name="Telegram"
     solid={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Telegram"
       href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -1893,7 +1905,7 @@ exports[`Telegram 7 1`] = `
           target="_blank"
           title="Share on Telegram"
         >
-          <ForwardRef
+          <Styled(styled.div)
             message="I am so cool"
           >
             <StyledComponent
@@ -1939,7 +1951,7 @@ exports[`Telegram 7 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -1958,7 +1970,9 @@ exports[`Telegram 7 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -1994,13 +2008,13 @@ exports[`Telegram 7 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2107,7 +2121,7 @@ exports[`Telegram 8 1`] = `
     name="Telegram"
     solid={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Telegram"
       href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -2178,7 +2192,7 @@ exports[`Telegram 8 1`] = `
           target="_blank"
           title="Share on Telegram"
         >
-          <ForwardRef
+          <Styled(styled.div)
             message="I am so cool"
           >
             <StyledComponent
@@ -2224,7 +2238,7 @@ exports[`Telegram 8 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -2243,7 +2257,9 @@ exports[`Telegram 8 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -2279,13 +2295,13 @@ exports[`Telegram 8 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2392,7 +2408,7 @@ exports[`Telegram 9 1`] = `
     small={true}
     solid={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Telegram"
       href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -2463,7 +2479,7 @@ exports[`Telegram 9 1`] = `
           target="_blank"
           title="Share on Telegram"
         >
-          <ForwardRef
+          <Styled(styled.div)
             message="I am so cool"
             small={true}
           >
@@ -2511,7 +2527,7 @@ exports[`Telegram 9 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -2530,7 +2546,9 @@ exports[`Telegram 9 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -2563,13 +2581,13 @@ exports[`Telegram 9 1`] = `
                        
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2669,7 +2687,7 @@ exports[`Telegram 11 1`] = `
     iconFill={[Function]}
     name="Telegram"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Telegram"
       href="https://telegram.me/share/url?text=&url="
       rel="noreferrer noopener"
@@ -2740,7 +2758,7 @@ exports[`Telegram 11 1`] = `
           target="_blank"
           title="Share on Telegram"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -2783,7 +2801,7 @@ exports[`Telegram 11 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -2801,7 +2819,9 @@ exports[`Telegram 11 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -2841,13 +2861,13 @@ exports[`Telegram 11 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2949,7 +2969,7 @@ exports[`Telegram 11 2`] = `
     name="Telegram"
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Telegram"
       href="https://telegram.me/share/url?text=&url="
       rel="noreferrer noopener"
@@ -3020,7 +3040,7 @@ exports[`Telegram 11 2`] = `
           target="_blank"
           title="Share on Telegram"
         >
-          <ForwardRef
+          <Styled(styled.div)
             solidcircle={true}
           >
             <StyledComponent
@@ -3066,7 +3086,7 @@ exports[`Telegram 11 2`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -3085,7 +3105,9 @@ exports[`Telegram 11 2`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -3122,13 +3144,13 @@ exports[`Telegram 11 2`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -3227,7 +3249,7 @@ exports[`Telegram 12 1`] = `
     iconFill={[Function]}
     name="Telegram"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Telegram"
       href="https://telegram.me/share/url?text=&url="
       rel="noreferrer noopener"
@@ -3298,7 +3320,7 @@ exports[`Telegram 12 1`] = `
           target="_blank"
           title="Share on Telegram"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -3341,7 +3363,7 @@ exports[`Telegram 12 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -3360,7 +3382,9 @@ exports[`Telegram 12 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -3396,13 +3420,13 @@ exports[`Telegram 12 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -3478,7 +3502,7 @@ exports[`Telegram 13 1`] = `
     name="Telegram"
     simple={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Telegram"
       href="https://telegram.me/share/url?text=&url="
       rel="noreferrer noopener"
@@ -3563,7 +3587,7 @@ exports[`Telegram 13 1`] = `
           </TelegramIconFill>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -3639,7 +3663,7 @@ exports[`Telegram 14 1`] = `
     name="Telegram"
     simpleReverse={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Telegram"
       href="https://telegram.me/share/url?text=&url="
       rel="noreferrer noopener"
@@ -3724,7 +3748,7 @@ exports[`Telegram 14 1`] = `
           </TelegramIconFill>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;

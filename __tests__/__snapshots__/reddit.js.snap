@@ -100,7 +100,7 @@ exports[`Reddit 1 1`] = `
     name="Reddit"
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Reddit"
       href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -171,7 +171,7 @@ exports[`Reddit 1 1`] = `
           target="_blank"
           title="Share on Reddit"
         >
-          <ForwardRef
+          <Styled(styled.div)
             solidcircle={true}
           >
             <StyledComponent
@@ -217,7 +217,7 @@ exports[`Reddit 1 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -236,7 +236,9 @@ exports[`Reddit 1 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -288,13 +290,13 @@ exports[`Reddit 1 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -399,7 +401,7 @@ exports[`Reddit 2 1`] = `
     name="Reddit"
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Reddit"
       href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -470,7 +472,7 @@ exports[`Reddit 2 1`] = `
           target="_blank"
           title="Share on Reddit"
         >
-          <ForwardRef
+          <Styled(styled.div)
             solidcircle={true}
           >
             <StyledComponent
@@ -516,7 +518,7 @@ exports[`Reddit 2 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -535,7 +537,9 @@ exports[`Reddit 2 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -587,13 +591,13 @@ exports[`Reddit 2 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -698,7 +702,7 @@ exports[`Reddit 3 1`] = `
     small={true}
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Reddit"
       href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -769,7 +773,7 @@ exports[`Reddit 3 1`] = `
           target="_blank"
           title="Share on Reddit"
         >
-          <ForwardRef
+          <Styled(styled.div)
             small={true}
             solidcircle={true}
           >
@@ -817,7 +821,7 @@ exports[`Reddit 3 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -836,7 +840,9 @@ exports[`Reddit 3 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -885,13 +891,13 @@ exports[`Reddit 3 1`] = `
                        
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -994,7 +1000,7 @@ exports[`Reddit 4 1`] = `
     iconFill={[Function]}
     name="Reddit"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Reddit"
       href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -1065,7 +1071,7 @@ exports[`Reddit 4 1`] = `
           target="_blank"
           title="Share on Reddit"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -1108,7 +1114,7 @@ exports[`Reddit 4 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -1126,7 +1132,9 @@ exports[`Reddit 4 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -1193,13 +1201,13 @@ exports[`Reddit 4 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -1302,7 +1310,7 @@ exports[`Reddit 5 1`] = `
     medium={true}
     name="Reddit"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Reddit"
       href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -1373,7 +1381,7 @@ exports[`Reddit 5 1`] = `
           target="_blank"
           title="Share on Reddit"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -1416,7 +1424,7 @@ exports[`Reddit 5 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -1434,7 +1442,9 @@ exports[`Reddit 5 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -1501,13 +1511,13 @@ exports[`Reddit 5 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -1610,7 +1620,7 @@ exports[`Reddit 6 1`] = `
     name="Reddit"
     small={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Reddit"
       href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -1681,7 +1691,7 @@ exports[`Reddit 6 1`] = `
           target="_blank"
           title="Share on Reddit"
         >
-          <ForwardRef
+          <Styled(styled.div)
             small={true}
           >
             <StyledComponent
@@ -1727,7 +1737,7 @@ exports[`Reddit 6 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -1745,7 +1755,9 @@ exports[`Reddit 6 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -1809,13 +1821,13 @@ exports[`Reddit 6 1`] = `
                        
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -1920,7 +1932,7 @@ exports[`Reddit 7 1`] = `
     name="Reddit"
     solid={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Reddit"
       href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -1991,7 +2003,7 @@ exports[`Reddit 7 1`] = `
           target="_blank"
           title="Share on Reddit"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -2034,7 +2046,7 @@ exports[`Reddit 7 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -2053,7 +2065,9 @@ exports[`Reddit 7 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -2089,13 +2103,13 @@ exports[`Reddit 7 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2200,7 +2214,7 @@ exports[`Reddit 8 1`] = `
     name="Reddit"
     solid={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Reddit"
       href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -2271,7 +2285,7 @@ exports[`Reddit 8 1`] = `
           target="_blank"
           title="Share on Reddit"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -2314,7 +2328,7 @@ exports[`Reddit 8 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -2333,7 +2347,9 @@ exports[`Reddit 8 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -2369,13 +2385,13 @@ exports[`Reddit 8 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2480,7 +2496,7 @@ exports[`Reddit 9 1`] = `
     small={true}
     solid={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Reddit"
       href="https://reddit.com/submit/?url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -2551,7 +2567,7 @@ exports[`Reddit 9 1`] = `
           target="_blank"
           title="Share on Reddit"
         >
-          <ForwardRef
+          <Styled(styled.div)
             small={true}
           >
             <StyledComponent
@@ -2597,7 +2613,7 @@ exports[`Reddit 9 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -2616,7 +2632,9 @@ exports[`Reddit 9 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -2649,13 +2667,13 @@ exports[`Reddit 9 1`] = `
                        
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2755,7 +2773,7 @@ exports[`Reddit 11 1`] = `
     iconFill={[Function]}
     name="Reddit"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Reddit"
       href="https://reddit.com/submit/?url="
       rel="noreferrer noopener"
@@ -2826,7 +2844,7 @@ exports[`Reddit 11 1`] = `
           target="_blank"
           title="Share on Reddit"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -2869,7 +2887,7 @@ exports[`Reddit 11 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -2887,7 +2905,9 @@ exports[`Reddit 11 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -2954,13 +2974,13 @@ exports[`Reddit 11 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -3062,7 +3082,7 @@ exports[`Reddit 11 2`] = `
     name="Reddit"
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Reddit"
       href="https://reddit.com/submit/?url="
       rel="noreferrer noopener"
@@ -3133,7 +3153,7 @@ exports[`Reddit 11 2`] = `
           target="_blank"
           title="Share on Reddit"
         >
-          <ForwardRef
+          <Styled(styled.div)
             solidcircle={true}
           >
             <StyledComponent
@@ -3179,7 +3199,7 @@ exports[`Reddit 11 2`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -3198,7 +3218,9 @@ exports[`Reddit 11 2`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -3250,13 +3272,13 @@ exports[`Reddit 11 2`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -3355,7 +3377,7 @@ exports[`Reddit 12 1`] = `
     iconFill={[Function]}
     name="Reddit"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Reddit"
       href="https://reddit.com/submit/?url="
       rel="noreferrer noopener"
@@ -3426,7 +3448,7 @@ exports[`Reddit 12 1`] = `
           target="_blank"
           title="Share on Reddit"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -3469,7 +3491,7 @@ exports[`Reddit 12 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -3488,7 +3510,9 @@ exports[`Reddit 12 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -3524,13 +3548,13 @@ exports[`Reddit 12 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -3606,7 +3630,7 @@ exports[`Reddit 13 1`] = `
     name="Reddit"
     simple={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Reddit"
       href="https://reddit.com/submit/?url="
       rel="noreferrer noopener"
@@ -3691,7 +3715,7 @@ exports[`Reddit 13 1`] = `
           </RedditIconFill>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -3767,7 +3791,7 @@ exports[`Reddit 14 1`] = `
     name="Reddit"
     simpleReverse={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Reddit"
       href="https://reddit.com/submit/?url="
       rel="noreferrer noopener"
@@ -3852,7 +3876,7 @@ exports[`Reddit 14 1`] = `
           </RedditIconFill>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;

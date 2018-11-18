@@ -101,7 +101,7 @@ exports[`Pinterest 1 1`] = `
     name="Pinterest"
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Pinterest"
       href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&media=http%3A%2F%2Fsharingbuttons.io&description=I%20am%20so%20cool"
       rel="noreferrer noopener"
@@ -172,7 +172,7 @@ exports[`Pinterest 1 1`] = `
           target="_blank"
           title="Share on Pinterest"
         >
-          <ForwardRef
+          <Styled(styled.div)
             solidcircle={true}
           >
             <StyledComponent
@@ -218,7 +218,7 @@ exports[`Pinterest 1 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -237,7 +237,9 @@ exports[`Pinterest 1 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -273,13 +275,13 @@ exports[`Pinterest 1 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -385,7 +387,7 @@ exports[`Pinterest 2 1`] = `
     name="Pinterest"
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Pinterest"
       href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&media=http%3A%2F%2Fsharingbuttons.io&description=I%20am%20so%20cool"
       rel="noreferrer noopener"
@@ -456,7 +458,7 @@ exports[`Pinterest 2 1`] = `
           target="_blank"
           title="Share on Pinterest"
         >
-          <ForwardRef
+          <Styled(styled.div)
             solidcircle={true}
           >
             <StyledComponent
@@ -502,7 +504,7 @@ exports[`Pinterest 2 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -521,7 +523,9 @@ exports[`Pinterest 2 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -557,13 +561,13 @@ exports[`Pinterest 2 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -669,7 +673,7 @@ exports[`Pinterest 3 1`] = `
     small={true}
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Pinterest"
       href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&media=http%3A%2F%2Fsharingbuttons.io&description=I%20am%20so%20cool"
       rel="noreferrer noopener"
@@ -740,7 +744,7 @@ exports[`Pinterest 3 1`] = `
           target="_blank"
           title="Share on Pinterest"
         >
-          <ForwardRef
+          <Styled(styled.div)
             small={true}
             solidcircle={true}
           >
@@ -788,7 +792,7 @@ exports[`Pinterest 3 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -807,7 +811,9 @@ exports[`Pinterest 3 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -840,13 +846,13 @@ exports[`Pinterest 3 1`] = `
                        
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -950,7 +956,7 @@ exports[`Pinterest 4 1`] = `
     iconFill={[Function]}
     name="Pinterest"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Pinterest"
       href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&media=http%3A%2F%2Fsharingbuttons.io&description=I%20am%20so%20cool"
       rel="noreferrer noopener"
@@ -1021,7 +1027,7 @@ exports[`Pinterest 4 1`] = `
           target="_blank"
           title="Share on Pinterest"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -1064,7 +1070,7 @@ exports[`Pinterest 4 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -1082,7 +1088,9 @@ exports[`Pinterest 4 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -1122,13 +1130,13 @@ exports[`Pinterest 4 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -1232,7 +1240,7 @@ exports[`Pinterest 5 1`] = `
     medium={true}
     name="Pinterest"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Pinterest"
       href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&media=http%3A%2F%2Fsharingbuttons.io&description=I%20am%20so%20cool"
       rel="noreferrer noopener"
@@ -1303,7 +1311,7 @@ exports[`Pinterest 5 1`] = `
           target="_blank"
           title="Share on Pinterest"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -1346,7 +1354,7 @@ exports[`Pinterest 5 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -1364,7 +1372,9 @@ exports[`Pinterest 5 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -1404,13 +1414,13 @@ exports[`Pinterest 5 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -1514,7 +1524,7 @@ exports[`Pinterest 6 1`] = `
     name="Pinterest"
     small={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Pinterest"
       href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&media=http%3A%2F%2Fsharingbuttons.io&description=I%20am%20so%20cool"
       rel="noreferrer noopener"
@@ -1585,7 +1595,7 @@ exports[`Pinterest 6 1`] = `
           target="_blank"
           title="Share on Pinterest"
         >
-          <ForwardRef
+          <Styled(styled.div)
             small={true}
           >
             <StyledComponent
@@ -1631,7 +1641,7 @@ exports[`Pinterest 6 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -1649,7 +1659,9 @@ exports[`Pinterest 6 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -1686,13 +1698,13 @@ exports[`Pinterest 6 1`] = `
                        
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -1798,7 +1810,7 @@ exports[`Pinterest 7 1`] = `
     name="Pinterest"
     solid={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Pinterest"
       href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&media=http%3A%2F%2Fsharingbuttons.io&description=I%20am%20so%20cool"
       rel="noreferrer noopener"
@@ -1869,7 +1881,7 @@ exports[`Pinterest 7 1`] = `
           target="_blank"
           title="Share on Pinterest"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -1912,7 +1924,7 @@ exports[`Pinterest 7 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -1931,7 +1943,9 @@ exports[`Pinterest 7 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -1967,13 +1981,13 @@ exports[`Pinterest 7 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2079,7 +2093,7 @@ exports[`Pinterest 8 1`] = `
     name="Pinterest"
     solid={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Pinterest"
       href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&media=http%3A%2F%2Fsharingbuttons.io&description=I%20am%20so%20cool"
       rel="noreferrer noopener"
@@ -2150,7 +2164,7 @@ exports[`Pinterest 8 1`] = `
           target="_blank"
           title="Share on Pinterest"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -2193,7 +2207,7 @@ exports[`Pinterest 8 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -2212,7 +2226,9 @@ exports[`Pinterest 8 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -2248,13 +2264,13 @@ exports[`Pinterest 8 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2360,7 +2376,7 @@ exports[`Pinterest 9 1`] = `
     small={true}
     solid={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Pinterest"
       href="https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fsharingbuttons.io&media=http%3A%2F%2Fsharingbuttons.io&description=I%20am%20so%20cool"
       rel="noreferrer noopener"
@@ -2431,7 +2447,7 @@ exports[`Pinterest 9 1`] = `
           target="_blank"
           title="Share on Pinterest"
         >
-          <ForwardRef
+          <Styled(styled.div)
             small={true}
           >
             <StyledComponent
@@ -2477,7 +2493,7 @@ exports[`Pinterest 9 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -2496,7 +2512,9 @@ exports[`Pinterest 9 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -2529,13 +2547,13 @@ exports[`Pinterest 9 1`] = `
                        
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2635,7 +2653,7 @@ exports[`Pinterest 11 1`] = `
     iconFill={[Function]}
     name="Pinterest"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Pinterest"
       href="https://pinterest.com/pin/create/button/?url=&media=&description="
       rel="noreferrer noopener"
@@ -2706,7 +2724,7 @@ exports[`Pinterest 11 1`] = `
           target="_blank"
           title="Share on Pinterest"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -2749,7 +2767,7 @@ exports[`Pinterest 11 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -2767,7 +2785,9 @@ exports[`Pinterest 11 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -2807,13 +2827,13 @@ exports[`Pinterest 11 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2915,7 +2935,7 @@ exports[`Pinterest 11 2`] = `
     name="Pinterest"
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Pinterest"
       href="https://pinterest.com/pin/create/button/?url=&media=&description="
       rel="noreferrer noopener"
@@ -2986,7 +3006,7 @@ exports[`Pinterest 11 2`] = `
           target="_blank"
           title="Share on Pinterest"
         >
-          <ForwardRef
+          <Styled(styled.div)
             solidcircle={true}
           >
             <StyledComponent
@@ -3032,7 +3052,7 @@ exports[`Pinterest 11 2`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -3051,7 +3071,9 @@ exports[`Pinterest 11 2`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -3087,13 +3109,13 @@ exports[`Pinterest 11 2`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -3192,7 +3214,7 @@ exports[`Pinterest 12 1`] = `
     iconFill={[Function]}
     name="Pinterest"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Pinterest"
       href="https://pinterest.com/pin/create/button/?url=&media=&description="
       rel="noreferrer noopener"
@@ -3263,7 +3285,7 @@ exports[`Pinterest 12 1`] = `
           target="_blank"
           title="Share on Pinterest"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -3306,7 +3328,7 @@ exports[`Pinterest 12 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -3325,7 +3347,9 @@ exports[`Pinterest 12 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -3361,13 +3385,13 @@ exports[`Pinterest 12 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -3443,7 +3467,7 @@ exports[`Pinterest 13 1`] = `
     name="Pinterest"
     simple={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Pinterest"
       href="https://pinterest.com/pin/create/button/?url=&media=&description="
       rel="noreferrer noopener"
@@ -3528,7 +3552,7 @@ exports[`Pinterest 13 1`] = `
           </PinterestIconFill>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -3604,7 +3628,7 @@ exports[`Pinterest 14 1`] = `
     name="Pinterest"
     simpleReverse={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Pinterest"
       href="https://pinterest.com/pin/create/button/?url=&media=&description="
       rel="noreferrer noopener"
@@ -3689,7 +3713,7 @@ exports[`Pinterest 14 1`] = `
           </PinterestIconFill>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;

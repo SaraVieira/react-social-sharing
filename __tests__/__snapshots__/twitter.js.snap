@@ -101,7 +101,7 @@ exports[`Twitter 1 1`] = `
     name="Twitter"
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Twitter"
       href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -172,7 +172,7 @@ exports[`Twitter 1 1`] = `
           target="_blank"
           title="Share on Twitter"
         >
-          <ForwardRef
+          <Styled(styled.div)
             solidcircle={true}
           >
             <StyledComponent
@@ -218,7 +218,7 @@ exports[`Twitter 1 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -237,7 +237,9 @@ exports[`Twitter 1 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -273,13 +275,13 @@ exports[`Twitter 1 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -385,7 +387,7 @@ exports[`Twitter 2 1`] = `
     name="Twitter"
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Twitter"
       href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -456,7 +458,7 @@ exports[`Twitter 2 1`] = `
           target="_blank"
           title="Share on Twitter"
         >
-          <ForwardRef
+          <Styled(styled.div)
             solidcircle={true}
           >
             <StyledComponent
@@ -502,7 +504,7 @@ exports[`Twitter 2 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -521,7 +523,9 @@ exports[`Twitter 2 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -557,13 +561,13 @@ exports[`Twitter 2 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -669,7 +673,7 @@ exports[`Twitter 3 1`] = `
     small={true}
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Twitter"
       href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -740,7 +744,7 @@ exports[`Twitter 3 1`] = `
           target="_blank"
           title="Share on Twitter"
         >
-          <ForwardRef
+          <Styled(styled.div)
             small={true}
             solidcircle={true}
           >
@@ -788,7 +792,7 @@ exports[`Twitter 3 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -807,7 +811,9 @@ exports[`Twitter 3 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -840,13 +846,13 @@ exports[`Twitter 3 1`] = `
                        
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -950,7 +956,7 @@ exports[`Twitter 4 1`] = `
     iconFill={[Function]}
     name="Twitter"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Twitter"
       href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -1021,7 +1027,7 @@ exports[`Twitter 4 1`] = `
           target="_blank"
           title="Share on Twitter"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -1064,7 +1070,7 @@ exports[`Twitter 4 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -1082,7 +1088,9 @@ exports[`Twitter 4 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -1117,13 +1125,13 @@ exports[`Twitter 4 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -1227,7 +1235,7 @@ exports[`Twitter 5 1`] = `
     medium={true}
     name="Twitter"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Twitter"
       href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -1298,7 +1306,7 @@ exports[`Twitter 5 1`] = `
           target="_blank"
           title="Share on Twitter"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -1341,7 +1349,7 @@ exports[`Twitter 5 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -1359,7 +1367,9 @@ exports[`Twitter 5 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -1394,13 +1404,13 @@ exports[`Twitter 5 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -1504,7 +1514,7 @@ exports[`Twitter 6 1`] = `
     name="Twitter"
     small={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Twitter"
       href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -1575,7 +1585,7 @@ exports[`Twitter 6 1`] = `
           target="_blank"
           title="Share on Twitter"
         >
-          <ForwardRef
+          <Styled(styled.div)
             small={true}
           >
             <StyledComponent
@@ -1621,7 +1631,7 @@ exports[`Twitter 6 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -1639,7 +1649,9 @@ exports[`Twitter 6 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -1671,13 +1683,13 @@ exports[`Twitter 6 1`] = `
                        
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -1783,7 +1795,7 @@ exports[`Twitter 7 1`] = `
     name="Twitter"
     solid={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Twitter"
       href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -1854,7 +1866,7 @@ exports[`Twitter 7 1`] = `
           target="_blank"
           title="Share on Twitter"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -1897,7 +1909,7 @@ exports[`Twitter 7 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -1916,7 +1928,9 @@ exports[`Twitter 7 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -1952,13 +1966,13 @@ exports[`Twitter 7 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2064,7 +2078,7 @@ exports[`Twitter 8 1`] = `
     name="Twitter"
     solid={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Twitter"
       href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -2135,7 +2149,7 @@ exports[`Twitter 8 1`] = `
           target="_blank"
           title="Share on Twitter"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -2178,7 +2192,7 @@ exports[`Twitter 8 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -2197,7 +2211,9 @@ exports[`Twitter 8 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -2233,13 +2249,13 @@ exports[`Twitter 8 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2345,7 +2361,7 @@ exports[`Twitter 9 1`] = `
     small={true}
     solid={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Twitter"
       href="https://twitter.com/intent/tweet/?text=I%20am%20so%20cool&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
@@ -2416,7 +2432,7 @@ exports[`Twitter 9 1`] = `
           target="_blank"
           title="Share on Twitter"
         >
-          <ForwardRef
+          <Styled(styled.div)
             small={true}
           >
             <StyledComponent
@@ -2462,7 +2478,7 @@ exports[`Twitter 9 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -2481,7 +2497,9 @@ exports[`Twitter 9 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -2514,13 +2532,13 @@ exports[`Twitter 9 1`] = `
                        
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2620,7 +2638,7 @@ exports[`Twitter 11 1`] = `
     iconFill={[Function]}
     name="Twitter"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Twitter"
       href="https://twitter.com/intent/tweet/?text=&url="
       rel="noreferrer noopener"
@@ -2691,7 +2709,7 @@ exports[`Twitter 11 1`] = `
           target="_blank"
           title="Share on Twitter"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -2734,7 +2752,7 @@ exports[`Twitter 11 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                 >
                   <StyledComponent
@@ -2752,7 +2770,9 @@ exports[`Twitter 11 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -2787,13 +2807,13 @@ exports[`Twitter 11 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -2895,7 +2915,7 @@ exports[`Twitter 11 2`] = `
     name="Twitter"
     solidcircle={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Twitter"
       href="https://twitter.com/intent/tweet/?text=&url="
       rel="noreferrer noopener"
@@ -2966,7 +2986,7 @@ exports[`Twitter 11 2`] = `
           target="_blank"
           title="Share on Twitter"
         >
-          <ForwardRef
+          <Styled(styled.div)
             solidcircle={true}
           >
             <StyledComponent
@@ -3012,7 +3032,7 @@ exports[`Twitter 11 2`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solidcircle={true}
                 >
@@ -3031,7 +3051,9 @@ exports[`Twitter 11 2`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -3067,13 +3089,13 @@ exports[`Twitter 11 2`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -3172,7 +3194,7 @@ exports[`Twitter 12 1`] = `
     iconFill={[Function]}
     name="Twitter"
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Twitter"
       href="https://twitter.com/intent/tweet/?text=&url="
       rel="noreferrer noopener"
@@ -3243,7 +3265,7 @@ exports[`Twitter 12 1`] = `
           target="_blank"
           title="Share on Twitter"
         >
-          <ForwardRef>
+          <Styled(styled.div)>
             <StyledComponent
               forwardedClass={
                 Object {
@@ -3286,7 +3308,7 @@ exports[`Twitter 12 1`] = `
               <div
                 className="c1"
               >
-                <ForwardRef
+                <styled.div
                   aria-hidden="true"
                   solid={true}
                 >
@@ -3305,7 +3327,9 @@ exports[`Twitter 12 1`] = `
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ",
+  stroke: none;
+
+  ",
                             [Function],
                             ";
 ",
@@ -3341,13 +3365,13 @@ exports[`Twitter 12 1`] = `
                       </span>
                     </div>
                   </StyledComponent>
-                </ForwardRef>
+                </styled.div>
               </div>
             </StyledComponent>
-          </ForwardRef>
+          </Styled(styled.div)>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -3423,7 +3447,7 @@ exports[`Twitter 13 1`] = `
     name="Twitter"
     simple={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Twitter"
       href="https://twitter.com/intent/tweet/?text=&url="
       rel="noreferrer noopener"
@@ -3508,7 +3532,7 @@ exports[`Twitter 13 1`] = `
           </TwitterIconFill>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
@@ -3584,7 +3608,7 @@ exports[`Twitter 14 1`] = `
     name="Twitter"
     simpleReverse={true}
   >
-    <ForwardRef
+    <styled.a
       aria-label="Share on Twitter"
       href="https://twitter.com/intent/tweet/?text=&url="
       rel="noreferrer noopener"
@@ -3669,7 +3693,7 @@ exports[`Twitter 14 1`] = `
           </TwitterIconFill>
         </a>
       </StyledComponent>
-    </ForwardRef>
+    </styled.a>
   </ButtonFactory>
 </Component>
 `;
