@@ -1,4 +1,5 @@
 import React from 'react'
+import styled from 'styled-components'
 import ButtonFactory from './factory'
 import {
   RedditIconFill,
@@ -8,7 +9,7 @@ import {
 import { SharingButton } from '../common'
 import links from '../consts'
 
-const Reddit = SharingButton.extend`
+const Reddit = styled(SharingButton)`
   background-color: #5f99cf;
   border-color: #5f99cf;
 

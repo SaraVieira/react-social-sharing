@@ -1,4 +1,5 @@
 import React from 'react'
+import styled from 'styled-components'
 import ButtonFactory from './factory'
 import {
   LinkedinIconFill,
@@ -8,7 +9,7 @@ import {
 import { SharingButton } from '../common'
 import links from '../consts'
 
-const Linkedin = SharingButton.extend`
+const Linkedin = styled(SharingButton)`
   background-color: #0077b5;
   border-color: #0077b5;
 
