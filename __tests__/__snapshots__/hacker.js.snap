@@ -58,7 +58,42 @@ exports[`HackerNews 1 1`] = `
 >
   <ButtonFactory
     big={true}
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-VigVT",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #ff6600;
+  border-color: #ff6600;
+
+  &:hover,
+  &:active {
+    background-color: #fb6200;
+    border-color: #fb6200;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-VigVT",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -66,54 +101,186 @@ exports[`HackerNews 1 1`] = `
     name="HackerNews"
     solidcircle={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on HackerNews"
       href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on HackerNews"
     >
-      <a
+      <StyledComponent
         aria-label="Share on HackerNews"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on HackerNews"
       >
-        <styled.div
-          solidcircle={true}
+        <a
+          aria-label="Share on HackerNews"
+          className="c0"
+          href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on HackerNews"
         >
-          <div
-            className="c1"
+          <ForwardRef
+            solidcircle={true}
           >
-            <styled.div
-              aria-hidden="true"
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-VigVT",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #ff6600;
+  border-color: #ff6600;
+
+  &:hover,
+  &:active {
+    background-color: #fb6200;
+    border-color: #fb6200;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-VigVT",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
               solidcircle={true}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 256 256"
-                  xmlns="http://www.w3.org/2000/svg"
+                <ForwardRef
+                  aria-hidden="true"
+                  solidcircle={true}
                 >
-                  <path
-                    d="M128 256c70.692 0 128-57.308 128-128C256 57.308 198.692 0 128 0 57.308 0 0 57.308 0 128c0 70.692 57.308 128 128 128zm-9.06-113.686L75 60h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L161.49 60h18.69l-44.34 83.308v53.087h-16.9v-54.08z"
-                    fillRule="evenodd"
-                  />
-                </svg>
-                 
-                <span>
-                  Share on HackerNews
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solidcircle={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 256 256"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M128 256c70.692 0 128-57.308 128-128C256 57.308 198.692 0 128 0 57.308 0 0 57.308 0 128c0 70.692 57.308 128 128 128zm-9.06-113.686L75 60h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L161.49 60h18.69l-44.34 83.308v53.087h-16.9v-54.08z"
+                          fillRule="evenodd"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Share on HackerNews
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -175,7 +342,42 @@ exports[`HackerNews 2 1`] = `
   solidcircle={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-VigVT",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #ff6600;
+  border-color: #ff6600;
+
+  &:hover,
+  &:active {
+    background-color: #fb6200;
+    border-color: #fb6200;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-VigVT",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -184,54 +386,186 @@ exports[`HackerNews 2 1`] = `
     name="HackerNews"
     solidcircle={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on HackerNews"
       href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on HackerNews"
     >
-      <a
+      <StyledComponent
         aria-label="Share on HackerNews"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on HackerNews"
       >
-        <styled.div
-          solidcircle={true}
+        <a
+          aria-label="Share on HackerNews"
+          className="c0"
+          href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on HackerNews"
         >
-          <div
-            className="c1"
+          <ForwardRef
+            solidcircle={true}
           >
-            <styled.div
-              aria-hidden="true"
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-VigVT",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #ff6600;
+  border-color: #ff6600;
+
+  &:hover,
+  &:active {
+    background-color: #fb6200;
+    border-color: #fb6200;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-VigVT",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
               solidcircle={true}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 256 256"
-                  xmlns="http://www.w3.org/2000/svg"
+                <ForwardRef
+                  aria-hidden="true"
+                  solidcircle={true}
                 >
-                  <path
-                    d="M128 256c70.692 0 128-57.308 128-128C256 57.308 198.692 0 128 0 57.308 0 0 57.308 0 128c0 70.692 57.308 128 128 128zm-9.06-113.686L75 60h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L161.49 60h18.69l-44.34 83.308v53.087h-16.9v-54.08z"
-                    fillRule="evenodd"
-                  />
-                </svg>
-                 
-                <span>
-                  HackerNews
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solidcircle={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 256 256"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M128 256c70.692 0 128-57.308 128-128C256 57.308 198.692 0 128 0 57.308 0 0 57.308 0 128c0 70.692 57.308 128 128 128zm-9.06-113.686L75 60h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L161.49 60h18.69l-44.34 83.308v53.087h-16.9v-54.08z"
+                          fillRule="evenodd"
+                        />
+                      </svg>
+                       
+                      <span>
+                        HackerNews
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -293,7 +627,42 @@ exports[`HackerNews 3 1`] = `
   solidcircle={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-VigVT",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #ff6600;
+  border-color: #ff6600;
+
+  &:hover,
+  &:active {
+    background-color: #fb6200;
+    border-color: #fb6200;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-VigVT",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -302,52 +671,185 @@ exports[`HackerNews 3 1`] = `
     small={true}
     solidcircle={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on HackerNews"
       href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on HackerNews"
     >
-      <a
+      <StyledComponent
         aria-label="Share on HackerNews"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on HackerNews"
       >
-        <styled.div
-          small={true}
-          solidcircle={true}
+        <a
+          aria-label="Share on HackerNews"
+          className="c0"
+          href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on HackerNews"
         >
-          <div
-            className="c1"
+          <ForwardRef
+            small={true}
+            solidcircle={true}
           >
-            <styled.div
-              aria-hidden="true"
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-VigVT",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #ff6600;
+  border-color: #ff6600;
+
+  &:hover,
+  &:active {
+    background-color: #fb6200;
+    border-color: #fb6200;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-VigVT",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              small={true}
               solidcircle={true}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 256 256"
-                  xmlns="http://www.w3.org/2000/svg"
+                <ForwardRef
+                  aria-hidden="true"
+                  solidcircle={true}
                 >
-                  <path
-                    d="M128 256c70.692 0 128-57.308 128-128C256 57.308 198.692 0 128 0 57.308 0 0 57.308 0 128c0 70.692 57.308 128 128 128zm-9.06-113.686L75 60h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L161.49 60h18.69l-44.34 83.308v53.087h-16.9v-54.08z"
-                    fillRule="evenodd"
-                  />
-                </svg>
-                 
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solidcircle={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 256 256"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M128 256c70.692 0 128-57.308 128-128C256 57.308 198.692 0 128 0 57.308 0 0 57.308 0 128c0 70.692 57.308 128 128 128zm-9.06-113.686L75 60h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L161.49 60h18.69l-44.34 83.308v53.087h-16.9v-54.08z"
+                          fillRule="evenodd"
+                        />
+                      </svg>
+                       
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -408,7 +910,42 @@ exports[`HackerNews 4 1`] = `
 >
   <ButtonFactory
     big={true}
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-VigVT",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #ff6600;
+  border-color: #ff6600;
+
+  &:hover,
+  &:active {
+    background-color: #fb6200;
+    border-color: #fb6200;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-VigVT",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     circle={true}
     href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
     iconCircle={[Function]}
@@ -416,57 +953,187 @@ exports[`HackerNews 4 1`] = `
     iconFill={[Function]}
     name="HackerNews"
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on HackerNews"
       href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on HackerNews"
     >
-      <a
+      <StyledComponent
         aria-label="Share on HackerNews"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on HackerNews"
       >
-        <styled.div>
-          <div
-            className="c1"
-          >
-            <styled.div
-              aria-hidden="true"
+        <a
+          aria-label="Share on HackerNews"
+          className="c0"
+          href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on HackerNews"
+        >
+          <ForwardRef>
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-VigVT",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #ff6600;
+  border-color: #ff6600;
+
+  &:hover,
+  &:active {
+    background-color: #fb6200;
+    border-color: #fb6200;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-VigVT",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 256 256"
-                  xmlns="http://www.w3.org/2000/svg"
+                <ForwardRef
+                  aria-hidden="true"
                 >
-                  <circle
-                    cx="128"
-                    cy="128"
-                    r="122.5"
-                  />
-                  <path
-                    d="M128 256c70.692 0 128-57.308 128-128C256 57.308 198.692 0 128 0 57.308 0 0 57.308 0 128c0 70.692 57.308 128 128 128zm-9.06-113.686L75 60h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L161.49 60h18.69l-44.34 83.308v53.087h-16.9v-54.08z"
-                    fillRule="evenodd"
-                    strokeWidth="10px"
-                  />
-                </svg>
-                 
-                <span>
-                  Share on HackerNews
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 256 256"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <circle
+                          cx="128"
+                          cy="128"
+                          r="122.5"
+                        />
+                        <path
+                          d="M128 256c70.692 0 128-57.308 128-128C256 57.308 198.692 0 128 0 57.308 0 0 57.308 0 128c0 70.692 57.308 128 128 128zm-9.06-113.686L75 60h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L161.49 60h18.69l-44.34 83.308v53.087h-16.9v-54.08z"
+                          fillRule="evenodd"
+                          strokeWidth="10px"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Share on HackerNews
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -526,7 +1193,42 @@ exports[`HackerNews 5 1`] = `
   message="I am so cool"
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-VigVT",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #ff6600;
+  border-color: #ff6600;
+
+  &:hover,
+  &:active {
+    background-color: #fb6200;
+    border-color: #fb6200;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-VigVT",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     circle={true}
     href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
     iconCircle={[Function]}
@@ -535,57 +1237,187 @@ exports[`HackerNews 5 1`] = `
     medium={true}
     name="HackerNews"
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on HackerNews"
       href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on HackerNews"
     >
-      <a
+      <StyledComponent
         aria-label="Share on HackerNews"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on HackerNews"
       >
-        <styled.div>
-          <div
-            className="c1"
-          >
-            <styled.div
-              aria-hidden="true"
+        <a
+          aria-label="Share on HackerNews"
+          className="c0"
+          href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on HackerNews"
+        >
+          <ForwardRef>
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-VigVT",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #ff6600;
+  border-color: #ff6600;
+
+  &:hover,
+  &:active {
+    background-color: #fb6200;
+    border-color: #fb6200;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-VigVT",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 256 256"
-                  xmlns="http://www.w3.org/2000/svg"
+                <ForwardRef
+                  aria-hidden="true"
                 >
-                  <circle
-                    cx="128"
-                    cy="128"
-                    r="122.5"
-                  />
-                  <path
-                    d="M128 256c70.692 0 128-57.308 128-128C256 57.308 198.692 0 128 0 57.308 0 0 57.308 0 128c0 70.692 57.308 128 128 128zm-9.06-113.686L75 60h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L161.49 60h18.69l-44.34 83.308v53.087h-16.9v-54.08z"
-                    fillRule="evenodd"
-                    strokeWidth="10px"
-                  />
-                </svg>
-                 
-                <span>
-                  HackerNews
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 256 256"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <circle
+                          cx="128"
+                          cy="128"
+                          r="122.5"
+                        />
+                        <path
+                          d="M128 256c70.692 0 128-57.308 128-128C256 57.308 198.692 0 128 0 57.308 0 0 57.308 0 128c0 70.692 57.308 128 128 128zm-9.06-113.686L75 60h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L161.49 60h18.69l-44.34 83.308v53.087h-16.9v-54.08z"
+                          fillRule="evenodd"
+                          strokeWidth="10px"
+                        />
+                      </svg>
+                       
+                      <span>
+                        HackerNews
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -645,7 +1477,42 @@ exports[`HackerNews 6 1`] = `
   small={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-VigVT",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #ff6600;
+  border-color: #ff6600;
+
+  &:hover,
+  &:active {
+    background-color: #fb6200;
+    border-color: #fb6200;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-VigVT",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     circle={true}
     href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
     iconCircle={[Function]}
@@ -654,56 +1521,187 @@ exports[`HackerNews 6 1`] = `
     name="HackerNews"
     small={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on HackerNews"
       href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on HackerNews"
     >
-      <a
+      <StyledComponent
         aria-label="Share on HackerNews"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on HackerNews"
       >
-        <styled.div
-          small={true}
+        <a
+          aria-label="Share on HackerNews"
+          className="c0"
+          href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on HackerNews"
         >
-          <div
-            className="c1"
+          <ForwardRef
+            small={true}
           >
-            <styled.div
-              aria-hidden="true"
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-VigVT",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #ff6600;
+  border-color: #ff6600;
+
+  &:hover,
+  &:active {
+    background-color: #fb6200;
+    border-color: #fb6200;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-VigVT",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              small={true}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 256 256"
-                  xmlns="http://www.w3.org/2000/svg"
+                <ForwardRef
+                  aria-hidden="true"
                 >
-                  <circle
-                    cx="128"
-                    cy="128"
-                    r="122.5"
-                  />
-                  <path
-                    d="M128 256c70.692 0 128-57.308 128-128C256 57.308 198.692 0 128 0 57.308 0 0 57.308 0 128c0 70.692 57.308 128 128 128zm-9.06-113.686L75 60h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L161.49 60h18.69l-44.34 83.308v53.087h-16.9v-54.08z"
-                    fillRule="evenodd"
-                    strokeWidth="10px"
-                  />
-                </svg>
-                 
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 256 256"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <circle
+                          cx="128"
+                          cy="128"
+                          r="122.5"
+                        />
+                        <path
+                          d="M128 256c70.692 0 128-57.308 128-128C256 57.308 198.692 0 128 0 57.308 0 0 57.308 0 128c0 70.692 57.308 128 128 128zm-9.06-113.686L75 60h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L161.49 60h18.69l-44.34 83.308v53.087h-16.9v-54.08z"
+                          fillRule="evenodd"
+                          strokeWidth="10px"
+                        />
+                      </svg>
+                       
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -766,7 +1764,42 @@ exports[`HackerNews 7 1`] = `
 >
   <ButtonFactory
     big={true}
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-VigVT",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #ff6600;
+  border-color: #ff6600;
+
+  &:hover,
+  &:active {
+    background-color: #fb6200;
+    border-color: #fb6200;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-VigVT",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -774,52 +1807,183 @@ exports[`HackerNews 7 1`] = `
     name="HackerNews"
     solid={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on HackerNews"
       href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on HackerNews"
     >
-      <a
+      <StyledComponent
         aria-label="Share on HackerNews"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on HackerNews"
       >
-        <styled.div>
-          <div
-            className="c1"
-          >
-            <styled.div
-              aria-hidden="true"
-              solid={true}
+        <a
+          aria-label="Share on HackerNews"
+          className="c0"
+          href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on HackerNews"
+        >
+          <ForwardRef>
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-VigVT",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #ff6600;
+  border-color: #ff6600;
+
+  &:hover,
+  &:active {
+    background-color: #fb6200;
+    border-color: #fb6200;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-VigVT",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 140 140"
-                  xmlns="http://www.w3.org/2000/svg"
+                <ForwardRef
+                  aria-hidden="true"
+                  solid={true}
                 >
-                  <path
-                    d="M60.94 82.314L17 0h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L103.49 0h18.69L77.84 83.308v53.087h-16.9v-54.08z"
-                    fillRule="evenodd"
-                  />
-                </svg>
-                 
-                <span>
-                  Share on HackerNews
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solid={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 140 140"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M60.94 82.314L17 0h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L103.49 0h18.69L77.84 83.308v53.087h-16.9v-54.08z"
+                          fillRule="evenodd"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Share on HackerNews
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -881,7 +2045,42 @@ exports[`HackerNews 8 1`] = `
   solid={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-VigVT",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #ff6600;
+  border-color: #ff6600;
+
+  &:hover,
+  &:active {
+    background-color: #fb6200;
+    border-color: #fb6200;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-VigVT",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -890,52 +2089,183 @@ exports[`HackerNews 8 1`] = `
     name="HackerNews"
     solid={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on HackerNews"
       href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on HackerNews"
     >
-      <a
+      <StyledComponent
         aria-label="Share on HackerNews"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on HackerNews"
       >
-        <styled.div>
-          <div
-            className="c1"
-          >
-            <styled.div
-              aria-hidden="true"
-              solid={true}
+        <a
+          aria-label="Share on HackerNews"
+          className="c0"
+          href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on HackerNews"
+        >
+          <ForwardRef>
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-VigVT",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #ff6600;
+  border-color: #ff6600;
+
+  &:hover,
+  &:active {
+    background-color: #fb6200;
+    border-color: #fb6200;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-VigVT",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 140 140"
-                  xmlns="http://www.w3.org/2000/svg"
+                <ForwardRef
+                  aria-hidden="true"
+                  solid={true}
                 >
-                  <path
-                    d="M60.94 82.314L17 0h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L103.49 0h18.69L77.84 83.308v53.087h-16.9v-54.08z"
-                    fillRule="evenodd"
-                  />
-                </svg>
-                 
-                <span>
-                  HackerNews
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solid={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 140 140"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M60.94 82.314L17 0h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L103.49 0h18.69L77.84 83.308v53.087h-16.9v-54.08z"
+                          fillRule="evenodd"
+                        />
+                      </svg>
+                       
+                      <span>
+                        HackerNews
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -997,7 +2327,42 @@ exports[`HackerNews 9 1`] = `
   solid={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-VigVT",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #ff6600;
+  border-color: #ff6600;
+
+  &:hover,
+  &:active {
+    background-color: #fb6200;
+    border-color: #fb6200;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-VigVT",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -1006,51 +2371,183 @@ exports[`HackerNews 9 1`] = `
     small={true}
     solid={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on HackerNews"
       href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on HackerNews"
     >
-      <a
+      <StyledComponent
         aria-label="Share on HackerNews"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on HackerNews"
       >
-        <styled.div
-          small={true}
+        <a
+          aria-label="Share on HackerNews"
+          className="c0"
+          href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fsharingbuttons.io&t=I%20am%20so%20cool"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on HackerNews"
         >
-          <div
-            className="c1"
+          <ForwardRef
+            small={true}
           >
-            <styled.div
-              aria-hidden="true"
-              solid={true}
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-VigVT",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #ff6600;
+  border-color: #ff6600;
+
+  &:hover,
+  &:active {
+    background-color: #fb6200;
+    border-color: #fb6200;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-VigVT",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              small={true}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 140 140"
-                  xmlns="http://www.w3.org/2000/svg"
+                <ForwardRef
+                  aria-hidden="true"
+                  solid={true}
                 >
-                  <path
-                    d="M60.94 82.314L17 0h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L103.49 0h18.69L77.84 83.308v53.087h-16.9v-54.08z"
-                    fillRule="evenodd"
-                  />
-                </svg>
-                 
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solid={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 140 140"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M60.94 82.314L17 0h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L103.49 0h18.69L77.84 83.308v53.087h-16.9v-54.08z"
+                          fillRule="evenodd"
+                        />
+                      </svg>
+                       
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -1107,7 +2604,42 @@ exports[`HackerNews 11 1`] = `
   circle={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-VigVT",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #ff6600;
+  border-color: #ff6600;
+
+  &:hover,
+  &:active {
+    background-color: #fb6200;
+    border-color: #fb6200;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-VigVT",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     circle={true}
     href="https://news.ycombinator.com/submitlink?u=&t=undefined"
     iconCircle={[Function]}
@@ -1115,57 +2647,187 @@ exports[`HackerNews 11 1`] = `
     iconFill={[Function]}
     name="HackerNews"
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on HackerNews"
       href="https://news.ycombinator.com/submitlink?u=&t=undefined"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on HackerNews"
     >
-      <a
+      <StyledComponent
         aria-label="Share on HackerNews"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://news.ycombinator.com/submitlink?u=&t=undefined"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on HackerNews"
       >
-        <styled.div>
-          <div
-            className="c1"
-          >
-            <styled.div
-              aria-hidden="true"
+        <a
+          aria-label="Share on HackerNews"
+          className="c0"
+          href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on HackerNews"
+        >
+          <ForwardRef>
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-VigVT",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #ff6600;
+  border-color: #ff6600;
+
+  &:hover,
+  &:active {
+    background-color: #fb6200;
+    border-color: #fb6200;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-VigVT",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 256 256"
-                  xmlns="http://www.w3.org/2000/svg"
+                <ForwardRef
+                  aria-hidden="true"
                 >
-                  <circle
-                    cx="128"
-                    cy="128"
-                    r="122.5"
-                  />
-                  <path
-                    d="M128 256c70.692 0 128-57.308 128-128C256 57.308 198.692 0 128 0 57.308 0 0 57.308 0 128c0 70.692 57.308 128 128 128zm-9.06-113.686L75 60h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L161.49 60h18.69l-44.34 83.308v53.087h-16.9v-54.08z"
-                    fillRule="evenodd"
-                    strokeWidth="10px"
-                  />
-                </svg>
-                 
-                <span>
-                  HackerNews
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 256 256"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <circle
+                          cx="128"
+                          cy="128"
+                          r="122.5"
+                        />
+                        <path
+                          d="M128 256c70.692 0 128-57.308 128-128C256 57.308 198.692 0 128 0 57.308 0 0 57.308 0 128c0 70.692 57.308 128 128 128zm-9.06-113.686L75 60h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L161.49 60h18.69l-44.34 83.308v53.087h-16.9v-54.08z"
+                          fillRule="evenodd"
+                          strokeWidth="10px"
+                        />
+                      </svg>
+                       
+                      <span>
+                        HackerNews
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -1224,7 +2886,42 @@ exports[`HackerNews 11 2`] = `
   solidcircle={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-VigVT",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #ff6600;
+  border-color: #ff6600;
+
+  &:hover,
+  &:active {
+    background-color: #fb6200;
+    border-color: #fb6200;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-VigVT",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://news.ycombinator.com/submitlink?u=&t=undefined"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -1232,54 +2929,186 @@ exports[`HackerNews 11 2`] = `
     name="HackerNews"
     solidcircle={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on HackerNews"
       href="https://news.ycombinator.com/submitlink?u=&t=undefined"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on HackerNews"
     >
-      <a
+      <StyledComponent
         aria-label="Share on HackerNews"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://news.ycombinator.com/submitlink?u=&t=undefined"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on HackerNews"
       >
-        <styled.div
-          solidcircle={true}
+        <a
+          aria-label="Share on HackerNews"
+          className="c0"
+          href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on HackerNews"
         >
-          <div
-            className="c1"
+          <ForwardRef
+            solidcircle={true}
           >
-            <styled.div
-              aria-hidden="true"
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-VigVT",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #ff6600;
+  border-color: #ff6600;
+
+  &:hover,
+  &:active {
+    background-color: #fb6200;
+    border-color: #fb6200;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-VigVT",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
               solidcircle={true}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 256 256"
-                  xmlns="http://www.w3.org/2000/svg"
+                <ForwardRef
+                  aria-hidden="true"
+                  solidcircle={true}
                 >
-                  <path
-                    d="M128 256c70.692 0 128-57.308 128-128C256 57.308 198.692 0 128 0 57.308 0 0 57.308 0 128c0 70.692 57.308 128 128 128zm-9.06-113.686L75 60h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L161.49 60h18.69l-44.34 83.308v53.087h-16.9v-54.08z"
-                    fillRule="evenodd"
-                  />
-                </svg>
-                 
-                <span>
-                  HackerNews
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solidcircle={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 256 256"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M128 256c70.692 0 128-57.308 128-128C256 57.308 198.692 0 128 0 57.308 0 0 57.308 0 128c0 70.692 57.308 128 128 128zm-9.06-113.686L75 60h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L161.49 60h18.69l-44.34 83.308v53.087h-16.9v-54.08z"
+                          fillRule="evenodd"
+                        />
+                      </svg>
+                       
+                      <span>
+                        HackerNews
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -1336,59 +3165,225 @@ exports[`HackerNews 12 1`] = `
 
 <Component>
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-VigVT",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #ff6600;
+  border-color: #ff6600;
+
+  &:hover,
+  &:active {
+    background-color: #fb6200;
+    border-color: #fb6200;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-VigVT",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://news.ycombinator.com/submitlink?u=&t=undefined"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     name="HackerNews"
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on HackerNews"
       href="https://news.ycombinator.com/submitlink?u=&t=undefined"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on HackerNews"
     >
-      <a
+      <StyledComponent
         aria-label="Share on HackerNews"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://news.ycombinator.com/submitlink?u=&t=undefined"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on HackerNews"
       >
-        <styled.div>
-          <div
-            className="c1"
-          >
-            <styled.div
-              aria-hidden="true"
-              solid={true}
+        <a
+          aria-label="Share on HackerNews"
+          className="c0"
+          href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on HackerNews"
+        >
+          <ForwardRef>
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-VigVT",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #ff6600;
+  border-color: #ff6600;
+
+  &:hover,
+  &:active {
+    background-color: #fb6200;
+    border-color: #fb6200;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-VigVT",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 140 140"
-                  xmlns="http://www.w3.org/2000/svg"
+                <ForwardRef
+                  aria-hidden="true"
+                  solid={true}
                 >
-                  <path
-                    d="M60.94 82.314L17 0h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L103.49 0h18.69L77.84 83.308v53.087h-16.9v-54.08z"
-                    fillRule="evenodd"
-                  />
-                </svg>
-                 
-                <span>
-                  HackerNews
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solid={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 140 140"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M60.94 82.314L17 0h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L103.49 0h18.69L77.84 83.308v53.087h-16.9v-54.08z"
+                          fillRule="evenodd"
+                        />
+                      </svg>
+                       
+                      <span>
+                        HackerNews
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -1421,7 +3416,42 @@ exports[`HackerNews 13 1`] = `
   simple={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-VigVT",
+          "isStatic": true,
+          "lastClassName": "bgFikP",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #ff6600;
+  border-color: #ff6600;
+
+  &:hover,
+  &:active {
+    background-color: #fb6200;
+    border-color: #fb6200;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-VigVT",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://news.ycombinator.com/submitlink?u=&t=undefined"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -1429,7 +3459,7 @@ exports[`HackerNews 13 1`] = `
     name="HackerNews"
     simple={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on HackerNews"
       href="https://news.ycombinator.com/submitlink?u=&t=undefined"
       rel="noreferrer noopener"
@@ -1437,27 +3467,85 @@ exports[`HackerNews 13 1`] = `
       target="_blank"
       title="Share on HackerNews"
     >
-      <a
+      <StyledComponent
         aria-label="Share on HackerNews"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://news.ycombinator.com/submitlink?u=&t=undefined"
         rel="noreferrer noopener"
+        simple={true}
         target="_blank"
         title="Share on HackerNews"
       >
-        <HackerIconFill>
-          <svg
-            viewBox="0 0 140 140"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M60.94 82.314L17 0h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L103.49 0h18.69L77.84 83.308v53.087h-16.9v-54.08z"
-              fillRule="evenodd"
-            />
-          </svg>
-        </HackerIconFill>
-      </a>
-    </styled.a>
+        <a
+          aria-label="Share on HackerNews"
+          className="c0"
+          href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on HackerNews"
+        >
+          <HackerIconFill>
+            <svg
+              viewBox="0 0 140 140"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M60.94 82.314L17 0h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L103.49 0h18.69L77.84 83.308v53.087h-16.9v-54.08z"
+                fillRule="evenodd"
+              />
+            </svg>
+          </HackerIconFill>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -1490,7 +3578,42 @@ exports[`HackerNews 14 1`] = `
   simpleReverse={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-VigVT",
+          "isStatic": true,
+          "lastClassName": "bgFikP",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #ff6600;
+  border-color: #ff6600;
+
+  &:hover,
+  &:active {
+    background-color: #fb6200;
+    border-color: #fb6200;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-VigVT",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://news.ycombinator.com/submitlink?u=&t=undefined"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -1498,7 +3621,7 @@ exports[`HackerNews 14 1`] = `
     name="HackerNews"
     simpleReverse={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on HackerNews"
       href="https://news.ycombinator.com/submitlink?u=&t=undefined"
       rel="noreferrer noopener"
@@ -1506,27 +3629,85 @@ exports[`HackerNews 14 1`] = `
       target="_blank"
       title="Share on HackerNews"
     >
-      <a
+      <StyledComponent
         aria-label="Share on HackerNews"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://news.ycombinator.com/submitlink?u=&t=undefined"
         rel="noreferrer noopener"
+        simpleReverse={true}
         target="_blank"
         title="Share on HackerNews"
       >
-        <HackerIconFill>
-          <svg
-            viewBox="0 0 140 140"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M60.94 82.314L17 0h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L103.49 0h18.69L77.84 83.308v53.087h-16.9v-54.08z"
-              fillRule="evenodd"
-            />
-          </svg>
-        </HackerIconFill>
-      </a>
-    </styled.a>
+        <a
+          aria-label="Share on HackerNews"
+          className="c0"
+          href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on HackerNews"
+        >
+          <HackerIconFill>
+            <svg
+              viewBox="0 0 140 140"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M60.94 82.314L17 0h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L103.49 0h18.69L77.84 83.308v53.087h-16.9v-54.08z"
+                fillRule="evenodd"
+              />
+            </svg>
+          </HackerIconFill>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;

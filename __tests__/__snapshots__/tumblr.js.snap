@@ -58,7 +58,42 @@ exports[`Tumblr 1 1`] = `
 >
   <ButtonFactory
     big={true}
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-bZQynM",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #35465c;
+  border-color: #35465c;
+
+  &:hover,
+  &:active {
+    background-color: #222d3c;
+    border-color: #222d3c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-bZQynM",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -67,60 +102,193 @@ exports[`Tumblr 1 1`] = `
     name="Tumblr"
     solidcircle={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on Tumblr"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Tumblr"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Tumblr"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Tumblr"
       >
-        <styled.div
-          message="I am so cool"
-          solidcircle={true}
+        <a
+          aria-label="Share on Tumblr"
+          className="c0"
+          href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Tumblr"
         >
-          <div
-            className="c1"
+          <ForwardRef
+            message="I am so cool"
+            solidcircle={true}
           >
-            <styled.div
-              aria-hidden="true"
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-bZQynM",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #35465c;
+  border-color: #35465c;
+
+  &:hover,
+  &:active {
+    background-color: #222d3c;
+    border-color: #222d3c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-bZQynM",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              message="I am so cool"
               solidcircle={true}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  enableBackground="new 0 0 24 24"
-                  height="24px"
-                  version="1.1"
-                  viewBox="0 0 24 24"
-                  width="24px"
-                  x="0px"
-                  xmlSpace="preserve"
-                  y="0px"
+                <ForwardRef
+                  aria-hidden="true"
+                  solidcircle={true}
                 >
-                  <path
-                    d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M15.492,17.616C11.401,19.544,9.5,17,9.5,14.031 V9.5h-2V8.142c0.549-0.178,1.236-0.435,1.627-0.768c0.393-0.334,0.707-0.733,0.943-1.2c0.238-0.467,0.401-0.954,0.49-1.675H12.5v3h2 v2h-2v3.719c0,2.468,1.484,2.692,2.992,1.701V17.616z"
-                  />
-                </svg>
-                 
-                <span>
-                  Share on Tumblr
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solidcircle={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        enableBackground="new 0 0 24 24"
+                        height="24px"
+                        version="1.1"
+                        viewBox="0 0 24 24"
+                        width="24px"
+                        x="0px"
+                        xmlSpace="preserve"
+                        y="0px"
+                      >
+                        <path
+                          d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M15.492,17.616C11.401,19.544,9.5,17,9.5,14.031 V9.5h-2V8.142c0.549-0.178,1.236-0.435,1.627-0.768c0.393-0.334,0.707-0.733,0.943-1.2c0.238-0.467,0.401-0.954,0.49-1.675H12.5v3h2 v2h-2v3.719c0,2.468,1.484,2.692,2.992,1.701V17.616z"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Share on Tumblr
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -182,7 +350,42 @@ exports[`Tumblr 2 1`] = `
   solidcircle={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-bZQynM",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #35465c;
+  border-color: #35465c;
+
+  &:hover,
+  &:active {
+    background-color: #222d3c;
+    border-color: #222d3c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-bZQynM",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -192,60 +395,193 @@ exports[`Tumblr 2 1`] = `
     name="Tumblr"
     solidcircle={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on Tumblr"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Tumblr"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Tumblr"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Tumblr"
       >
-        <styled.div
-          message="I am so cool"
-          solidcircle={true}
+        <a
+          aria-label="Share on Tumblr"
+          className="c0"
+          href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Tumblr"
         >
-          <div
-            className="c1"
+          <ForwardRef
+            message="I am so cool"
+            solidcircle={true}
           >
-            <styled.div
-              aria-hidden="true"
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-bZQynM",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #35465c;
+  border-color: #35465c;
+
+  &:hover,
+  &:active {
+    background-color: #222d3c;
+    border-color: #222d3c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-bZQynM",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              message="I am so cool"
               solidcircle={true}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  enableBackground="new 0 0 24 24"
-                  height="24px"
-                  version="1.1"
-                  viewBox="0 0 24 24"
-                  width="24px"
-                  x="0px"
-                  xmlSpace="preserve"
-                  y="0px"
+                <ForwardRef
+                  aria-hidden="true"
+                  solidcircle={true}
                 >
-                  <path
-                    d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M15.492,17.616C11.401,19.544,9.5,17,9.5,14.031 V9.5h-2V8.142c0.549-0.178,1.236-0.435,1.627-0.768c0.393-0.334,0.707-0.733,0.943-1.2c0.238-0.467,0.401-0.954,0.49-1.675H12.5v3h2 v2h-2v3.719c0,2.468,1.484,2.692,2.992,1.701V17.616z"
-                  />
-                </svg>
-                 
-                <span>
-                  Tumblr
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solidcircle={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        enableBackground="new 0 0 24 24"
+                        height="24px"
+                        version="1.1"
+                        viewBox="0 0 24 24"
+                        width="24px"
+                        x="0px"
+                        xmlSpace="preserve"
+                        y="0px"
+                      >
+                        <path
+                          d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M15.492,17.616C11.401,19.544,9.5,17,9.5,14.031 V9.5h-2V8.142c0.549-0.178,1.236-0.435,1.627-0.768c0.393-0.334,0.707-0.733,0.943-1.2c0.238-0.467,0.401-0.954,0.49-1.675H12.5v3h2 v2h-2v3.719c0,2.468,1.484,2.692,2.992,1.701V17.616z"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Tumblr
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -307,7 +643,42 @@ exports[`Tumblr 3 1`] = `
   solidcircle={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-bZQynM",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #35465c;
+  border-color: #35465c;
+
+  &:hover,
+  &:active {
+    background-color: #222d3c;
+    border-color: #222d3c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-bZQynM",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -317,58 +688,192 @@ exports[`Tumblr 3 1`] = `
     small={true}
     solidcircle={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on Tumblr"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Tumblr"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Tumblr"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Tumblr"
       >
-        <styled.div
-          message="I am so cool"
-          small={true}
-          solidcircle={true}
+        <a
+          aria-label="Share on Tumblr"
+          className="c0"
+          href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Tumblr"
         >
-          <div
-            className="c1"
+          <ForwardRef
+            message="I am so cool"
+            small={true}
+            solidcircle={true}
           >
-            <styled.div
-              aria-hidden="true"
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-bZQynM",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #35465c;
+  border-color: #35465c;
+
+  &:hover,
+  &:active {
+    background-color: #222d3c;
+    border-color: #222d3c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-bZQynM",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              message="I am so cool"
+              small={true}
               solidcircle={true}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  enableBackground="new 0 0 24 24"
-                  height="24px"
-                  version="1.1"
-                  viewBox="0 0 24 24"
-                  width="24px"
-                  x="0px"
-                  xmlSpace="preserve"
-                  y="0px"
+                <ForwardRef
+                  aria-hidden="true"
+                  solidcircle={true}
                 >
-                  <path
-                    d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M15.492,17.616C11.401,19.544,9.5,17,9.5,14.031 V9.5h-2V8.142c0.549-0.178,1.236-0.435,1.627-0.768c0.393-0.334,0.707-0.733,0.943-1.2c0.238-0.467,0.401-0.954,0.49-1.675H12.5v3h2 v2h-2v3.719c0,2.468,1.484,2.692,2.992,1.701V17.616z"
-                  />
-                </svg>
-                 
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solidcircle={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        enableBackground="new 0 0 24 24"
+                        height="24px"
+                        version="1.1"
+                        viewBox="0 0 24 24"
+                        width="24px"
+                        x="0px"
+                        xmlSpace="preserve"
+                        y="0px"
+                      >
+                        <path
+                          d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M15.492,17.616C11.401,19.544,9.5,17,9.5,14.031 V9.5h-2V8.142c0.549-0.178,1.236-0.435,1.627-0.768c0.393-0.334,0.707-0.733,0.943-1.2c0.238-0.467,0.401-0.954,0.49-1.675H12.5v3h2 v2h-2v3.719c0,2.468,1.484,2.692,2.992,1.701V17.616z"
+                        />
+                      </svg>
+                       
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -429,7 +934,42 @@ exports[`Tumblr 4 1`] = `
 >
   <ButtonFactory
     big={true}
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-bZQynM",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #35465c;
+  border-color: #35465c;
+
+  &:hover,
+  &:active {
+    background-color: #222d3c;
+    border-color: #222d3c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-bZQynM",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     circle={true}
     href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
@@ -438,58 +978,189 @@ exports[`Tumblr 4 1`] = `
     message="I am so cool"
     name="Tumblr"
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on Tumblr"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Tumblr"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Tumblr"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Tumblr"
       >
-        <styled.div
-          message="I am so cool"
+        <a
+          aria-label="Share on Tumblr"
+          className="c0"
+          href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Tumblr"
         >
-          <div
-            className="c1"
+          <ForwardRef
+            message="I am so cool"
           >
-            <styled.div
-              aria-hidden="true"
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-bZQynM",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #35465c;
+  border-color: #35465c;
+
+  &:hover,
+  &:active {
+    background-color: #222d3c;
+    border-color: #222d3c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-bZQynM",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              message="I am so cool"
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  enableBackground="new 0 0 24 24"
-                  height="24px"
-                  version="1.1"
-                  viewBox="0 0 24 24"
-                  width="24px"
-                  x="0px"
-                  xmlSpace="preserve"
-                  y="0px"
+                <ForwardRef
+                  aria-hidden="true"
                 >
-                  <path
-                    d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M15.492,17.616C11.401,19.544,9.5,17,9.5,14.031 V9.5h-2V8.142c0.549-0.178,1.236-0.435,1.627-0.768c0.393-0.334,0.707-0.733,0.943-1.2c0.238-0.467,0.401-0.954,0.49-1.675H12.5v3h2 v2h-2v3.719c0,2.468,1.484,2.692,2.992,1.701V17.616z"
-                  />
-                </svg>
-                 
-                <span>
-                  Share on Tumblr
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        enableBackground="new 0 0 24 24"
+                        height="24px"
+                        version="1.1"
+                        viewBox="0 0 24 24"
+                        width="24px"
+                        x="0px"
+                        xmlSpace="preserve"
+                        y="0px"
+                      >
+                        <path
+                          d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M15.492,17.616C11.401,19.544,9.5,17,9.5,14.031 V9.5h-2V8.142c0.549-0.178,1.236-0.435,1.627-0.768c0.393-0.334,0.707-0.733,0.943-1.2c0.238-0.467,0.401-0.954,0.49-1.675H12.5v3h2 v2h-2v3.719c0,2.468,1.484,2.692,2.992,1.701V17.616z"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Share on Tumblr
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -549,7 +1220,42 @@ exports[`Tumblr 5 1`] = `
   message="I am so cool"
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-bZQynM",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #35465c;
+  border-color: #35465c;
+
+  &:hover,
+  &:active {
+    background-color: #222d3c;
+    border-color: #222d3c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-bZQynM",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     circle={true}
     href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
@@ -559,58 +1265,189 @@ exports[`Tumblr 5 1`] = `
     message="I am so cool"
     name="Tumblr"
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on Tumblr"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Tumblr"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Tumblr"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Tumblr"
       >
-        <styled.div
-          message="I am so cool"
+        <a
+          aria-label="Share on Tumblr"
+          className="c0"
+          href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Tumblr"
         >
-          <div
-            className="c1"
+          <ForwardRef
+            message="I am so cool"
           >
-            <styled.div
-              aria-hidden="true"
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-bZQynM",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #35465c;
+  border-color: #35465c;
+
+  &:hover,
+  &:active {
+    background-color: #222d3c;
+    border-color: #222d3c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-bZQynM",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              message="I am so cool"
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  enableBackground="new 0 0 24 24"
-                  height="24px"
-                  version="1.1"
-                  viewBox="0 0 24 24"
-                  width="24px"
-                  x="0px"
-                  xmlSpace="preserve"
-                  y="0px"
+                <ForwardRef
+                  aria-hidden="true"
                 >
-                  <path
-                    d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M15.492,17.616C11.401,19.544,9.5,17,9.5,14.031 V9.5h-2V8.142c0.549-0.178,1.236-0.435,1.627-0.768c0.393-0.334,0.707-0.733,0.943-1.2c0.238-0.467,0.401-0.954,0.49-1.675H12.5v3h2 v2h-2v3.719c0,2.468,1.484,2.692,2.992,1.701V17.616z"
-                  />
-                </svg>
-                 
-                <span>
-                  Tumblr
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        enableBackground="new 0 0 24 24"
+                        height="24px"
+                        version="1.1"
+                        viewBox="0 0 24 24"
+                        width="24px"
+                        x="0px"
+                        xmlSpace="preserve"
+                        y="0px"
+                      >
+                        <path
+                          d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M15.492,17.616C11.401,19.544,9.5,17,9.5,14.031 V9.5h-2V8.142c0.549-0.178,1.236-0.435,1.627-0.768c0.393-0.334,0.707-0.733,0.943-1.2c0.238-0.467,0.401-0.954,0.49-1.675H12.5v3h2 v2h-2v3.719c0,2.468,1.484,2.692,2.992,1.701V17.616z"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Tumblr
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -670,7 +1507,42 @@ exports[`Tumblr 6 1`] = `
   small={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-bZQynM",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #35465c;
+  border-color: #35465c;
+
+  &:hover,
+  &:active {
+    background-color: #222d3c;
+    border-color: #222d3c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-bZQynM",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     circle={true}
     href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
@@ -680,56 +1552,188 @@ exports[`Tumblr 6 1`] = `
     name="Tumblr"
     small={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on Tumblr"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Tumblr"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Tumblr"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Tumblr"
       >
-        <styled.div
-          message="I am so cool"
-          small={true}
+        <a
+          aria-label="Share on Tumblr"
+          className="c0"
+          href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Tumblr"
         >
-          <div
-            className="c1"
+          <ForwardRef
+            message="I am so cool"
+            small={true}
           >
-            <styled.div
-              aria-hidden="true"
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-bZQynM",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #35465c;
+  border-color: #35465c;
+
+  &:hover,
+  &:active {
+    background-color: #222d3c;
+    border-color: #222d3c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-bZQynM",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              message="I am so cool"
+              small={true}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  enableBackground="new 0 0 24 24"
-                  height="24px"
-                  version="1.1"
-                  viewBox="0 0 24 24"
-                  width="24px"
-                  x="0px"
-                  xmlSpace="preserve"
-                  y="0px"
+                <ForwardRef
+                  aria-hidden="true"
                 >
-                  <path
-                    d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M15.492,17.616C11.401,19.544,9.5,17,9.5,14.031 V9.5h-2V8.142c0.549-0.178,1.236-0.435,1.627-0.768c0.393-0.334,0.707-0.733,0.943-1.2c0.238-0.467,0.401-0.954,0.49-1.675H12.5v3h2 v2h-2v3.719c0,2.468,1.484,2.692,2.992,1.701V17.616z"
-                  />
-                </svg>
-                 
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        enableBackground="new 0 0 24 24"
+                        height="24px"
+                        version="1.1"
+                        viewBox="0 0 24 24"
+                        width="24px"
+                        x="0px"
+                        xmlSpace="preserve"
+                        y="0px"
+                      >
+                        <path
+                          d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M15.492,17.616C11.401,19.544,9.5,17,9.5,14.031 V9.5h-2V8.142c0.549-0.178,1.236-0.435,1.627-0.768c0.393-0.334,0.707-0.733,0.943-1.2c0.238-0.467,0.401-0.954,0.49-1.675H12.5v3h2 v2h-2v3.719c0,2.468,1.484,2.692,2.992,1.701V17.616z"
+                        />
+                      </svg>
+                       
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -792,7 +1796,42 @@ exports[`Tumblr 7 1`] = `
 >
   <ButtonFactory
     big={true}
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-bZQynM",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #35465c;
+  border-color: #35465c;
+
+  &:hover,
+  &:active {
+    background-color: #222d3c;
+    border-color: #222d3c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-bZQynM",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -801,53 +1840,185 @@ exports[`Tumblr 7 1`] = `
     name="Tumblr"
     solid={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on Tumblr"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Tumblr"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Tumblr"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Tumblr"
       >
-        <styled.div
-          message="I am so cool"
+        <a
+          aria-label="Share on Tumblr"
+          className="c0"
+          href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Tumblr"
         >
-          <div
-            className="c1"
+          <ForwardRef
+            message="I am so cool"
           >
-            <styled.div
-              aria-hidden="true"
-              solid={true}
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-bZQynM",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #35465c;
+  border-color: #35465c;
+
+  &:hover,
+  &:active {
+    background-color: #222d3c;
+    border-color: #222d3c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-bZQynM",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              message="I am so cool"
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
+                <ForwardRef
+                  aria-hidden="true"
+                  solid={true}
                 >
-                  <path
-                    d="M13.5.5v5h5v4h-5V15c0 5 3.5 4.4 6 2.8v4.4c-6.7 3.2-12 0-12-4.2V9.5h-3V6.7c1-.3 2.2-.7 3-1.3.5-.5 1-1.2 1.4-2 .3-.7.6-1.7.7-3h3.8z"
-                  />
-                </svg>
-                 
-                <span>
-                  Share on Tumblr
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solid={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M13.5.5v5h5v4h-5V15c0 5 3.5 4.4 6 2.8v4.4c-6.7 3.2-12 0-12-4.2V9.5h-3V6.7c1-.3 2.2-.7 3-1.3.5-.5 1-1.2 1.4-2 .3-.7.6-1.7.7-3h3.8z"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Share on Tumblr
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -909,7 +2080,42 @@ exports[`Tumblr 8 1`] = `
   solid={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-bZQynM",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #35465c;
+  border-color: #35465c;
+
+  &:hover,
+  &:active {
+    background-color: #222d3c;
+    border-color: #222d3c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-bZQynM",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -919,53 +2125,185 @@ exports[`Tumblr 8 1`] = `
     name="Tumblr"
     solid={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on Tumblr"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Tumblr"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Tumblr"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Tumblr"
       >
-        <styled.div
-          message="I am so cool"
+        <a
+          aria-label="Share on Tumblr"
+          className="c0"
+          href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Tumblr"
         >
-          <div
-            className="c1"
+          <ForwardRef
+            message="I am so cool"
           >
-            <styled.div
-              aria-hidden="true"
-              solid={true}
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-bZQynM",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #35465c;
+  border-color: #35465c;
+
+  &:hover,
+  &:active {
+    background-color: #222d3c;
+    border-color: #222d3c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-bZQynM",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              message="I am so cool"
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
+                <ForwardRef
+                  aria-hidden="true"
+                  solid={true}
                 >
-                  <path
-                    d="M13.5.5v5h5v4h-5V15c0 5 3.5 4.4 6 2.8v4.4c-6.7 3.2-12 0-12-4.2V9.5h-3V6.7c1-.3 2.2-.7 3-1.3.5-.5 1-1.2 1.4-2 .3-.7.6-1.7.7-3h3.8z"
-                  />
-                </svg>
-                 
-                <span>
-                  Tumblr
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solid={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M13.5.5v5h5v4h-5V15c0 5 3.5 4.4 6 2.8v4.4c-6.7 3.2-12 0-12-4.2V9.5h-3V6.7c1-.3 2.2-.7 3-1.3.5-.5 1-1.2 1.4-2 .3-.7.6-1.7.7-3h3.8z"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Tumblr
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -1027,7 +2365,42 @@ exports[`Tumblr 9 1`] = `
   solid={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-bZQynM",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #35465c;
+  border-color: #35465c;
+
+  &:hover,
+  &:active {
+    background-color: #222d3c;
+    border-color: #222d3c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-bZQynM",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -1037,51 +2410,184 @@ exports[`Tumblr 9 1`] = `
     small={true}
     solid={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on Tumblr"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Tumblr"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Tumblr"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Tumblr"
       >
-        <styled.div
-          message="I am so cool"
-          small={true}
+        <a
+          aria-label="Share on Tumblr"
+          className="c0"
+          href="http://tumblr.com/widgets/share/tool?canonicalUrl=http%3A%2F%2Fsharingbuttons.io"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Tumblr"
         >
-          <div
-            className="c1"
+          <ForwardRef
+            message="I am so cool"
+            small={true}
           >
-            <styled.div
-              aria-hidden="true"
-              solid={true}
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-bZQynM",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #35465c;
+  border-color: #35465c;
+
+  &:hover,
+  &:active {
+    background-color: #222d3c;
+    border-color: #222d3c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-bZQynM",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              message="I am so cool"
+              small={true}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
+                <ForwardRef
+                  aria-hidden="true"
+                  solid={true}
                 >
-                  <path
-                    d="M13.5.5v5h5v4h-5V15c0 5 3.5 4.4 6 2.8v4.4c-6.7 3.2-12 0-12-4.2V9.5h-3V6.7c1-.3 2.2-.7 3-1.3.5-.5 1-1.2 1.4-2 .3-.7.6-1.7.7-3h3.8z"
-                  />
-                </svg>
-                 
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solid={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M13.5.5v5h5v4h-5V15c0 5 3.5 4.4 6 2.8v4.4c-6.7 3.2-12 0-12-4.2V9.5h-3V6.7c1-.3 2.2-.7 3-1.3.5-.5 1-1.2 1.4-2 .3-.7.6-1.7.7-3h3.8z"
+                        />
+                      </svg>
+                       
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -1138,7 +2644,42 @@ exports[`Tumblr 11 1`] = `
   circle={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-bZQynM",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #35465c;
+  border-color: #35465c;
+
+  &:hover,
+  &:active {
+    background-color: #222d3c;
+    border-color: #222d3c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-bZQynM",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     circle={true}
     href="http://tumblr.com/widgets/share/tool?canonicalUrl="
     iconCircle={[Function]}
@@ -1146,56 +2687,186 @@ exports[`Tumblr 11 1`] = `
     iconFill={[Function]}
     name="Tumblr"
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on Tumblr"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl="
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Tumblr"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Tumblr"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="http://tumblr.com/widgets/share/tool?canonicalUrl="
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Tumblr"
       >
-        <styled.div>
-          <div
-            className="c1"
-          >
-            <styled.div
-              aria-hidden="true"
+        <a
+          aria-label="Share on Tumblr"
+          className="c0"
+          href="http://tumblr.com/widgets/share/tool?canonicalUrl="
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Tumblr"
+        >
+          <ForwardRef>
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-bZQynM",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #35465c;
+  border-color: #35465c;
+
+  &:hover,
+  &:active {
+    background-color: #222d3c;
+    border-color: #222d3c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-bZQynM",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  enableBackground="new 0 0 24 24"
-                  height="24px"
-                  version="1.1"
-                  viewBox="0 0 24 24"
-                  width="24px"
-                  x="0px"
-                  xmlSpace="preserve"
-                  y="0px"
+                <ForwardRef
+                  aria-hidden="true"
                 >
-                  <path
-                    d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M15.492,17.616C11.401,19.544,9.5,17,9.5,14.031 V9.5h-2V8.142c0.549-0.178,1.236-0.435,1.627-0.768c0.393-0.334,0.707-0.733,0.943-1.2c0.238-0.467,0.401-0.954,0.49-1.675H12.5v3h2 v2h-2v3.719c0,2.468,1.484,2.692,2.992,1.701V17.616z"
-                  />
-                </svg>
-                 
-                <span>
-                  Tumblr
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        enableBackground="new 0 0 24 24"
+                        height="24px"
+                        version="1.1"
+                        viewBox="0 0 24 24"
+                        width="24px"
+                        x="0px"
+                        xmlSpace="preserve"
+                        y="0px"
+                      >
+                        <path
+                          d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M15.492,17.616C11.401,19.544,9.5,17,9.5,14.031 V9.5h-2V8.142c0.549-0.178,1.236-0.435,1.627-0.768c0.393-0.334,0.707-0.733,0.943-1.2c0.238-0.467,0.401-0.954,0.49-1.675H12.5v3h2 v2h-2v3.719c0,2.468,1.484,2.692,2.992,1.701V17.616z"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Tumblr
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -1254,7 +2925,42 @@ exports[`Tumblr 11 2`] = `
   solidcircle={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-bZQynM",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #35465c;
+  border-color: #35465c;
+
+  &:hover,
+  &:active {
+    background-color: #222d3c;
+    border-color: #222d3c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-bZQynM",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="http://tumblr.com/widgets/share/tool?canonicalUrl="
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -1262,59 +2968,191 @@ exports[`Tumblr 11 2`] = `
     name="Tumblr"
     solidcircle={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on Tumblr"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl="
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Tumblr"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Tumblr"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="http://tumblr.com/widgets/share/tool?canonicalUrl="
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Tumblr"
       >
-        <styled.div
-          solidcircle={true}
+        <a
+          aria-label="Share on Tumblr"
+          className="c0"
+          href="http://tumblr.com/widgets/share/tool?canonicalUrl="
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Tumblr"
         >
-          <div
-            className="c1"
+          <ForwardRef
+            solidcircle={true}
           >
-            <styled.div
-              aria-hidden="true"
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-bZQynM",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #35465c;
+  border-color: #35465c;
+
+  &:hover,
+  &:active {
+    background-color: #222d3c;
+    border-color: #222d3c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-bZQynM",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
               solidcircle={true}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  enableBackground="new 0 0 24 24"
-                  height="24px"
-                  version="1.1"
-                  viewBox="0 0 24 24"
-                  width="24px"
-                  x="0px"
-                  xmlSpace="preserve"
-                  y="0px"
+                <ForwardRef
+                  aria-hidden="true"
+                  solidcircle={true}
                 >
-                  <path
-                    d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M15.492,17.616C11.401,19.544,9.5,17,9.5,14.031 V9.5h-2V8.142c0.549-0.178,1.236-0.435,1.627-0.768c0.393-0.334,0.707-0.733,0.943-1.2c0.238-0.467,0.401-0.954,0.49-1.675H12.5v3h2 v2h-2v3.719c0,2.468,1.484,2.692,2.992,1.701V17.616z"
-                  />
-                </svg>
-                 
-                <span>
-                  Tumblr
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solidcircle={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        enableBackground="new 0 0 24 24"
+                        height="24px"
+                        version="1.1"
+                        viewBox="0 0 24 24"
+                        width="24px"
+                        x="0px"
+                        xmlSpace="preserve"
+                        y="0px"
+                      >
+                        <path
+                          d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M15.492,17.616C11.401,19.544,9.5,17,9.5,14.031 V9.5h-2V8.142c0.549-0.178,1.236-0.435,1.627-0.768c0.393-0.334,0.707-0.733,0.943-1.2c0.238-0.467,0.401-0.954,0.49-1.675H12.5v3h2 v2h-2v3.719c0,2.468,1.484,2.692,2.992,1.701V17.616z"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Tumblr
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -1371,58 +3209,224 @@ exports[`Tumblr 12 1`] = `
 
 <Component>
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-bZQynM",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #35465c;
+  border-color: #35465c;
+
+  &:hover,
+  &:active {
+    background-color: #222d3c;
+    border-color: #222d3c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-bZQynM",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="http://tumblr.com/widgets/share/tool?canonicalUrl="
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     name="Tumblr"
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on Tumblr"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl="
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Tumblr"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Tumblr"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="http://tumblr.com/widgets/share/tool?canonicalUrl="
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Tumblr"
       >
-        <styled.div>
-          <div
-            className="c1"
-          >
-            <styled.div
-              aria-hidden="true"
-              solid={true}
+        <a
+          aria-label="Share on Tumblr"
+          className="c0"
+          href="http://tumblr.com/widgets/share/tool?canonicalUrl="
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Tumblr"
+        >
+          <ForwardRef>
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-bZQynM",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #35465c;
+  border-color: #35465c;
+
+  &:hover,
+  &:active {
+    background-color: #222d3c;
+    border-color: #222d3c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-bZQynM",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
+                <ForwardRef
+                  aria-hidden="true"
+                  solid={true}
                 >
-                  <path
-                    d="M13.5.5v5h5v4h-5V15c0 5 3.5 4.4 6 2.8v4.4c-6.7 3.2-12 0-12-4.2V9.5h-3V6.7c1-.3 2.2-.7 3-1.3.5-.5 1-1.2 1.4-2 .3-.7.6-1.7.7-3h3.8z"
-                  />
-                </svg>
-                 
-                <span>
-                  Tumblr
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solid={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M13.5.5v5h5v4h-5V15c0 5 3.5 4.4 6 2.8v4.4c-6.7 3.2-12 0-12-4.2V9.5h-3V6.7c1-.3 2.2-.7 3-1.3.5-.5 1-1.2 1.4-2 .3-.7.6-1.7.7-3h3.8z"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Tumblr
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -1455,7 +3459,42 @@ exports[`Tumblr 13 1`] = `
   simple={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-bZQynM",
+          "isStatic": true,
+          "lastClassName": "dkGtst",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #35465c;
+  border-color: #35465c;
+
+  &:hover,
+  &:active {
+    background-color: #222d3c;
+    border-color: #222d3c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-bZQynM",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="http://tumblr.com/widgets/share/tool?canonicalUrl="
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -1463,7 +3502,7 @@ exports[`Tumblr 13 1`] = `
     name="Tumblr"
     simple={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on Tumblr"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl="
       rel="noreferrer noopener"
@@ -1471,26 +3510,84 @@ exports[`Tumblr 13 1`] = `
       target="_blank"
       title="Share on Tumblr"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Tumblr"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="http://tumblr.com/widgets/share/tool?canonicalUrl="
         rel="noreferrer noopener"
+        simple={true}
         target="_blank"
         title="Share on Tumblr"
       >
-        <TumblrIconFill>
-          <svg
-            viewBox="0 0 24 24"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M13.5.5v5h5v4h-5V15c0 5 3.5 4.4 6 2.8v4.4c-6.7 3.2-12 0-12-4.2V9.5h-3V6.7c1-.3 2.2-.7 3-1.3.5-.5 1-1.2 1.4-2 .3-.7.6-1.7.7-3h3.8z"
-            />
-          </svg>
-        </TumblrIconFill>
-      </a>
-    </styled.a>
+        <a
+          aria-label="Share on Tumblr"
+          className="c0"
+          href="http://tumblr.com/widgets/share/tool?canonicalUrl="
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Tumblr"
+        >
+          <TumblrIconFill>
+            <svg
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M13.5.5v5h5v4h-5V15c0 5 3.5 4.4 6 2.8v4.4c-6.7 3.2-12 0-12-4.2V9.5h-3V6.7c1-.3 2.2-.7 3-1.3.5-.5 1-1.2 1.4-2 .3-.7.6-1.7.7-3h3.8z"
+              />
+            </svg>
+          </TumblrIconFill>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -1523,7 +3620,42 @@ exports[`Tumblr 14 1`] = `
   simpleReverse={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-bZQynM",
+          "isStatic": true,
+          "lastClassName": "dkGtst",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #35465c;
+  border-color: #35465c;
+
+  &:hover,
+  &:active {
+    background-color: #222d3c;
+    border-color: #222d3c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-bZQynM",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="http://tumblr.com/widgets/share/tool?canonicalUrl="
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -1531,7 +3663,7 @@ exports[`Tumblr 14 1`] = `
     name="Tumblr"
     simpleReverse={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on Tumblr"
       href="http://tumblr.com/widgets/share/tool?canonicalUrl="
       rel="noreferrer noopener"
@@ -1539,26 +3671,84 @@ exports[`Tumblr 14 1`] = `
       target="_blank"
       title="Share on Tumblr"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Tumblr"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="http://tumblr.com/widgets/share/tool?canonicalUrl="
         rel="noreferrer noopener"
+        simpleReverse={true}
         target="_blank"
         title="Share on Tumblr"
       >
-        <TumblrIconFill>
-          <svg
-            viewBox="0 0 24 24"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M13.5.5v5h5v4h-5V15c0 5 3.5 4.4 6 2.8v4.4c-6.7 3.2-12 0-12-4.2V9.5h-3V6.7c1-.3 2.2-.7 3-1.3.5-.5 1-1.2 1.4-2 .3-.7.6-1.7.7-3h3.8z"
-            />
-          </svg>
-        </TumblrIconFill>
-      </a>
-    </styled.a>
+        <a
+          aria-label="Share on Tumblr"
+          className="c0"
+          href="http://tumblr.com/widgets/share/tool?canonicalUrl="
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Tumblr"
+        >
+          <TumblrIconFill>
+            <svg
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M13.5.5v5h5v4h-5V15c0 5 3.5 4.4 6 2.8v4.4c-6.7 3.2-12 0-12-4.2V9.5h-3V6.7c1-.3 2.2-.7 3-1.3.5-.5 1-1.2 1.4-2 .3-.7.6-1.7.7-3h3.8z"
+              />
+            </svg>
+          </TumblrIconFill>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;

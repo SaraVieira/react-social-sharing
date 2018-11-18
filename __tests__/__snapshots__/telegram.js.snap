@@ -58,7 +58,42 @@ exports[`Telegram 1 1`] = `
 >
   <ButtonFactory
     big={true}
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-fjdhpX",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-fjdhpX",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -67,55 +102,188 @@ exports[`Telegram 1 1`] = `
     name="Telegram"
     solidcircle={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on Telegram"
       href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Telegram"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Telegram"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Telegram"
       >
-        <styled.div
-          message="I am so cool"
-          solidcircle={true}
+        <a
+          aria-label="Share on Telegram"
+          className="c0"
+          href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Telegram"
         >
-          <div
-            className="c1"
+          <ForwardRef
+            message="I am so cool"
+            solidcircle={true}
           >
-            <styled.div
-              aria-hidden="true"
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-fjdhpX",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-fjdhpX",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              message="I am so cool"
               solidcircle={true}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
+                <ForwardRef
+                  aria-hidden="true"
+                  solidcircle={true}
                 >
-                  <path
-                    d="M12 23.5c6.35 0 11.5-5.15 11.5-11.5S18.35.5 12 .5.5 5.65.5 12 5.65 23.5 12 23.5zM2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
-                    fillRule="evenodd"
-                  />
-                </svg>
-                 
-                <span>
-                  Share on Telegram
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solidcircle={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M12 23.5c6.35 0 11.5-5.15 11.5-11.5S18.35.5 12 .5.5 5.65.5 12 5.65 23.5 12 23.5zM2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
+                          fillRule="evenodd"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Share on Telegram
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -177,7 +345,42 @@ exports[`Telegram 2 1`] = `
   solidcircle={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-fjdhpX",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-fjdhpX",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -187,55 +390,188 @@ exports[`Telegram 2 1`] = `
     name="Telegram"
     solidcircle={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on Telegram"
       href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Telegram"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Telegram"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Telegram"
       >
-        <styled.div
-          message="I am so cool"
-          solidcircle={true}
+        <a
+          aria-label="Share on Telegram"
+          className="c0"
+          href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Telegram"
         >
-          <div
-            className="c1"
+          <ForwardRef
+            message="I am so cool"
+            solidcircle={true}
           >
-            <styled.div
-              aria-hidden="true"
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-fjdhpX",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-fjdhpX",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              message="I am so cool"
               solidcircle={true}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
+                <ForwardRef
+                  aria-hidden="true"
+                  solidcircle={true}
                 >
-                  <path
-                    d="M12 23.5c6.35 0 11.5-5.15 11.5-11.5S18.35.5 12 .5.5 5.65.5 12 5.65 23.5 12 23.5zM2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
-                    fillRule="evenodd"
-                  />
-                </svg>
-                 
-                <span>
-                  Telegram
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solidcircle={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M12 23.5c6.35 0 11.5-5.15 11.5-11.5S18.35.5 12 .5.5 5.65.5 12 5.65 23.5 12 23.5zM2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
+                          fillRule="evenodd"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Telegram
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -297,7 +633,42 @@ exports[`Telegram 3 1`] = `
   solidcircle={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-fjdhpX",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-fjdhpX",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -307,53 +678,187 @@ exports[`Telegram 3 1`] = `
     small={true}
     solidcircle={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on Telegram"
       href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Telegram"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Telegram"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Telegram"
       >
-        <styled.div
-          message="I am so cool"
-          small={true}
-          solidcircle={true}
+        <a
+          aria-label="Share on Telegram"
+          className="c0"
+          href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Telegram"
         >
-          <div
-            className="c1"
+          <ForwardRef
+            message="I am so cool"
+            small={true}
+            solidcircle={true}
           >
-            <styled.div
-              aria-hidden="true"
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-fjdhpX",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-fjdhpX",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              message="I am so cool"
+              small={true}
               solidcircle={true}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
+                <ForwardRef
+                  aria-hidden="true"
+                  solidcircle={true}
                 >
-                  <path
-                    d="M12 23.5c6.35 0 11.5-5.15 11.5-11.5S18.35.5 12 .5.5 5.65.5 12 5.65 23.5 12 23.5zM2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
-                    fillRule="evenodd"
-                  />
-                </svg>
-                 
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solidcircle={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M12 23.5c6.35 0 11.5-5.15 11.5-11.5S18.35.5 12 .5.5 5.65.5 12 5.65 23.5 12 23.5zM2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
+                          fillRule="evenodd"
+                        />
+                      </svg>
+                       
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -414,7 +919,42 @@ exports[`Telegram 4 1`] = `
 >
   <ButtonFactory
     big={true}
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-fjdhpX",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-fjdhpX",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     circle={true}
     href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
@@ -423,57 +963,188 @@ exports[`Telegram 4 1`] = `
     message="I am so cool"
     name="Telegram"
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on Telegram"
       href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Telegram"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Telegram"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Telegram"
       >
-        <styled.div
-          message="I am so cool"
+        <a
+          aria-label="Share on Telegram"
+          className="c0"
+          href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Telegram"
         >
-          <div
-            className="c1"
+          <ForwardRef
+            message="I am so cool"
           >
-            <styled.div
-              aria-hidden="true"
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-fjdhpX",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-fjdhpX",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              message="I am so cool"
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
+                <ForwardRef
+                  aria-hidden="true"
                 >
-                  <circle
-                    cx="12"
-                    cy="12"
-                    r="11.5"
-                  />
-                  <path
-                    d="M2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
-                  />
-                </svg>
-                 
-                <span>
-                  Share on Telegram
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <circle
+                          cx="12"
+                          cy="12"
+                          r="11.5"
+                        />
+                        <path
+                          d="M2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Share on Telegram
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -533,7 +1204,42 @@ exports[`Telegram 5 1`] = `
   message="I am so cool"
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-fjdhpX",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-fjdhpX",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     circle={true}
     href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
@@ -543,57 +1249,188 @@ exports[`Telegram 5 1`] = `
     message="I am so cool"
     name="Telegram"
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on Telegram"
       href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Telegram"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Telegram"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Telegram"
       >
-        <styled.div
-          message="I am so cool"
+        <a
+          aria-label="Share on Telegram"
+          className="c0"
+          href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Telegram"
         >
-          <div
-            className="c1"
+          <ForwardRef
+            message="I am so cool"
           >
-            <styled.div
-              aria-hidden="true"
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-fjdhpX",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-fjdhpX",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              message="I am so cool"
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
+                <ForwardRef
+                  aria-hidden="true"
                 >
-                  <circle
-                    cx="12"
-                    cy="12"
-                    r="11.5"
-                  />
-                  <path
-                    d="M2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
-                  />
-                </svg>
-                 
-                <span>
-                  Telegram
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <circle
+                          cx="12"
+                          cy="12"
+                          r="11.5"
+                        />
+                        <path
+                          d="M2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Telegram
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -653,7 +1490,42 @@ exports[`Telegram 6 1`] = `
   small={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-fjdhpX",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-fjdhpX",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     circle={true}
     href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
@@ -663,55 +1535,187 @@ exports[`Telegram 6 1`] = `
     name="Telegram"
     small={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on Telegram"
       href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Telegram"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Telegram"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Telegram"
       >
-        <styled.div
-          message="I am so cool"
-          small={true}
+        <a
+          aria-label="Share on Telegram"
+          className="c0"
+          href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Telegram"
         >
-          <div
-            className="c1"
+          <ForwardRef
+            message="I am so cool"
+            small={true}
           >
-            <styled.div
-              aria-hidden="true"
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-fjdhpX",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-fjdhpX",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              message="I am so cool"
+              small={true}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
+                <ForwardRef
+                  aria-hidden="true"
                 >
-                  <circle
-                    cx="12"
-                    cy="12"
-                    r="11.5"
-                  />
-                  <path
-                    d="M2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
-                  />
-                </svg>
-                 
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <circle
+                          cx="12"
+                          cy="12"
+                          r="11.5"
+                        />
+                        <path
+                          d="M2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
+                        />
+                      </svg>
+                       
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -774,7 +1778,42 @@ exports[`Telegram 7 1`] = `
 >
   <ButtonFactory
     big={true}
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-fjdhpX",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-fjdhpX",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -783,53 +1822,185 @@ exports[`Telegram 7 1`] = `
     name="Telegram"
     solid={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on Telegram"
       href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Telegram"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Telegram"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Telegram"
       >
-        <styled.div
-          message="I am so cool"
+        <a
+          aria-label="Share on Telegram"
+          className="c0"
+          href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Telegram"
         >
-          <div
-            className="c1"
+          <ForwardRef
+            message="I am so cool"
           >
-            <styled.div
-              aria-hidden="true"
-              solid={true}
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-fjdhpX",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-fjdhpX",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              message="I am so cool"
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
+                <ForwardRef
+                  aria-hidden="true"
+                  solid={true}
                 >
-                  <path
-                    d="M.707 8.475C.275 8.64 0 9.508 0 9.508s.284.867.718 1.03l5.09 1.897 1.986 6.38a1.102 1.102 0 0 0 1.75.527l2.96-2.41a.405.405 0 0 1 .494-.013l5.34 3.87a1.1 1.1 0 0 0 1.046.135 1.1 1.1 0 0 0 .682-.803l3.91-18.795A1.102 1.102 0 0 0 22.5.075L.706 8.475z"
-                  />
-                </svg>
-                 
-                <span>
-                  Share on Telegram
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solid={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M.707 8.475C.275 8.64 0 9.508 0 9.508s.284.867.718 1.03l5.09 1.897 1.986 6.38a1.102 1.102 0 0 0 1.75.527l2.96-2.41a.405.405 0 0 1 .494-.013l5.34 3.87a1.1 1.1 0 0 0 1.046.135 1.1 1.1 0 0 0 .682-.803l3.91-18.795A1.102 1.102 0 0 0 22.5.075L.706 8.475z"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Share on Telegram
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -891,7 +2062,42 @@ exports[`Telegram 8 1`] = `
   solid={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-fjdhpX",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-fjdhpX",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -901,53 +2107,185 @@ exports[`Telegram 8 1`] = `
     name="Telegram"
     solid={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on Telegram"
       href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Telegram"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Telegram"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Telegram"
       >
-        <styled.div
-          message="I am so cool"
+        <a
+          aria-label="Share on Telegram"
+          className="c0"
+          href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Telegram"
         >
-          <div
-            className="c1"
+          <ForwardRef
+            message="I am so cool"
           >
-            <styled.div
-              aria-hidden="true"
-              solid={true}
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-fjdhpX",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-fjdhpX",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              message="I am so cool"
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
+                <ForwardRef
+                  aria-hidden="true"
+                  solid={true}
                 >
-                  <path
-                    d="M.707 8.475C.275 8.64 0 9.508 0 9.508s.284.867.718 1.03l5.09 1.897 1.986 6.38a1.102 1.102 0 0 0 1.75.527l2.96-2.41a.405.405 0 0 1 .494-.013l5.34 3.87a1.1 1.1 0 0 0 1.046.135 1.1 1.1 0 0 0 .682-.803l3.91-18.795A1.102 1.102 0 0 0 22.5.075L.706 8.475z"
-                  />
-                </svg>
-                 
-                <span>
-                  Telegram
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solid={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M.707 8.475C.275 8.64 0 9.508 0 9.508s.284.867.718 1.03l5.09 1.897 1.986 6.38a1.102 1.102 0 0 0 1.75.527l2.96-2.41a.405.405 0 0 1 .494-.013l5.34 3.87a1.1 1.1 0 0 0 1.046.135 1.1 1.1 0 0 0 .682-.803l3.91-18.795A1.102 1.102 0 0 0 22.5.075L.706 8.475z"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Telegram
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -1009,7 +2347,42 @@ exports[`Telegram 9 1`] = `
   solid={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-fjdhpX",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-fjdhpX",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -1019,51 +2392,184 @@ exports[`Telegram 9 1`] = `
     small={true}
     solid={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on Telegram"
       href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Telegram"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Telegram"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Telegram"
       >
-        <styled.div
-          message="I am so cool"
-          small={true}
+        <a
+          aria-label="Share on Telegram"
+          className="c0"
+          href="https://telegram.me/share/url?text=&url=http%3A%2F%2Fsharingbuttons.io"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Telegram"
         >
-          <div
-            className="c1"
+          <ForwardRef
+            message="I am so cool"
+            small={true}
           >
-            <styled.div
-              aria-hidden="true"
-              solid={true}
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-fjdhpX",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-fjdhpX",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              message="I am so cool"
+              small={true}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
+                <ForwardRef
+                  aria-hidden="true"
+                  solid={true}
                 >
-                  <path
-                    d="M.707 8.475C.275 8.64 0 9.508 0 9.508s.284.867.718 1.03l5.09 1.897 1.986 6.38a1.102 1.102 0 0 0 1.75.527l2.96-2.41a.405.405 0 0 1 .494-.013l5.34 3.87a1.1 1.1 0 0 0 1.046.135 1.1 1.1 0 0 0 .682-.803l3.91-18.795A1.102 1.102 0 0 0 22.5.075L.706 8.475z"
-                  />
-                </svg>
-                 
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solid={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M.707 8.475C.275 8.64 0 9.508 0 9.508s.284.867.718 1.03l5.09 1.897 1.986 6.38a1.102 1.102 0 0 0 1.75.527l2.96-2.41a.405.405 0 0 1 .494-.013l5.34 3.87a1.1 1.1 0 0 0 1.046.135 1.1 1.1 0 0 0 .682-.803l3.91-18.795A1.102 1.102 0 0 0 22.5.075L.706 8.475z"
+                        />
+                      </svg>
+                       
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -1120,7 +2626,42 @@ exports[`Telegram 11 1`] = `
   circle={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-fjdhpX",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-fjdhpX",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     circle={true}
     href="https://telegram.me/share/url?text=&url="
     iconCircle={[Function]}
@@ -1128,55 +2669,185 @@ exports[`Telegram 11 1`] = `
     iconFill={[Function]}
     name="Telegram"
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on Telegram"
       href="https://telegram.me/share/url?text=&url="
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Telegram"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Telegram"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://telegram.me/share/url?text=&url="
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Telegram"
       >
-        <styled.div>
-          <div
-            className="c1"
-          >
-            <styled.div
-              aria-hidden="true"
+        <a
+          aria-label="Share on Telegram"
+          className="c0"
+          href="https://telegram.me/share/url?text=&url="
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Telegram"
+        >
+          <ForwardRef>
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-fjdhpX",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-fjdhpX",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
+                <ForwardRef
+                  aria-hidden="true"
                 >
-                  <circle
-                    cx="12"
-                    cy="12"
-                    r="11.5"
-                  />
-                  <path
-                    d="M2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
-                  />
-                </svg>
-                 
-                <span>
-                  Telegram
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <circle
+                          cx="12"
+                          cy="12"
+                          r="11.5"
+                        />
+                        <path
+                          d="M2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Telegram
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -1235,7 +2906,42 @@ exports[`Telegram 11 2`] = `
   solidcircle={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-fjdhpX",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-fjdhpX",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://telegram.me/share/url?text=&url="
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -1243,54 +2949,186 @@ exports[`Telegram 11 2`] = `
     name="Telegram"
     solidcircle={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on Telegram"
       href="https://telegram.me/share/url?text=&url="
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Telegram"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Telegram"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://telegram.me/share/url?text=&url="
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Telegram"
       >
-        <styled.div
-          solidcircle={true}
+        <a
+          aria-label="Share on Telegram"
+          className="c0"
+          href="https://telegram.me/share/url?text=&url="
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Telegram"
         >
-          <div
-            className="c1"
+          <ForwardRef
+            solidcircle={true}
           >
-            <styled.div
-              aria-hidden="true"
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-fjdhpX",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-fjdhpX",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
               solidcircle={true}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
+                <ForwardRef
+                  aria-hidden="true"
+                  solidcircle={true}
                 >
-                  <path
-                    d="M12 23.5c6.35 0 11.5-5.15 11.5-11.5S18.35.5 12 .5.5 5.65.5 12 5.65 23.5 12 23.5zM2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
-                    fillRule="evenodd"
-                  />
-                </svg>
-                 
-                <span>
-                  Telegram
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solidcircle={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M12 23.5c6.35 0 11.5-5.15 11.5-11.5S18.35.5 12 .5.5 5.65.5 12 5.65 23.5 12 23.5zM2.505 11.053c-.31.118-.505.738-.505.738s.203.62.513.737l3.636 1.355 1.417 4.557a.787.787 0 0 0 1.25.375l2.115-1.72a.29.29 0 0 1 .353-.01L15.1 19.85a.786.786 0 0 0 .746.095.786.786 0 0 0 .487-.573l2.793-13.426a.787.787 0 0 0-1.054-.893l-15.568 6z"
+                          fillRule="evenodd"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Telegram
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -1347,58 +3185,224 @@ exports[`Telegram 12 1`] = `
 
 <Component>
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-fjdhpX",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-fjdhpX",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://telegram.me/share/url?text=&url="
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     name="Telegram"
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on Telegram"
       href="https://telegram.me/share/url?text=&url="
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Telegram"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Telegram"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://telegram.me/share/url?text=&url="
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Telegram"
       >
-        <styled.div>
-          <div
-            className="c1"
-          >
-            <styled.div
-              aria-hidden="true"
-              solid={true}
+        <a
+          aria-label="Share on Telegram"
+          className="c0"
+          href="https://telegram.me/share/url?text=&url="
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Telegram"
+        >
+          <ForwardRef>
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-fjdhpX",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-fjdhpX",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
+                <ForwardRef
+                  aria-hidden="true"
+                  solid={true}
                 >
-                  <path
-                    d="M.707 8.475C.275 8.64 0 9.508 0 9.508s.284.867.718 1.03l5.09 1.897 1.986 6.38a1.102 1.102 0 0 0 1.75.527l2.96-2.41a.405.405 0 0 1 .494-.013l5.34 3.87a1.1 1.1 0 0 0 1.046.135 1.1 1.1 0 0 0 .682-.803l3.91-18.795A1.102 1.102 0 0 0 22.5.075L.706 8.475z"
-                  />
-                </svg>
-                 
-                <span>
-                  Telegram
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solid={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M.707 8.475C.275 8.64 0 9.508 0 9.508s.284.867.718 1.03l5.09 1.897 1.986 6.38a1.102 1.102 0 0 0 1.75.527l2.96-2.41a.405.405 0 0 1 .494-.013l5.34 3.87a1.1 1.1 0 0 0 1.046.135 1.1 1.1 0 0 0 .682-.803l3.91-18.795A1.102 1.102 0 0 0 22.5.075L.706 8.475z"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Telegram
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </ForwardRef>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
-    </styled.a>
+            </StyledComponent>
+          </ForwardRef>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -1431,7 +3435,42 @@ exports[`Telegram 13 1`] = `
   simple={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-fjdhpX",
+          "isStatic": true,
+          "lastClassName": "gErvTJ",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-fjdhpX",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://telegram.me/share/url?text=&url="
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -1439,7 +3478,7 @@ exports[`Telegram 13 1`] = `
     name="Telegram"
     simple={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on Telegram"
       href="https://telegram.me/share/url?text=&url="
       rel="noreferrer noopener"
@@ -1447,26 +3486,84 @@ exports[`Telegram 13 1`] = `
       target="_blank"
       title="Share on Telegram"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Telegram"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://telegram.me/share/url?text=&url="
         rel="noreferrer noopener"
+        simple={true}
         target="_blank"
         title="Share on Telegram"
       >
-        <TelegramIconFill>
-          <svg
-            viewBox="0 0 24 24"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M.707 8.475C.275 8.64 0 9.508 0 9.508s.284.867.718 1.03l5.09 1.897 1.986 6.38a1.102 1.102 0 0 0 1.75.527l2.96-2.41a.405.405 0 0 1 .494-.013l5.34 3.87a1.1 1.1 0 0 0 1.046.135 1.1 1.1 0 0 0 .682-.803l3.91-18.795A1.102 1.102 0 0 0 22.5.075L.706 8.475z"
-            />
-          </svg>
-        </TelegramIconFill>
-      </a>
-    </styled.a>
+        <a
+          aria-label="Share on Telegram"
+          className="c0"
+          href="https://telegram.me/share/url?text=&url="
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Telegram"
+        >
+          <TelegramIconFill>
+            <svg
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M.707 8.475C.275 8.64 0 9.508 0 9.508s.284.867.718 1.03l5.09 1.897 1.986 6.38a1.102 1.102 0 0 0 1.75.527l2.96-2.41a.405.405 0 0 1 .494-.013l5.34 3.87a1.1 1.1 0 0 0 1.046.135 1.1 1.1 0 0 0 .682-.803l3.91-18.795A1.102 1.102 0 0 0 22.5.075L.706 8.475z"
+              />
+            </svg>
+          </TelegramIconFill>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
@@ -1499,7 +3596,42 @@ exports[`Telegram 14 1`] = `
   simpleReverse={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-fjdhpX",
+          "isStatic": true,
+          "lastClassName": "gErvTJ",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-fjdhpX",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://telegram.me/share/url?text=&url="
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -1507,7 +3639,7 @@ exports[`Telegram 14 1`] = `
     name="Telegram"
     simpleReverse={true}
   >
-    <styled.a
+    <ForwardRef
       aria-label="Share on Telegram"
       href="https://telegram.me/share/url?text=&url="
       rel="noreferrer noopener"
@@ -1515,26 +3647,84 @@ exports[`Telegram 14 1`] = `
       target="_blank"
       title="Share on Telegram"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Telegram"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://telegram.me/share/url?text=&url="
         rel="noreferrer noopener"
+        simpleReverse={true}
         target="_blank"
         title="Share on Telegram"
       >
-        <TelegramIconFill>
-          <svg
-            viewBox="0 0 24 24"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M.707 8.475C.275 8.64 0 9.508 0 9.508s.284.867.718 1.03l5.09 1.897 1.986 6.38a1.102 1.102 0 0 0 1.75.527l2.96-2.41a.405.405 0 0 1 .494-.013l5.34 3.87a1.1 1.1 0 0 0 1.046.135 1.1 1.1 0 0 0 .682-.803l3.91-18.795A1.102 1.102 0 0 0 22.5.075L.706 8.475z"
-            />
-          </svg>
-        </TelegramIconFill>
-      </a>
-    </styled.a>
+        <a
+          aria-label="Share on Telegram"
+          className="c0"
+          href="https://telegram.me/share/url?text=&url="
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Telegram"
+        >
+          <TelegramIconFill>
+            <svg
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M.707 8.475C.275 8.64 0 9.508 0 9.508s.284.867.718 1.03l5.09 1.897 1.986 6.38a1.102 1.102 0 0 0 1.75.527l2.96-2.41a.405.405 0 0 1 .494-.013l5.34 3.87a1.1 1.1 0 0 0 1.046.135 1.1 1.1 0 0 0 .682-.803l3.91-18.795A1.102 1.102 0 0 0 22.5.075L.706 8.475z"
+              />
+            </svg>
+          </TelegramIconFill>
+        </a>
+      </StyledComponent>
+    </ForwardRef>
   </ButtonFactory>
 </Component>
 `;
