@@ -49,7 +49,9 @@ export const Icon = styled.div`
   display: flex;
   align-items: center;
   fill: #fff;
-  stroke: none ${isOr('solid', 'solidcircle')`
+  stroke: none;
+
+  ${isOr('solid', 'solidcircle')`
     fill: #fff;
     stroke: none
   `};

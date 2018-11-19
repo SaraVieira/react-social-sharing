@@ -1,10 +1,11 @@
 import React from 'react'
+import styled from 'styled-components'
 import ButtonFactory from './factory'
 import { TwitterIconFill, TwitterIconCircle } from '../svg/twitter.js'
 import { SharingButton } from '../common'
 import links from '../consts'
 
-const Twitter = SharingButton.extend`
+const Twitter = styled(SharingButton)`
   background-color: #55acee;
   border-color: #55acee;
 

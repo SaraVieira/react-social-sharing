@@ -1,10 +1,11 @@
 import React from 'react'
+import styled from 'styled-components'
 import ButtonFactory from './factory'
 import { VKIconFill, VKIconCircle, VKIconCircleSolid } from '../svg/vk.js'
 import { SharingButton } from '../common'
 import links from '../consts'
 
-const VK = SharingButton.extend`
+const VK = styled(SharingButton)`
   background-color: #507299;
   border-color: #507299;
 

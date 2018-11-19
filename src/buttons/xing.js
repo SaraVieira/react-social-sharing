@@ -1,4 +1,5 @@
 import React from 'react'
+import styled from 'styled-components'
 import ButtonFactory from './factory'
 import {
   XingIconFill,
@@ -8,7 +9,7 @@ import {
 import { SharingButton } from '../common'
 import links from '../consts'
 
-const Xing = SharingButton.extend`
+const Xing = styled(SharingButton)`
   background-color: #1a7576;
   border-color: #1a7576;
 

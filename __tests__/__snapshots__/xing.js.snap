@@ -58,7 +58,42 @@ exports[`Xing 1 1`] = `
 >
   <ButtonFactory
     big={true}
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-gZMcBi",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-gZMcBi",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -73,45 +108,179 @@ exports[`Xing 1 1`] = `
       target="_blank"
       title="Share on Xing"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Xing"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Xing"
       >
-        <styled.div
-          solidcircle={true}
+        <a
+          aria-label="Share on Xing"
+          className="c0"
+          href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Xing"
         >
-          <div
-            className="c1"
+          <Styled(styled.div)
+            solidcircle={true}
           >
-            <styled.div
-              aria-hidden="true"
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-gZMcBi",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-gZMcBi",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
               solidcircle={true}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
+                <styled.div
+                  aria-hidden="true"
+                  solidcircle={true}
                 >
-                  <path
-                    d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.6 0 12 0zM7.8 14.5h-3L7 11.3 5.3 8.5h3l1.8 2.8L8 14.5zm9 5h-3.4l-3-5.5L15 5.5h3.2L13.6 14l3 5.5z"
-                  />
-                </svg>
-                 
-                <span>
-                  Share on Xing
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+
+  ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solidcircle={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.6 0 12 0zM7.8 14.5h-3L7 11.3 5.3 8.5h3l1.8 2.8L8 14.5zm9 5h-3.4l-3-5.5L15 5.5h3.2L13.6 14l3 5.5z"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Share on Xing
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </styled.div>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
+            </StyledComponent>
+          </Styled(styled.div)>
+        </a>
+      </StyledComponent>
     </styled.a>
   </ButtonFactory>
 </Component>
@@ -174,7 +343,42 @@ exports[`Xing 2 1`] = `
   solidcircle={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-gZMcBi",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-gZMcBi",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -190,45 +394,179 @@ exports[`Xing 2 1`] = `
       target="_blank"
       title="Share on Xing"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Xing"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Xing"
       >
-        <styled.div
-          solidcircle={true}
+        <a
+          aria-label="Share on Xing"
+          className="c0"
+          href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Xing"
         >
-          <div
-            className="c1"
+          <Styled(styled.div)
+            solidcircle={true}
           >
-            <styled.div
-              aria-hidden="true"
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-gZMcBi",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-gZMcBi",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
               solidcircle={true}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
+                <styled.div
+                  aria-hidden="true"
+                  solidcircle={true}
                 >
-                  <path
-                    d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.6 0 12 0zM7.8 14.5h-3L7 11.3 5.3 8.5h3l1.8 2.8L8 14.5zm9 5h-3.4l-3-5.5L15 5.5h3.2L13.6 14l3 5.5z"
-                  />
-                </svg>
-                 
-                <span>
-                  Xing
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+
+  ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solidcircle={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.6 0 12 0zM7.8 14.5h-3L7 11.3 5.3 8.5h3l1.8 2.8L8 14.5zm9 5h-3.4l-3-5.5L15 5.5h3.2L13.6 14l3 5.5z"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Xing
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </styled.div>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
+            </StyledComponent>
+          </Styled(styled.div)>
+        </a>
+      </StyledComponent>
     </styled.a>
   </ButtonFactory>
 </Component>
@@ -291,7 +629,42 @@ exports[`Xing 3 1`] = `
   solidcircle={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-gZMcBi",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-gZMcBi",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -307,43 +680,178 @@ exports[`Xing 3 1`] = `
       target="_blank"
       title="Share on Xing"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Xing"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Xing"
       >
-        <styled.div
-          small={true}
-          solidcircle={true}
+        <a
+          aria-label="Share on Xing"
+          className="c0"
+          href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Xing"
         >
-          <div
-            className="c1"
+          <Styled(styled.div)
+            small={true}
+            solidcircle={true}
           >
-            <styled.div
-              aria-hidden="true"
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-gZMcBi",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-gZMcBi",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              small={true}
               solidcircle={true}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
+                <styled.div
+                  aria-hidden="true"
+                  solidcircle={true}
                 >
-                  <path
-                    d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.6 0 12 0zM7.8 14.5h-3L7 11.3 5.3 8.5h3l1.8 2.8L8 14.5zm9 5h-3.4l-3-5.5L15 5.5h3.2L13.6 14l3 5.5z"
-                  />
-                </svg>
-                 
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+
+  ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solidcircle={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.6 0 12 0zM7.8 14.5h-3L7 11.3 5.3 8.5h3l1.8 2.8L8 14.5zm9 5h-3.4l-3-5.5L15 5.5h3.2L13.6 14l3 5.5z"
+                        />
+                      </svg>
+                       
+                    </div>
+                  </StyledComponent>
+                </styled.div>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
+            </StyledComponent>
+          </Styled(styled.div)>
+        </a>
+      </StyledComponent>
     </styled.a>
   </ButtonFactory>
 </Component>
@@ -405,7 +913,42 @@ exports[`Xing 4 1`] = `
 >
   <ButtonFactory
     big={true}
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-gZMcBi",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-gZMcBi",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     circle={true}
     href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
     iconCircle={[Function]}
@@ -420,47 +963,179 @@ exports[`Xing 4 1`] = `
       target="_blank"
       title="Share on Xing"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Xing"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Xing"
       >
-        <styled.div>
-          <div
-            className="c1"
-          >
-            <styled.div
-              aria-hidden="true"
+        <a
+          aria-label="Share on Xing"
+          className="c0"
+          href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Xing"
+        >
+          <Styled(styled.div)>
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-gZMcBi",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-gZMcBi",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
+                <styled.div
+                  aria-hidden="true"
                 >
-                  <circle
-                    cx="12"
-                    cy="12"
-                    r="11.5"
-                  />
-                  <path
-                    d="M8.4 8.5h-3L7 11.3l-2.2 3.2h3l2.3-3.2zm10-3h-3.2l-5 8.5 3.2 5.5h3.3l-3-5.5z"
-                  />
-                </svg>
-                 
-                <span>
-                  Share on Xing
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+
+  ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <circle
+                          cx="12"
+                          cy="12"
+                          r="11.5"
+                        />
+                        <path
+                          d="M8.4 8.5h-3L7 11.3l-2.2 3.2h3l2.3-3.2zm10-3h-3.2l-5 8.5 3.2 5.5h3.3l-3-5.5z"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Share on Xing
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </styled.div>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
+            </StyledComponent>
+          </Styled(styled.div)>
+        </a>
+      </StyledComponent>
     </styled.a>
   </ButtonFactory>
 </Component>
@@ -521,7 +1196,42 @@ exports[`Xing 5 1`] = `
   message="I am so cool"
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-gZMcBi",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-gZMcBi",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     circle={true}
     href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
     iconCircle={[Function]}
@@ -537,47 +1247,179 @@ exports[`Xing 5 1`] = `
       target="_blank"
       title="Share on Xing"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Xing"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Xing"
       >
-        <styled.div>
-          <div
-            className="c1"
-          >
-            <styled.div
-              aria-hidden="true"
+        <a
+          aria-label="Share on Xing"
+          className="c0"
+          href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Xing"
+        >
+          <Styled(styled.div)>
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-gZMcBi",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-gZMcBi",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
+                <styled.div
+                  aria-hidden="true"
                 >
-                  <circle
-                    cx="12"
-                    cy="12"
-                    r="11.5"
-                  />
-                  <path
-                    d="M8.4 8.5h-3L7 11.3l-2.2 3.2h3l2.3-3.2zm10-3h-3.2l-5 8.5 3.2 5.5h3.3l-3-5.5z"
-                  />
-                </svg>
-                 
-                <span>
-                  Xing
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+
+  ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <circle
+                          cx="12"
+                          cy="12"
+                          r="11.5"
+                        />
+                        <path
+                          d="M8.4 8.5h-3L7 11.3l-2.2 3.2h3l2.3-3.2zm10-3h-3.2l-5 8.5 3.2 5.5h3.3l-3-5.5z"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Xing
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </styled.div>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
+            </StyledComponent>
+          </Styled(styled.div)>
+        </a>
+      </StyledComponent>
     </styled.a>
   </ButtonFactory>
 </Component>
@@ -638,7 +1480,42 @@ exports[`Xing 6 1`] = `
   small={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-gZMcBi",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-gZMcBi",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     circle={true}
     href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
     iconCircle={[Function]}
@@ -654,46 +1531,179 @@ exports[`Xing 6 1`] = `
       target="_blank"
       title="Share on Xing"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Xing"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Xing"
       >
-        <styled.div
-          small={true}
+        <a
+          aria-label="Share on Xing"
+          className="c0"
+          href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Xing"
         >
-          <div
-            className="c1"
+          <Styled(styled.div)
+            small={true}
           >
-            <styled.div
-              aria-hidden="true"
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-gZMcBi",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-gZMcBi",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              small={true}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
+                <styled.div
+                  aria-hidden="true"
                 >
-                  <circle
-                    cx="12"
-                    cy="12"
-                    r="11.5"
-                  />
-                  <path
-                    d="M8.4 8.5h-3L7 11.3l-2.2 3.2h3l2.3-3.2zm10-3h-3.2l-5 8.5 3.2 5.5h3.3l-3-5.5z"
-                  />
-                </svg>
-                 
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+
+  ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <circle
+                          cx="12"
+                          cy="12"
+                          r="11.5"
+                        />
+                        <path
+                          d="M8.4 8.5h-3L7 11.3l-2.2 3.2h3l2.3-3.2zm10-3h-3.2l-5 8.5 3.2 5.5h3.3l-3-5.5z"
+                        />
+                      </svg>
+                       
+                    </div>
+                  </StyledComponent>
+                </styled.div>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
+            </StyledComponent>
+          </Styled(styled.div)>
+        </a>
+      </StyledComponent>
     </styled.a>
   </ButtonFactory>
 </Component>
@@ -757,7 +1767,42 @@ exports[`Xing 7 1`] = `
 >
   <ButtonFactory
     big={true}
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-gZMcBi",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-gZMcBi",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -772,43 +1817,176 @@ exports[`Xing 7 1`] = `
       target="_blank"
       title="Share on Xing"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Xing"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Xing"
       >
-        <styled.div>
-          <div
-            className="c1"
-          >
-            <styled.div
-              aria-hidden="true"
-              solid={true}
+        <a
+          aria-label="Share on Xing"
+          className="c0"
+          href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Xing"
+        >
+          <Styled(styled.div)>
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-gZMcBi",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-gZMcBi",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
+                <styled.div
+                  aria-hidden="true"
+                  solid={true}
                 >
-                  <path
-                    d="M10.2 9.7l-3-5.4C7.2 4 7 4 6.8 4h-5c-.3 0-.4 0-.5.2v.5L4 10 .4 16v.5c0 .2.2.3.4.3h5c.3 0 .4 0 .5-.2l4-6.6v-.5zM24 .2l-.5-.2H18s-.2 0-.3.3l-8 14v.4l5.2 9c0 .2 0 .3.3.3h5.4s.3 0 .4-.2c.2-.2.2-.4 0-.5l-5-8.8L24 .7V.2z"
-                  />
-                </svg>
-                 
-                <span>
-                  Share on Xing
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+
+  ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solid={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M10.2 9.7l-3-5.4C7.2 4 7 4 6.8 4h-5c-.3 0-.4 0-.5.2v.5L4 10 .4 16v.5c0 .2.2.3.4.3h5c.3 0 .4 0 .5-.2l4-6.6v-.5zM24 .2l-.5-.2H18s-.2 0-.3.3l-8 14v.4l5.2 9c0 .2 0 .3.3.3h5.4s.3 0 .4-.2c.2-.2.2-.4 0-.5l-5-8.8L24 .7V.2z"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Share on Xing
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </styled.div>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
+            </StyledComponent>
+          </Styled(styled.div)>
+        </a>
+      </StyledComponent>
     </styled.a>
   </ButtonFactory>
 </Component>
@@ -871,7 +2049,42 @@ exports[`Xing 8 1`] = `
   solid={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-gZMcBi",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-gZMcBi",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -887,43 +2100,176 @@ exports[`Xing 8 1`] = `
       target="_blank"
       title="Share on Xing"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Xing"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Xing"
       >
-        <styled.div>
-          <div
-            className="c1"
-          >
-            <styled.div
-              aria-hidden="true"
-              solid={true}
+        <a
+          aria-label="Share on Xing"
+          className="c0"
+          href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Xing"
+        >
+          <Styled(styled.div)>
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-gZMcBi",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-gZMcBi",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
+                <styled.div
+                  aria-hidden="true"
+                  solid={true}
                 >
-                  <path
-                    d="M10.2 9.7l-3-5.4C7.2 4 7 4 6.8 4h-5c-.3 0-.4 0-.5.2v.5L4 10 .4 16v.5c0 .2.2.3.4.3h5c.3 0 .4 0 .5-.2l4-6.6v-.5zM24 .2l-.5-.2H18s-.2 0-.3.3l-8 14v.4l5.2 9c0 .2 0 .3.3.3h5.4s.3 0 .4-.2c.2-.2.2-.4 0-.5l-5-8.8L24 .7V.2z"
-                  />
-                </svg>
-                 
-                <span>
-                  Xing
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+
+  ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solid={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M10.2 9.7l-3-5.4C7.2 4 7 4 6.8 4h-5c-.3 0-.4 0-.5.2v.5L4 10 .4 16v.5c0 .2.2.3.4.3h5c.3 0 .4 0 .5-.2l4-6.6v-.5zM24 .2l-.5-.2H18s-.2 0-.3.3l-8 14v.4l5.2 9c0 .2 0 .3.3.3h5.4s.3 0 .4-.2c.2-.2.2-.4 0-.5l-5-8.8L24 .7V.2z"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Xing
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </styled.div>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
+            </StyledComponent>
+          </Styled(styled.div)>
+        </a>
+      </StyledComponent>
     </styled.a>
   </ButtonFactory>
 </Component>
@@ -986,7 +2332,42 @@ exports[`Xing 9 1`] = `
   solid={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-gZMcBi",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-gZMcBi",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -1002,42 +2383,176 @@ exports[`Xing 9 1`] = `
       target="_blank"
       title="Share on Xing"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Xing"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Xing"
       >
-        <styled.div
-          small={true}
+        <a
+          aria-label="Share on Xing"
+          className="c0"
+          href="https://www.xing.com/app/user?op=share;url=http%3A%2F%2Fsharingbuttons.io;title=I%20am%20so%20cool."
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Xing"
         >
-          <div
-            className="c1"
+          <Styled(styled.div)
+            small={true}
           >
-            <styled.div
-              aria-hidden="true"
-              solid={true}
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-gZMcBi",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-gZMcBi",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
+              small={true}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
+                <styled.div
+                  aria-hidden="true"
+                  solid={true}
                 >
-                  <path
-                    d="M10.2 9.7l-3-5.4C7.2 4 7 4 6.8 4h-5c-.3 0-.4 0-.5.2v.5L4 10 .4 16v.5c0 .2.2.3.4.3h5c.3 0 .4 0 .5-.2l4-6.6v-.5zM24 .2l-.5-.2H18s-.2 0-.3.3l-8 14v.4l5.2 9c0 .2 0 .3.3.3h5.4s.3 0 .4-.2c.2-.2.2-.4 0-.5l-5-8.8L24 .7V.2z"
-                  />
-                </svg>
-                 
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+
+  ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solid={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M10.2 9.7l-3-5.4C7.2 4 7 4 6.8 4h-5c-.3 0-.4 0-.5.2v.5L4 10 .4 16v.5c0 .2.2.3.4.3h5c.3 0 .4 0 .5-.2l4-6.6v-.5zM24 .2l-.5-.2H18s-.2 0-.3.3l-8 14v.4l5.2 9c0 .2 0 .3.3.3h5.4s.3 0 .4-.2c.2-.2.2-.4 0-.5l-5-8.8L24 .7V.2z"
+                        />
+                      </svg>
+                       
+                    </div>
+                  </StyledComponent>
+                </styled.div>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
+            </StyledComponent>
+          </Styled(styled.div)>
+        </a>
+      </StyledComponent>
     </styled.a>
   </ButtonFactory>
 </Component>
@@ -1095,7 +2610,42 @@ exports[`Xing 11 1`] = `
   circle={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-gZMcBi",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-gZMcBi",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     circle={true}
     href="https://www.xing.com/app/user?op=share;url=;title=undefined."
     iconCircle={[Function]}
@@ -1110,47 +2660,179 @@ exports[`Xing 11 1`] = `
       target="_blank"
       title="Share on Xing"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Xing"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://www.xing.com/app/user?op=share;url=;title=undefined."
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Xing"
       >
-        <styled.div>
-          <div
-            className="c1"
-          >
-            <styled.div
-              aria-hidden="true"
+        <a
+          aria-label="Share on Xing"
+          className="c0"
+          href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Xing"
+        >
+          <Styled(styled.div)>
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-gZMcBi",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-gZMcBi",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
+                <styled.div
+                  aria-hidden="true"
                 >
-                  <circle
-                    cx="12"
-                    cy="12"
-                    r="11.5"
-                  />
-                  <path
-                    d="M8.4 8.5h-3L7 11.3l-2.2 3.2h3l2.3-3.2zm10-3h-3.2l-5 8.5 3.2 5.5h3.3l-3-5.5z"
-                  />
-                </svg>
-                 
-                <span>
-                  Xing
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+
+  ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <circle
+                          cx="12"
+                          cy="12"
+                          r="11.5"
+                        />
+                        <path
+                          d="M8.4 8.5h-3L7 11.3l-2.2 3.2h3l2.3-3.2zm10-3h-3.2l-5 8.5 3.2 5.5h3.3l-3-5.5z"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Xing
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </styled.div>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
+            </StyledComponent>
+          </Styled(styled.div)>
+        </a>
+      </StyledComponent>
     </styled.a>
   </ButtonFactory>
 </Component>
@@ -1210,7 +2892,42 @@ exports[`Xing 11 2`] = `
   solidcircle={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-gZMcBi",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-gZMcBi",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://www.xing.com/app/user?op=share;url=;title=undefined."
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -1225,45 +2942,179 @@ exports[`Xing 11 2`] = `
       target="_blank"
       title="Share on Xing"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Xing"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://www.xing.com/app/user?op=share;url=;title=undefined."
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Xing"
       >
-        <styled.div
-          solidcircle={true}
+        <a
+          aria-label="Share on Xing"
+          className="c0"
+          href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Xing"
         >
-          <div
-            className="c1"
+          <Styled(styled.div)
+            solidcircle={true}
           >
-            <styled.div
-              aria-hidden="true"
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-gZMcBi",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-gZMcBi",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
               solidcircle={true}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
+                <styled.div
+                  aria-hidden="true"
+                  solidcircle={true}
                 >
-                  <path
-                    d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.6 0 12 0zM7.8 14.5h-3L7 11.3 5.3 8.5h3l1.8 2.8L8 14.5zm9 5h-3.4l-3-5.5L15 5.5h3.2L13.6 14l3 5.5z"
-                  />
-                </svg>
-                 
-                <span>
-                  Xing
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+
+  ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solidcircle={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.6 0 12 0zM7.8 14.5h-3L7 11.3 5.3 8.5h3l1.8 2.8L8 14.5zm9 5h-3.4l-3-5.5L15 5.5h3.2L13.6 14l3 5.5z"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Xing
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </styled.div>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
+            </StyledComponent>
+          </Styled(styled.div)>
+        </a>
+      </StyledComponent>
     </styled.a>
   </ButtonFactory>
 </Component>
@@ -1321,7 +3172,42 @@ exports[`Xing 12 1`] = `
 
 <Component>
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-gZMcBi",
+          "isStatic": true,
+          "lastClassName": "c1",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-gZMcBi",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://www.xing.com/app/user?op=share;url=;title=undefined."
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -1335,43 +3221,176 @@ exports[`Xing 12 1`] = `
       target="_blank"
       title="Share on Xing"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Xing"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://www.xing.com/app/user?op=share;url=;title=undefined."
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Xing"
       >
-        <styled.div>
-          <div
-            className="c1"
-          >
-            <styled.div
-              aria-hidden="true"
-              solid={true}
+        <a
+          aria-label="Share on Xing"
+          className="c0"
+          href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Xing"
+        >
+          <Styled(styled.div)>
+            <StyledComponent
+              forwardedClass={
+                Object {
+                  "$$typeof": Symbol(react.forward_ref),
+                  "attrs": Array [],
+                  "componentStyle": ComponentStyle {
+                    "componentId": "sc-gZMcBi",
+                    "isStatic": true,
+                    "lastClassName": "c1",
+                    "rules": Array [
+                      "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+                      "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+                    ],
+                  },
+                  "displayName": "Styled(styled.div)",
+                  "render": [Function],
+                  "styledComponentId": "sc-gZMcBi",
+                  "target": "div",
+                  "toString": [Function],
+                  "warnTooManyClasses": [Function],
+                  "withComponent": [Function],
+                }
+              }
+              forwardedRef={null}
             >
               <div
-                aria-hidden="true"
-                className="c2"
+                className="c1"
               >
-                <svg
-                  viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
+                <styled.div
+                  aria-hidden="true"
+                  solid={true}
                 >
-                  <path
-                    d="M10.2 9.7l-3-5.4C7.2 4 7 4 6.8 4h-5c-.3 0-.4 0-.5.2v.5L4 10 .4 16v.5c0 .2.2.3.4.3h5c.3 0 .4 0 .5-.2l4-6.6v-.5zM24 .2l-.5-.2H18s-.2 0-.3.3l-8 14v.4l5.2 9c0 .2 0 .3.3.3h5.4s.3 0 .4-.2c.2-.2.2-.4 0-.5l-5-8.8L24 .7V.2z"
-                  />
-                </svg>
-                 
-                <span>
-                  Xing
-                </span>
+                  <StyledComponent
+                    aria-hidden="true"
+                    forwardedClass={
+                      Object {
+                        "$$typeof": Symbol(react.forward_ref),
+                        "attrs": Array [],
+                        "componentStyle": ComponentStyle {
+                          "componentId": "sc-htpNat",
+                          "isStatic": false,
+                          "lastClassName": "c2",
+                          "rules": Array [
+                            "
+  display: flex;
+  align-items: center;
+  fill: #fff;
+  stroke: none;
+
+  ",
+                            [Function],
+                            ";
+",
+                          ],
+                        },
+                        "displayName": "styled.div",
+                        "render": [Function],
+                        "styledComponentId": "sc-htpNat",
+                        "target": "div",
+                        "toString": [Function],
+                        "warnTooManyClasses": [Function],
+                        "withComponent": [Function],
+                      }
+                    }
+                    forwardedRef={null}
+                    solid={true}
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="c2"
+                    >
+                      <svg
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M10.2 9.7l-3-5.4C7.2 4 7 4 6.8 4h-5c-.3 0-.4 0-.5.2v.5L4 10 .4 16v.5c0 .2.2.3.4.3h5c.3 0 .4 0 .5-.2l4-6.6v-.5zM24 .2l-.5-.2H18s-.2 0-.3.3l-8 14v.4l5.2 9c0 .2 0 .3.3.3h5.4s.3 0 .4-.2c.2-.2.2-.4 0-.5l-5-8.8L24 .7V.2z"
+                        />
+                      </svg>
+                       
+                      <span>
+                        Xing
+                      </span>
+                    </div>
+                  </StyledComponent>
+                </styled.div>
               </div>
-            </styled.div>
-          </div>
-        </styled.div>
-      </a>
+            </StyledComponent>
+          </Styled(styled.div)>
+        </a>
+      </StyledComponent>
     </styled.a>
   </ButtonFactory>
 </Component>
@@ -1405,7 +3424,42 @@ exports[`Xing 13 1`] = `
   simple={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-gZMcBi",
+          "isStatic": true,
+          "lastClassName": "FVSUz",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-gZMcBi",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://www.xing.com/app/user?op=share;url=;title=undefined."
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -1421,25 +3475,83 @@ exports[`Xing 13 1`] = `
       target="_blank"
       title="Share on Xing"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Xing"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://www.xing.com/app/user?op=share;url=;title=undefined."
         rel="noreferrer noopener"
+        simple={true}
         target="_blank"
         title="Share on Xing"
       >
-        <XingIconFill>
-          <svg
-            viewBox="0 0 24 24"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M10.2 9.7l-3-5.4C7.2 4 7 4 6.8 4h-5c-.3 0-.4 0-.5.2v.5L4 10 .4 16v.5c0 .2.2.3.4.3h5c.3 0 .4 0 .5-.2l4-6.6v-.5zM24 .2l-.5-.2H18s-.2 0-.3.3l-8 14v.4l5.2 9c0 .2 0 .3.3.3h5.4s.3 0 .4-.2c.2-.2.2-.4 0-.5l-5-8.8L24 .7V.2z"
-            />
-          </svg>
-        </XingIconFill>
-      </a>
+        <a
+          aria-label="Share on Xing"
+          className="c0"
+          href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Xing"
+        >
+          <XingIconFill>
+            <svg
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M10.2 9.7l-3-5.4C7.2 4 7 4 6.8 4h-5c-.3 0-.4 0-.5.2v.5L4 10 .4 16v.5c0 .2.2.3.4.3h5c.3 0 .4 0 .5-.2l4-6.6v-.5zM24 .2l-.5-.2H18s-.2 0-.3.3l-8 14v.4l5.2 9c0 .2 0 .3.3.3h5.4s.3 0 .4-.2c.2-.2.2-.4 0-.5l-5-8.8L24 .7V.2z"
+              />
+            </svg>
+          </XingIconFill>
+        </a>
+      </StyledComponent>
     </styled.a>
   </ButtonFactory>
 </Component>
@@ -1473,7 +3585,42 @@ exports[`Xing 14 1`] = `
   simpleReverse={true}
 >
   <ButtonFactory
-    buttonComponent={[Function]}
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-gZMcBi",
+          "isStatic": true,
+          "lastClassName": "FVSUz",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-gZMcBi",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
     href="https://www.xing.com/app/user?op=share;url=;title=undefined."
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
@@ -1489,25 +3636,83 @@ exports[`Xing 14 1`] = `
       target="_blank"
       title="Share on Xing"
     >
-      <a
+      <StyledComponent
         aria-label="Share on Xing"
-        className="c0"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
         href="https://www.xing.com/app/user?op=share;url=;title=undefined."
         rel="noreferrer noopener"
+        simpleReverse={true}
         target="_blank"
         title="Share on Xing"
       >
-        <XingIconFill>
-          <svg
-            viewBox="0 0 24 24"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M10.2 9.7l-3-5.4C7.2 4 7 4 6.8 4h-5c-.3 0-.4 0-.5.2v.5L4 10 .4 16v.5c0 .2.2.3.4.3h5c.3 0 .4 0 .5-.2l4-6.6v-.5zM24 .2l-.5-.2H18s-.2 0-.3.3l-8 14v.4l5.2 9c0 .2 0 .3.3.3h5.4s.3 0 .4-.2c.2-.2.2-.4 0-.5l-5-8.8L24 .7V.2z"
-            />
-          </svg>
-        </XingIconFill>
-      </a>
+        <a
+          aria-label="Share on Xing"
+          className="c0"
+          href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Share on Xing"
+        >
+          <XingIconFill>
+            <svg
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M10.2 9.7l-3-5.4C7.2 4 7 4 6.8 4h-5c-.3 0-.4 0-.5.2v.5L4 10 .4 16v.5c0 .2.2.3.4.3h5c.3 0 .4 0 .5-.2l4-6.6v-.5zM24 .2l-.5-.2H18s-.2 0-.3.3l-8 14v.4l5.2 9c0 .2 0 .3.3.3h5.4s.3 0 .4-.2c.2-.2.2-.4 0-.5l-5-8.8L24 .7V.2z"
+              />
+            </svg>
+          </XingIconFill>
+        </a>
+      </StyledComponent>
     </styled.a>
   </ButtonFactory>
 </Component>

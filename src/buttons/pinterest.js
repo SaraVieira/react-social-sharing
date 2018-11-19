@@ -1,4 +1,5 @@
 import React from 'react'
+import styled from 'styled-components'
 import ButtonFactory from './factory'
 import {
   PinterestIconFill,
@@ -8,7 +9,7 @@ import {
 import { SharingButton } from '../common'
 import links from '../consts'
 
-const Pinterest = SharingButton.extend`
+const Pinterest = styled(SharingButton)`
   background-color: #bd081c;
   border-color: #bd081c;
 
