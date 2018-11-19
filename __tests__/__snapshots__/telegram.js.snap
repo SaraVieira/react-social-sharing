@@ -74,13 +74,13 @@ exports[`Telegram 1 1`] = `
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 ",
             "
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 
   &:hover,
   &:active {
-    background-color: #114c4c;
-    border-color: #114c4c;
+    background-color: #4b97d1;
+    border-color: #4b97d1;
   }
 ",
           ],
@@ -194,13 +194,13 @@ exports[`Telegram 1 1`] = `
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 ",
                       "
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 
   &:hover,
   &:active {
-    background-color: #114c4c;
-    border-color: #114c4c;
+    background-color: #4b97d1;
+    border-color: #4b97d1;
   }
 ",
                     ],
@@ -363,13 +363,13 @@ exports[`Telegram 2 1`] = `
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 ",
             "
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 
   &:hover,
   &:active {
-    background-color: #114c4c;
-    border-color: #114c4c;
+    background-color: #4b97d1;
+    border-color: #4b97d1;
   }
 ",
           ],
@@ -484,13 +484,13 @@ exports[`Telegram 2 1`] = `
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 ",
                       "
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 
   &:hover,
   &:active {
-    background-color: #114c4c;
-    border-color: #114c4c;
+    background-color: #4b97d1;
+    border-color: #4b97d1;
   }
 ",
                     ],
@@ -653,13 +653,13 @@ exports[`Telegram 3 1`] = `
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 ",
             "
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 
   &:hover,
   &:active {
-    background-color: #114c4c;
-    border-color: #114c4c;
+    background-color: #4b97d1;
+    border-color: #4b97d1;
   }
 ",
           ],
@@ -775,13 +775,13 @@ exports[`Telegram 3 1`] = `
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 ",
                       "
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 
   &:hover,
   &:active {
-    background-color: #114c4c;
-    border-color: #114c4c;
+    background-color: #4b97d1;
+    border-color: #4b97d1;
   }
 ",
                     ],
@@ -941,13 +941,13 @@ exports[`Telegram 4 1`] = `
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 ",
             "
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 
   &:hover,
   &:active {
-    background-color: #114c4c;
-    border-color: #114c4c;
+    background-color: #4b97d1;
+    border-color: #4b97d1;
   }
 ",
           ],
@@ -1060,13 +1060,13 @@ exports[`Telegram 4 1`] = `
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 ",
                       "
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 
   &:hover,
   &:active {
-    background-color: #114c4c;
-    border-color: #114c4c;
+    background-color: #4b97d1;
+    border-color: #4b97d1;
   }
 ",
                     ],
@@ -1228,13 +1228,13 @@ exports[`Telegram 5 1`] = `
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 ",
             "
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 
   &:hover,
   &:active {
-    background-color: #114c4c;
-    border-color: #114c4c;
+    background-color: #4b97d1;
+    border-color: #4b97d1;
   }
 ",
           ],
@@ -1348,13 +1348,13 @@ exports[`Telegram 5 1`] = `
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 ",
                       "
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 
   &:hover,
   &:active {
-    background-color: #114c4c;
-    border-color: #114c4c;
+    background-color: #4b97d1;
+    border-color: #4b97d1;
   }
 ",
                     ],
@@ -1516,13 +1516,13 @@ exports[`Telegram 6 1`] = `
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 ",
             "
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 
   &:hover,
   &:active {
-    background-color: #114c4c;
-    border-color: #114c4c;
+    background-color: #4b97d1;
+    border-color: #4b97d1;
   }
 ",
           ],
@@ -1637,13 +1637,13 @@ exports[`Telegram 6 1`] = `
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 ",
                       "
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 
   &:hover,
   &:active {
-    background-color: #114c4c;
-    border-color: #114c4c;
+    background-color: #4b97d1;
+    border-color: #4b97d1;
   }
 ",
                     ],
@@ -1806,13 +1806,13 @@ exports[`Telegram 7 1`] = `
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 ",
             "
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 
   &:hover,
   &:active {
-    background-color: #114c4c;
-    border-color: #114c4c;
+    background-color: #4b97d1;
+    border-color: #4b97d1;
   }
 ",
           ],
@@ -1925,13 +1925,13 @@ exports[`Telegram 7 1`] = `
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 ",
                       "
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 
   &:hover,
   &:active {
-    background-color: #114c4c;
-    border-color: #114c4c;
+    background-color: #4b97d1;
+    border-color: #4b97d1;
   }
 ",
                     ],
@@ -2092,13 +2092,13 @@ exports[`Telegram 8 1`] = `
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 ",
             "
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 
   &:hover,
   &:active {
-    background-color: #114c4c;
-    border-color: #114c4c;
+    background-color: #4b97d1;
+    border-color: #4b97d1;
   }
 ",
           ],
@@ -2212,13 +2212,13 @@ exports[`Telegram 8 1`] = `
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 ",
                       "
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 
   &:hover,
   &:active {
-    background-color: #114c4c;
-    border-color: #114c4c;
+    background-color: #4b97d1;
+    border-color: #4b97d1;
   }
 ",
                     ],
@@ -2379,13 +2379,13 @@ exports[`Telegram 9 1`] = `
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 ",
             "
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 
   &:hover,
   &:active {
-    background-color: #114c4c;
-    border-color: #114c4c;
+    background-color: #4b97d1;
+    border-color: #4b97d1;
   }
 ",
           ],
@@ -2500,13 +2500,13 @@ exports[`Telegram 9 1`] = `
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 ",
                       "
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 
   &:hover,
   &:active {
-    background-color: #114c4c;
-    border-color: #114c4c;
+    background-color: #4b97d1;
+    border-color: #4b97d1;
   }
 ",
                     ],
@@ -2660,13 +2660,13 @@ exports[`Telegram 11 1`] = `
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 ",
             "
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 
   &:hover,
   &:active {
-    background-color: #114c4c;
-    border-color: #114c4c;
+    background-color: #4b97d1;
+    border-color: #4b97d1;
   }
 ",
           ],
@@ -2776,13 +2776,13 @@ exports[`Telegram 11 1`] = `
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 ",
                       "
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 
   &:hover,
   &:active {
-    background-color: #114c4c;
-    border-color: #114c4c;
+    background-color: #4b97d1;
+    border-color: #4b97d1;
   }
 ",
                     ],
@@ -2942,13 +2942,13 @@ exports[`Telegram 11 2`] = `
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 ",
             "
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 
   &:hover,
   &:active {
-    background-color: #114c4c;
-    border-color: #114c4c;
+    background-color: #4b97d1;
+    border-color: #4b97d1;
   }
 ",
           ],
@@ -3060,13 +3060,13 @@ exports[`Telegram 11 2`] = `
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 ",
                       "
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 
   &:hover,
   &:active {
-    background-color: #114c4c;
-    border-color: #114c4c;
+    background-color: #4b97d1;
+    border-color: #4b97d1;
   }
 ",
                     ],
@@ -3223,13 +3223,13 @@ exports[`Telegram 12 1`] = `
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 ",
             "
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 
   &:hover,
   &:active {
-    background-color: #114c4c;
-    border-color: #114c4c;
+    background-color: #4b97d1;
+    border-color: #4b97d1;
   }
 ",
           ],
@@ -3338,13 +3338,13 @@ exports[`Telegram 12 1`] = `
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 ",
                       "
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 
   &:hover,
   &:active {
-    background-color: #114c4c;
-    border-color: #114c4c;
+    background-color: #4b97d1;
+    border-color: #4b97d1;
   }
 ",
                     ],
@@ -3466,7 +3466,7 @@ exports[`Telegram 13 1`] = `
         "componentStyle": ComponentStyle {
           "componentId": "sc-fjdhpX",
           "isStatic": true,
-          "lastClassName": "gErvTJ",
+          "lastClassName": "gTPjFA",
           "rules": Array [
             "
   border-radius: 5px;
@@ -3475,13 +3475,13 @@ exports[`Telegram 13 1`] = `
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 ",
             "
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 
   &:hover,
   &:active {
-    background-color: #114c4c;
-    border-color: #114c4c;
+    background-color: #4b97d1;
+    border-color: #4b97d1;
   }
 ",
           ],
@@ -3627,7 +3627,7 @@ exports[`Telegram 14 1`] = `
         "componentStyle": ComponentStyle {
           "componentId": "sc-fjdhpX",
           "isStatic": true,
-          "lastClassName": "gErvTJ",
+          "lastClassName": "gTPjFA",
           "rules": Array [
             "
   border-radius: 5px;
@@ -3636,13 +3636,13 @@ exports[`Telegram 14 1`] = `
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 ",
             "
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 
   &:hover,
   &:active {
-    background-color: #114c4c;
-    border-color: #114c4c;
+    background-color: #4b97d1;
+    border-color: #4b97d1;
   }
 ",
           ],
