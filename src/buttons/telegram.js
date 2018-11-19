@@ -10,13 +10,13 @@ import { SharingButton } from '../common'
 import links from '../consts'
 
 const Telegram = styled(SharingButton)`
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 
   &:hover,
   &:active {
-    background-color: #114c4c;
-    border-color: #114c4c;
+    background-color: #4b97d1;
+    border-color: #4b97d1;
   }
 `
 
