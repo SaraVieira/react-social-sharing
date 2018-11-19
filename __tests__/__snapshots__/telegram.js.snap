@@ -40,14 +40,14 @@ exports[`Telegram 1 1`] = `
   transition: 25ms ease-out;
   padding: 0.5em 0.75em;
   font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 }
 
 .c1:hover,
 .c1:active {
-  background-color: #114c4c;
-  border-color: #114c4c;
+  background-color: #4b97d1;
+  border-color: #4b97d1;
 }
 
 <Component
@@ -160,14 +160,14 @@ exports[`Telegram 2 1`] = `
   transition: 25ms ease-out;
   padding: 0.5em 0.75em;
   font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 }
 
 .c1:hover,
 .c1:active {
-  background-color: #114c4c;
-  border-color: #114c4c;
+  background-color: #4b97d1;
+  border-color: #4b97d1;
 }
 
 <Component
@@ -280,14 +280,14 @@ exports[`Telegram 3 1`] = `
   transition: 25ms ease-out;
   padding: 0.5em 0.75em;
   font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 }
 
 .c1:hover,
 .c1:active {
-  background-color: #114c4c;
-  border-color: #114c4c;
+  background-color: #4b97d1;
+  border-color: #4b97d1;
 }
 
 <Component
@@ -396,14 +396,14 @@ exports[`Telegram 4 1`] = `
   transition: 25ms ease-out;
   padding: 0.5em 0.75em;
   font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 }
 
 .c1:hover,
 .c1:active {
-  background-color: #114c4c;
-  border-color: #114c4c;
+  background-color: #4b97d1;
+  border-color: #4b97d1;
 }
 
 <Component
@@ -516,14 +516,14 @@ exports[`Telegram 5 1`] = `
   transition: 25ms ease-out;
   padding: 0.5em 0.75em;
   font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 }
 
 .c1:hover,
 .c1:active {
-  background-color: #114c4c;
-  border-color: #114c4c;
+  background-color: #4b97d1;
+  border-color: #4b97d1;
 }
 
 <Component
@@ -636,14 +636,14 @@ exports[`Telegram 6 1`] = `
   transition: 25ms ease-out;
   padding: 0.5em 0.75em;
   font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 }
 
 .c1:hover,
 .c1:active {
-  background-color: #114c4c;
-  border-color: #114c4c;
+  background-color: #4b97d1;
+  border-color: #4b97d1;
 }
 
 <Component
@@ -756,14 +756,14 @@ exports[`Telegram 7 1`] = `
   transition: 25ms ease-out;
   padding: 0.5em 0.75em;
   font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 }
 
 .c1:hover,
 .c1:active {
-  background-color: #114c4c;
-  border-color: #114c4c;
+  background-color: #4b97d1;
+  border-color: #4b97d1;
 }
 
 <Component
@@ -874,14 +874,14 @@ exports[`Telegram 8 1`] = `
   transition: 25ms ease-out;
   padding: 0.5em 0.75em;
   font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 }
 
 .c1:hover,
 .c1:active {
-  background-color: #114c4c;
-  border-color: #114c4c;
+  background-color: #4b97d1;
+  border-color: #4b97d1;
 }
 
 <Component
@@ -992,14 +992,14 @@ exports[`Telegram 9 1`] = `
   transition: 25ms ease-out;
   padding: 0.5em 0.75em;
   font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 }
 
 .c1:hover,
 .c1:active {
-  background-color: #114c4c;
-  border-color: #114c4c;
+  background-color: #4b97d1;
+  border-color: #4b97d1;
 }
 
 <Component
@@ -1106,14 +1106,14 @@ exports[`Telegram 11 1`] = `
   transition: 25ms ease-out;
   padding: 0.5em 0.75em;
   font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 }
 
 .c1:hover,
 .c1:active {
-  background-color: #114c4c;
-  border-color: #114c4c;
+  background-color: #4b97d1;
+  border-color: #4b97d1;
 }
 
 <Component
@@ -1221,14 +1221,14 @@ exports[`Telegram 11 2`] = `
   transition: 25ms ease-out;
   padding: 0.5em 0.75em;
   font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 }
 
 .c1:hover,
 .c1:active {
-  background-color: #114c4c;
-  border-color: #114c4c;
+  background-color: #4b97d1;
+  border-color: #4b97d1;
 }
 
 <Component
@@ -1335,14 +1335,14 @@ exports[`Telegram 12 1`] = `
   transition: 25ms ease-out;
   padding: 0.5em 0.75em;
   font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
-  background-color: #1a7576;
-  border-color: #1a7576;
+  background-color: #54a9eb;
+  border-color: #54a9eb;
 }
 
 .c1:hover,
 .c1:active {
-  background-color: #114c4c;
-  border-color: #114c4c;
+  background-color: #4b97d1;
+  border-color: #4b97d1;
 }
 
 <Component>
