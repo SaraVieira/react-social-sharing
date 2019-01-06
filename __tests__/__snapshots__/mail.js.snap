@@ -100,12 +100,13 @@ exports[`Mail 1 1`] = `
     iconFill={[Function]}
     name="E-mail"
     solidcircle={true}
+    target="_self"
   >
     <styled.a
       aria-label="Share on E-mail"
       href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
-      target="_blank"
+      target="_self"
       title="Share on E-mail"
     >
       <StyledComponent
@@ -161,7 +162,7 @@ exports[`Mail 1 1`] = `
         forwardedRef={null}
         href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
-        target="_blank"
+        target="_self"
         title="Share on E-mail"
       >
         <a
@@ -169,7 +170,7 @@ exports[`Mail 1 1`] = `
           className="c0"
           href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
           rel="noreferrer noopener"
-          target="_blank"
+          target="_self"
           title="Share on E-mail"
         >
           <Styled(styled.div)
@@ -389,12 +390,13 @@ exports[`Mail 2 1`] = `
     medium={true}
     name="E-mail"
     solidcircle={true}
+    target="_self"
   >
     <styled.a
       aria-label="Share on E-mail"
       href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
-      target="_blank"
+      target="_self"
       title="Share on E-mail"
     >
       <StyledComponent
@@ -450,7 +452,7 @@ exports[`Mail 2 1`] = `
         forwardedRef={null}
         href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
-        target="_blank"
+        target="_self"
         title="Share on E-mail"
       >
         <a
@@ -458,7 +460,7 @@ exports[`Mail 2 1`] = `
           className="c0"
           href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
           rel="noreferrer noopener"
-          target="_blank"
+          target="_self"
           title="Share on E-mail"
         >
           <Styled(styled.div)
@@ -678,12 +680,13 @@ exports[`Mail 3 1`] = `
     name="E-mail"
     small={true}
     solidcircle={true}
+    target="_self"
   >
     <styled.a
       aria-label="Share on E-mail"
       href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
-      target="_blank"
+      target="_self"
       title="Share on E-mail"
     >
       <StyledComponent
@@ -739,7 +742,7 @@ exports[`Mail 3 1`] = `
         forwardedRef={null}
         href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
-        target="_blank"
+        target="_self"
         title="Share on E-mail"
       >
         <a
@@ -747,7 +750,7 @@ exports[`Mail 3 1`] = `
           className="c0"
           href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
           rel="noreferrer noopener"
-          target="_blank"
+          target="_self"
           title="Share on E-mail"
         >
           <Styled(styled.div)
@@ -964,12 +967,13 @@ exports[`Mail 4 1`] = `
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     name="E-mail"
+    target="_self"
   >
     <styled.a
       aria-label="Share on E-mail"
       href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
-      target="_blank"
+      target="_self"
       title="Share on E-mail"
     >
       <StyledComponent
@@ -1025,7 +1029,7 @@ exports[`Mail 4 1`] = `
         forwardedRef={null}
         href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
-        target="_blank"
+        target="_self"
         title="Share on E-mail"
       >
         <a
@@ -1033,7 +1037,7 @@ exports[`Mail 4 1`] = `
           className="c0"
           href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
           rel="noreferrer noopener"
-          target="_blank"
+          target="_self"
           title="Share on E-mail"
         >
           <Styled(styled.div)>
@@ -1248,12 +1252,13 @@ exports[`Mail 5 1`] = `
     iconFill={[Function]}
     medium={true}
     name="E-mail"
+    target="_self"
   >
     <styled.a
       aria-label="Share on E-mail"
       href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
-      target="_blank"
+      target="_self"
       title="Share on E-mail"
     >
       <StyledComponent
@@ -1309,7 +1314,7 @@ exports[`Mail 5 1`] = `
         forwardedRef={null}
         href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
-        target="_blank"
+        target="_self"
         title="Share on E-mail"
       >
         <a
@@ -1317,7 +1322,7 @@ exports[`Mail 5 1`] = `
           className="c0"
           href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
           rel="noreferrer noopener"
-          target="_blank"
+          target="_self"
           title="Share on E-mail"
         >
           <Styled(styled.div)>
@@ -1532,12 +1537,13 @@ exports[`Mail 6 1`] = `
     iconFill={[Function]}
     name="E-mail"
     small={true}
+    target="_self"
   >
     <styled.a
       aria-label="Share on E-mail"
       href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
-      target="_blank"
+      target="_self"
       title="Share on E-mail"
     >
       <StyledComponent
@@ -1593,7 +1599,7 @@ exports[`Mail 6 1`] = `
         forwardedRef={null}
         href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
-        target="_blank"
+        target="_self"
         title="Share on E-mail"
       >
         <a
@@ -1601,7 +1607,7 @@ exports[`Mail 6 1`] = `
           className="c0"
           href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
           rel="noreferrer noopener"
-          target="_blank"
+          target="_self"
           title="Share on E-mail"
         >
           <Styled(styled.div)
@@ -1818,12 +1824,13 @@ exports[`Mail 7 1`] = `
     iconFill={[Function]}
     name="E-mail"
     solid={true}
+    target="_self"
   >
     <styled.a
       aria-label="Share on E-mail"
       href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
-      target="_blank"
+      target="_self"
       title="Share on E-mail"
     >
       <StyledComponent
@@ -1879,7 +1886,7 @@ exports[`Mail 7 1`] = `
         forwardedRef={null}
         href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
-        target="_blank"
+        target="_self"
         title="Share on E-mail"
       >
         <a
@@ -1887,7 +1894,7 @@ exports[`Mail 7 1`] = `
           className="c0"
           href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
           rel="noreferrer noopener"
-          target="_blank"
+          target="_self"
           title="Share on E-mail"
         >
           <Styled(styled.div)>
@@ -2101,12 +2108,13 @@ exports[`Mail 8 1`] = `
     medium={true}
     name="E-mail"
     solid={true}
+    target="_self"
   >
     <styled.a
       aria-label="Share on E-mail"
       href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
-      target="_blank"
+      target="_self"
       title="Share on E-mail"
     >
       <StyledComponent
@@ -2162,7 +2170,7 @@ exports[`Mail 8 1`] = `
         forwardedRef={null}
         href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
-        target="_blank"
+        target="_self"
         title="Share on E-mail"
       >
         <a
@@ -2170,7 +2178,7 @@ exports[`Mail 8 1`] = `
           className="c0"
           href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
           rel="noreferrer noopener"
-          target="_blank"
+          target="_self"
           title="Share on E-mail"
         >
           <Styled(styled.div)>
@@ -2384,12 +2392,13 @@ exports[`Mail 9 1`] = `
     name="E-mail"
     small={true}
     solid={true}
+    target="_self"
   >
     <styled.a
       aria-label="Share on E-mail"
       href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
-      target="_blank"
+      target="_self"
       title="Share on E-mail"
     >
       <StyledComponent
@@ -2445,7 +2454,7 @@ exports[`Mail 9 1`] = `
         forwardedRef={null}
         href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
-        target="_blank"
+        target="_self"
         title="Share on E-mail"
       >
         <a
@@ -2453,7 +2462,7 @@ exports[`Mail 9 1`] = `
           className="c0"
           href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
           rel="noreferrer noopener"
-          target="_blank"
+          target="_self"
           title="Share on E-mail"
         >
           <Styled(styled.div)
@@ -2661,12 +2670,13 @@ exports[`Mail 11 1`] = `
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     name="E-mail"
+    target="_self"
   >
     <styled.a
       aria-label="Share on E-mail"
       href="mailto:?subject=&body="
       rel="noreferrer noopener"
-      target="_blank"
+      target="_self"
       title="Share on E-mail"
     >
       <StyledComponent
@@ -2722,7 +2732,7 @@ exports[`Mail 11 1`] = `
         forwardedRef={null}
         href="mailto:?subject=&body="
         rel="noreferrer noopener"
-        target="_blank"
+        target="_self"
         title="Share on E-mail"
       >
         <a
@@ -2730,7 +2740,7 @@ exports[`Mail 11 1`] = `
           className="c0"
           href="mailto:?subject=&body="
           rel="noreferrer noopener"
-          target="_blank"
+          target="_self"
           title="Share on E-mail"
         >
           <Styled(styled.div)>
@@ -2943,12 +2953,13 @@ exports[`Mail 11 2`] = `
     iconFill={[Function]}
     name="E-mail"
     solidcircle={true}
+    target="_self"
   >
     <styled.a
       aria-label="Share on E-mail"
       href="mailto:?subject=&body="
       rel="noreferrer noopener"
-      target="_blank"
+      target="_self"
       title="Share on E-mail"
     >
       <StyledComponent
@@ -3004,7 +3015,7 @@ exports[`Mail 11 2`] = `
         forwardedRef={null}
         href="mailto:?subject=&body="
         rel="noreferrer noopener"
-        target="_blank"
+        target="_self"
         title="Share on E-mail"
       >
         <a
@@ -3012,7 +3023,7 @@ exports[`Mail 11 2`] = `
           className="c0"
           href="mailto:?subject=&body="
           rel="noreferrer noopener"
-          target="_blank"
+          target="_self"
           title="Share on E-mail"
         >
           <Styled(styled.div)
@@ -3225,12 +3236,13 @@ exports[`Mail 12 1`] = `
     iconCircleSolid={[Function]}
     iconFill={[Function]}
     name="E-mail"
+    target="_self"
   >
     <styled.a
       aria-label="Share on E-mail"
       href="mailto:?subject=&body="
       rel="noreferrer noopener"
-      target="_blank"
+      target="_self"
       title="Share on E-mail"
     >
       <StyledComponent
@@ -3286,7 +3298,7 @@ exports[`Mail 12 1`] = `
         forwardedRef={null}
         href="mailto:?subject=&body="
         rel="noreferrer noopener"
-        target="_blank"
+        target="_self"
         title="Share on E-mail"
       >
         <a
@@ -3294,7 +3306,7 @@ exports[`Mail 12 1`] = `
           className="c0"
           href="mailto:?subject=&body="
           rel="noreferrer noopener"
-          target="_blank"
+          target="_self"
           title="Share on E-mail"
         >
           <Styled(styled.div)>
@@ -3478,13 +3490,14 @@ exports[`Mail 13 1`] = `
     iconFill={[Function]}
     name="E-mail"
     simple={true}
+    target="_self"
   >
     <styled.a
       aria-label="Share on E-mail"
       href="mailto:?subject=&body="
       rel="noreferrer noopener"
       simple={true}
-      target="_blank"
+      target="_self"
       title="Share on E-mail"
     >
       <StyledComponent
@@ -3541,7 +3554,7 @@ exports[`Mail 13 1`] = `
         href="mailto:?subject=&body="
         rel="noreferrer noopener"
         simple={true}
-        target="_blank"
+        target="_self"
         title="Share on E-mail"
       >
         <a
@@ -3549,7 +3562,7 @@ exports[`Mail 13 1`] = `
           className="c0"
           href="mailto:?subject=&body="
           rel="noreferrer noopener"
-          target="_blank"
+          target="_self"
           title="Share on E-mail"
         >
           <EmailIconFill>
@@ -3639,13 +3652,14 @@ exports[`Mail 14 1`] = `
     iconFill={[Function]}
     name="E-mail"
     simpleReverse={true}
+    target="_self"
   >
     <styled.a
       aria-label="Share on E-mail"
       href="mailto:?subject=&body="
       rel="noreferrer noopener"
       simpleReverse={true}
-      target="_blank"
+      target="_self"
       title="Share on E-mail"
     >
       <StyledComponent
@@ -3702,7 +3716,7 @@ exports[`Mail 14 1`] = `
         href="mailto:?subject=&body="
         rel="noreferrer noopener"
         simpleReverse={true}
-        target="_blank"
+        target="_self"
         title="Share on E-mail"
       >
         <a
@@ -3710,7 +3724,7 @@ exports[`Mail 14 1`] = `
           className="c0"
           href="mailto:?subject=&body="
           rel="noreferrer noopener"
-          target="_blank"
+          target="_self"
           title="Share on E-mail"
         >
           <EmailIconFill>
