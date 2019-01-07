@@ -17,6 +17,21 @@ import { Twitter } from 'react-social-sharing'
 export default () => <Twitter link="https://github.com" />
 ```
 
+## Localization
+
+To any button for localization of the `aria-label` you can pass a function like so:
+
+```js
+<Twitter
+  link="https://github.com"
+  label={serviceName => localise('share_label', { serviceName })}
+/>
+```
+
+This function receives the name of the service and the return value is the `aria-label` and `title` used in the anchor.
+
+This name is automatically filled by the package but you can override this with the name prop.
+
 ## License
 
 react-social-sharing is available under MIT. See LICENSE for more details.
