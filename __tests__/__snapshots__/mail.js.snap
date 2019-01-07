@@ -2385,7 +2385,7 @@ exports[`Mail 9 1`] = `
         "withComponent": [Function],
       }
     }
-    href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
+    href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io%0A%0A"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -2396,7 +2396,7 @@ exports[`Mail 9 1`] = `
   >
     <styled.a
       aria-label="Share on E-mail"
-      href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
+      href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io%0A%0A"
       rel="noreferrer noopener"
       target="_self"
       title="Share on E-mail"
@@ -2452,7 +2452,7 @@ exports[`Mail 9 1`] = `
           }
         }
         forwardedRef={null}
-        href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
+        href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io%0A%0A"
         rel="noreferrer noopener"
         target="_self"
         title="Share on E-mail"
@@ -2460,7 +2460,7 @@ exports[`Mail 9 1`] = `
         <a
           aria-label="Share on E-mail"
           className="c0"
-          href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io"
+          href="mailto:?subject=I%20am%20so%20cool&body=http%3A%2F%2Fsharingbuttons.io%0A%0A"
           rel="noreferrer noopener"
           target="_self"
           title="Share on E-mail"

@@ -2647,7 +2647,7 @@ exports[`Xing 11 1`] = `
       }
     }
     circle={true}
-    href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+    href="https://www.xing.com/app/user?op=share;url=;title=."
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -2655,7 +2655,7 @@ exports[`Xing 11 1`] = `
   >
     <styled.a
       aria-label="Share on Xing"
-      href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+      href="https://www.xing.com/app/user?op=share;url=;title=."
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Xing"
@@ -2711,7 +2711,7 @@ exports[`Xing 11 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+        href="https://www.xing.com/app/user?op=share;url=;title=."
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Xing"
@@ -2719,7 +2719,7 @@ exports[`Xing 11 1`] = `
         <a
           aria-label="Share on Xing"
           className="c0"
-          href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+          href="https://www.xing.com/app/user?op=share;url=;title=."
           rel="noreferrer noopener"
           target="_blank"
           title="Share on Xing"
@@ -2928,7 +2928,7 @@ exports[`Xing 11 2`] = `
         "withComponent": [Function],
       }
     }
-    href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+    href="https://www.xing.com/app/user?op=share;url=;title=."
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -2937,7 +2937,7 @@ exports[`Xing 11 2`] = `
   >
     <styled.a
       aria-label="Share on Xing"
-      href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+      href="https://www.xing.com/app/user?op=share;url=;title=."
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Xing"
@@ -2993,7 +2993,7 @@ exports[`Xing 11 2`] = `
           }
         }
         forwardedRef={null}
-        href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+        href="https://www.xing.com/app/user?op=share;url=;title=."
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Xing"
@@ -3001,7 +3001,7 @@ exports[`Xing 11 2`] = `
         <a
           aria-label="Share on Xing"
           className="c0"
-          href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+          href="https://www.xing.com/app/user?op=share;url=;title=."
           rel="noreferrer noopener"
           target="_blank"
           title="Share on Xing"
@@ -3208,7 +3208,7 @@ exports[`Xing 12 1`] = `
         "withComponent": [Function],
       }
     }
-    href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+    href="https://www.xing.com/app/user?op=share;url=;title=."
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -3216,7 +3216,7 @@ exports[`Xing 12 1`] = `
   >
     <styled.a
       aria-label="Share on Xing"
-      href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+      href="https://www.xing.com/app/user?op=share;url=;title=."
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Xing"
@@ -3272,7 +3272,7 @@ exports[`Xing 12 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+        href="https://www.xing.com/app/user?op=share;url=;title=."
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Xing"
@@ -3280,7 +3280,7 @@ exports[`Xing 12 1`] = `
         <a
           aria-label="Share on Xing"
           className="c0"
-          href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+          href="https://www.xing.com/app/user?op=share;url=;title=."
           rel="noreferrer noopener"
           target="_blank"
           title="Share on Xing"
@@ -3460,7 +3460,7 @@ exports[`Xing 13 1`] = `
         "withComponent": [Function],
       }
     }
-    href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+    href="https://www.xing.com/app/user?op=share;url=;title=."
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -3469,7 +3469,7 @@ exports[`Xing 13 1`] = `
   >
     <styled.a
       aria-label="Share on Xing"
-      href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+      href="https://www.xing.com/app/user?op=share;url=;title=."
       rel="noreferrer noopener"
       simple={true}
       target="_blank"
@@ -3526,7 +3526,7 @@ exports[`Xing 13 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+        href="https://www.xing.com/app/user?op=share;url=;title=."
         rel="noreferrer noopener"
         simple={true}
         target="_blank"
@@ -3535,7 +3535,7 @@ exports[`Xing 13 1`] = `
         <a
           aria-label="Share on Xing"
           className="c0"
-          href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+          href="https://www.xing.com/app/user?op=share;url=;title=."
           rel="noreferrer noopener"
           target="_blank"
           title="Share on Xing"
@@ -3621,7 +3621,7 @@ exports[`Xing 14 1`] = `
         "withComponent": [Function],
       }
     }
-    href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+    href="https://www.xing.com/app/user?op=share;url=;title=."
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -3630,7 +3630,7 @@ exports[`Xing 14 1`] = `
   >
     <styled.a
       aria-label="Share on Xing"
-      href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+      href="https://www.xing.com/app/user?op=share;url=;title=."
       rel="noreferrer noopener"
       simpleReverse={true}
       target="_blank"
@@ -3687,7 +3687,7 @@ exports[`Xing 14 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+        href="https://www.xing.com/app/user?op=share;url=;title=."
         rel="noreferrer noopener"
         simpleReverse={true}
         target="_blank"
@@ -3696,7 +3696,7 @@ exports[`Xing 14 1`] = `
         <a
           aria-label="Share on Xing"
           className="c0"
-          href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+          href="https://www.xing.com/app/user?op=share;url=;title=."
           rel="noreferrer noopener"
           target="_blank"
           title="Share on Xing"
@@ -3783,7 +3783,7 @@ exports[`Xing 15 1`] = `
         "withComponent": [Function],
       }
     }
-    href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+    href="https://www.xing.com/app/user?op=share;url=;title=."
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -3793,7 +3793,7 @@ exports[`Xing 15 1`] = `
   >
     <styled.a
       aria-label="Dope ass Xing"
-      href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+      href="https://www.xing.com/app/user?op=share;url=;title=."
       rel="noreferrer noopener"
       simpleReverse={true}
       target="_blank"
@@ -3850,7 +3850,7 @@ exports[`Xing 15 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+        href="https://www.xing.com/app/user?op=share;url=;title=."
         rel="noreferrer noopener"
         simpleReverse={true}
         target="_blank"
@@ -3859,7 +3859,7 @@ exports[`Xing 15 1`] = `
         <a
           aria-label="Dope ass Xing"
           className="c0"
-          href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+          href="https://www.xing.com/app/user?op=share;url=;title=."
           rel="noreferrer noopener"
           target="_blank"
           title="Dope ass Xing"

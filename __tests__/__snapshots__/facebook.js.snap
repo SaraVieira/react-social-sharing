@@ -2782,7 +2782,7 @@ exports[`Facebook 10 1`] = `
         "withComponent": [Function],
       }
     }
-    href="https://facebook.com/sharer/sharer.php?u="
+    href="https://facebook.com/sharer/sharer.php?u=undefined"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -2791,7 +2791,7 @@ exports[`Facebook 10 1`] = `
   >
     <styled.a
       aria-label="Share on Facebook"
-      href="https://facebook.com/sharer/sharer.php?u="
+      href="https://facebook.com/sharer/sharer.php?u=undefined"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Facebook"
@@ -2847,7 +2847,7 @@ exports[`Facebook 10 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://facebook.com/sharer/sharer.php?u="
+        href="https://facebook.com/sharer/sharer.php?u=undefined"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Facebook"
@@ -2855,7 +2855,7 @@ exports[`Facebook 10 1`] = `
         <a
           aria-label="Share on Facebook"
           className="c0"
-          href="https://facebook.com/sharer/sharer.php?u="
+          href="https://facebook.com/sharer/sharer.php?u=undefined"
           rel="noreferrer noopener"
           target="_blank"
           title="Share on Facebook"
@@ -3068,7 +3068,7 @@ exports[`Facebook 11 1`] = `
       }
     }
     circle={true}
-    href="https://facebook.com/sharer/sharer.php?u="
+    href="https://facebook.com/sharer/sharer.php?u=undefined"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -3076,7 +3076,7 @@ exports[`Facebook 11 1`] = `
   >
     <styled.a
       aria-label="Share on Facebook"
-      href="https://facebook.com/sharer/sharer.php?u="
+      href="https://facebook.com/sharer/sharer.php?u=undefined"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Facebook"
@@ -3132,7 +3132,7 @@ exports[`Facebook 11 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://facebook.com/sharer/sharer.php?u="
+        href="https://facebook.com/sharer/sharer.php?u=undefined"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Facebook"
@@ -3140,7 +3140,7 @@ exports[`Facebook 11 1`] = `
         <a
           aria-label="Share on Facebook"
           className="c0"
-          href="https://facebook.com/sharer/sharer.php?u="
+          href="https://facebook.com/sharer/sharer.php?u=undefined"
           rel="noreferrer noopener"
           target="_blank"
           title="Share on Facebook"
@@ -3361,7 +3361,7 @@ exports[`Facebook 11 2`] = `
         "withComponent": [Function],
       }
     }
-    href="https://facebook.com/sharer/sharer.php?u="
+    href="https://facebook.com/sharer/sharer.php?u=undefined"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -3370,7 +3370,7 @@ exports[`Facebook 11 2`] = `
   >
     <styled.a
       aria-label="Share on Facebook"
-      href="https://facebook.com/sharer/sharer.php?u="
+      href="https://facebook.com/sharer/sharer.php?u=undefined"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Facebook"
@@ -3426,7 +3426,7 @@ exports[`Facebook 11 2`] = `
           }
         }
         forwardedRef={null}
-        href="https://facebook.com/sharer/sharer.php?u="
+        href="https://facebook.com/sharer/sharer.php?u=undefined"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Facebook"
@@ -3434,7 +3434,7 @@ exports[`Facebook 11 2`] = `
         <a
           aria-label="Share on Facebook"
           className="c0"
-          href="https://facebook.com/sharer/sharer.php?u="
+          href="https://facebook.com/sharer/sharer.php?u=undefined"
           rel="noreferrer noopener"
           target="_blank"
           title="Share on Facebook"
@@ -3654,7 +3654,7 @@ exports[`Facebook 12 1`] = `
         "withComponent": [Function],
       }
     }
-    href="https://facebook.com/sharer/sharer.php?u="
+    href="https://facebook.com/sharer/sharer.php?u=undefined"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -3662,7 +3662,7 @@ exports[`Facebook 12 1`] = `
   >
     <styled.a
       aria-label="Share on Facebook"
-      href="https://facebook.com/sharer/sharer.php?u="
+      href="https://facebook.com/sharer/sharer.php?u=undefined"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Facebook"
@@ -3718,7 +3718,7 @@ exports[`Facebook 12 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://facebook.com/sharer/sharer.php?u="
+        href="https://facebook.com/sharer/sharer.php?u=undefined"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Facebook"
@@ -3726,7 +3726,7 @@ exports[`Facebook 12 1`] = `
         <a
           aria-label="Share on Facebook"
           className="c0"
-          href="https://facebook.com/sharer/sharer.php?u="
+          href="https://facebook.com/sharer/sharer.php?u=undefined"
           rel="noreferrer noopener"
           target="_blank"
           title="Share on Facebook"
@@ -3914,7 +3914,7 @@ exports[`Facebook 13 1`] = `
         "withComponent": [Function],
       }
     }
-    href="https://facebook.com/sharer/sharer.php?u="
+    href="https://facebook.com/sharer/sharer.php?u=undefined"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -3923,7 +3923,7 @@ exports[`Facebook 13 1`] = `
   >
     <styled.a
       aria-label="Share on Facebook"
-      href="https://facebook.com/sharer/sharer.php?u="
+      href="https://facebook.com/sharer/sharer.php?u=undefined"
       rel="noreferrer noopener"
       simple={true}
       target="_blank"
@@ -3980,7 +3980,7 @@ exports[`Facebook 13 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://facebook.com/sharer/sharer.php?u="
+        href="https://facebook.com/sharer/sharer.php?u=undefined"
         rel="noreferrer noopener"
         simple={true}
         target="_blank"
@@ -3989,7 +3989,7 @@ exports[`Facebook 13 1`] = `
         <a
           aria-label="Share on Facebook"
           className="c0"
-          href="https://facebook.com/sharer/sharer.php?u="
+          href="https://facebook.com/sharer/sharer.php?u=undefined"
           rel="noreferrer noopener"
           target="_blank"
           title="Share on Facebook"
@@ -4079,7 +4079,7 @@ exports[`Facebook 14 1`] = `
         "withComponent": [Function],
       }
     }
-    href="https://facebook.com/sharer/sharer.php?u="
+    href="https://facebook.com/sharer/sharer.php?u=undefined"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -4088,7 +4088,7 @@ exports[`Facebook 14 1`] = `
   >
     <styled.a
       aria-label="Share on Facebook"
-      href="https://facebook.com/sharer/sharer.php?u="
+      href="https://facebook.com/sharer/sharer.php?u=undefined"
       rel="noreferrer noopener"
       simpleReverse={true}
       target="_blank"
@@ -4145,7 +4145,7 @@ exports[`Facebook 14 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://facebook.com/sharer/sharer.php?u="
+        href="https://facebook.com/sharer/sharer.php?u=undefined"
         rel="noreferrer noopener"
         simpleReverse={true}
         target="_blank"
@@ -4154,7 +4154,7 @@ exports[`Facebook 14 1`] = `
         <a
           aria-label="Share on Facebook"
           className="c0"
-          href="https://facebook.com/sharer/sharer.php?u="
+          href="https://facebook.com/sharer/sharer.php?u=undefined"
           rel="noreferrer noopener"
           target="_blank"
           title="Share on Facebook"
@@ -4245,7 +4245,7 @@ exports[`Facebook 15 1`] = `
         "withComponent": [Function],
       }
     }
-    href="https://facebook.com/sharer/sharer.php?u="
+    href="https://facebook.com/sharer/sharer.php?u=undefined"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -4255,7 +4255,7 @@ exports[`Facebook 15 1`] = `
   >
     <styled.a
       aria-label="Dope ass Facebook"
-      href="https://facebook.com/sharer/sharer.php?u="
+      href="https://facebook.com/sharer/sharer.php?u=undefined"
       rel="noreferrer noopener"
       simpleReverse={true}
       target="_blank"
@@ -4312,7 +4312,7 @@ exports[`Facebook 15 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://facebook.com/sharer/sharer.php?u="
+        href="https://facebook.com/sharer/sharer.php?u=undefined"
         rel="noreferrer noopener"
         simpleReverse={true}
         target="_blank"
@@ -4321,7 +4321,7 @@ exports[`Facebook 15 1`] = `
         <a
           aria-label="Dope ass Facebook"
           className="c0"
-          href="https://facebook.com/sharer/sharer.php?u="
+          href="https://facebook.com/sharer/sharer.php?u=undefined"
           rel="noreferrer noopener"
           target="_blank"
           title="Dope ass Facebook"

@@ -2767,7 +2767,7 @@ exports[`Reddit 11 1`] = `
       }
     }
     circle={true}
-    href="https://reddit.com/submit/?url="
+    href="https://reddit.com/submit/?url=undefined"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -2775,7 +2775,7 @@ exports[`Reddit 11 1`] = `
   >
     <styled.a
       aria-label="Share on Reddit"
-      href="https://reddit.com/submit/?url="
+      href="https://reddit.com/submit/?url=undefined"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Reddit"
@@ -2831,7 +2831,7 @@ exports[`Reddit 11 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://reddit.com/submit/?url="
+        href="https://reddit.com/submit/?url=undefined"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Reddit"
@@ -2839,7 +2839,7 @@ exports[`Reddit 11 1`] = `
         <a
           aria-label="Share on Reddit"
           className="c0"
-          href="https://reddit.com/submit/?url="
+          href="https://reddit.com/submit/?url=undefined"
           rel="noreferrer noopener"
           target="_blank"
           title="Share on Reddit"
@@ -3075,7 +3075,7 @@ exports[`Reddit 11 2`] = `
         "withComponent": [Function],
       }
     }
-    href="https://reddit.com/submit/?url="
+    href="https://reddit.com/submit/?url=undefined"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -3084,7 +3084,7 @@ exports[`Reddit 11 2`] = `
   >
     <styled.a
       aria-label="Share on Reddit"
-      href="https://reddit.com/submit/?url="
+      href="https://reddit.com/submit/?url=undefined"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Reddit"
@@ -3140,7 +3140,7 @@ exports[`Reddit 11 2`] = `
           }
         }
         forwardedRef={null}
-        href="https://reddit.com/submit/?url="
+        href="https://reddit.com/submit/?url=undefined"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Reddit"
@@ -3148,7 +3148,7 @@ exports[`Reddit 11 2`] = `
         <a
           aria-label="Share on Reddit"
           className="c0"
-          href="https://reddit.com/submit/?url="
+          href="https://reddit.com/submit/?url=undefined"
           rel="noreferrer noopener"
           target="_blank"
           title="Share on Reddit"
@@ -3371,7 +3371,7 @@ exports[`Reddit 12 1`] = `
         "withComponent": [Function],
       }
     }
-    href="https://reddit.com/submit/?url="
+    href="https://reddit.com/submit/?url=undefined"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -3379,7 +3379,7 @@ exports[`Reddit 12 1`] = `
   >
     <styled.a
       aria-label="Share on Reddit"
-      href="https://reddit.com/submit/?url="
+      href="https://reddit.com/submit/?url=undefined"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on Reddit"
@@ -3435,7 +3435,7 @@ exports[`Reddit 12 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://reddit.com/submit/?url="
+        href="https://reddit.com/submit/?url=undefined"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on Reddit"
@@ -3443,7 +3443,7 @@ exports[`Reddit 12 1`] = `
         <a
           aria-label="Share on Reddit"
           className="c0"
-          href="https://reddit.com/submit/?url="
+          href="https://reddit.com/submit/?url=undefined"
           rel="noreferrer noopener"
           target="_blank"
           title="Share on Reddit"
@@ -3623,7 +3623,7 @@ exports[`Reddit 13 1`] = `
         "withComponent": [Function],
       }
     }
-    href="https://reddit.com/submit/?url="
+    href="https://reddit.com/submit/?url=undefined"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -3632,7 +3632,7 @@ exports[`Reddit 13 1`] = `
   >
     <styled.a
       aria-label="Share on Reddit"
-      href="https://reddit.com/submit/?url="
+      href="https://reddit.com/submit/?url=undefined"
       rel="noreferrer noopener"
       simple={true}
       target="_blank"
@@ -3689,7 +3689,7 @@ exports[`Reddit 13 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://reddit.com/submit/?url="
+        href="https://reddit.com/submit/?url=undefined"
         rel="noreferrer noopener"
         simple={true}
         target="_blank"
@@ -3698,7 +3698,7 @@ exports[`Reddit 13 1`] = `
         <a
           aria-label="Share on Reddit"
           className="c0"
-          href="https://reddit.com/submit/?url="
+          href="https://reddit.com/submit/?url=undefined"
           rel="noreferrer noopener"
           target="_blank"
           title="Share on Reddit"
@@ -3784,7 +3784,7 @@ exports[`Reddit 14 1`] = `
         "withComponent": [Function],
       }
     }
-    href="https://reddit.com/submit/?url="
+    href="https://reddit.com/submit/?url=undefined"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -3793,7 +3793,7 @@ exports[`Reddit 14 1`] = `
   >
     <styled.a
       aria-label="Share on Reddit"
-      href="https://reddit.com/submit/?url="
+      href="https://reddit.com/submit/?url=undefined"
       rel="noreferrer noopener"
       simpleReverse={true}
       target="_blank"
@@ -3850,7 +3850,7 @@ exports[`Reddit 14 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://reddit.com/submit/?url="
+        href="https://reddit.com/submit/?url=undefined"
         rel="noreferrer noopener"
         simpleReverse={true}
         target="_blank"
@@ -3859,7 +3859,7 @@ exports[`Reddit 14 1`] = `
         <a
           aria-label="Share on Reddit"
           className="c0"
-          href="https://reddit.com/submit/?url="
+          href="https://reddit.com/submit/?url=undefined"
           rel="noreferrer noopener"
           target="_blank"
           title="Share on Reddit"
@@ -3946,7 +3946,7 @@ exports[`Reddit 15 1`] = `
         "withComponent": [Function],
       }
     }
-    href="https://reddit.com/submit/?url="
+    href="https://reddit.com/submit/?url=undefined"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -3956,7 +3956,7 @@ exports[`Reddit 15 1`] = `
   >
     <styled.a
       aria-label="Dope ass Reddit"
-      href="https://reddit.com/submit/?url="
+      href="https://reddit.com/submit/?url=undefined"
       rel="noreferrer noopener"
       simpleReverse={true}
       target="_blank"
@@ -4013,7 +4013,7 @@ exports[`Reddit 15 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://reddit.com/submit/?url="
+        href="https://reddit.com/submit/?url=undefined"
         rel="noreferrer noopener"
         simpleReverse={true}
         target="_blank"
@@ -4022,7 +4022,7 @@ exports[`Reddit 15 1`] = `
         <a
           aria-label="Dope ass Reddit"
           className="c0"
-          href="https://reddit.com/submit/?url="
+          href="https://reddit.com/submit/?url=undefined"
           rel="noreferrer noopener"
           target="_blank"
           title="Dope ass Reddit"

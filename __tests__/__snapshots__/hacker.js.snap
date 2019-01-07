@@ -2659,7 +2659,7 @@ exports[`HackerNews 11 1`] = `
       }
     }
     circle={true}
-    href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+    href="https://news.ycombinator.com/submitlink?u=&t="
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -2667,7 +2667,7 @@ exports[`HackerNews 11 1`] = `
   >
     <styled.a
       aria-label="Share on HackerNews"
-      href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+      href="https://news.ycombinator.com/submitlink?u=&t="
       rel="noreferrer noopener"
       target="_blank"
       title="Share on HackerNews"
@@ -2723,7 +2723,7 @@ exports[`HackerNews 11 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+        href="https://news.ycombinator.com/submitlink?u=&t="
         rel="noreferrer noopener"
         target="_blank"
         title="Share on HackerNews"
@@ -2731,7 +2731,7 @@ exports[`HackerNews 11 1`] = `
         <a
           aria-label="Share on HackerNews"
           className="c0"
-          href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+          href="https://news.ycombinator.com/submitlink?u=&t="
           rel="noreferrer noopener"
           target="_blank"
           title="Share on HackerNews"
@@ -2942,7 +2942,7 @@ exports[`HackerNews 11 2`] = `
         "withComponent": [Function],
       }
     }
-    href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+    href="https://news.ycombinator.com/submitlink?u=&t="
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -2951,7 +2951,7 @@ exports[`HackerNews 11 2`] = `
   >
     <styled.a
       aria-label="Share on HackerNews"
-      href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+      href="https://news.ycombinator.com/submitlink?u=&t="
       rel="noreferrer noopener"
       target="_blank"
       title="Share on HackerNews"
@@ -3007,7 +3007,7 @@ exports[`HackerNews 11 2`] = `
           }
         }
         forwardedRef={null}
-        href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+        href="https://news.ycombinator.com/submitlink?u=&t="
         rel="noreferrer noopener"
         target="_blank"
         title="Share on HackerNews"
@@ -3015,7 +3015,7 @@ exports[`HackerNews 11 2`] = `
         <a
           aria-label="Share on HackerNews"
           className="c0"
-          href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+          href="https://news.ycombinator.com/submitlink?u=&t="
           rel="noreferrer noopener"
           target="_blank"
           title="Share on HackerNews"
@@ -3223,7 +3223,7 @@ exports[`HackerNews 12 1`] = `
         "withComponent": [Function],
       }
     }
-    href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+    href="https://news.ycombinator.com/submitlink?u=&t="
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -3231,7 +3231,7 @@ exports[`HackerNews 12 1`] = `
   >
     <styled.a
       aria-label="Share on HackerNews"
-      href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+      href="https://news.ycombinator.com/submitlink?u=&t="
       rel="noreferrer noopener"
       target="_blank"
       title="Share on HackerNews"
@@ -3287,7 +3287,7 @@ exports[`HackerNews 12 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+        href="https://news.ycombinator.com/submitlink?u=&t="
         rel="noreferrer noopener"
         target="_blank"
         title="Share on HackerNews"
@@ -3295,7 +3295,7 @@ exports[`HackerNews 12 1`] = `
         <a
           aria-label="Share on HackerNews"
           className="c0"
-          href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+          href="https://news.ycombinator.com/submitlink?u=&t="
           rel="noreferrer noopener"
           target="_blank"
           title="Share on HackerNews"
@@ -3476,7 +3476,7 @@ exports[`HackerNews 13 1`] = `
         "withComponent": [Function],
       }
     }
-    href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+    href="https://news.ycombinator.com/submitlink?u=&t="
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -3485,7 +3485,7 @@ exports[`HackerNews 13 1`] = `
   >
     <styled.a
       aria-label="Share on HackerNews"
-      href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+      href="https://news.ycombinator.com/submitlink?u=&t="
       rel="noreferrer noopener"
       simple={true}
       target="_blank"
@@ -3542,7 +3542,7 @@ exports[`HackerNews 13 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+        href="https://news.ycombinator.com/submitlink?u=&t="
         rel="noreferrer noopener"
         simple={true}
         target="_blank"
@@ -3551,7 +3551,7 @@ exports[`HackerNews 13 1`] = `
         <a
           aria-label="Share on HackerNews"
           className="c0"
-          href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+          href="https://news.ycombinator.com/submitlink?u=&t="
           rel="noreferrer noopener"
           target="_blank"
           title="Share on HackerNews"
@@ -3638,7 +3638,7 @@ exports[`HackerNews 14 1`] = `
         "withComponent": [Function],
       }
     }
-    href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+    href="https://news.ycombinator.com/submitlink?u=&t="
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -3647,7 +3647,7 @@ exports[`HackerNews 14 1`] = `
   >
     <styled.a
       aria-label="Share on HackerNews"
-      href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+      href="https://news.ycombinator.com/submitlink?u=&t="
       rel="noreferrer noopener"
       simpleReverse={true}
       target="_blank"
@@ -3704,7 +3704,7 @@ exports[`HackerNews 14 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+        href="https://news.ycombinator.com/submitlink?u=&t="
         rel="noreferrer noopener"
         simpleReverse={true}
         target="_blank"
@@ -3713,7 +3713,7 @@ exports[`HackerNews 14 1`] = `
         <a
           aria-label="Share on HackerNews"
           className="c0"
-          href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+          href="https://news.ycombinator.com/submitlink?u=&t="
           rel="noreferrer noopener"
           target="_blank"
           title="Share on HackerNews"
@@ -3801,7 +3801,7 @@ exports[`HackerNews 15 1`] = `
         "withComponent": [Function],
       }
     }
-    href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+    href="https://news.ycombinator.com/submitlink?u=&t="
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -3811,7 +3811,7 @@ exports[`HackerNews 15 1`] = `
   >
     <styled.a
       aria-label="Dope ass HackerNews"
-      href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+      href="https://news.ycombinator.com/submitlink?u=&t="
       rel="noreferrer noopener"
       simpleReverse={true}
       target="_blank"
@@ -3868,7 +3868,7 @@ exports[`HackerNews 15 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+        href="https://news.ycombinator.com/submitlink?u=&t="
         rel="noreferrer noopener"
         simpleReverse={true}
         target="_blank"
@@ -3877,7 +3877,7 @@ exports[`HackerNews 15 1`] = `
         <a
           aria-label="Dope ass HackerNews"
           className="c0"
-          href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+          href="https://news.ycombinator.com/submitlink?u=&t="
           rel="noreferrer noopener"
           target="_blank"
           title="Dope ass HackerNews"
