@@ -20,11 +20,11 @@ const Email = styled(SharingButton)`
   }
 `
 
-export default ({ link, message, ...props }) => (
+export default ({ link, subject, body, ...props }) => (
   <ButtonFactory
     {...props}
     name="E-mail"
-    href={links.mail(link, message)}
+    href={links.mail(link, subject, body)}
     target="_self"
     buttonComponent={Email}
     iconFill={EmailIconFill}

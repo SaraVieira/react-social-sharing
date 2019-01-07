@@ -35,10 +35,10 @@ export default {
     `https://www.xing.com/app/user?op=share;url=${encodeURIComponent(
       link || ''
     )};title=${encodeURIComponent(message)}.`,
-  mail: (link, message) =>
+  mail: (link, subject, body) =>
     `mailto:?subject=${encodeURIComponent(
-      message || ''
-    )}&body=${encodeURIComponent(link || '')}`,
+      subject || ''
+    )}&body=${encodeURIComponent(body || link || '')}`,
   pinterest: (link, message) =>
     `https://pinterest.com/pin/create/button/?url=${encodeURIComponent(
       link || ''

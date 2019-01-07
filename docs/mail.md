@@ -6,6 +6,8 @@ import { Mail } from 'react-social-sharing'
 
 # Use
 
+You can change the subject by the `subject` prop and the body with the new `body` prop
+
 ```react
 showSource: true
 ---
@@ -27,37 +29,37 @@ showSource: true
 ```react
 showSource: true
 ---
-<Mail solidcircle big message="I am so cool" link="http://sharingbuttons.io"/>
+<Mail solidcircle big subject="I am so cool" body="Check out http://sharingbuttons.io"/>
 ```
 
 ```react
 showSource: true
 ---
-<Mail solidcircle medium message="I am so cool" link="http://sharingbuttons.io"/>
+<Mail solidcircle medium subject="I am so cool" link="http://sharingbuttons.io"/>
 ```
 
 ```react
 showSource: true
 ---
-<Mail solidcircle small message="I am so cool" link="http://sharingbuttons.io"/>
+<Mail solidcircle small subject="I am so cool" link="http://sharingbuttons.io"/>
 ```
 
 ```react
 showSource: true
 ---
-<Mail solid big message="I am so cool" link="http://sharingbuttons.io"/>
+<Mail solid big subject="I am so cool" link="http://sharingbuttons.io"/>
 ```
 
 ```react
 showSource: true
 ---
-<Mail solid medium message="I am so cool" link="http://sharingbuttons.io"/>
+<Mail solid medium subject="I am so cool" link="http://sharingbuttons.io"/>
 ```
 
 ```react
 showSource: true
 ---
-<Mail solid small message="I am so cool" link="http://sharingbuttons.io"/>
+<Mail solid small subject="I am so cool" link="http://sharingbuttons.io"/>
 ```
 
 ## Custom Props

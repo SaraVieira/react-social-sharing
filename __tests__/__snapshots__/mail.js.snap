@@ -53,8 +53,8 @@ exports[`Mail 1 1`] = `
 <Component
   big={true}
   link="http://sharingbuttons.io"
-  message="I am so cool"
   solidcircle={true}
+  subject="I am so cool"
 >
   <ButtonFactory
     big={true}
@@ -343,8 +343,8 @@ exports[`Mail 2 1`] = `
 <Component
   link="http://sharingbuttons.io"
   medium={true}
-  message="I am so cool"
   solidcircle={true}
+  subject="I am so cool"
 >
   <ButtonFactory
     buttonComponent={
@@ -632,9 +632,9 @@ exports[`Mail 3 1`] = `
 
 <Component
   link="http://sharingbuttons.io"
-  message="I am so cool"
   small={true}
   solidcircle={true}
+  subject="I am so cool"
 >
   <ButtonFactory
     buttonComponent={
@@ -921,7 +921,7 @@ exports[`Mail 4 1`] = `
   big={true}
   circle={true}
   link="http://sharingbuttons.io"
-  message="I am so cool"
+  subject="I am so cool"
 >
   <ButtonFactory
     big={true}
@@ -1206,7 +1206,7 @@ exports[`Mail 5 1`] = `
   circle={true}
   link="http://sharingbuttons.io"
   medium={true}
-  message="I am so cool"
+  subject="I am so cool"
 >
   <ButtonFactory
     buttonComponent={
@@ -1490,8 +1490,8 @@ exports[`Mail 6 1`] = `
 <Component
   circle={true}
   link="http://sharingbuttons.io"
-  message="I am so cool"
   small={true}
+  subject="I am so cool"
 >
   <ButtonFactory
     buttonComponent={
@@ -1777,8 +1777,8 @@ exports[`Mail 7 1`] = `
 <Component
   big={true}
   link="http://sharingbuttons.io"
-  message="I am so cool"
   solid={true}
+  subject="I am so cool"
 >
   <ButtonFactory
     big={true}
@@ -2061,8 +2061,8 @@ exports[`Mail 8 1`] = `
 <Component
   link="http://sharingbuttons.io"
   medium={true}
-  message="I am so cool"
   solid={true}
+  subject="I am so cool"
 >
   <ButtonFactory
     buttonComponent={
@@ -2343,10 +2343,10 @@ exports[`Mail 9 1`] = `
 }
 
 <Component
-  link="http://sharingbuttons.io"
-  message="I am so cool"
+  body="http://sharingbuttons.io"
   small={true}
   solid={true}
+  subject="I am so cool"
 >
   <ButtonFactory
     buttonComponent={

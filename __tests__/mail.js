@@ -8,7 +8,7 @@ describe('Mail', function() {
       <Mail
         solidcircle
         big
-        message="I am so cool"
+        subject="I am so cool"
         link="http://sharingbuttons.io"
       />
     )
@@ -20,7 +20,7 @@ describe('Mail', function() {
       <Mail
         solidcircle
         medium
-        message="I am so cool"
+        subject="I am so cool"
         link="http://sharingbuttons.io"
       />
     )
@@ -31,7 +31,7 @@ describe('Mail', function() {
       <Mail
         solidcircle
         small
-        message="I am so cool"
+        subject="I am so cool"
         link="http://sharingbuttons.io"
       />
     )
@@ -40,7 +40,7 @@ describe('Mail', function() {
 
   test('4', () => {
     const wrapper = mount(
-      <Mail circle big message="I am so cool" link="http://sharingbuttons.io" />
+      <Mail circle big subject="I am so cool" link="http://sharingbuttons.io" />
     )
     expect(wrapper).toMatchSnapshot()
   })
@@ -49,7 +49,7 @@ describe('Mail', function() {
       <Mail
         circle
         medium
-        message="I am so cool"
+        subject="I am so cool"
         link="http://sharingbuttons.io"
       />
     )
@@ -61,7 +61,7 @@ describe('Mail', function() {
       <Mail
         circle
         small
-        message="I am so cool"
+        subject="I am so cool"
         link="http://sharingbuttons.io"
       />
     )
@@ -69,7 +69,7 @@ describe('Mail', function() {
   })
   test('7', () => {
     const wrapper = mount(
-      <Mail solid big message="I am so cool" link="http://sharingbuttons.io" />
+      <Mail solid big subject="I am so cool" link="http://sharingbuttons.io" />
     )
     expect(wrapper).toMatchSnapshot()
   })
@@ -79,7 +79,7 @@ describe('Mail', function() {
       <Mail
         solid
         medium
-        message="I am so cool"
+        subject="I am so cool"
         link="http://sharingbuttons.io"
       />
     )
@@ -91,8 +91,8 @@ describe('Mail', function() {
       <Mail
         solid
         small
-        message="I am so cool"
-        link="http://sharingbuttons.io"
+        subject="I am so cool"
+        body="http://sharingbuttons.io"
       />
     )
     expect(wrapper).toMatchSnapshot()
@@ -119,7 +119,7 @@ describe('Mail', function() {
   })
   test('ampersands escaping', () => {
     const wrapper = mount(
-      <Mail message="I am so cool" link="http://sharingbuttons.io" />
+      <Mail subject="I am so cool" link="http://sharingbuttons.io" />
     )
     expect(wrapper.html()).toContain(
       'mailto:?subject=I%20am%20so%20cool&amp;body=http%3A%2F%2Fsharingbuttons.io'
