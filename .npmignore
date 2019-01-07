@@ -3,5 +3,7 @@ dist/
 tests/
 src/
 docs/
+coverage/
+__tests__/
 .*
 
