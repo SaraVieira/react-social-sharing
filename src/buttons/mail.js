@@ -25,6 +25,7 @@ export default ({ link, message, ...props }) => (
     {...props}
     name="E-mail"
     href={links.mail(link, message)}
+    target="_self"
     buttonComponent={Email}
     iconFill={EmailIconFill}
     iconCircle={EmailIconCircle}

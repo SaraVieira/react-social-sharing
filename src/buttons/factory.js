@@ -18,13 +18,14 @@ const ButtonFactory = ({
   name,
   ariaName,
   href,
+  target = '_blank',
   ...props
 }) => (
   <Link
     href={href}
     simple={simple}
     simpleReverse={simpleReverse}
-    target="_blank"
+    target={target}
     rel="noreferrer noopener"
     aria-label={`Share on ${ariaName || name}`}
     title={`Share on ${ariaName || name}`}
