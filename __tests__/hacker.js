@@ -127,4 +127,10 @@ describe('HackerNews', function() {
     const wrapper = mount(<HackerNews simpleReverse />)
     expect(wrapper).toMatchSnapshot()
   })
+  test('15', () => {
+    const wrapper = mount(
+      <HackerNews simpleReverse label={name => `Dope ass ${name}`} />
+    )
+    expect(wrapper).toMatchSnapshot()
+  })
 })

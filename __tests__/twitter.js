@@ -127,4 +127,10 @@ describe('Twitter', function() {
     const wrapper = mount(<Twitter simpleReverse />)
     expect(wrapper).toMatchSnapshot()
   })
+  test('15', () => {
+    const wrapper = mount(
+      <Twitter simpleReverse label={name => `Dope ass ${name}`} />
+    )
+    expect(wrapper).toMatchSnapshot()
+  })
 })

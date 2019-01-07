@@ -132,4 +132,10 @@ describe('Facebook', function() {
     const wrapper = mount(<Facebook simpleReverse />)
     expect(wrapper).toMatchSnapshot()
   })
+  test('15', () => {
+    const wrapper = mount(
+      <Facebook simpleReverse label={name => `Dope ass ${name}`} />
+    )
+    expect(wrapper).toMatchSnapshot()
+  })
 })

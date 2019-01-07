@@ -3735,3 +3735,167 @@ exports[`HackerNews 14 1`] = `
   </ButtonFactory>
 </Component>
 `;
+
+exports[`HackerNews 15 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c0 svg {
+  stroke: #fff;
+  fill: none;
+}
+
+<Component
+  label={[Function]}
+  simpleReverse={true}
+>
+  <ButtonFactory
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-VigVT",
+          "isStatic": true,
+          "lastClassName": "bgFikP",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #ff6600;
+  border-color: #ff6600;
+
+  &:hover,
+  &:active {
+    background-color: #fb6200;
+    border-color: #fb6200;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-VigVT",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    label={[Function]}
+    name="HackerNews"
+    simpleReverse={true}
+  >
+    <styled.a
+      aria-label="Dope ass HackerNews"
+      href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+      rel="noreferrer noopener"
+      simpleReverse={true}
+      target="_blank"
+      title="Dope ass HackerNews"
+    >
+      <StyledComponent
+        aria-label="Dope ass HackerNews"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+        rel="noreferrer noopener"
+        simpleReverse={true}
+        target="_blank"
+        title="Dope ass HackerNews"
+      >
+        <a
+          aria-label="Dope ass HackerNews"
+          className="c0"
+          href="https://news.ycombinator.com/submitlink?u=&t=undefined"
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Dope ass HackerNews"
+        >
+          <HackerIconFill>
+            <svg
+              viewBox="0 0 140 140"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M60.94 82.314L17 0h20.08l25.85 52.093c.397.927.86 1.888 1.39 2.883.53.994.995 2.02 1.393 3.08.265.4.463.764.596 1.095.13.334.262.63.395.898.662 1.325 1.26 2.618 1.79 3.877.53 1.26.993 2.42 1.39 3.48 1.06-2.254 2.22-4.673 3.48-7.258 1.26-2.585 2.552-5.27 3.877-8.052L103.49 0h18.69L77.84 83.308v53.087h-16.9v-54.08z"
+                fillRule="evenodd"
+              />
+            </svg>
+          </HackerIconFill>
+        </a>
+      </StyledComponent>
+    </styled.a>
+  </ButtonFactory>
+</Component>
+`;

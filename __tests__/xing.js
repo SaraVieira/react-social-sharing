@@ -117,4 +117,10 @@ describe('Xing', function() {
     const wrapper = mount(<Xing simpleReverse />)
     expect(wrapper).toMatchSnapshot()
   })
+  test('15', () => {
+    const wrapper = mount(
+      <Xing simpleReverse label={name => `Dope ass ${name}`} />
+    )
+    expect(wrapper).toMatchSnapshot()
+  })
 })

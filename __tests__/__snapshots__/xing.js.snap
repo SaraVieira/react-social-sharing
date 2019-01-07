@@ -3717,3 +3717,166 @@ exports[`Xing 14 1`] = `
   </ButtonFactory>
 </Component>
 `;
+
+exports[`Xing 15 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c0 svg {
+  stroke: #fff;
+  fill: none;
+}
+
+<Component
+  label={[Function]}
+  simpleReverse={true}
+>
+  <ButtonFactory
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-gZMcBi",
+          "isStatic": true,
+          "lastClassName": "FVSUz",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #1a7576;
+  border-color: #1a7576;
+
+  &:hover,
+  &:active {
+    background-color: #114c4c;
+    border-color: #114c4c;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-gZMcBi",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    label={[Function]}
+    name="Xing"
+    simpleReverse={true}
+  >
+    <styled.a
+      aria-label="Dope ass Xing"
+      href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+      rel="noreferrer noopener"
+      simpleReverse={true}
+      target="_blank"
+      title="Dope ass Xing"
+    >
+      <StyledComponent
+        aria-label="Dope ass Xing"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+        rel="noreferrer noopener"
+        simpleReverse={true}
+        target="_blank"
+        title="Dope ass Xing"
+      >
+        <a
+          aria-label="Dope ass Xing"
+          className="c0"
+          href="https://www.xing.com/app/user?op=share;url=;title=undefined."
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Dope ass Xing"
+        >
+          <XingIconFill>
+            <svg
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M10.2 9.7l-3-5.4C7.2 4 7 4 6.8 4h-5c-.3 0-.4 0-.5.2v.5L4 10 .4 16v.5c0 .2.2.3.4.3h5c.3 0 .4 0 .5-.2l4-6.6v-.5zM24 .2l-.5-.2H18s-.2 0-.3.3l-8 14v.4l5.2 9c0 .2 0 .3.3.3h5.4s.3 0 .4-.2c.2-.2.2-.4 0-.5l-5-8.8L24 .7V.2z"
+              />
+            </svg>
+          </XingIconFill>
+        </a>
+      </StyledComponent>
+    </styled.a>
+  </ButtonFactory>
+</Component>
+`;

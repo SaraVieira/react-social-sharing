@@ -102,4 +102,10 @@ describe('VK', function() {
     const wrapper = mount(<VK simpleReverse />)
     expect(wrapper).toMatchSnapshot()
   })
+  test('15', () => {
+    const wrapper = mount(
+      <VK simpleReverse label={name => `Dope ass ${name}`} />
+    )
+    expect(wrapper).toMatchSnapshot()
+  })
 })

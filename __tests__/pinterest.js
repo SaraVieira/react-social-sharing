@@ -127,4 +127,10 @@ describe('Pinterest', function() {
     const wrapper = mount(<Pinterest simpleReverse />)
     expect(wrapper).toMatchSnapshot()
   })
+  test('15', () => {
+    const wrapper = mount(
+      <Pinterest simpleReverse label={name => `Dope ass ${name}`} />
+    )
+    expect(wrapper).toMatchSnapshot()
+  })
 })

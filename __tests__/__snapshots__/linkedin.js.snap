@@ -3761,3 +3761,166 @@ exports[`Linkedin 14 1`] = `
   </ButtonFactory>
 </Component>
 `;
+
+exports[`Linkedin 15 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c0 svg {
+  stroke: #fff;
+  fill: none;
+}
+
+<Component
+  label={[Function]}
+  simpleReverse={true}
+>
+  <ButtonFactory
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-dnqmqq",
+          "isStatic": true,
+          "lastClassName": "dWbQzG",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #0077b5;
+  border-color: #0077b5;
+
+  &:hover,
+  &:active {
+    background-color: #046293;
+    border-color: #046293;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-dnqmqq",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    label={[Function]}
+    name="LinkedIn"
+    simpleReverse={true}
+  >
+    <styled.a
+      aria-label="Dope ass LinkedIn"
+      href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
+      rel="noreferrer noopener"
+      simpleReverse={true}
+      target="_blank"
+      title="Dope ass LinkedIn"
+    >
+      <StyledComponent
+        aria-label="Dope ass LinkedIn"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
+        rel="noreferrer noopener"
+        simpleReverse={true}
+        target="_blank"
+        title="Dope ass LinkedIn"
+      >
+        <a
+          aria-label="Dope ass LinkedIn"
+          className="c0"
+          href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Dope ass LinkedIn"
+        >
+          <LinkedinIconFill>
+            <svg
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M6.5 21.5h-5v-13h5v13zM4 6.5C2.5 6.5 1.5 5.3 1.5 4s1-2.4 2.5-2.4c1.6 0 2.5 1 2.6 2.5 0 1.4-1 2.5-2.6 2.5zm11.5 6c-1 0-2 1-2 2v7h-5v-13h5V10s1.6-1.5 4-1.5c3 0 5 2.2 5 6.3v6.7h-5v-7c0-1-1-2-2-2z"
+              />
+            </svg>
+          </LinkedinIconFill>
+        </a>
+      </StyledComponent>
+    </styled.a>
+  </ButtonFactory>
+</Component>
+`;

@@ -127,4 +127,10 @@ describe('Whatsapp', function() {
     const wrapper = mount(<Whatsapp simpleReverse />)
     expect(wrapper).toMatchSnapshot()
   })
+  test('15', () => {
+    const wrapper = mount(
+      <Whatsapp simpleReverse label={name => `Dope ass ${name}`} />
+    )
+    expect(wrapper).toMatchSnapshot()
+  })
 })

@@ -3752,3 +3752,166 @@ exports[`Telegram 14 1`] = `
   </ButtonFactory>
 </Component>
 `;
+
+exports[`Telegram 15 1`] = `
+.c0 {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+}
+
+.c0 svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: top;
+}
+
+.c0 svg:not(:only-child) {
+  margin-right: 0.4em;
+}
+
+.c0 svg {
+  stroke: #fff;
+  fill: none;
+}
+
+<Component
+  label={[Function]}
+  simpleReverse={true}
+>
+  <ButtonFactory
+    buttonComponent={
+      Object {
+        "$$typeof": Symbol(react.forward_ref),
+        "attrs": Array [],
+        "componentStyle": ComponentStyle {
+          "componentId": "sc-fjdhpX",
+          "isStatic": true,
+          "lastClassName": "gTPjFA",
+          "rules": Array [
+            "
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 0.5em 0.75em;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+",
+            "
+  background-color: #54a9eb;
+  border-color: #54a9eb;
+
+  &:hover,
+  &:active {
+    background-color: #4b97d1;
+    border-color: #4b97d1;
+  }
+",
+          ],
+        },
+        "displayName": "Styled(styled.div)",
+        "render": [Function],
+        "styledComponentId": "sc-fjdhpX",
+        "target": "div",
+        "toString": [Function],
+        "warnTooManyClasses": [Function],
+        "withComponent": [Function],
+      }
+    }
+    href="https://telegram.me/share/url?text=&url="
+    iconCircle={[Function]}
+    iconCircleSolid={[Function]}
+    iconFill={[Function]}
+    label={[Function]}
+    name="Telegram"
+    simpleReverse={true}
+  >
+    <styled.a
+      aria-label="Dope ass Telegram"
+      href="https://telegram.me/share/url?text=&url="
+      rel="noreferrer noopener"
+      simpleReverse={true}
+      target="_blank"
+      title="Dope ass Telegram"
+    >
+      <StyledComponent
+        aria-label="Dope ass Telegram"
+        forwardedClass={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "attrs": Array [],
+            "componentStyle": ComponentStyle {
+              "componentId": "sc-bwzfXH",
+              "isStatic": false,
+              "lastClassName": "c0",
+              "rules": Array [
+                "
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5em;
+  display: inline-block;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+
+    &:not(:only-child) {
+      margin-right: 0.4em;
+    }
+  }
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+
+  ",
+                [Function],
+                ";
+",
+              ],
+            },
+            "displayName": "styled.a",
+            "render": [Function],
+            "styledComponentId": "sc-bwzfXH",
+            "target": "a",
+            "toString": [Function],
+            "warnTooManyClasses": [Function],
+            "withComponent": [Function],
+          }
+        }
+        forwardedRef={null}
+        href="https://telegram.me/share/url?text=&url="
+        rel="noreferrer noopener"
+        simpleReverse={true}
+        target="_blank"
+        title="Dope ass Telegram"
+      >
+        <a
+          aria-label="Dope ass Telegram"
+          className="c0"
+          href="https://telegram.me/share/url?text=&url="
+          rel="noreferrer noopener"
+          target="_blank"
+          title="Dope ass Telegram"
+        >
+          <TelegramIconFill>
+            <svg
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M.707 8.475C.275 8.64 0 9.508 0 9.508s.284.867.718 1.03l5.09 1.897 1.986 6.38a1.102 1.102 0 0 0 1.75.527l2.96-2.41a.405.405 0 0 1 .494-.013l5.34 3.87a1.1 1.1 0 0 0 1.046.135 1.1 1.1 0 0 0 .682-.803l3.91-18.795A1.102 1.102 0 0 0 22.5.075L.706 8.475z"
+              />
+            </svg>
+          </TelegramIconFill>
+        </a>
+      </StyledComponent>
+    </styled.a>
+  </ButtonFactory>
+</Component>
+`;

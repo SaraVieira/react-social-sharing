@@ -127,4 +127,10 @@ describe('Tumblr', function() {
     const wrapper = mount(<Tumblr simpleReverse />)
     expect(wrapper).toMatchSnapshot()
   })
+  test('15', () => {
+    const wrapper = mount(
+      <Tumblr simpleReverse label={name => `Dope ass ${name}`} />
+    )
+    expect(wrapper).toMatchSnapshot()
+  })
 })

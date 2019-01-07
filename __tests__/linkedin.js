@@ -127,4 +127,10 @@ describe('Linkedin', function() {
     const wrapper = mount(<Linkedin simpleReverse />)
     expect(wrapper).toMatchSnapshot()
   })
+  test('15', () => {
+    const wrapper = mount(
+      <Linkedin simpleReverse label={name => `Dope ass ${name}`} />
+    )
+    expect(wrapper).toMatchSnapshot()
+  })
 })

@@ -125,4 +125,10 @@ describe('Mail', function() {
       'mailto:?subject=I%20am%20so%20cool&amp;body=http%3A%2F%2Fsharingbuttons.io'
     )
   })
+  test('15', () => {
+    const wrapper = mount(
+      <Mail simpleReverse label={name => `Dope ass ${name}`} />
+    )
+    expect(wrapper).toMatchSnapshot()
+  })
 })
