@@ -14,7 +14,7 @@ export default {
   reddit: (link: '') =>
     `https://reddit.com/submit/?url=${encodeURIComponent(link)}`,
   whatsapp: (link = '', message = '') =>
-    `whatsapp://send?text=${encodeURIComponent(message)}%20${encodeURIComponent(
+    `https://api.whatsapp.com/send?text=${encodeURIComponent(message)}%20${encodeURIComponent(
       link
     )}`,
   telegram: (link = '', message = '') =>
