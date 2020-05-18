@@ -4,7 +4,7 @@ import ButtonFactory from './factory'
 import {
   RedditIconFill,
   RedditIconCircle,
-  RedditIconCircleSolid
+  RedditIconCircleSolid,
 } from '../svg/reddit.js'
 import { SharingButton } from '../common'
 import links from '../consts'
@@ -24,7 +24,7 @@ export default ({ link, ...props }) => (
   <ButtonFactory
     {...props}
     name="Reddit"
-    href={links.reddit(link)}
+    href={links.reddit(link, message)}
     buttonComponent={Reddit}
     iconFill={RedditIconFill}
     iconCircle={RedditIconCircle}

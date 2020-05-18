@@ -11,12 +11,14 @@ export default {
     `http://tumblr.com/widgets/share/tool?canonicalUrl=${encodeURIComponent(
       link
     )}`,
-  reddit: (link: '') =>
-    `https://reddit.com/submit/?url=${encodeURIComponent(link)}`,
-  whatsapp: (link = '', message = '') =>
-    `https://api.whatsapp.com/send?text=${encodeURIComponent(message)}%20${encodeURIComponent(
+  reddit: (link: '', message = '') =>
+    `https://reddit.com/submit/?url=${encodeURIComponent(
       link
-    )}`,
+    )}&title=${encodeURIComponent(message)}`,
+  whatsapp: (link = '', message = '') =>
+    `https://api.whatsapp.com/send?text=${encodeURIComponent(
+      message
+    )}%20${encodeURIComponent(link)}`,
   telegram: (link = '', message = '') =>
     `https://telegram.me/share/url?text=${encodeURIComponent(
       message
@@ -48,5 +50,5 @@ export default {
       link
     )}&title=${encodeURIComponent(message)}&summary=${encodeURIComponent(
       message
-    )}&source=${encodeURIComponent(link)}`
+    )}&source=${encodeURIComponent(link)}`,
 }
