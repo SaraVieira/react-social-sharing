@@ -20,10 +20,10 @@ const Linkedin = styled(SharingButton)`
   }
 `
 
-export default ({ link, message, ...props }) => (
+export default ({ link, name, message, ...props }) => (
   <ButtonFactory
     {...props}
-    name="LinkedIn"
+    name={name || 'LinkedIn'}
     href={links.linkedin(link, message)}
     buttonComponent={Linkedin}
     iconFill={LinkedinIconFill}

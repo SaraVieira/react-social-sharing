@@ -16,10 +16,10 @@ const Twitter = styled(SharingButton)`
   }
 `
 
-export default ({ link, message, ...props }) => (
+export default ({ link, name, message, ...props }) => (
   <ButtonFactory
     {...props}
-    name="Twitter"
+    name={name || 'Twitter'}
     href={links.twitter(link, message)}
     buttonComponent={Twitter}
     iconFill={TwitterIconFill}

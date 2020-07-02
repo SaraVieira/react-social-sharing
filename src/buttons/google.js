@@ -16,11 +16,11 @@ const Google = styled(SharingButton)`
   }
 `
 
-export default ({ link, message, ...props }) => (
+export default ({ link, name, message, ...props }) => (
   <ButtonFactory
     {...props}
-    name="Google +"
-    ariaName="Google Plus"
+    name={name || 'Google +'}
+    ariaName={name || 'Google Plus'}
     href={links.google(link, message)}
     buttonComponent={Google}
     iconFill={GoogleIconFill}

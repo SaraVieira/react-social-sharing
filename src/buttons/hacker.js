@@ -20,10 +20,10 @@ const Hacker = styled(SharingButton)`
   }
 `
 
-export default ({ link, message, ...props }) => (
+export default ({ link, name, message, ...props }) => (
   <ButtonFactory
     {...props}
-    name="HackerNews"
+    name={name || 'HackerNews'}
     href={links.hacker(link, message)}
     buttonComponent={Hacker}
     iconFill={HackerIconFill}

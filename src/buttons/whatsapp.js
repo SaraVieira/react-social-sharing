@@ -20,10 +20,10 @@ const Whatsapp = styled(SharingButton)`
   }
 `
 
-export default ({ link, message, ...props }) => (
+export default ({ link, name, message, ...props }) => (
   <ButtonFactory
     {...props}
-    name="WhatsApp"
+    name={name || 'WhatsApp'}
     href={links.whatsapp(link, message)}
     buttonComponent={Whatsapp}
     iconFill={WhatsappIconFill}
