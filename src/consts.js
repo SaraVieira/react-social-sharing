@@ -46,9 +46,7 @@ export default {
       message
     )}`,
   linkedin: (link = '', message = '') =>
-    `https://www.linkedin.com/shareArticle?mini=true&url=${encodeURIComponent(
+    `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(
       link
-    )}&title=${encodeURIComponent(message)}&summary=${encodeURIComponent(
-      message
-    )}&source=${encodeURIComponent(link)}`,
+    )}`,
 }
