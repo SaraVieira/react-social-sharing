@@ -24,7 +24,7 @@ export default ({ link, name, ...props }) => (
   <ButtonFactory
     {...props}
     name={name || 'Reddit'}
-    href={links.reddit(link, message)}
+    href={links.reddit(link, props.message)}
     buttonComponent={Reddit}
     iconFill={RedditIconFill}
     iconCircle={RedditIconCircle}

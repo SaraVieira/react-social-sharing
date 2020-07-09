@@ -64,7 +64,7 @@ exports[`Linkedin 1 1`] = `
         "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "sc-dnqmqq",
-          "isStatic": true,
+          "isStatic": false,
           "lastClassName": "c1",
           "rules": Array [
             "
@@ -86,6 +86,9 @@ exports[`Linkedin 1 1`] = `
           ],
         },
         "displayName": "Styled(styled.div)",
+        "foldedComponentIds": Array [
+          "sc-bdVaJa",
+        ],
         "render": [Function],
         "styledComponentId": "sc-dnqmqq",
         "target": "div",
@@ -94,7 +97,7 @@ exports[`Linkedin 1 1`] = `
         "withComponent": [Function],
       }
     }
-    href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+    href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -103,14 +106,14 @@ exports[`Linkedin 1 1`] = `
   >
     <styled.a
       aria-label="Share on LinkedIn"
-      href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+      href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on LinkedIn"
     >
       <StyledComponent
         aria-label="Share on LinkedIn"
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -150,6 +153,7 @@ exports[`Linkedin 1 1`] = `
               ],
             },
             "displayName": "styled.a",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "sc-bwzfXH",
             "target": "a",
@@ -159,7 +163,7 @@ exports[`Linkedin 1 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+        href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on LinkedIn"
@@ -167,7 +171,7 @@ exports[`Linkedin 1 1`] = `
         <a
           aria-label="Share on LinkedIn"
           className="c0"
-          href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+          href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
           rel="noreferrer noopener"
           target="_blank"
           title="Share on LinkedIn"
@@ -176,13 +180,13 @@ exports[`Linkedin 1 1`] = `
             solidcircle={true}
           >
             <StyledComponent
-              forwardedClass={
+              forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
                   "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "sc-dnqmqq",
-                    "isStatic": true,
+                    "isStatic": false,
                     "lastClassName": "c1",
                     "rules": Array [
                       "
@@ -204,6 +208,9 @@ exports[`Linkedin 1 1`] = `
                     ],
                   },
                   "displayName": "Styled(styled.div)",
+                  "foldedComponentIds": Array [
+                    "sc-bdVaJa",
+                  ],
                   "render": [Function],
                   "styledComponentId": "sc-dnqmqq",
                   "target": "div",
@@ -224,7 +231,7 @@ exports[`Linkedin 1 1`] = `
                 >
                   <StyledComponent
                     aria-hidden="true"
-                    forwardedClass={
+                    forwardedComponent={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
                         "attrs": Array [],
@@ -246,6 +253,7 @@ exports[`Linkedin 1 1`] = `
                           ],
                         },
                         "displayName": "styled.div",
+                        "foldedComponentIds": Array [],
                         "render": [Function],
                         "styledComponentId": "sc-htpNat",
                         "target": "div",
@@ -355,7 +363,7 @@ exports[`Linkedin 2 1`] = `
         "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "sc-dnqmqq",
-          "isStatic": true,
+          "isStatic": false,
           "lastClassName": "c1",
           "rules": Array [
             "
@@ -377,6 +385,9 @@ exports[`Linkedin 2 1`] = `
           ],
         },
         "displayName": "Styled(styled.div)",
+        "foldedComponentIds": Array [
+          "sc-bdVaJa",
+        ],
         "render": [Function],
         "styledComponentId": "sc-dnqmqq",
         "target": "div",
@@ -385,7 +396,7 @@ exports[`Linkedin 2 1`] = `
         "withComponent": [Function],
       }
     }
-    href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+    href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -395,14 +406,14 @@ exports[`Linkedin 2 1`] = `
   >
     <styled.a
       aria-label="Share on LinkedIn"
-      href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+      href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on LinkedIn"
     >
       <StyledComponent
         aria-label="Share on LinkedIn"
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -442,6 +453,7 @@ exports[`Linkedin 2 1`] = `
               ],
             },
             "displayName": "styled.a",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "sc-bwzfXH",
             "target": "a",
@@ -451,7 +463,7 @@ exports[`Linkedin 2 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+        href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on LinkedIn"
@@ -459,7 +471,7 @@ exports[`Linkedin 2 1`] = `
         <a
           aria-label="Share on LinkedIn"
           className="c0"
-          href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+          href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
           rel="noreferrer noopener"
           target="_blank"
           title="Share on LinkedIn"
@@ -468,13 +480,13 @@ exports[`Linkedin 2 1`] = `
             solidcircle={true}
           >
             <StyledComponent
-              forwardedClass={
+              forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
                   "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "sc-dnqmqq",
-                    "isStatic": true,
+                    "isStatic": false,
                     "lastClassName": "c1",
                     "rules": Array [
                       "
@@ -496,6 +508,9 @@ exports[`Linkedin 2 1`] = `
                     ],
                   },
                   "displayName": "Styled(styled.div)",
+                  "foldedComponentIds": Array [
+                    "sc-bdVaJa",
+                  ],
                   "render": [Function],
                   "styledComponentId": "sc-dnqmqq",
                   "target": "div",
@@ -516,7 +531,7 @@ exports[`Linkedin 2 1`] = `
                 >
                   <StyledComponent
                     aria-hidden="true"
-                    forwardedClass={
+                    forwardedComponent={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
                         "attrs": Array [],
@@ -538,6 +553,7 @@ exports[`Linkedin 2 1`] = `
                           ],
                         },
                         "displayName": "styled.div",
+                        "foldedComponentIds": Array [],
                         "render": [Function],
                         "styledComponentId": "sc-htpNat",
                         "target": "div",
@@ -647,7 +663,7 @@ exports[`Linkedin 3 1`] = `
         "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "sc-dnqmqq",
-          "isStatic": true,
+          "isStatic": false,
           "lastClassName": "c1",
           "rules": Array [
             "
@@ -669,6 +685,9 @@ exports[`Linkedin 3 1`] = `
           ],
         },
         "displayName": "Styled(styled.div)",
+        "foldedComponentIds": Array [
+          "sc-bdVaJa",
+        ],
         "render": [Function],
         "styledComponentId": "sc-dnqmqq",
         "target": "div",
@@ -677,7 +696,7 @@ exports[`Linkedin 3 1`] = `
         "withComponent": [Function],
       }
     }
-    href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+    href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -687,14 +706,14 @@ exports[`Linkedin 3 1`] = `
   >
     <styled.a
       aria-label="Share on LinkedIn"
-      href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+      href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on LinkedIn"
     >
       <StyledComponent
         aria-label="Share on LinkedIn"
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -734,6 +753,7 @@ exports[`Linkedin 3 1`] = `
               ],
             },
             "displayName": "styled.a",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "sc-bwzfXH",
             "target": "a",
@@ -743,7 +763,7 @@ exports[`Linkedin 3 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+        href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on LinkedIn"
@@ -751,7 +771,7 @@ exports[`Linkedin 3 1`] = `
         <a
           aria-label="Share on LinkedIn"
           className="c0"
-          href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+          href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
           rel="noreferrer noopener"
           target="_blank"
           title="Share on LinkedIn"
@@ -761,13 +781,13 @@ exports[`Linkedin 3 1`] = `
             solidcircle={true}
           >
             <StyledComponent
-              forwardedClass={
+              forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
                   "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "sc-dnqmqq",
-                    "isStatic": true,
+                    "isStatic": false,
                     "lastClassName": "c1",
                     "rules": Array [
                       "
@@ -789,6 +809,9 @@ exports[`Linkedin 3 1`] = `
                     ],
                   },
                   "displayName": "Styled(styled.div)",
+                  "foldedComponentIds": Array [
+                    "sc-bdVaJa",
+                  ],
                   "render": [Function],
                   "styledComponentId": "sc-dnqmqq",
                   "target": "div",
@@ -810,7 +833,7 @@ exports[`Linkedin 3 1`] = `
                 >
                   <StyledComponent
                     aria-hidden="true"
-                    forwardedClass={
+                    forwardedComponent={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
                         "attrs": Array [],
@@ -832,6 +855,7 @@ exports[`Linkedin 3 1`] = `
                           ],
                         },
                         "displayName": "styled.div",
+                        "foldedComponentIds": Array [],
                         "render": [Function],
                         "styledComponentId": "sc-htpNat",
                         "target": "div",
@@ -937,7 +961,7 @@ exports[`Linkedin 4 1`] = `
         "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "sc-dnqmqq",
-          "isStatic": true,
+          "isStatic": false,
           "lastClassName": "c1",
           "rules": Array [
             "
@@ -959,6 +983,9 @@ exports[`Linkedin 4 1`] = `
           ],
         },
         "displayName": "Styled(styled.div)",
+        "foldedComponentIds": Array [
+          "sc-bdVaJa",
+        ],
         "render": [Function],
         "styledComponentId": "sc-dnqmqq",
         "target": "div",
@@ -968,7 +995,7 @@ exports[`Linkedin 4 1`] = `
       }
     }
     circle={true}
-    href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+    href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -976,14 +1003,14 @@ exports[`Linkedin 4 1`] = `
   >
     <styled.a
       aria-label="Share on LinkedIn"
-      href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+      href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on LinkedIn"
     >
       <StyledComponent
         aria-label="Share on LinkedIn"
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -1023,6 +1050,7 @@ exports[`Linkedin 4 1`] = `
               ],
             },
             "displayName": "styled.a",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "sc-bwzfXH",
             "target": "a",
@@ -1032,7 +1060,7 @@ exports[`Linkedin 4 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+        href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on LinkedIn"
@@ -1040,20 +1068,20 @@ exports[`Linkedin 4 1`] = `
         <a
           aria-label="Share on LinkedIn"
           className="c0"
-          href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+          href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
           rel="noreferrer noopener"
           target="_blank"
           title="Share on LinkedIn"
         >
           <Styled(styled.div)>
             <StyledComponent
-              forwardedClass={
+              forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
                   "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "sc-dnqmqq",
-                    "isStatic": true,
+                    "isStatic": false,
                     "lastClassName": "c1",
                     "rules": Array [
                       "
@@ -1075,6 +1103,9 @@ exports[`Linkedin 4 1`] = `
                     ],
                   },
                   "displayName": "Styled(styled.div)",
+                  "foldedComponentIds": Array [
+                    "sc-bdVaJa",
+                  ],
                   "render": [Function],
                   "styledComponentId": "sc-dnqmqq",
                   "target": "div",
@@ -1093,7 +1124,7 @@ exports[`Linkedin 4 1`] = `
                 >
                   <StyledComponent
                     aria-hidden="true"
-                    forwardedClass={
+                    forwardedComponent={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
                         "attrs": Array [],
@@ -1115,6 +1146,7 @@ exports[`Linkedin 4 1`] = `
                           ],
                         },
                         "displayName": "styled.div",
+                        "foldedComponentIds": Array [],
                         "render": [Function],
                         "styledComponentId": "sc-htpNat",
                         "target": "div",
@@ -1225,7 +1257,7 @@ exports[`Linkedin 5 1`] = `
         "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "sc-dnqmqq",
-          "isStatic": true,
+          "isStatic": false,
           "lastClassName": "c1",
           "rules": Array [
             "
@@ -1247,6 +1279,9 @@ exports[`Linkedin 5 1`] = `
           ],
         },
         "displayName": "Styled(styled.div)",
+        "foldedComponentIds": Array [
+          "sc-bdVaJa",
+        ],
         "render": [Function],
         "styledComponentId": "sc-dnqmqq",
         "target": "div",
@@ -1256,7 +1291,7 @@ exports[`Linkedin 5 1`] = `
       }
     }
     circle={true}
-    href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+    href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -1265,14 +1300,14 @@ exports[`Linkedin 5 1`] = `
   >
     <styled.a
       aria-label="Share on LinkedIn"
-      href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+      href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on LinkedIn"
     >
       <StyledComponent
         aria-label="Share on LinkedIn"
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -1312,6 +1347,7 @@ exports[`Linkedin 5 1`] = `
               ],
             },
             "displayName": "styled.a",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "sc-bwzfXH",
             "target": "a",
@@ -1321,7 +1357,7 @@ exports[`Linkedin 5 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+        href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on LinkedIn"
@@ -1329,20 +1365,20 @@ exports[`Linkedin 5 1`] = `
         <a
           aria-label="Share on LinkedIn"
           className="c0"
-          href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+          href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
           rel="noreferrer noopener"
           target="_blank"
           title="Share on LinkedIn"
         >
           <Styled(styled.div)>
             <StyledComponent
-              forwardedClass={
+              forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
                   "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "sc-dnqmqq",
-                    "isStatic": true,
+                    "isStatic": false,
                     "lastClassName": "c1",
                     "rules": Array [
                       "
@@ -1364,6 +1400,9 @@ exports[`Linkedin 5 1`] = `
                     ],
                   },
                   "displayName": "Styled(styled.div)",
+                  "foldedComponentIds": Array [
+                    "sc-bdVaJa",
+                  ],
                   "render": [Function],
                   "styledComponentId": "sc-dnqmqq",
                   "target": "div",
@@ -1382,7 +1421,7 @@ exports[`Linkedin 5 1`] = `
                 >
                   <StyledComponent
                     aria-hidden="true"
-                    forwardedClass={
+                    forwardedComponent={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
                         "attrs": Array [],
@@ -1404,6 +1443,7 @@ exports[`Linkedin 5 1`] = `
                           ],
                         },
                         "displayName": "styled.div",
+                        "foldedComponentIds": Array [],
                         "render": [Function],
                         "styledComponentId": "sc-htpNat",
                         "target": "div",
@@ -1514,7 +1554,7 @@ exports[`Linkedin 6 1`] = `
         "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "sc-dnqmqq",
-          "isStatic": true,
+          "isStatic": false,
           "lastClassName": "c1",
           "rules": Array [
             "
@@ -1536,6 +1576,9 @@ exports[`Linkedin 6 1`] = `
           ],
         },
         "displayName": "Styled(styled.div)",
+        "foldedComponentIds": Array [
+          "sc-bdVaJa",
+        ],
         "render": [Function],
         "styledComponentId": "sc-dnqmqq",
         "target": "div",
@@ -1545,7 +1588,7 @@ exports[`Linkedin 6 1`] = `
       }
     }
     circle={true}
-    href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+    href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -1554,14 +1597,14 @@ exports[`Linkedin 6 1`] = `
   >
     <styled.a
       aria-label="Share on LinkedIn"
-      href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+      href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on LinkedIn"
     >
       <StyledComponent
         aria-label="Share on LinkedIn"
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -1601,6 +1644,7 @@ exports[`Linkedin 6 1`] = `
               ],
             },
             "displayName": "styled.a",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "sc-bwzfXH",
             "target": "a",
@@ -1610,7 +1654,7 @@ exports[`Linkedin 6 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+        href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on LinkedIn"
@@ -1618,7 +1662,7 @@ exports[`Linkedin 6 1`] = `
         <a
           aria-label="Share on LinkedIn"
           className="c0"
-          href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+          href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
           rel="noreferrer noopener"
           target="_blank"
           title="Share on LinkedIn"
@@ -1627,13 +1671,13 @@ exports[`Linkedin 6 1`] = `
             small={true}
           >
             <StyledComponent
-              forwardedClass={
+              forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
                   "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "sc-dnqmqq",
-                    "isStatic": true,
+                    "isStatic": false,
                     "lastClassName": "c1",
                     "rules": Array [
                       "
@@ -1655,6 +1699,9 @@ exports[`Linkedin 6 1`] = `
                     ],
                   },
                   "displayName": "Styled(styled.div)",
+                  "foldedComponentIds": Array [
+                    "sc-bdVaJa",
+                  ],
                   "render": [Function],
                   "styledComponentId": "sc-dnqmqq",
                   "target": "div",
@@ -1674,7 +1721,7 @@ exports[`Linkedin 6 1`] = `
                 >
                   <StyledComponent
                     aria-hidden="true"
-                    forwardedClass={
+                    forwardedComponent={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
                         "attrs": Array [],
@@ -1696,6 +1743,7 @@ exports[`Linkedin 6 1`] = `
                           ],
                         },
                         "displayName": "styled.div",
+                        "foldedComponentIds": Array [],
                         "render": [Function],
                         "styledComponentId": "sc-htpNat",
                         "target": "div",
@@ -1806,7 +1854,7 @@ exports[`Linkedin 7 1`] = `
         "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "sc-dnqmqq",
-          "isStatic": true,
+          "isStatic": false,
           "lastClassName": "c1",
           "rules": Array [
             "
@@ -1828,6 +1876,9 @@ exports[`Linkedin 7 1`] = `
           ],
         },
         "displayName": "Styled(styled.div)",
+        "foldedComponentIds": Array [
+          "sc-bdVaJa",
+        ],
         "render": [Function],
         "styledComponentId": "sc-dnqmqq",
         "target": "div",
@@ -1836,7 +1887,7 @@ exports[`Linkedin 7 1`] = `
         "withComponent": [Function],
       }
     }
-    href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+    href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -1845,14 +1896,14 @@ exports[`Linkedin 7 1`] = `
   >
     <styled.a
       aria-label="Share on LinkedIn"
-      href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+      href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on LinkedIn"
     >
       <StyledComponent
         aria-label="Share on LinkedIn"
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -1892,6 +1943,7 @@ exports[`Linkedin 7 1`] = `
               ],
             },
             "displayName": "styled.a",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "sc-bwzfXH",
             "target": "a",
@@ -1901,7 +1953,7 @@ exports[`Linkedin 7 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+        href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on LinkedIn"
@@ -1909,20 +1961,20 @@ exports[`Linkedin 7 1`] = `
         <a
           aria-label="Share on LinkedIn"
           className="c0"
-          href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+          href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
           rel="noreferrer noopener"
           target="_blank"
           title="Share on LinkedIn"
         >
           <Styled(styled.div)>
             <StyledComponent
-              forwardedClass={
+              forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
                   "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "sc-dnqmqq",
-                    "isStatic": true,
+                    "isStatic": false,
                     "lastClassName": "c1",
                     "rules": Array [
                       "
@@ -1944,6 +1996,9 @@ exports[`Linkedin 7 1`] = `
                     ],
                   },
                   "displayName": "Styled(styled.div)",
+                  "foldedComponentIds": Array [
+                    "sc-bdVaJa",
+                  ],
                   "render": [Function],
                   "styledComponentId": "sc-dnqmqq",
                   "target": "div",
@@ -1963,7 +2018,7 @@ exports[`Linkedin 7 1`] = `
                 >
                   <StyledComponent
                     aria-hidden="true"
-                    forwardedClass={
+                    forwardedComponent={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
                         "attrs": Array [],
@@ -1985,6 +2040,7 @@ exports[`Linkedin 7 1`] = `
                           ],
                         },
                         "displayName": "styled.div",
+                        "foldedComponentIds": Array [],
                         "render": [Function],
                         "styledComponentId": "sc-htpNat",
                         "target": "div",
@@ -2088,7 +2144,7 @@ exports[`Linkedin 8 1`] = `
         "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "sc-dnqmqq",
-          "isStatic": true,
+          "isStatic": false,
           "lastClassName": "c1",
           "rules": Array [
             "
@@ -2110,6 +2166,9 @@ exports[`Linkedin 8 1`] = `
           ],
         },
         "displayName": "Styled(styled.div)",
+        "foldedComponentIds": Array [
+          "sc-bdVaJa",
+        ],
         "render": [Function],
         "styledComponentId": "sc-dnqmqq",
         "target": "div",
@@ -2118,7 +2177,7 @@ exports[`Linkedin 8 1`] = `
         "withComponent": [Function],
       }
     }
-    href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+    href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -2128,14 +2187,14 @@ exports[`Linkedin 8 1`] = `
   >
     <styled.a
       aria-label="Share on LinkedIn"
-      href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+      href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on LinkedIn"
     >
       <StyledComponent
         aria-label="Share on LinkedIn"
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -2175,6 +2234,7 @@ exports[`Linkedin 8 1`] = `
               ],
             },
             "displayName": "styled.a",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "sc-bwzfXH",
             "target": "a",
@@ -2184,7 +2244,7 @@ exports[`Linkedin 8 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+        href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on LinkedIn"
@@ -2192,20 +2252,20 @@ exports[`Linkedin 8 1`] = `
         <a
           aria-label="Share on LinkedIn"
           className="c0"
-          href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+          href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
           rel="noreferrer noopener"
           target="_blank"
           title="Share on LinkedIn"
         >
           <Styled(styled.div)>
             <StyledComponent
-              forwardedClass={
+              forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
                   "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "sc-dnqmqq",
-                    "isStatic": true,
+                    "isStatic": false,
                     "lastClassName": "c1",
                     "rules": Array [
                       "
@@ -2227,6 +2287,9 @@ exports[`Linkedin 8 1`] = `
                     ],
                   },
                   "displayName": "Styled(styled.div)",
+                  "foldedComponentIds": Array [
+                    "sc-bdVaJa",
+                  ],
                   "render": [Function],
                   "styledComponentId": "sc-dnqmqq",
                   "target": "div",
@@ -2246,7 +2309,7 @@ exports[`Linkedin 8 1`] = `
                 >
                   <StyledComponent
                     aria-hidden="true"
-                    forwardedClass={
+                    forwardedComponent={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
                         "attrs": Array [],
@@ -2268,6 +2331,7 @@ exports[`Linkedin 8 1`] = `
                           ],
                         },
                         "displayName": "styled.div",
+                        "foldedComponentIds": Array [],
                         "render": [Function],
                         "styledComponentId": "sc-htpNat",
                         "target": "div",
@@ -2371,7 +2435,7 @@ exports[`Linkedin 9 1`] = `
         "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "sc-dnqmqq",
-          "isStatic": true,
+          "isStatic": false,
           "lastClassName": "c1",
           "rules": Array [
             "
@@ -2393,6 +2457,9 @@ exports[`Linkedin 9 1`] = `
           ],
         },
         "displayName": "Styled(styled.div)",
+        "foldedComponentIds": Array [
+          "sc-bdVaJa",
+        ],
         "render": [Function],
         "styledComponentId": "sc-dnqmqq",
         "target": "div",
@@ -2401,7 +2468,7 @@ exports[`Linkedin 9 1`] = `
         "withComponent": [Function],
       }
     }
-    href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+    href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -2411,14 +2478,14 @@ exports[`Linkedin 9 1`] = `
   >
     <styled.a
       aria-label="Share on LinkedIn"
-      href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+      href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
       rel="noreferrer noopener"
       target="_blank"
       title="Share on LinkedIn"
     >
       <StyledComponent
         aria-label="Share on LinkedIn"
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -2458,6 +2525,7 @@ exports[`Linkedin 9 1`] = `
               ],
             },
             "displayName": "styled.a",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "sc-bwzfXH",
             "target": "a",
@@ -2467,7 +2535,7 @@ exports[`Linkedin 9 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+        href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
         rel="noreferrer noopener"
         target="_blank"
         title="Share on LinkedIn"
@@ -2475,7 +2543,7 @@ exports[`Linkedin 9 1`] = `
         <a
           aria-label="Share on LinkedIn"
           className="c0"
-          href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fsharingbuttons.io&title=I%20am%20so%20cool&summary=I%20am%20so%20cool&source=http%3A%2F%2Fsharingbuttons.io"
+          href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fsharingbuttons.io"
           rel="noreferrer noopener"
           target="_blank"
           title="Share on LinkedIn"
@@ -2484,13 +2552,13 @@ exports[`Linkedin 9 1`] = `
             small={true}
           >
             <StyledComponent
-              forwardedClass={
+              forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
                   "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "sc-dnqmqq",
-                    "isStatic": true,
+                    "isStatic": false,
                     "lastClassName": "c1",
                     "rules": Array [
                       "
@@ -2512,6 +2580,9 @@ exports[`Linkedin 9 1`] = `
                     ],
                   },
                   "displayName": "Styled(styled.div)",
+                  "foldedComponentIds": Array [
+                    "sc-bdVaJa",
+                  ],
                   "render": [Function],
                   "styledComponentId": "sc-dnqmqq",
                   "target": "div",
@@ -2532,7 +2603,7 @@ exports[`Linkedin 9 1`] = `
                 >
                   <StyledComponent
                     aria-hidden="true"
-                    forwardedClass={
+                    forwardedComponent={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
                         "attrs": Array [],
@@ -2554,6 +2625,7 @@ exports[`Linkedin 9 1`] = `
                           ],
                         },
                         "displayName": "styled.div",
+                        "foldedComponentIds": Array [],
                         "render": [Function],
                         "styledComponentId": "sc-htpNat",
                         "target": "div",
@@ -2649,7 +2721,7 @@ exports[`Linkedin 11 1`] = `
         "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "sc-dnqmqq",
-          "isStatic": true,
+          "isStatic": false,
           "lastClassName": "c1",
           "rules": Array [
             "
@@ -2671,6 +2743,9 @@ exports[`Linkedin 11 1`] = `
           ],
         },
         "displayName": "Styled(styled.div)",
+        "foldedComponentIds": Array [
+          "sc-bdVaJa",
+        ],
         "render": [Function],
         "styledComponentId": "sc-dnqmqq",
         "target": "div",
@@ -2680,7 +2755,7 @@ exports[`Linkedin 11 1`] = `
       }
     }
     circle={true}
-    href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
+    href="https://www.linkedin.com/sharing/share-offsite/?url="
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -2688,14 +2763,14 @@ exports[`Linkedin 11 1`] = `
   >
     <styled.a
       aria-label="Share on LinkedIn"
-      href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
+      href="https://www.linkedin.com/sharing/share-offsite/?url="
       rel="noreferrer noopener"
       target="_blank"
       title="Share on LinkedIn"
     >
       <StyledComponent
         aria-label="Share on LinkedIn"
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -2735,6 +2810,7 @@ exports[`Linkedin 11 1`] = `
               ],
             },
             "displayName": "styled.a",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "sc-bwzfXH",
             "target": "a",
@@ -2744,7 +2820,7 @@ exports[`Linkedin 11 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
+        href="https://www.linkedin.com/sharing/share-offsite/?url="
         rel="noreferrer noopener"
         target="_blank"
         title="Share on LinkedIn"
@@ -2752,20 +2828,20 @@ exports[`Linkedin 11 1`] = `
         <a
           aria-label="Share on LinkedIn"
           className="c0"
-          href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
+          href="https://www.linkedin.com/sharing/share-offsite/?url="
           rel="noreferrer noopener"
           target="_blank"
           title="Share on LinkedIn"
         >
           <Styled(styled.div)>
             <StyledComponent
-              forwardedClass={
+              forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
                   "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "sc-dnqmqq",
-                    "isStatic": true,
+                    "isStatic": false,
                     "lastClassName": "c1",
                     "rules": Array [
                       "
@@ -2787,6 +2863,9 @@ exports[`Linkedin 11 1`] = `
                     ],
                   },
                   "displayName": "Styled(styled.div)",
+                  "foldedComponentIds": Array [
+                    "sc-bdVaJa",
+                  ],
                   "render": [Function],
                   "styledComponentId": "sc-dnqmqq",
                   "target": "div",
@@ -2805,7 +2884,7 @@ exports[`Linkedin 11 1`] = `
                 >
                   <StyledComponent
                     aria-hidden="true"
-                    forwardedClass={
+                    forwardedComponent={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
                         "attrs": Array [],
@@ -2827,6 +2906,7 @@ exports[`Linkedin 11 1`] = `
                           ],
                         },
                         "displayName": "styled.div",
+                        "foldedComponentIds": Array [],
                         "render": [Function],
                         "styledComponentId": "sc-htpNat",
                         "target": "div",
@@ -2936,7 +3016,7 @@ exports[`Linkedin 11 2`] = `
         "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "sc-dnqmqq",
-          "isStatic": true,
+          "isStatic": false,
           "lastClassName": "c1",
           "rules": Array [
             "
@@ -2958,6 +3038,9 @@ exports[`Linkedin 11 2`] = `
           ],
         },
         "displayName": "Styled(styled.div)",
+        "foldedComponentIds": Array [
+          "sc-bdVaJa",
+        ],
         "render": [Function],
         "styledComponentId": "sc-dnqmqq",
         "target": "div",
@@ -2966,7 +3049,7 @@ exports[`Linkedin 11 2`] = `
         "withComponent": [Function],
       }
     }
-    href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
+    href="https://www.linkedin.com/sharing/share-offsite/?url="
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -2975,14 +3058,14 @@ exports[`Linkedin 11 2`] = `
   >
     <styled.a
       aria-label="Share on LinkedIn"
-      href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
+      href="https://www.linkedin.com/sharing/share-offsite/?url="
       rel="noreferrer noopener"
       target="_blank"
       title="Share on LinkedIn"
     >
       <StyledComponent
         aria-label="Share on LinkedIn"
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -3022,6 +3105,7 @@ exports[`Linkedin 11 2`] = `
               ],
             },
             "displayName": "styled.a",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "sc-bwzfXH",
             "target": "a",
@@ -3031,7 +3115,7 @@ exports[`Linkedin 11 2`] = `
           }
         }
         forwardedRef={null}
-        href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
+        href="https://www.linkedin.com/sharing/share-offsite/?url="
         rel="noreferrer noopener"
         target="_blank"
         title="Share on LinkedIn"
@@ -3039,7 +3123,7 @@ exports[`Linkedin 11 2`] = `
         <a
           aria-label="Share on LinkedIn"
           className="c0"
-          href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
+          href="https://www.linkedin.com/sharing/share-offsite/?url="
           rel="noreferrer noopener"
           target="_blank"
           title="Share on LinkedIn"
@@ -3048,13 +3132,13 @@ exports[`Linkedin 11 2`] = `
             solidcircle={true}
           >
             <StyledComponent
-              forwardedClass={
+              forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
                   "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "sc-dnqmqq",
-                    "isStatic": true,
+                    "isStatic": false,
                     "lastClassName": "c1",
                     "rules": Array [
                       "
@@ -3076,6 +3160,9 @@ exports[`Linkedin 11 2`] = `
                     ],
                   },
                   "displayName": "Styled(styled.div)",
+                  "foldedComponentIds": Array [
+                    "sc-bdVaJa",
+                  ],
                   "render": [Function],
                   "styledComponentId": "sc-dnqmqq",
                   "target": "div",
@@ -3096,7 +3183,7 @@ exports[`Linkedin 11 2`] = `
                 >
                   <StyledComponent
                     aria-hidden="true"
-                    forwardedClass={
+                    forwardedComponent={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
                         "attrs": Array [],
@@ -3118,6 +3205,7 @@ exports[`Linkedin 11 2`] = `
                           ],
                         },
                         "displayName": "styled.div",
+                        "foldedComponentIds": Array [],
                         "render": [Function],
                         "styledComponentId": "sc-htpNat",
                         "target": "div",
@@ -3222,7 +3310,7 @@ exports[`Linkedin 12 1`] = `
         "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "sc-dnqmqq",
-          "isStatic": true,
+          "isStatic": false,
           "lastClassName": "c1",
           "rules": Array [
             "
@@ -3244,6 +3332,9 @@ exports[`Linkedin 12 1`] = `
           ],
         },
         "displayName": "Styled(styled.div)",
+        "foldedComponentIds": Array [
+          "sc-bdVaJa",
+        ],
         "render": [Function],
         "styledComponentId": "sc-dnqmqq",
         "target": "div",
@@ -3252,7 +3343,7 @@ exports[`Linkedin 12 1`] = `
         "withComponent": [Function],
       }
     }
-    href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
+    href="https://www.linkedin.com/sharing/share-offsite/?url="
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -3260,14 +3351,14 @@ exports[`Linkedin 12 1`] = `
   >
     <styled.a
       aria-label="Share on LinkedIn"
-      href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
+      href="https://www.linkedin.com/sharing/share-offsite/?url="
       rel="noreferrer noopener"
       target="_blank"
       title="Share on LinkedIn"
     >
       <StyledComponent
         aria-label="Share on LinkedIn"
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -3307,6 +3398,7 @@ exports[`Linkedin 12 1`] = `
               ],
             },
             "displayName": "styled.a",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "sc-bwzfXH",
             "target": "a",
@@ -3316,7 +3408,7 @@ exports[`Linkedin 12 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
+        href="https://www.linkedin.com/sharing/share-offsite/?url="
         rel="noreferrer noopener"
         target="_blank"
         title="Share on LinkedIn"
@@ -3324,20 +3416,20 @@ exports[`Linkedin 12 1`] = `
         <a
           aria-label="Share on LinkedIn"
           className="c0"
-          href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
+          href="https://www.linkedin.com/sharing/share-offsite/?url="
           rel="noreferrer noopener"
           target="_blank"
           title="Share on LinkedIn"
         >
           <Styled(styled.div)>
             <StyledComponent
-              forwardedClass={
+              forwardedComponent={
                 Object {
                   "$$typeof": Symbol(react.forward_ref),
                   "attrs": Array [],
                   "componentStyle": ComponentStyle {
                     "componentId": "sc-dnqmqq",
-                    "isStatic": true,
+                    "isStatic": false,
                     "lastClassName": "c1",
                     "rules": Array [
                       "
@@ -3359,6 +3451,9 @@ exports[`Linkedin 12 1`] = `
                     ],
                   },
                   "displayName": "Styled(styled.div)",
+                  "foldedComponentIds": Array [
+                    "sc-bdVaJa",
+                  ],
                   "render": [Function],
                   "styledComponentId": "sc-dnqmqq",
                   "target": "div",
@@ -3378,7 +3473,7 @@ exports[`Linkedin 12 1`] = `
                 >
                   <StyledComponent
                     aria-hidden="true"
-                    forwardedClass={
+                    forwardedComponent={
                       Object {
                         "$$typeof": Symbol(react.forward_ref),
                         "attrs": Array [],
@@ -3400,6 +3495,7 @@ exports[`Linkedin 12 1`] = `
                           ],
                         },
                         "displayName": "styled.div",
+                        "foldedComponentIds": Array [],
                         "render": [Function],
                         "styledComponentId": "sc-htpNat",
                         "target": "div",
@@ -3474,7 +3570,7 @@ exports[`Linkedin 13 1`] = `
         "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "sc-dnqmqq",
-          "isStatic": true,
+          "isStatic": false,
           "lastClassName": "dWbQzG",
           "rules": Array [
             "
@@ -3496,6 +3592,9 @@ exports[`Linkedin 13 1`] = `
           ],
         },
         "displayName": "Styled(styled.div)",
+        "foldedComponentIds": Array [
+          "sc-bdVaJa",
+        ],
         "render": [Function],
         "styledComponentId": "sc-dnqmqq",
         "target": "div",
@@ -3504,7 +3603,7 @@ exports[`Linkedin 13 1`] = `
         "withComponent": [Function],
       }
     }
-    href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
+    href="https://www.linkedin.com/sharing/share-offsite/?url="
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -3513,7 +3612,7 @@ exports[`Linkedin 13 1`] = `
   >
     <styled.a
       aria-label="Share on LinkedIn"
-      href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
+      href="https://www.linkedin.com/sharing/share-offsite/?url="
       rel="noreferrer noopener"
       simple={true}
       target="_blank"
@@ -3521,7 +3620,7 @@ exports[`Linkedin 13 1`] = `
     >
       <StyledComponent
         aria-label="Share on LinkedIn"
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -3561,6 +3660,7 @@ exports[`Linkedin 13 1`] = `
               ],
             },
             "displayName": "styled.a",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "sc-bwzfXH",
             "target": "a",
@@ -3570,7 +3670,7 @@ exports[`Linkedin 13 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
+        href="https://www.linkedin.com/sharing/share-offsite/?url="
         rel="noreferrer noopener"
         simple={true}
         target="_blank"
@@ -3579,7 +3679,7 @@ exports[`Linkedin 13 1`] = `
         <a
           aria-label="Share on LinkedIn"
           className="c0"
-          href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
+          href="https://www.linkedin.com/sharing/share-offsite/?url="
           rel="noreferrer noopener"
           target="_blank"
           title="Share on LinkedIn"
@@ -3635,7 +3735,7 @@ exports[`Linkedin 14 1`] = `
         "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "sc-dnqmqq",
-          "isStatic": true,
+          "isStatic": false,
           "lastClassName": "dWbQzG",
           "rules": Array [
             "
@@ -3657,6 +3757,9 @@ exports[`Linkedin 14 1`] = `
           ],
         },
         "displayName": "Styled(styled.div)",
+        "foldedComponentIds": Array [
+          "sc-bdVaJa",
+        ],
         "render": [Function],
         "styledComponentId": "sc-dnqmqq",
         "target": "div",
@@ -3665,7 +3768,7 @@ exports[`Linkedin 14 1`] = `
         "withComponent": [Function],
       }
     }
-    href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
+    href="https://www.linkedin.com/sharing/share-offsite/?url="
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -3674,7 +3777,7 @@ exports[`Linkedin 14 1`] = `
   >
     <styled.a
       aria-label="Share on LinkedIn"
-      href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
+      href="https://www.linkedin.com/sharing/share-offsite/?url="
       rel="noreferrer noopener"
       simpleReverse={true}
       target="_blank"
@@ -3682,7 +3785,7 @@ exports[`Linkedin 14 1`] = `
     >
       <StyledComponent
         aria-label="Share on LinkedIn"
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -3722,6 +3825,7 @@ exports[`Linkedin 14 1`] = `
               ],
             },
             "displayName": "styled.a",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "sc-bwzfXH",
             "target": "a",
@@ -3731,7 +3835,7 @@ exports[`Linkedin 14 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
+        href="https://www.linkedin.com/sharing/share-offsite/?url="
         rel="noreferrer noopener"
         simpleReverse={true}
         target="_blank"
@@ -3740,7 +3844,7 @@ exports[`Linkedin 14 1`] = `
         <a
           aria-label="Share on LinkedIn"
           className="c0"
-          href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
+          href="https://www.linkedin.com/sharing/share-offsite/?url="
           rel="noreferrer noopener"
           target="_blank"
           title="Share on LinkedIn"
@@ -3797,7 +3901,7 @@ exports[`Linkedin 15 1`] = `
         "attrs": Array [],
         "componentStyle": ComponentStyle {
           "componentId": "sc-dnqmqq",
-          "isStatic": true,
+          "isStatic": false,
           "lastClassName": "dWbQzG",
           "rules": Array [
             "
@@ -3819,6 +3923,9 @@ exports[`Linkedin 15 1`] = `
           ],
         },
         "displayName": "Styled(styled.div)",
+        "foldedComponentIds": Array [
+          "sc-bdVaJa",
+        ],
         "render": [Function],
         "styledComponentId": "sc-dnqmqq",
         "target": "div",
@@ -3827,7 +3934,7 @@ exports[`Linkedin 15 1`] = `
         "withComponent": [Function],
       }
     }
-    href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
+    href="https://www.linkedin.com/sharing/share-offsite/?url="
     iconCircle={[Function]}
     iconCircleSolid={[Function]}
     iconFill={[Function]}
@@ -3837,7 +3944,7 @@ exports[`Linkedin 15 1`] = `
   >
     <styled.a
       aria-label="Dope ass LinkedIn"
-      href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
+      href="https://www.linkedin.com/sharing/share-offsite/?url="
       rel="noreferrer noopener"
       simpleReverse={true}
       target="_blank"
@@ -3845,7 +3952,7 @@ exports[`Linkedin 15 1`] = `
     >
       <StyledComponent
         aria-label="Dope ass LinkedIn"
-        forwardedClass={
+        forwardedComponent={
           Object {
             "$$typeof": Symbol(react.forward_ref),
             "attrs": Array [],
@@ -3885,6 +3992,7 @@ exports[`Linkedin 15 1`] = `
               ],
             },
             "displayName": "styled.a",
+            "foldedComponentIds": Array [],
             "render": [Function],
             "styledComponentId": "sc-bwzfXH",
             "target": "a",
@@ -3894,7 +4002,7 @@ exports[`Linkedin 15 1`] = `
           }
         }
         forwardedRef={null}
-        href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
+        href="https://www.linkedin.com/sharing/share-offsite/?url="
         rel="noreferrer noopener"
         simpleReverse={true}
         target="_blank"
@@ -3903,7 +4011,7 @@ exports[`Linkedin 15 1`] = `
         <a
           aria-label="Dope ass LinkedIn"
           className="c0"
-          href="https://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=&source="
+          href="https://www.linkedin.com/sharing/share-offsite/?url="
           rel="noreferrer noopener"
           target="_blank"
           title="Dope ass LinkedIn"
