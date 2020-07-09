@@ -3,15 +3,15 @@ export default {
     `https://twitter.com/intent/tweet/?text=${encodeURIComponent(
       message
     )}&url=${encodeURIComponent(link)}`,
-  facebook: (link: '') =>
+  facebook: (link = '') =>
     `https://facebook.com/sharer/sharer.php?u=${encodeURIComponent(link)}`,
-  google: (link: '') =>
+  google: (link = '') =>
     `https://plus.google.com/share?url=${encodeURIComponent(link)}`,
-  tumblr: (link: '') =>
+  tumblr: (link = '') =>
     `http://tumblr.com/widgets/share/tool?canonicalUrl=${encodeURIComponent(
       link
     )}`,
-  reddit: (link: '', message = '') =>
+  reddit: (link = '', message = '') =>
     `https://reddit.com/submit/?url=${encodeURIComponent(
       link
     )}&title=${encodeURIComponent(message)}`,
@@ -48,5 +48,5 @@ export default {
   linkedin: (link = '', message = '') =>
     `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(
       link
-    )}`,
+    )}`
 }
