@@ -16,10 +16,10 @@ const Tumblr = styled(SharingButton)`
   }
 `
 
-export default ({ link, ...props }) => (
+export default ({ link, name, ...props }) => (
   <ButtonFactory
     {...props}
-    name="Tumblr"
+    name={name || 'Tumblr'}
     href={links.tumblr(link)}
     buttonComponent={Tumblr}
     iconFill={TumblrIconFill}

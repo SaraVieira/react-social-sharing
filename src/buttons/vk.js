@@ -16,10 +16,10 @@ const VK = styled(SharingButton)`
   }
 `
 
-export default ({ link, message, ...props }) => (
+export default ({ link, name, message, ...props }) => (
   <ButtonFactory
     {...props}
-    name="VK"
+    name={name || 'VK'}
     href={links.vk(link, message)}
     buttonComponent={VK}
     iconFill={VKIconFill}

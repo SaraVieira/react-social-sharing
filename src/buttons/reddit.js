@@ -20,10 +20,10 @@ const Reddit = styled(SharingButton)`
   }
 `
 
-export default ({ link, ...props }) => (
+export default ({ link, name, ...props }) => (
   <ButtonFactory
     {...props}
-    name="Reddit"
+    name={name || 'Reddit'}
     href={links.reddit(link, props.message)}
     buttonComponent={Reddit}
     iconFill={RedditIconFill}

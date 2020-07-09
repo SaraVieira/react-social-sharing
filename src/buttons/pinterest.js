@@ -20,10 +20,10 @@ const Pinterest = styled(SharingButton)`
   }
 `
 
-export default ({ link, message, ...props }) => (
+export default ({ link, name, message, ...props }) => (
   <ButtonFactory
     {...props}
-    name="Pinterest"
+    name={name || 'Pinterest'}
     href={links.pinterest(link, message)}
     buttonComponent={Pinterest}
     iconFill={PinterestIconFill}

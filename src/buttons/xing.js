@@ -20,10 +20,10 @@ const Xing = styled(SharingButton)`
   }
 `
 
-export default ({ link, message, ...props }) => (
+export default ({ link, name, message, ...props }) => (
   <ButtonFactory
     {...props}
-    name="Xing"
+    name={name || 'Xing'}
     href={links.xing(link, message)}
     buttonComponent={Xing}
     iconFill={XingIconFill}

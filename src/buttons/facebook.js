@@ -21,10 +21,10 @@ const Facebook = styled(SharingButton)`
   }
 `
 
-export default ({ link, ...props }) => (
+export default ({ link, name, ...props }) => (
   <ButtonFactory
     {...props}
-    name="Facebook"
+    name={name || 'Facebook'}
     href={links.facebook(link)}
     buttonComponent={Facebook}
     iconFill={FacebookIconFill}
