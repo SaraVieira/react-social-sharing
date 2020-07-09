@@ -2,7 +2,7 @@
   "name": "react-social-sharing",
   "description": "React Social Sharing Components ( No extra JS )",
   "author": "Sara Vieira",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "scripts": {
     "start": "catalog start docs",
     "test": "jest && npm run test:lint",
