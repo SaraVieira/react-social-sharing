@@ -20,11 +20,11 @@ const Telegram = styled(SharingButton)`
   }
 `
 
-export default ({ link, name, ...props }) => (
+export default ({ link, name, message, ...props }) => (
   <ButtonFactory
     {...props}
     name={name || 'Telegram'}
-    href={links.telegram(link)}
+    href={links.telegram(link, message)}
     buttonComponent={Telegram}
     iconFill={TelegramIconFill}
     iconCircle={TelegramIconCircle}
