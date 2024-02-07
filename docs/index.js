@@ -15,6 +15,12 @@ const documentationImports = () => [
     content: pageLoader(() => import('./twitter.md'))
   },
   {
+    imports: { X: require('../src/index').X },
+    path: '/x',
+    title: 'X',
+    content: pageLoader(() => import('./x.md'))
+  },
+  {
     imports: { Facebook: require('../src/index').Facebook },
     path: '/facebook',
     title: 'Facebook',
@@ -85,7 +91,8 @@ const documentationImports = () => [
     path: '/telegram',
     title: 'Telegram',
     content: pageLoader(() => import('./telegram.md'))
-  }
+  },
+
 ]
 
 const pages = [

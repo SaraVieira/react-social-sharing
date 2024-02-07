@@ -3,6 +3,10 @@ export default {
     `https://twitter.com/intent/tweet/?text=${encodeURIComponent(
       message
     )}&url=${encodeURIComponent(link)}`,
+  x: (link = '', message = '') =>
+    `https://x.com/intent/tweet/?text=${encodeURIComponent(
+      message
+    )}&url=${encodeURIComponent(link)}`,
   facebook: (link = '') =>
     `https://facebook.com/sharer/sharer.php?u=${encodeURIComponent(link)}`,
   google: (link = '') =>

@@ -12,5 +12,6 @@ module.exports = {
   Whatsapp: require('./buttons/whatsapp').default,
   HackerNews: require('./buttons/hacker').default,
   VK: require('./buttons/vk').default,
-  Telegram: require('./buttons/telegram').default
+  Telegram: require('./buttons/telegram').default,
+  X: require('./buttons/x').default
 }
