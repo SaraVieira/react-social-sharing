@@ -1,4 +1,4 @@
-[![build status](https://secure.travis-ci.org/SaraVieira/react-social-sharing.svg)](http://travis-ci.org/SaraVieira/react-social-sharing) [![dependencies Status](https://david-dm.org/SaraVieira/react-social-sharing/status.svg)](https://david-dm.org/SaraVieira/react-social-sharing) [![codecov](https://codecov.io/gh/SaraVieira/react-social-sharing/branch/master/graph/badge.svg)](https://codecov.io/gh/SaraVieira/react-social-sharing) [![npm](https://img.shields.io/npm/v/react-social-sharing.svg)](https://www.npmjs.com/package/react-social-sharing)
+[![npm](https://img.shields.io/npm/v/react-social-sharing.svg)](https://www.npmjs.com/package/react-social-sharing)
 
 # React Sharing Buttons
 
